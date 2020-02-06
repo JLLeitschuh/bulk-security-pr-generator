@@ -9,6 +9,7 @@ jobs:
       - name: Hub Test Script
         shell: bash
         run: |
+          REPO_PATH=$(pwd)
           cd ..
           curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.1
           export PATH="$(pwd)/bin:$PATH"
@@ -34,5 +35,6 @@ jobs:
           git commit -am "A test commit"
           echo "Attempting Push"
           git push origin test-fix
+          hub pull-request --file "$REPO_PATH/PR_MESSAGE.txt"
         env:
           GITHUB_TOKEN: ${{ secrets.ENHANCED_GITHUB_TOKEN }}
