@@ -16,4 +16,4 @@ jobs:
           cd bad-pom
           hub ci-status
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ENHANCED_GITHUB_TOKEN }}
