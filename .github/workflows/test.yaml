@@ -11,7 +11,7 @@ jobs:
         run: |
           cd ..
           curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.1
-          eval "$(bin/hub alias -s)"
+          export PATH="$(pwd)/bin:$PATH"
           hub clone jlleitschuh/bad-pom
           cd bad-pom
           hub pr list  # list pull requests in the current repo
