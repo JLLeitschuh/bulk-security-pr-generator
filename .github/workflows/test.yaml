@@ -1,4 +1,5 @@
 name: Test Workflow
+on: [push]
 
 steps:
   - uses: actions/checkout@v2
