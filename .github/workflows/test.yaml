@@ -13,7 +13,7 @@ jobs:
           curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.1
           export PATH="$(pwd)/bin:$PATH"
           mkdir ~/.config
-          printf "github.com:\n- user: $GITHUB_ACTOR" > ~/.config/hub
+          printf "github.com:\n- user: $GITHUB_ACTOR\n" > ~/.config/hub
           tail ~/.config/hub
           git config --global hub.protocol https
           git config --global user.email "Jonathan.Leitschuh@gmail.com"
