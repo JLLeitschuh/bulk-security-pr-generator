@@ -13,7 +13,10 @@ jobs:
           curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.1
           export PATH="$(pwd)/bin:$PATH"
           mkdir ~/.config
-          printf "github.com:\n- user: $GITHUB_ACTOR\n" > ~/.config/hub
+          cat >>~/.config/hub <<EOF
+          github.com:
+          - user: $GITHUB_ACTOR
+          EOF
           tail ~/.config/hub
           cat >>~/.netrc <<EOF
           machine github.com
@@ -32,4 +35,4 @@ jobs:
           echo "Attempting Push"
           git push origin test-fix
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ENHANCED_GITHUB_TOKEN }}
