@@ -9,7 +9,11 @@ jobs:
       - name: Hub Test Script
         shell: bash
         run: |
+          cd ..
           curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.1
-          bin/hub pr list  # list pull requests in the current repo
+          eval "$(bin/hub alias -s)"
+          hub clone jlleitschuh/bad-pom
+          cd bad-pom
+          hub pr list  # list pull requests in the current repo
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
