@@ -14,6 +14,6 @@ jobs:
           export PATH="$(pwd)/bin:$PATH"
           hub clone jlleitschuh/bad-pom
           cd bad-pom
-          hub pr list  # list pull requests in the current repo
+          hub ci-status
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
