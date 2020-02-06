@@ -12,6 +12,7 @@ jobs:
           cd ..
           curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.1
           export PATH="$(pwd)/bin:$PATH"
+          git config --global hub.protocol https
           git config --global user.email "Jonathan.Leitschuh@gmail.com"
           git config --global user.name "Jonathan Leitschuh"
           hub clone jlleitschuh/bad-pom
