@@ -18,6 +18,7 @@ jobs:
           cd bad-pom
           git checkout -b test-fix
           echo "A test update" > TEST.md
+          git add .
           git commit -am "A test commit"
           git push origin test-fix
         env:
