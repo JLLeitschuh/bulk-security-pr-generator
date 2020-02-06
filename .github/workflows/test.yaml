@@ -15,6 +15,11 @@ jobs:
           mkdir ~/.config
           printf "github.com:\n- user: $GITHUB_ACTOR\n" > ~/.config/hub
           tail ~/.config/hub
+          cat >>~/.netrc <<EOF
+          machine github.com
+            login $GITHUB_ACTOR
+            password $GITHUB_TOKEN
+          EOF
           git config --global hub.protocol https
           git config --global user.email "Jonathan.Leitschuh@gmail.com"
           git config --global user.name "Jonathan Leitschuh"
