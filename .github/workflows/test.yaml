@@ -24,6 +24,7 @@ jobs:
           echo "A test update" > TEST.md
           git add .
           git commit -am "A test commit"
+          echo "Attempting Push"
           git push origin test-fix
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
