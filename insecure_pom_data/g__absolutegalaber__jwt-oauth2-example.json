@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/absolutegalaber/jwt-oauth2-example", 
+    "url-identifier": "g/absolutegalaber/jwt-oauth2-example", 
+    "id": 1796321055, 
+    "name": "absolutegalaber/jwt-oauth2-example"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/absolutegalaber/jwt-oauth2-example/snapshot/d9d4c148bb0b56ff3fb79b6f249c36ce83021c62/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-release-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse/reddeer", 
+    "url-identifier": "g/eclipse/reddeer", 
+    "id": 1509153606143, 
+    "name": "eclipse/reddeer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/reddeer/snapshot/9247717ae260dda4d53f70a48d2526cd495a80be/files/archetype/src/main/resources/archetype-resources/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/${eclipse_platform}"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/reddeer/snapshot/9247717ae260dda4d53f70a48d2526cd495a80be/files/archetype/src/main/resources/archetype-resources/pom.xml#L49", 
+        "line": 49, 
+        "value": "pluginRepository", 
+        "file": "/archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.sonatype.org/content/groups/sonatype-public-grid"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/reddeer/snapshot/9247717ae260dda4d53f70a48d2526cd495a80be/files/pom.xml#L176", 
+        "line": 176, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/staging/2020-03/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/reddeer/snapshot/9247717ae260dda4d53f70a48d2526cd495a80be/files/pom.xml#L187", 
+        "line": 187, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/technology/swtbot/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/reddeer/snapshot/9247717ae260dda4d53f70a48d2526cd495a80be/files/tests/org.eclipse.reddeer.eclipse.test/pom.xml#L178", 
+        "line": 178, 
+        "value": "repository", 
+        "file": "/tests/org.eclipse.reddeer.eclipse.test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/datatools/updates/1.14.100-SNAPSHOT/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/reddeer/snapshot/9247717ae260dda4d53f70a48d2526cd495a80be/files/tests/org.eclipse.reddeer.eclipse.test/pom.xml#L183", 
+        "line": 183, 
+        "value": "repository", 
+        "file": "/tests/org.eclipse.reddeer.eclipse.test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tm/updates/3.7.100-SNAPSHOT/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/reddeer/snapshot/9247717ae260dda4d53f70a48d2526cd495a80be/files/tests/org.eclipse.reddeer.gef.test/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/tests/org.eclipse.reddeer.gef.test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/gef/updates/legacy/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

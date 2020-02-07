@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/database-sqlite-plugin", 
+    "url-identifier": "g/jenkinsci/database-sqlite-plugin", 
+    "id": 1509239296779, 
+    "name": "jenkinsci/database-sqlite-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/database-sqlite-plugin/snapshot/6f1a8b832ae4cada29d7f49b67d2c3df478ad8ce/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/database-sqlite-plugin/snapshot/6f1a8b832ae4cada29d7f49b67d2c3df478ad8ce/files/pom.xml#L73", 
+        "line": 73, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

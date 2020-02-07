@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/BitMEX/api-connectors", 
+    "url-identifier": "g/BitMEX/api-connectors", 
+    "id": 1506712119113, 
+    "name": "BitMEX/api-connectors"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BitMEX/api-connectors/snapshot/4c932dc8b57b79678cde0243511a356c0d812e82/files/auto-generated/scala/pom.xml#L11", 
+        "line": 11, 
+        "value": "pluginRepository", 
+        "file": "/auto-generated/scala/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-mongodb-plugin.googlecode.com/svn/maven/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BitMEX/api-connectors/snapshot/4c932dc8b57b79678cde0243511a356c0d812e82/files/swagger-codegen/samples/client/petstore/scala/pom.xml#L11", 
+        "line": 11, 
+        "value": "pluginRepository", 
+        "file": "/swagger-codegen/samples/client/petstore/scala/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-mongodb-plugin.googlecode.com/svn/maven/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BitMEX/api-connectors/snapshot/4c932dc8b57b79678cde0243511a356c0d812e82/files/swagger-codegen/samples/client/petstore-security-test/scala/pom.xml#L11", 
+        "line": 11, 
+        "value": "pluginRepository", 
+        "file": "/swagger-codegen/samples/client/petstore-security-test/scala/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-mongodb-plugin.googlecode.com/svn/maven/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BitMEX/api-connectors/snapshot/4c932dc8b57b79678cde0243511a356c0d812e82/files/swagger-codegen/samples/server/petstore/java-pkmst/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/swagger-codegen/samples/server/petstore/java-pkmst/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

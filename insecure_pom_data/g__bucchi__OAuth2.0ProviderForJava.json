@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bucchi/OAuth2.0ProviderForJava", 
+    "url-identifier": "g/bucchi/OAuth2.0ProviderForJava", 
+    "id": 55570006, 
+    "name": "bucchi/OAuth2.0ProviderForJava"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bucchi/OAuth2.0ProviderForJava/snapshot/a47ea4e019d37f9e691b67110d478e90652a2594/files/test/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

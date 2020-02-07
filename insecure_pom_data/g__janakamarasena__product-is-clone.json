@@ -1,0 +1,256 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone", 
+    "url-identifier": "g/janakamarasena/product-is-clone", 
+    "id": 1510779460041, 
+    "name": "janakamarasena/product-is-clone"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/modules/samples/identity-mgt/info-recovery-sample/pom.xml#L156", 
+        "line": 156, 
+        "value": "repository", 
+        "file": "/modules/samples/identity-mgt/info-recovery-sample/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/modules/samples/identity-mgt/info-recovery-sample/pom.xml#L160", 
+        "line": 160, 
+        "value": "repository", 
+        "file": "/modules/samples/identity-mgt/info-recovery-sample/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/modules/samples/oauth/oauth10a-resource-owner-equivalent/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/modules/samples/oauth/oauth10a-resource-owner-equivalent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/modules/samples/oauth2/custom-grant/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/modules/samples/oauth2/custom-grant/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/modules/samples/oauth2/playground2/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/modules/samples/oauth2/playground2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/modules/samples/passive-sts/passive-sts-client/PassiveSTSFilter/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/modules/samples/passive-sts/passive-sts-client/PassiveSTSFilter/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/modules/samples/passive-sts/passive-sts-client/PassiveSTSSampleApp/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/modules/samples/passive-sts/passive-sts-client/PassiveSTSSampleApp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/modules/samples/sso/sso-agent-sample/pom.xml#L93", 
+        "line": 93, 
+        "value": "repository", 
+        "file": "/modules/samples/sso/sso-agent-sample/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/modules/samples/sts/sts-client/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/modules/samples/sts/sts-client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/modules/samples/xacml/kmarket-trading-sample/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/modules/samples/xacml/kmarket-trading-sample/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/modules/samples/xacml/kmarket-trading-sample/pom.xml#L83", 
+        "line": 83, 
+        "value": "pluginRepository", 
+        "file": "/modules/samples/xacml/kmarket-trading-sample/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/pom.xml#L419", 
+        "line": 419, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/pom.xml#L423", 
+        "line": 423, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/pom.xml#L433", 
+        "line": 433, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/pom.xml#L445", 
+        "line": 445, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/pom.xml#L2058", 
+        "line": 2058, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/pom.xml#L2069", 
+        "line": 2069, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/pom.xml#L2080", 
+        "line": 2080, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/product-scenarios/4-single-sign-on/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/product-scenarios/4-single-sign-on/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/product-scenarios/4-single-sign-on/pom.xml#L44", 
+        "line": 44, 
+        "value": "pluginRepository", 
+        "file": "/product-scenarios/4-single-sign-on/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/product-scenarios/4-single-sign-on/pom.xml#L54", 
+        "line": 54, 
+        "value": "pluginRepository", 
+        "file": "/product-scenarios/4-single-sign-on/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janakamarasena/product-is-clone/snapshot/8542a68ef23b027d122b78a794ab25c5a2a70fd6/files/product-scenarios/4-single-sign-on/pom.xml#L66", 
+        "line": 66, 
+        "value": "pluginRepository", 
+        "file": "/product-scenarios/4-single-sign-on/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

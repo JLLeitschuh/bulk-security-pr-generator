@@ -1,0 +1,146 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/splicemachine/spliceengine", 
+    "url-identifier": "g/splicemachine/spliceengine", 
+    "id": 1506275647461, 
+    "name": "splicemachine/spliceengine"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.splicemachine.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.splicemachine.com/nexus/content/groups/developers"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mapr.com/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/jetty-hadoop/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.splicemachine.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.splicemachine.com/nexus/content/groups/developers"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L681", 
+        "line": 681, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.splicemachine.com/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L687", 
+        "line": 687, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.splicemachine.com/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L702", 
+        "line": 702, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.splicemachine.com/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splicemachine/spliceengine/snapshot/4c23520217b9843ede793118c60932819a916d84/files/pom.xml#L708", 
+        "line": 708, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.splicemachine.com/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

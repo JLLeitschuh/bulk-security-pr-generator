@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/vincentrussell/sql-to-mongo-db-query-converter", 
+    "url-identifier": "g/vincentrussell/sql-to-mongo-db-query-converter", 
+    "id": 1506575619157, 
+    "name": "vincentrussell/sql-to-mongo-db-query-converter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vincentrussell/sql-to-mongo-db-query-converter/snapshot/92ad37cad931af09b06315a80ddcc9d96095ef72/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vincentrussell/sql-to-mongo-db-query-converter/snapshot/92ad37cad931af09b06315a80ddcc9d96095ef72/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

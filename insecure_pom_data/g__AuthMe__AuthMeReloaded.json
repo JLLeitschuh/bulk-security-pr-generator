@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/AuthMe/AuthMeReloaded", 
+    "url-identifier": "g/AuthMe/AuthMeReloaded", 
+    "id": 13180001, 
+    "name": "AuthMe/AuthMeReloaded"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AuthMe/AuthMeReloaded/snapshot/84eaac9bf90055139769c74777136f1f7b1414c3/files/pom.xml#L444", 
+        "line": 444, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/nexus/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AuthMe/AuthMeReloaded/snapshot/84eaac9bf90055139769c74777136f1f7b1414c3/files/pom.xml#L454", 
+        "line": 454, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/nexus/repository/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AuthMe/AuthMeReloaded/snapshot/84eaac9bf90055139769c74777136f1f7b1414c3/files/pom.xml#L466", 
+        "line": 466, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/content/repositories/multiverse/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AuthMe/AuthMeReloaded/snapshot/84eaac9bf90055139769c74777136f1f7b1414c3/files/pom.xml#L476", 
+        "line": 476, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/content/repositories/multiverse-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AuthMe/AuthMeReloaded/snapshot/84eaac9bf90055139769c74777136f1f7b1414c3/files/pom.xml#L488", 
+        "line": 488, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AuthMe/AuthMeReloaded/snapshot/84eaac9bf90055139769c74777136f1f7b1414c3/files/pom.xml#L498", 
+        "line": 498, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

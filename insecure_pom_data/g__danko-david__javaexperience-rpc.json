@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/danko-david/javaexperience-rpc", 
+    "url-identifier": "g/danko-david/javaexperience-rpc", 
+    "id": 1510762701075, 
+    "name": "danko-david/javaexperience-rpc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/danko-david/javaexperience-rpc/snapshot/d015835ddedbea294343e789a0f16ca057747885/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.javaexperience.eu/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

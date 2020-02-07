@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/bitbucket-plugin", 
+    "url-identifier": "g/jenkinsci/bitbucket-plugin", 
+    "id": 1506583470668, 
+    "name": "jenkinsci/bitbucket-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/bitbucket-plugin/snapshot/b949953c129387a3aecc2f0970006f0fc5046650/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/bitbucket-plugin/snapshot/b949953c129387a3aecc2f0970006f0fc5046650/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

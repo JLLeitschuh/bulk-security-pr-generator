@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ryantenney/metrics-spring", 
+    "url-identifier": "g/ryantenney/metrics-spring", 
+    "id": 36220860, 
+    "name": "ryantenney/metrics-spring"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ryantenney/metrics-spring/snapshot/5be093ba386e2efb42d5ff026ede229a6fedd491/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ryantenney/metrics-spring/snapshot/5be093ba386e2efb42d5ff026ede229a6fedd491/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

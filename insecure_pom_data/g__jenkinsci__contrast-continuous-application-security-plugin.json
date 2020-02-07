@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/contrast-continuous-application-security-plugin", 
+    "url-identifier": "g/jenkinsci/contrast-continuous-application-security-plugin", 
+    "id": 1509085536162, 
+    "name": "jenkinsci/contrast-continuous-application-security-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/contrast-continuous-application-security-plugin/snapshot/fceaa376cd6c12e3e220c01c500af5f8b7b27677/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/contrast-continuous-application-security-plugin/snapshot/fceaa376cd6c12e3e220c01c500af5f8b7b27677/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

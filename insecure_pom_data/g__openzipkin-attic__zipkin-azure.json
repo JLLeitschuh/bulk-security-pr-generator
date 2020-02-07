@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openzipkin-attic/zipkin-azure", 
+    "url-identifier": "g/openzipkin-attic/zipkin-azure", 
+    "id": 1506728921240, 
+    "name": "openzipkin-attic/zipkin-azure"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openzipkin-attic/zipkin-azure/snapshot/f4b74610b0cf8a136e70f0c1b4fbed5cceadd577/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

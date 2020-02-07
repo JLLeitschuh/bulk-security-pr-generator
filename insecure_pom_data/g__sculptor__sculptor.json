@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sculptor/sculptor", 
+    "url-identifier": "g/sculptor/sculptor", 
+    "id": 1799200442, 
+    "name": "sculptor/sculptor"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sculptor/sculptor/snapshot/f422af1768ed15d5e23d64ba2700a2840b59fe01/files/pom.xml#L277", 
+        "line": 277, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codehaus.org/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sculptor/sculptor/snapshot/f422af1768ed15d5e23d64ba2700a2840b59fe01/files/pom.xml#L290", 
+        "line": 290, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codehaus.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/senbox-org/snap-desktop", 
+    "url-identifier": "g/senbox-org/snap-desktop", 
+    "id": 5980379, 
+    "name": "senbox-org/snap-desktop"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/senbox-org/snap-desktop/snapshot/dc7739683bf8a486e047b108ba5e336d4be6e4d3/files/snap-smart-configurator-ui/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/snap-smart-configurator-ui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/nexus/content/groups/netbeans"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

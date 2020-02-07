@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/dom4j", 
+    "url-identifier": "g/jenkinsci/dom4j", 
+    "id": 1509250805977, 
+    "name": "jenkinsci/dom4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/dom4j/snapshot/506b09a06ccf19351426a06a09acd34217f2014c/files/pom.xml#L215", 
+        "line": 215, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/dom4j/snapshot/506b09a06ccf19351426a06a09acd34217f2014c/files/pom.xml#L221", 
+        "line": 221, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/dom4j/snapshot/506b09a06ccf19351426a06a09acd34217f2014c/files/pom.xml#L229", 
+        "line": 229, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

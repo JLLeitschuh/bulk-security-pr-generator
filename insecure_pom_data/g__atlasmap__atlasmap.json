@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/atlasmap/atlasmap", 
+    "url-identifier": "g/atlasmap/atlasmap", 
+    "id": 1506530249261, 
+    "name": "atlasmap/atlasmap"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/atlasmap/atlasmap/snapshot/df77e732f887144aa94e45319f2e6c9990f6f064/files/parent/pom.xml#L97", 
+        "line": 97, 
+        "value": "repository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/atlasmap/atlasmap/snapshot/df77e732f887144aa94e45319f2e6c9990f6f064/files/parent/pom.xml#L105", 
+        "line": 105, 
+        "value": "repository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

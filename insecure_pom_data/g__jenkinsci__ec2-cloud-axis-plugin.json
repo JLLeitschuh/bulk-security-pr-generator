@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/ec2-cloud-axis-plugin", 
+    "url-identifier": "g/jenkinsci/ec2-cloud-axis-plugin", 
+    "id": 1506583340211, 
+    "name": "jenkinsci/ec2-cloud-axis-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ec2-cloud-axis-plugin/snapshot/7fc9f9cbc2511361619648389f7796e04b518f91/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ec2-cloud-axis-plugin/snapshot/7fc9f9cbc2511361619648389f7796e04b518f91/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

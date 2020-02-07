@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/conveyal/cluster-broker", 
+    "url-identifier": "g/conveyal/cluster-broker", 
+    "id": 1507586916080, 
+    "name": "conveyal/cluster-broker"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/conveyal/cluster-broker/snapshot/5f9e217bbfb37ef405e0ba7557375f62703b388d/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.conveyal.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

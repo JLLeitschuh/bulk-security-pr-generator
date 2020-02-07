@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jbosstools/jbosstools-freemarker", 
+    "url-identifier": "g/jbosstools/jbosstools-freemarker", 
+    "id": 1509081785976, 
+    "name": "jbosstools/jbosstools-freemarker"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jbosstools/jbosstools-freemarker/snapshot/ed73597bb18a96483133a70f065cf9baba477845/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

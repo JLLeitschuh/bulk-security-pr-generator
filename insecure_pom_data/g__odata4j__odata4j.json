@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/odata4j/odata4j", 
+    "url-identifier": "g/odata4j/odata4j", 
+    "id": 1506715703073, 
+    "name": "odata4j/odata4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/odata4j/odata4j/snapshot/b242f2dcb04360fe3b6e0e463f2a0e40a94814fa/files/pom.xml#L107", 
+        "line": 107, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/odata4j/odata4j/snapshot/b242f2dcb04360fe3b6e0e463f2a0e40a94814fa/files/pom.xml#L112", 
+        "line": 112, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/eclipselink/maven.repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/odata4j/odata4j/snapshot/b242f2dcb04360fe3b6e0e463f2a0e40a94814fa/files/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

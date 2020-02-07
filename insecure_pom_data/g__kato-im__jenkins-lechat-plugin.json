@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kato-im/jenkins-lechat-plugin", 
+    "url-identifier": "g/kato-im/jenkins-lechat-plugin", 
+    "id": 1509112186288, 
+    "name": "kato-im/jenkins-lechat-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kato-im/jenkins-lechat-plugin/snapshot/d38452030cb7be9d0711de04c8d3a19d173213e2/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kato-im/jenkins-lechat-plugin/snapshot/d38452030cb7be9d0711de04c8d3a19d173213e2/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kato-im/jenkins-lechat-plugin/snapshot/d38452030cb7be9d0711de04c8d3a19d173213e2/files/pom.xml#L98", 
+        "line": 98, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

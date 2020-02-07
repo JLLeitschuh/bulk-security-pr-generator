@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/seagull1985/LuckyFrameWeb", 
+    "url-identifier": "g/seagull1985/LuckyFrameWeb", 
+    "id": 1506708146772, 
+    "name": "seagull1985/LuckyFrameWeb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/seagull1985/LuckyFrameWeb/snapshot/dd1be8abef886c54fc86141a63ea98562e2d189c/files/pom.xml#L306", 
+        "line": 306, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/seagull1985/LuckyFrameWeb/snapshot/dd1be8abef886c54fc86141a63ea98562e2d189c/files/pom.xml#L317", 
+        "line": 317, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tkaczmarzyk/specification-arg-resolver", 
+    "url-identifier": "g/tkaczmarzyk/specification-arg-resolver", 
+    "id": 1793930647, 
+    "name": "tkaczmarzyk/specification-arg-resolver"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tkaczmarzyk/specification-arg-resolver/snapshot/0d0decebad37e45e09f439c4b4265122274c5bb2/files/pom.xml#L281", 
+        "line": 281, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository ftp://repo.kaczmarzyk.net"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tkaczmarzyk/specification-arg-resolver/snapshot/0d0decebad37e45e09f439c4b4265122274c5bb2/files/pom.xml#L286", 
+        "line": 286, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository ftp://repo.kaczmarzyk.net"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

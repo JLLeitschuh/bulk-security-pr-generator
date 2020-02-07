@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Vincinator/Bachelor-Praktikum-Server", 
+    "url-identifier": "g/Vincinator/Bachelor-Praktikum-Server", 
+    "id": 1506593388469, 
+    "name": "Vincinator/Bachelor-Praktikum-Server"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Vincinator/Bachelor-Praktikum-Server/snapshot/e3ef1a44db6194e3d336464dbe13e3abec115f0d/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SmartDataAnalytics/Sparqlify", 
+    "url-identifier": "g/SmartDataAnalytics/Sparqlify", 
+    "id": 43800066, 
+    "name": "SmartDataAnalytics/Sparqlify"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SmartDataAnalytics/Sparqlify/snapshot/b50fa5982a5935de09b18bed4dd80afa5cb1495b/files/pom.xml#L413", 
+        "line": 413, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/repository/internal/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SmartDataAnalytics/Sparqlify/snapshot/b50fa5982a5935de09b18bed4dd80afa5cb1495b/files/pom.xml#L419", 
+        "line": 419, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/repository/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SmartDataAnalytics/Sparqlify/snapshot/b50fa5982a5935de09b18bed4dd80afa5cb1495b/files/pom.xml#L425", 
+        "line": 425, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SmartDataAnalytics/Sparqlify/snapshot/b50fa5982a5935de09b18bed4dd80afa5cb1495b/files/pom.xml#L1276", 
+        "line": 1276, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/repository/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SmartDataAnalytics/Sparqlify/snapshot/b50fa5982a5935de09b18bed4dd80afa5cb1495b/files/sparqlify-platform/pubby/pom.xml#L100", 
+        "line": 100, 
+        "value": "repository", 
+        "file": "/sparqlify-platform/pubby/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/archiva/repository/internal"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SmartDataAnalytics/Sparqlify/snapshot/b50fa5982a5935de09b18bed4dd80afa5cb1495b/files/sparqlify-platform/pubby/pom.xml#L105", 
+        "line": 105, 
+        "value": "snapshotRepository", 
+        "file": "/sparqlify-platform/pubby/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/archiva/repository/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SmartDataAnalytics/Sparqlify/snapshot/b50fa5982a5935de09b18bed4dd80afa5cb1495b/files/sparqlify-platform/snorql/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/sparqlify-platform/snorql/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/archiva/repository/internal"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SmartDataAnalytics/Sparqlify/snapshot/b50fa5982a5935de09b18bed4dd80afa5cb1495b/files/sparqlify-platform/snorql/pom.xml#L47", 
+        "line": 47, 
+        "value": "snapshotRepository", 
+        "file": "/sparqlify-platform/snorql/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/archiva/repository/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

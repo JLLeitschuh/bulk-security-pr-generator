@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cBioPortal/cbioportal", 
+    "url-identifier": "g/cBioPortal/cbioportal", 
+    "id": 1800040689, 
+    "name": "cBioPortal/cbioportal"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cBioPortal/cbioportal/snapshot/6627c5632e952194f0895905c567f361e1bee448/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

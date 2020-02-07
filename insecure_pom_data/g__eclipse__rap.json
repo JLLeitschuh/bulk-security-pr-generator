@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse/rap", 
+    "url-identifier": "g/eclipse/rap", 
+    "id": 17000010, 
+    "name": "eclipse/rap"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/rap/snapshot/3f20de56dec9188ec417a69ea4b2caa05cabab20/files/releng/org.eclipse.rap.examples.build/parent/parent/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/releng/org.eclipse.rap.examples.build/parent/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/rap/nightly/runtime/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/rap/snapshot/3f20de56dec9188ec417a69ea4b2caa05cabab20/files/releng/org.eclipse.rap.examples.build/parent/parent/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/releng/org.eclipse.rap.examples.build/parent/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/rap/incubator/nightly/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

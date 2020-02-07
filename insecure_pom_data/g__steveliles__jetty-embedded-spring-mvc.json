@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/steveliles/jetty-embedded-spring-mvc", 
+    "url-identifier": "g/steveliles/jetty-embedded-spring-mvc", 
+    "id": 41820028, 
+    "name": "steveliles/jetty-embedded-spring-mvc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/steveliles/jetty-embedded-spring-mvc/snapshot/4c80625cc14646b9a8e394cd4fb2de02f75e71a9/files/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

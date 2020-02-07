@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/PyvesB/AdvancedAchievements", 
+    "url-identifier": "g/PyvesB/AdvancedAchievements", 
+    "id": 1506689808149, 
+    "name": "PyvesB/AdvancedAchievements"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PyvesB/AdvancedAchievements/snapshot/c7cff432975ade6864a03ed8c113aa04aa2de961/files/pom.xml#L106", 
+        "line": 106, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PyvesB/AdvancedAchievements/snapshot/c7cff432975ade6864a03ed8c113aa04aa2de961/files/pom.xml#L114", 
+        "line": 114, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codecrafter47.de/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PyvesB/AdvancedAchievements/snapshot/c7cff432975ade6864a03ed8c113aa04aa2de961/files/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.extendedclip.com/content/repositories/placeholderapi/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

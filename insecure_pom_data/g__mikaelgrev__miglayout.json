@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mikaelgrev/miglayout", 
+    "url-identifier": "g/mikaelgrev/miglayout", 
+    "id": 1797892020, 
+    "name": "mikaelgrev/miglayout"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mikaelgrev/miglayout/snapshot/480a7220098ec1f0c7a4d9b85d072f69ac5a43aa/files/nbm/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/nbm/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mikaelgrev/miglayout/snapshot/480a7220098ec1f0c7a4d9b85d072f69ac5a43aa/files/swt/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/swt/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-eclipse.github.io/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JPressProjects/jpress", 
+    "url-identifier": "g/JPressProjects/jpress", 
+    "id": 1508273266146, 
+    "name": "JPressProjects/jpress"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JPressProjects/jpress/snapshot/02209972e91d63d833748fd65f946b88d5c426f4/files/pom.xml#L372", 
+        "line": 372, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JPressProjects/jpress/snapshot/02209972e91d63d833748fd65f946b88d5c426f4/files/pom.xml#L388", 
+        "line": 388, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

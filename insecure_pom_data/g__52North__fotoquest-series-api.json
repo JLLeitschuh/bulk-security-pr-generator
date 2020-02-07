@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/fotoquest-series-api", 
+    "url-identifier": "g/52North/fotoquest-series-api", 
+    "id": 1509085256287, 
+    "name": "52North/fotoquest-series-api"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/fotoquest-series-api/snapshot/74e0e056e0b08f9cdac652f7cd49b8f79dd8822d/files/pom.xml#L655", 
+        "line": 655, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/fotoquest-series-api/snapshot/74e0e056e0b08f9cdac652f7cd49b8f79dd8822d/files/pom.xml#L660", 
+        "line": 660, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/fotoquest-series-api/snapshot/74e0e056e0b08f9cdac652f7cd49b8f79dd8822d/files/pom.xml#L667", 
+        "line": 667, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

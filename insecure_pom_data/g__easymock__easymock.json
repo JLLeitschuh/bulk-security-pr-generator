@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/easymock/easymock", 
+    "url-identifier": "g/easymock/easymock", 
+    "id": 1506710546948, 
+    "name": "easymock/easymock"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/easymock/easymock/snapshot/b9b247690a6df5c6e4926799134b559879210dc9/files/test-deploy/pom.xml#L144", 
+        "line": 144, 
+        "value": "repository", 
+        "file": "/test-deploy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/easymock/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

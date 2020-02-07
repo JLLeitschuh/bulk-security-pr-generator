@@ -1,0 +1,146 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core", 
+    "url-identifier": "g/Terracotta-OSS/terracotta-core", 
+    "id": 1509042546473, 
+    "name": "Terracotta-OSS/terracotta-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/build-parent/pom.xml#L288", 
+        "line": 288, 
+        "value": "repository", 
+        "file": "/build-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/build-parent/pom.xml#L298", 
+        "line": 298, 
+        "value": "repository", 
+        "file": "/build-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/build-parent/pom.xml#L310", 
+        "line": 310, 
+        "value": "pluginRepository", 
+        "file": "/build-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/build-parent/pom.xml#L314", 
+        "line": 314, 
+        "value": "pluginRepository", 
+        "file": "/build-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/connection-impl/pom.xml#L108", 
+        "line": 108, 
+        "value": "repository", 
+        "file": "/connection-impl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/connection-impl/pom.xml#L114", 
+        "line": 114, 
+        "value": "pluginRepository", 
+        "file": "/connection-impl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/pom.xml#L133", 
+        "line": 133, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-os-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/pom.xml#L138", 
+        "line": 138, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-os-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/pom.xml#L147", 
+        "line": 147, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/pom.xml#L151", 
+        "line": 151, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/pom.xml#L158", 
+        "line": 158, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/terracotta-core/snapshot/c1fec29d4895124602ffd2377238af18687dc012/files/pom.xml#L162", 
+        "line": 162, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

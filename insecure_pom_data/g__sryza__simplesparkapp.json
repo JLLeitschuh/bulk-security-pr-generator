@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sryza/simplesparkapp", 
+    "url-identifier": "g/sryza/simplesparkapp", 
+    "id": 63210072, 
+    "name": "sryza/simplesparkapp"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sryza/simplesparkapp/snapshot/ad1964296e19590e64bcd4de25bdcff9de4b7b4d/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sryza/simplesparkapp/snapshot/ad1964296e19590e64bcd4de25bdcff9de4b7b4d/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

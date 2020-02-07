@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jcsirot/custom-job-icon-plugin", 
+    "url-identifier": "g/jcsirot/custom-job-icon-plugin", 
+    "id": 1509210538477, 
+    "name": "jcsirot/custom-job-icon-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jcsirot/custom-job-icon-plugin/snapshot/5b8603d14019430cdae79d5304ee63e63817f64f/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jcsirot/custom-job-icon-plugin/snapshot/5b8603d14019430cdae79d5304ee63e63817f64f/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

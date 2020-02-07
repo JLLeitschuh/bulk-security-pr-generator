@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/servicemix5", 
+    "url-identifier": "g/apache/servicemix5", 
+    "id": 1506238377736, 
+    "name": "apache/servicemix5"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix5/snapshot/93bccadfb9927a3f7fc16b176b51b9ac36238d30/files/assembly/pom.xml#L104", 
+        "line": 104, 
+        "value": "repository", 
+        "file": "/assembly/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix5/snapshot/93bccadfb9927a3f7fc16b176b51b9ac36238d30/files/assembly/src/main/filtered-resources/pom.xml#L153", 
+        "line": 153, 
+        "value": "repository", 
+        "file": "/assembly/src/main/filtered-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

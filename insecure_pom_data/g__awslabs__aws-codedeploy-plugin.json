@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/awslabs/aws-codedeploy-plugin", 
+    "url-identifier": "g/awslabs/aws-codedeploy-plugin", 
+    "id": 1509200276744, 
+    "name": "awslabs/aws-codedeploy-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/awslabs/aws-codedeploy-plugin/snapshot/494439e39b620d4ca4391fe93261181a36dac55c/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/awslabs/aws-codedeploy-plugin/snapshot/494439e39b620d4ca4391fe93261181a36dac55c/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

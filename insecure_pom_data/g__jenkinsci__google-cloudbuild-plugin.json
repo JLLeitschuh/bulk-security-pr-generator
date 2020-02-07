@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/google-cloudbuild-plugin", 
+    "url-identifier": "g/jenkinsci/google-cloudbuild-plugin", 
+    "id": 1509245505987, 
+    "name": "jenkinsci/google-cloudbuild-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/google-cloudbuild-plugin/snapshot/5acf879bc9a17fc8e8cdc04a25bc300f3de6ece4/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/google-cloudbuild-plugin/snapshot/5acf879bc9a17fc8e8cdc04a25bc300f3de6ece4/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

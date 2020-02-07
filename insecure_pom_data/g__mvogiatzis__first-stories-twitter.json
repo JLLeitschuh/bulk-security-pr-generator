@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mvogiatzis/first-stories-twitter", 
+    "url-identifier": "g/mvogiatzis/first-stories-twitter", 
+    "id": 54290035, 
+    "name": "mvogiatzis/first-stories-twitter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mvogiatzis/first-stories-twitter/snapshot/cdddf30e2d731a2cbed22f19fb76a0ab8702b60e/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mvogiatzis/first-stories-twitter/snapshot/cdddf30e2d731a2cbed22f19fb76a0ab8702b60e/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/github-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mvogiatzis/first-stories-twitter/snapshot/cdddf30e2d731a2cbed22f19fb76a0ab8702b60e/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://twitter4j.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

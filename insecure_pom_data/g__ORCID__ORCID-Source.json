@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ORCID/ORCID-Source", 
+    "url-identifier": "g/ORCID/ORCID-Source", 
+    "id": 6970058, 
+    "name": "ORCID/ORCID-Source"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ORCID/ORCID-Source/snapshot/230660b4ad4c85b56804dea7920d058cb60c5b51/files/pom.xml#L1020", 
+        "line": 1020, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ORCID/ORCID-Source/snapshot/230660b4ad4c85b56804dea7920d058cb60c5b51/files/pom.xml#L1043", 
+        "line": 1043, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ORCID/ORCID-Source/snapshot/230660b4ad4c85b56804dea7920d058cb60c5b51/files/pom.xml#L1049", 
+        "line": 1049, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mc-repo.googlecode.com/svn/maven2/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

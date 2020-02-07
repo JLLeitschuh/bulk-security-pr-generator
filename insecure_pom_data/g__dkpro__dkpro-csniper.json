@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dkpro/dkpro-csniper", 
+    "url-identifier": "g/dkpro/dkpro-csniper", 
+    "id": 1507179556260, 
+    "name": "dkpro/dkpro-csniper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dkpro/dkpro-csniper/snapshot/97d59d8c40b5a723392b24cbca63dd155dc8385f/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-model-releases-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

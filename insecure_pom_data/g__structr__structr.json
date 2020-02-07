@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/structr/structr", 
+    "url-identifier": "g/structr/structr", 
+    "id": 45480028, 
+    "name": "structr/structr"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/structr/structr/snapshot/d004ebdd86c68c88c554b7f131a8a7c45b2cfcad/files/structr-modules/structr-geo-transformations-module/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/structr-modules/structr-geo-transformations-module/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/structr/structr/snapshot/d004ebdd86c68c88c554b7f131a8a7c45b2cfcad/files/structr-neo4j-bolt-driver/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/structr-neo4j-bolt-driver/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/structr/structr/snapshot/d004ebdd86c68c88c554b7f131a8a7c45b2cfcad/files/structr-neo4j-bolt-driver/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/structr-neo4j-bolt-driver/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

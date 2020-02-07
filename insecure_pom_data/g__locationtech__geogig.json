@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/locationtech/geogig", 
+    "url-identifier": "g/locationtech/geogig", 
+    "id": 1506713238251, 
+    "name": "locationtech/geogig"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/locationtech/geogig/snapshot/a199b514732ef4c51d8b2326e70a6d9529c17e88/files/src/pom.xml#L102", 
+        "line": 102, 
+        "value": "repository", 
+        "file": "/src/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

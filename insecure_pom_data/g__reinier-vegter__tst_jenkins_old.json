@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/reinier-vegter/tst_jenkins_old", 
+    "url-identifier": "g/reinier-vegter/tst_jenkins_old", 
+    "id": 1511219852903, 
+    "name": "reinier-vegter/tst_jenkins_old"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reinier-vegter/tst_jenkins_old/snapshot/d164227eda0d353ef7aa0171dce472850596fa98/files/pom.xml#L110", 
+        "line": 110, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reinier-vegter/tst_jenkins_old/snapshot/d164227eda0d353ef7aa0171dce472850596fa98/files/pom.xml#L123", 
+        "line": 123, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

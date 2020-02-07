@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/model-selenium-project", 
+    "url-identifier": "g/jenkinsci/model-selenium-project", 
+    "id": 1506603239820, 
+    "name": "jenkinsci/model-selenium-project"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/model-selenium-project/snapshot/b5e7825760daf602da09bef34bb1be458291f58f/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.openqa.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

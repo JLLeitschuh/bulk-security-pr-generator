@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/backend-pull-request-greeter", 
+    "url-identifier": "g/jenkinsci/backend-pull-request-greeter", 
+    "id": 1506587328627, 
+    "name": "jenkinsci/backend-pull-request-greeter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-pull-request-greeter/snapshot/b85ee2525af658e131119856bbc4f076432a12af/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

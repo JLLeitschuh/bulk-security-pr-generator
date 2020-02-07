@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kuinne/somersaultcloud", 
+    "url-identifier": "g/kuinne/somersaultcloud", 
+    "id": 1507204836108, 
+    "name": "kuinne/somersaultcloud"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kuinne/somersaultcloud/snapshot/d3476ede637ef6705228e42cd5c3789813e258f3/files/pom.xml#L337", 
+        "line": 337, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvnrepository.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

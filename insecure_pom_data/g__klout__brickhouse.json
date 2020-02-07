@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/klout/brickhouse", 
+    "url-identifier": "g/klout/brickhouse", 
+    "id": 46063809, 
+    "name": "klout/brickhouse"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/klout/brickhouse/snapshot/9dbca5d456ed13d744cff89a5d7aa490c19f5048/files/pom.xml#L272", 
+        "line": 272, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.klout:8081/artifactory/libs-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/klout/brickhouse/snapshot/9dbca5d456ed13d744cff89a5d7aa490c19f5048/files/pom.xml#L277", 
+        "line": 277, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.klout:8081/artifactory/libs-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

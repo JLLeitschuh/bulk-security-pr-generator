@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/liuweijw/fw-cloud-framework", 
+    "url-identifier": "g/liuweijw/fw-cloud-framework", 
+    "id": 1509212116634, 
+    "name": "liuweijw/fw-cloud-framework"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liuweijw/fw-cloud-framework/snapshot/b87fbe4c5b5fc141ba4a2943332ceca20145fbef/files/pom.xml#L474", 
+        "line": 474, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

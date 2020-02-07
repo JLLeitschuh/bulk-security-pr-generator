@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/InseeFr/Bauhaus-Back-Office", 
+    "url-identifier": "g/InseeFr/Bauhaus-Back-Office", 
+    "id": 1506570217460, 
+    "name": "InseeFr/Bauhaus-Back-Office"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/InseeFr/Bauhaus-Back-Office/snapshot/872149b040d3aba58c9e6dfa45527c19d8c88347/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/attdevsupport/ARO", 
+    "url-identifier": "g/attdevsupport/ARO", 
+    "id": 1506183496280, 
+    "name": "attdevsupport/ARO"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/ARO.Console/pom.xml#L96", 
+        "line": 96, 
+        "value": "pluginRepository", 
+        "file": "/5.0.0/ARO.Console/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/ARO.Core/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/5.0.0/ARO.Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/ARO.Core/pom.xml#L41", 
+        "line": 41, 
+        "value": "pluginRepository", 
+        "file": "/5.0.0/ARO.Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/ARO.UI/pom.xml#L36", 
+        "line": 36, 
+        "value": "pluginRepository", 
+        "file": "/5.0.0/ARO.UI/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/DataCollectors/ARO.IOSCollector/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/5.0.0/DataCollectors/ARO.IOSCollector/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/DataCollectors/ARO.IOSCollector/pom.xml#L80", 
+        "line": 80, 
+        "value": "pluginRepository", 
+        "file": "/5.0.0/DataCollectors/ARO.IOSCollector/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/DataCollectors/ARO.IOSCollector/pom.xml#L138", 
+        "line": 138, 
+        "value": "repository", 
+        "file": "/5.0.0/DataCollectors/ARO.IOSCollector/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/DataCollectors/ARO.IOSCollector/pom.xml#L143", 
+        "line": 143, 
+        "value": "snapshotRepository", 
+        "file": "/5.0.0/DataCollectors/ARO.IOSCollector/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/DataCollectors/ARO.NorootAndroidCollector/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/5.0.0/DataCollectors/ARO.NorootAndroidCollector/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/DataCollectors/ARO.NorootAndroidCollector/pom.xml#L80", 
+        "line": 80, 
+        "value": "pluginRepository", 
+        "file": "/5.0.0/DataCollectors/ARO.NorootAndroidCollector/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/DataCollectors/ARO.RootedAndroidCollector/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/5.0.0/DataCollectors/ARO.RootedAndroidCollector/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/attdevsupport/ARO/snapshot/5b8fef0ce5ffcc12f932dc6c75aa4cdeee9ac948/files/5.0.0/DataCollectors/ARO.RootedAndroidCollector/pom.xml#L82", 
+        "line": 82, 
+        "value": "pluginRepository", 
+        "file": "/5.0.0/DataCollectors/ARO.RootedAndroidCollector/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

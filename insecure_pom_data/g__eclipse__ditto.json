@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse/ditto", 
+    "url-identifier": "g/eclipse/ditto", 
+    "id": 1506702437446, 
+    "name": "eclipse/ditto"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/ditto/snapshot/8473a12242f7eed316642b1e2625af75ab03c1e9/files/documentation/pom.xml#L207", 
+        "line": 207, 
+        "value": "repository", 
+        "file": "/documentation/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/ditto/snapshot/8473a12242f7eed316642b1e2625af75ab03c1e9/files/documentation/pom.xml#L300", 
+        "line": 300, 
+        "value": "repository", 
+        "file": "/documentation/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

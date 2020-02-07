@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/seam/seam-example-confbuzz", 
+    "url-identifier": "g/seam/seam-example-confbuzz", 
+    "id": 1509089477023, 
+    "name": "seam/seam-example-confbuzz"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/seam/seam-example-confbuzz/snapshot/d9785873a344336d2d91c8696ec937f4aeb8f17e/files/pom.xml#L179", 
+        "line": 179, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/seam/seam-example-confbuzz/snapshot/d9785873a344336d2d91c8696ec937f4aeb8f17e/files/pom.xml#L194", 
+        "line": 194, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

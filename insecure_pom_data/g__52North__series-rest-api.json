@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/series-rest-api", 
+    "url-identifier": "g/52North/series-rest-api", 
+    "id": 1506711780886, 
+    "name": "52North/series-rest-api"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/series-rest-api/snapshot/bd618e29e2533b4006446423f7bf06ab41f5b4cc/files/pom.xml#L589", 
+        "line": 589, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/series-rest-api/snapshot/bd618e29e2533b4006446423f7bf06ab41f5b4cc/files/pom.xml#L600", 
+        "line": 600, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

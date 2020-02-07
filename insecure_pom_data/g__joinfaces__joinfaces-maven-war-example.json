@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/joinfaces/joinfaces-maven-war-example", 
+    "url-identifier": "g/joinfaces/joinfaces-maven-war-example", 
+    "id": 1506583658589, 
+    "name": "joinfaces/joinfaces-maven-war-example"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/joinfaces/joinfaces-maven-war-example/snapshot/0b08aa300c618a1c512df29c63f749d521460ed9/files/pom.xml#L577", 
+        "line": 577, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/joinfaces/joinfaces-maven-war-example/snapshot/0b08aa300c618a1c512df29c63f749d521460ed9/files/pom.xml#L582", 
+        "line": 582, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/joinfaces/joinfaces-maven-war-example/snapshot/0b08aa300c618a1c512df29c63f749d521460ed9/files/pom.xml#L602", 
+        "line": 602, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

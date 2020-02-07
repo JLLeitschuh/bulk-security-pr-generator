@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cosmin/IClojure", 
+    "url-identifier": "g/cosmin/IClojure", 
+    "id": 41880064, 
+    "name": "cosmin/IClojure"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cosmin/IClojure/snapshot/31687170b07c1720fa73259479a5260f6f4f3d41/files/pom.xml#L218", 
+        "line": 218, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cosmin/IClojure/snapshot/31687170b07c1720fa73259479a5260f6f4f3d41/files/pom.xml#L222", 
+        "line": 222, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

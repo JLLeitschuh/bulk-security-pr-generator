@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/gnu-mcu-eclipse/eclipse-plugins", 
+    "url-identifier": "g/gnu-mcu-eclipse/eclipse-plugins", 
+    "id": 1506186296140, 
+    "name": "gnu-mcu-eclipse/eclipse-plugins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gnu-mcu-eclipse/eclipse-plugins/snapshot/5a1dfa8be84a031b904494fcfed7e260ae85db9c/files/parent/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/neon/201705151400"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

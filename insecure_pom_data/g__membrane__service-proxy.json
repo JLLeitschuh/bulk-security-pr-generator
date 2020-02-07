@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/membrane/service-proxy", 
+    "url-identifier": "g/membrane/service-proxy", 
+    "id": 1802030309, 
+    "name": "membrane/service-proxy"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/membrane/service-proxy/snapshot/1a163be473b6b71458c835efaf528339d8232362/files/distribution/examples/embedding-java/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/distribution/examples/embedding-java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.membrane-soa.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/membrane/service-proxy/snapshot/1a163be473b6b71458c835efaf528339d8232362/files/pom.xml#L407", 
+        "line": 407, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/membrane/service-proxy/snapshot/1a163be473b6b71458c835efaf528339d8232362/files/pom.xml#L412", 
+        "line": 412, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.membrane-soa.org/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

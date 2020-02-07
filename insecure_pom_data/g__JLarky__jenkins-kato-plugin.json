@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JLarky/jenkins-kato-plugin", 
+    "url-identifier": "g/JLarky/jenkins-kato-plugin", 
+    "id": 1509241606145, 
+    "name": "JLarky/jenkins-kato-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JLarky/jenkins-kato-plugin/snapshot/18a44be172f6633d84dbccf1d5c5c078571b472f/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JLarky/jenkins-kato-plugin/snapshot/18a44be172f6633d84dbccf1d5c5c078571b472f/files/pom.xml#L105", 
+        "line": 105, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JLarky/jenkins-kato-plugin/snapshot/18a44be172f6633d84dbccf1d5c5c078571b472f/files/pom.xml#L112", 
+        "line": 112, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

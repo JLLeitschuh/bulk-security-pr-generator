@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/bokundev/bokun_api", 
+    "url-identifier": "b/bokundev/bokun_api", 
+    "id": 1306220156, 
+    "name": "bokundev/bokun_api"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/bokundev/bokun_api/snapshot/d2f1f7ac69430b0f2e289e9315ad07b0e9dd3010/files/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/repositories/snapshots/content"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

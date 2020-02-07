@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/davidfauthoux/ninio", 
+    "url-identifier": "g/davidfauthoux/ninio", 
+    "id": 1506195426590, 
+    "name": "davidfauthoux/ninio"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/davidfauthoux/ninio/snapshot/efd2d85f6679ec6d6c4cbef0b65cb1d3375e2039/files/pom.xml#L110", 
+        "line": 110, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.livingobjects.com/repository/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/davidfauthoux/ninio/snapshot/efd2d85f6679ec6d6c4cbef0b65cb1d3375e2039/files/pom.xml#L114", 
+        "line": 114, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.livingobjects.com/repository/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

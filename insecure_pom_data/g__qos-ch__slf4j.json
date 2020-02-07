@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/qos-ch/slf4j", 
+    "url-identifier": "g/qos-ch/slf4j", 
+    "id": 42620050, 
+    "name": "qos-ch/slf4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/qos-ch/slf4j/snapshot/1f84ebc311d6685e32fbb828bfeae04c4a225a53/files/pom.xml#L431", 
+        "line": 431, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mc-repo.googlecode.com/svn/maven2/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

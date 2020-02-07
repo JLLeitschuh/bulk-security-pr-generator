@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/LightGuard/arquillian-openwebbeans-war-support", 
+    "url-identifier": "g/LightGuard/arquillian-openwebbeans-war-support", 
+    "id": 1506687857470, 
+    "name": "LightGuard/arquillian-openwebbeans-war-support"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LightGuard/arquillian-openwebbeans-war-support/snapshot/2394add1fcdaa2b30996ba66ae0d538af61b84ea/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

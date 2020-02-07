@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/codecentric/jenkins-deployment-dashboard-plugin", 
+    "url-identifier": "g/codecentric/jenkins-deployment-dashboard-plugin", 
+    "id": 1509218513091, 
+    "name": "codecentric/jenkins-deployment-dashboard-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/codecentric/jenkins-deployment-dashboard-plugin/snapshot/ad67e181950b66fef688c43796e9572685f98d52/files/pom.xml#L223", 
+        "line": 223, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/codecentric/jenkins-deployment-dashboard-plugin/snapshot/ad67e181950b66fef688c43796e9572685f98d52/files/pom.xml#L233", 
+        "line": 233, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

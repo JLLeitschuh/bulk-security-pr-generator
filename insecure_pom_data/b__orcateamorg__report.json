@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/orcateamorg/report", 
+    "url-identifier": "b/orcateamorg/report", 
+    "id": 1315250026, 
+    "name": "orcateamorg/report"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/orcateamorg/report/snapshot/1a1ae95999e637f55be9e4d87cbc1c18b4d3c39b/files/pom.xml#L173", 
+        "line": 173, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

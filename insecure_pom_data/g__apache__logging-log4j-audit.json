@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/logging-log4j-audit", 
+    "url-identifier": "g/apache/logging-log4j-audit", 
+    "id": 1506256036043, 
+    "name": "apache/logging-log4j-audit"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/logging-log4j-audit/snapshot/660ba49a543667701a07ecf80b7d71727c8150af/files/log4j-catalog/log4j-catalog-jpa/pom.xml#L248", 
+        "line": 248, 
+        "value": "repository", 
+        "file": "/log4j-catalog/log4j-catalog-jpa/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ethlo.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/logging-log4j-audit/snapshot/660ba49a543667701a07ecf80b7d71727c8150af/files/log4j-catalog/log4j-catalog-jpa/pom.xml#L255", 
+        "line": 255, 
+        "value": "pluginRepository", 
+        "file": "/log4j-catalog/log4j-catalog-jpa/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ethlo.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

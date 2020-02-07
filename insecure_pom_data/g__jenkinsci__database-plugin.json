@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/database-plugin", 
+    "url-identifier": "g/jenkinsci/database-plugin", 
+    "id": 1509216666849, 
+    "name": "jenkinsci/database-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/database-plugin/snapshot/972a18426e589e92ce5a903deea7b1d31cbd6266/files/pom.xml#L129", 
+        "line": 129, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/database-plugin/snapshot/972a18426e589e92ce5a903deea7b1d31cbd6266/files/pom.xml#L136", 
+        "line": 136, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

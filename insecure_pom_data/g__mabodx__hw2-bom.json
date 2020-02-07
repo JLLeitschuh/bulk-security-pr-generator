@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mabodx/hw2-bom", 
+    "url-identifier": "g/mabodx/hw2-bom", 
+    "id": 1509721107162, 
+    "name": "mabodx/hw2-bom"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mabodx/hw2-bom/snapshot/892b2ba516ce1507f07d665592d5a169bf9058fd/files/hw2-bom/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/hw2-bom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mu.lti.cs.cmu.edu:8081/nexus/content/groups/course"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mabodx/hw2-bom/snapshot/892b2ba516ce1507f07d665592d5a169bf9058fd/files/hw2-bom/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/hw2-bom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mabodx/hw2-bom/snapshot/892b2ba516ce1507f07d665592d5a169bf9058fd/files/hw2-bom/pom.xml#L18", 
+        "line": 18, 
+        "value": "snapshotRepository", 
+        "file": "/hw2-bom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

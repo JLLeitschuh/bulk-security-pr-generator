@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/buildgraph-view-plugin", 
+    "url-identifier": "g/jenkinsci/buildgraph-view-plugin", 
+    "id": 1506610459560, 
+    "name": "jenkinsci/buildgraph-view-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/buildgraph-view-plugin/snapshot/22e9d3f409ba3b9a35163e5715a7f65e383f1e4a/files/pom.xml#L104", 
+        "line": 104, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/buildgraph-view-plugin/snapshot/22e9d3f409ba3b9a35163e5715a7f65e383f1e4a/files/pom.xml#L111", 
+        "line": 111, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

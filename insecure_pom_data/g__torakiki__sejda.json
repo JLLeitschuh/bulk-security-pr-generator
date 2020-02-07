@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/torakiki/sejda", 
+    "url-identifier": "g/torakiki/sejda", 
+    "id": 46220044, 
+    "name": "torakiki/sejda"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torakiki/sejda/snapshot/6519e8f6108c4122c862405d1b77cc472d7c308b/files/pom.xml#L124", 
+        "line": 124, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvn.sejda.com/artifactory/libs-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torakiki/sejda/snapshot/6519e8f6108c4122c862405d1b77cc472d7c308b/files/pom.xml#L128", 
+        "line": 128, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvn.sejda.com/artifactory/libs-release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

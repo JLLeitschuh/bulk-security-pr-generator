@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/vngx/vngx-jsch", 
+    "url-identifier": "g/vngx/vngx-jsch", 
+    "id": 31330023, 
+    "name": "vngx/vngx-jsch"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vngx/vngx-jsch/snapshot/a5d3a7a60f3e43cebbb56632524267bde118fd7a/files/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vngx/vngx-jsch/snapshot/a5d3a7a60f3e43cebbb56632524267bde118fd7a/files/pom.xml#L128", 
+        "line": 128, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/EastWoodYang/gradle-repo-jenkins-plugin", 
+    "url-identifier": "g/EastWoodYang/gradle-repo-jenkins-plugin", 
+    "id": 1506700006133, 
+    "name": "EastWoodYang/gradle-repo-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EastWoodYang/gradle-repo-jenkins-plugin/snapshot/e5fce5102f24112a1599f6bd924b8481f09dba5b/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EastWoodYang/gradle-repo-jenkins-plugin/snapshot/e5fce5102f24112a1599f6bd924b8481f09dba5b/files/pom.xml#L87", 
+        "line": 87, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

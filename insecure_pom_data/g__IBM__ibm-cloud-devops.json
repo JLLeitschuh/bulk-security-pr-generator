@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/IBM/ibm-cloud-devops", 
+    "url-identifier": "g/IBM/ibm-cloud-devops", 
+    "id": 1509038566171, 
+    "name": "IBM/ibm-cloud-devops"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IBM/ibm-cloud-devops/snapshot/df53312179dcd6a93068d8691bc8ddf087e34691/files/pom.xml#L114", 
+        "line": 114, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IBM/ibm-cloud-devops/snapshot/df53312179dcd6a93068d8691bc8ddf087e34691/files/pom.xml#L125", 
+        "line": 125, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

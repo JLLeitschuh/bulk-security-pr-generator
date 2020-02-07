@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hantsy/angularjs-springmvc-sample", 
+    "url-identifier": "g/hantsy/angularjs-springmvc-sample", 
+    "id": 41620030, 
+    "name": "hantsy/angularjs-springmvc-sample"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hantsy/angularjs-springmvc-sample/snapshot/49349fed0f23d78a9764bb3eb27a930a00a6ef44/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hantsy/angularjs-springmvc-sample/snapshot/49349fed0f23d78a9764bb3eb27a930a00a6ef44/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hantsy/angularjs-springmvc-sample/snapshot/49349fed0f23d78a9764bb3eb27a930a00a6ef44/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hantsy/angularjs-springmvc-sample/snapshot/49349fed0f23d78a9764bb3eb27a930a00a6ef44/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hantsy/angularjs-springmvc-sample/snapshot/49349fed0f23d78a9764bb3eb27a930a00a6ef44/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hantsy/angularjs-springmvc-sample/snapshot/49349fed0f23d78a9764bb3eb27a930a00a6ef44/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rubicon-project/prebid-cache-java", 
+    "url-identifier": "g/rubicon-project/prebid-cache-java", 
+    "id": 1510492146467, 
+    "name": "rubicon-project/prebid-cache-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rubicon-project/prebid-cache-java/snapshot/44e1d242963fe3b5945c6b9501cf4e41870d9c30/files/pom.xml#L393", 
+        "line": 393, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

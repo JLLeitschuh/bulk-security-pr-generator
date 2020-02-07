@@ -1,0 +1,157 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/nuclos/nuclos-api", 
+    "url-identifier": "b/nuclos/nuclos-api", 
+    "id": 1283212728, 
+    "name": "nuclos/nuclos-api"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/nuclos-extension-archetype/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/nuclos-extension-archetype/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuclos.de/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/nuclos-extension-archetype/pom.xml#L37", 
+        "line": 37, 
+        "value": "snapshotRepository", 
+        "file": "/nuclos-extension-archetype/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuclos.de/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/nuclos-extension-archetype/src/main/resources/archetype-resources/bin/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/nuclos-extension-archetype/src/main/resources/archetype-resources/bin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuclos.de/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/nuclos-extension-archetype/src/main/resources/archetype-resources/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/nuclos-extension-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuclos.de/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/nuclos-theme-archetype/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/nuclos-theme-archetype/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuclos.de/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/nuclos-theme-archetype/pom.xml#L36", 
+        "line": 36, 
+        "value": "snapshotRepository", 
+        "file": "/nuclos-theme-archetype/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuclos.de/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/pom.xml#L336", 
+        "line": 336, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuclos.de/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/pom.xml#L344", 
+        "line": 344, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/pom.xml#L359", 
+        "line": 359, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/pom.xml#L365", 
+        "line": 365, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuclos.de/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/pom.xml#L375", 
+        "line": 375, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/pom.xml#L390", 
+        "line": 390, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuclos.de/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/nuclos/nuclos-api/snapshot/47cf459928d69989e1168c969e0f5d20891ea80d/files/pom.xml#L394", 
+        "line": 394, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuclos.de/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

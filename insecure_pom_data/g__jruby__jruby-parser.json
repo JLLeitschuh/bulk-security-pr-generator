@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jruby/jruby-parser", 
+    "url-identifier": "g/jruby/jruby-parser", 
+    "id": 1506724990130, 
+    "name": "jruby/jruby-parser"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jruby/jruby-parser/snapshot/187a8712d0ec4e6c9dd00884e1598d0a591e0e9e/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

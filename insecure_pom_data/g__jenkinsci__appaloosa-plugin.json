@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/appaloosa-plugin", 
+    "url-identifier": "g/jenkinsci/appaloosa-plugin", 
+    "id": 1509222465982, 
+    "name": "jenkinsci/appaloosa-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/appaloosa-plugin/snapshot/5587180bea704d92e7923e1abb4ad8aed0a85d77/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/appaloosa-plugin/snapshot/5587180bea704d92e7923e1abb4ad8aed0a85d77/files/pom.xml#L73", 
+        "line": 73, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

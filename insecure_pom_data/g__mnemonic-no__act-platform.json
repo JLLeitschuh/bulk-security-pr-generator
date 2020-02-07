@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mnemonic-no/act-platform", 
+    "url-identifier": "g/mnemonic-no/act-platform", 
+    "id": 1508081850561, 
+    "name": "mnemonic-no/act-platform"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mnemonic-no/act-platform/snapshot/33316347990c9195872a00d15e55bdde993d7363/files/pom.xml#L106", 
+        "line": 106, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://artifactory.mnemonic.no/artifactory/mnemonic"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mnemonic-no/act-platform/snapshot/33316347990c9195872a00d15e55bdde993d7363/files/pom.xml#L110", 
+        "line": 110, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://artifactory.mnemonic.no/artifactory/mnemonic-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

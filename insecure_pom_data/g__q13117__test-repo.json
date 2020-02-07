@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/q13117/test-repo", 
+    "url-identifier": "g/q13117/test-repo", 
+    "id": 1976090227, 
+    "name": "q13117/test-repo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/q13117/test-repo/snapshot/e208b74674ca3653b355a67e38688d8962f7c8e5/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/q13117/test-repo/snapshot/e208b74674ca3653b355a67e38688d8962f7c8e5/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

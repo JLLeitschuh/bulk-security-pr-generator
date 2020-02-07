@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/josefkarasek/eap-rolling-update", 
+    "url-identifier": "g/josefkarasek/eap-rolling-update", 
+    "id": 1509192546422, 
+    "name": "josefkarasek/eap-rolling-update"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/josefkarasek/eap-rolling-update/snapshot/0736ed1d7830eaad1644dda6c00ea57991aeccfc/files/greeter/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/greeter/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jboss-developer.github.io/temp-maven-repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/josefkarasek/eap-rolling-update/snapshot/0736ed1d7830eaad1644dda6c00ea57991aeccfc/files/greeter/pom.xml#L71", 
+        "line": 71, 
+        "value": "pluginRepository", 
+        "file": "/greeter/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jboss-developer.github.io/temp-maven-repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/MayankSainiTk20/embed-grafana-graph", 
+    "url-identifier": "g/MayankSainiTk20/embed-grafana-graph", 
+    "id": 1509237456295, 
+    "name": "MayankSainiTk20/embed-grafana-graph"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MayankSainiTk20/embed-grafana-graph/snapshot/c32eff989fe556ec3c45fefbd3662d61ec26eeb2/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MayankSainiTk20/embed-grafana-graph/snapshot/c32eff989fe556ec3c45fefbd3662d61ec26eeb2/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

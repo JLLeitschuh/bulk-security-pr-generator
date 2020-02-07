@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/geoscript/geoscript-js", 
+    "url-identifier": "g/geoscript/geoscript-js", 
+    "id": 1801020329, 
+    "name": "geoscript/geoscript-js"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geoscript/geoscript-js/snapshot/b8595e23eab695d8f9ced023fab789f7722e4f3d/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geoscript/geoscript-js/snapshot/b8595e23eab695d8f9ced023fab789f7722e4f3d/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

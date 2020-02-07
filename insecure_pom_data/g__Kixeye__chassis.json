@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Kixeye/chassis", 
+    "url-identifier": "g/Kixeye/chassis", 
+    "id": 61280055, 
+    "name": "Kixeye/chassis"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Kixeye/chassis/snapshot/afa4dcb4ae168f219977ba128a6348befa1c4d5e/files/chassis-transport/chassis-scala-transport-core/pom.xml#L130", 
+        "line": 130, 
+        "value": "repository", 
+        "file": "/chassis-transport/chassis-scala-transport-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

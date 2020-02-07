@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/j256/ormlite-core", 
+    "url-identifier": "g/j256/ormlite-core", 
+    "id": 1509247755980, 
+    "name": "j256/ormlite-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/j256/ormlite-core/snapshot/8784e9c2019cb32098b1513c10d16508c5f6c9c7/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/j256/ormlite-core/snapshot/8784e9c2019cb32098b1513c10d16508c5f6c9c7/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

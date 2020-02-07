@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/docker-slaves-plugin", 
+    "url-identifier": "g/jenkinsci/docker-slaves-plugin", 
+    "id": 1509044426348, 
+    "name": "jenkinsci/docker-slaves-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/docker-slaves-plugin/snapshot/d72af5550b024af48e040786551aad29720d7621/files/pom.xml#L109", 
+        "line": 109, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/docker-slaves-plugin/snapshot/d72af5550b024af48e040786551aad29720d7621/files/pom.xml#L115", 
+        "line": 115, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

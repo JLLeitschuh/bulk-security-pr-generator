@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/akaigoro/df4j", 
+    "url-identifier": "g/akaigoro/df4j", 
+    "id": 1506776626067, 
+    "name": "akaigoro/df4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akaigoro/df4j/snapshot/266b32ebee66354d414cc14cc9c0bbcd3d63dfc5/files/df4j-core/pom.xml#L63", 
+        "line": 63, 
+        "value": "snapshotRepository", 
+        "file": "/df4j-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akaigoro/df4j/snapshot/266b32ebee66354d414cc14cc9c0bbcd3d63dfc5/files/df4j-core/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/df4j-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akaigoro/df4j/snapshot/266b32ebee66354d414cc14cc9c0bbcd3d63dfc5/files/df4j-nio2/pom.xml#L62", 
+        "line": 62, 
+        "value": "snapshotRepository", 
+        "file": "/df4j-nio2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akaigoro/df4j/snapshot/266b32ebee66354d414cc14cc9c0bbcd3d63dfc5/files/df4j-nio2/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/df4j-nio2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akaigoro/df4j/snapshot/266b32ebee66354d414cc14cc9c0bbcd3d63dfc5/files/pom.xml#L160", 
+        "line": 160, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akaigoro/df4j/snapshot/266b32ebee66354d414cc14cc9c0bbcd3d63dfc5/files/pom.xml#L165", 
+        "line": 165, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

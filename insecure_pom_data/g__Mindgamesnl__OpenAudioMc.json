@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Mindgamesnl/OpenAudioMc", 
+    "url-identifier": "g/Mindgamesnl/OpenAudioMc", 
+    "id": 1505881736646, 
+    "name": "Mindgamesnl/OpenAudioMc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Mindgamesnl/OpenAudioMc/snapshot/a64dde4c7ed0618d5b248d23a112e0070bf0a030/files/plugin/pom.xml#L79", 
+        "line": 79, 
+        "value": "repository", 
+        "file": "/plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jhinrichsen/cors-plugin", 
+    "url-identifier": "g/jhinrichsen/cors-plugin", 
+    "id": 1506583741264, 
+    "name": "jhinrichsen/cors-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jhinrichsen/cors-plugin/snapshot/10e76a4f14ca8dfe27a8e9fd1f986dc32ca902e8/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jhinrichsen/cors-plugin/snapshot/10e76a4f14ca8dfe27a8e9fd1f986dc32ca902e8/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jhinrichsen/cors-plugin/snapshot/10e76a4f14ca8dfe27a8e9fd1f986dc32ca902e8/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

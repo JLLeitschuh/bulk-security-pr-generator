@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ITEA3-Measure/MeasurePlatform", 
+    "url-identifier": "g/ITEA3-Measure/MeasurePlatform", 
+    "id": 1998960413, 
+    "name": "ITEA3-Measure/MeasurePlatform"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ITEA3-Measure/MeasurePlatform/snapshot/8c9224fc9e191b76c672a883a2426174a66e9f77/files/pom.xml#L415", 
+        "line": 415, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.modelio.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

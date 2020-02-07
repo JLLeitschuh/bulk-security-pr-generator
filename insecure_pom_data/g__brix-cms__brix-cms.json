@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/brix-cms/brix-cms", 
+    "url-identifier": "g/brix-cms/brix-cms", 
+    "id": 1793731244, 
+    "name": "brix-cms/brix-cms"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brix-cms/brix-cms/snapshot/e5e57b63876857ae087bfb9a7d12cc046051c9c2/files/brix-modeshape/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/brix-modeshape/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brix-cms/brix-cms/snapshot/e5e57b63876857ae087bfb9a7d12cc046051c9c2/files/pom.xml#L741", 
+        "line": 741, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.sonatype.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/incubator-sdap-mudrod", 
+    "url-identifier": "g/apache/incubator-sdap-mudrod", 
+    "id": 1506258136004, 
+    "name": "apache/incubator-sdap-mudrod"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-sdap-mudrod/snapshot/daeb43e2c0382d8f62e708421475576a422a09e3/files/service/pom.xml#L28", 
+        "line": 28, 
+        "value": "pluginRepository", 
+        "file": "/service/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.qmino.com/content/repositories/miredot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

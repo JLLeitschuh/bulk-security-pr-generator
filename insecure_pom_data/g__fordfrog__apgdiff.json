@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/fordfrog/apgdiff", 
+    "url-identifier": "g/fordfrog/apgdiff", 
+    "id": 29495154, 
+    "name": "fordfrog/apgdiff"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fordfrog/apgdiff/snapshot/d2b078ef50dc7e1167970b06cb749259286fc659/files/pom.xml#L6", 
+        "line": 6, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/myfaces-tobago", 
+    "url-identifier": "g/apache/myfaces-tobago", 
+    "id": 1506246666142, 
+    "name": "apache/myfaces-tobago"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-tobago/snapshot/d10f9e9ca583866914596448079a6f079ab0a007/files/tobago-example/pom.xml#L442", 
+        "line": 442, 
+        "value": "pluginRepository", 
+        "file": "/tobago-example/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/maven/repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

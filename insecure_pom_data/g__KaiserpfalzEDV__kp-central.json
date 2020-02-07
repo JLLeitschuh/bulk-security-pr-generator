@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/KaiserpfalzEDV/kp-central", 
+    "url-identifier": "g/KaiserpfalzEDV/kp-central", 
+    "id": 1505766136318, 
+    "name": "KaiserpfalzEDV/kp-central"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/KaiserpfalzEDV/kp-central/snapshot/4adb3794fa36ec34050b9e5d327ae1a0deeb512b/files/kp-commons/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/kp-commons/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.kaiserpfalz-edv.de/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/KaiserpfalzEDV/kp-central/snapshot/4adb3794fa36ec34050b9e5d327ae1a0deeb512b/files/kp-commons/pom.xml#L67", 
+        "line": 67, 
+        "value": "snapshotRepository", 
+        "file": "/kp-commons/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.kaiserpfalz-edv.de/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/KaiserpfalzEDV/kp-central/snapshot/4adb3794fa36ec34050b9e5d327ae1a0deeb512b/files/kp-parent-pom/pom.xml#L125", 
+        "line": 125, 
+        "value": "repository", 
+        "file": "/kp-parent-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.kaiserpfalz-edv.de/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/KaiserpfalzEDV/kp-central/snapshot/4adb3794fa36ec34050b9e5d327ae1a0deeb512b/files/kp-parent-pom/pom.xml#L129", 
+        "line": 129, 
+        "value": "snapshotRepository", 
+        "file": "/kp-parent-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.kaiserpfalz-edv.de/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

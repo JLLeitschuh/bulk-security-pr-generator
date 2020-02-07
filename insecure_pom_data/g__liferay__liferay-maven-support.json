@@ -1,0 +1,289 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support", 
+    "url-identifier": "g/liferay/liferay-maven-support", 
+    "id": 1509261026860, 
+    "name": "liferay/liferay-maven-support"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-icefaces-archetype/src/main/resources/archetype-resources/pom.xml#L125", 
+        "line": 125, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-icefaces-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-icefaces-archetype/src/main/resources/archetype-resources/pom.xml#L130", 
+        "line": 130, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-icefaces-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-icefaces-archetype/src/test/resources/projects/default/reference/pom.xml#L125", 
+        "line": 125, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-icefaces-archetype/src/test/resources/projects/default/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-icefaces-archetype/src/test/resources/projects/default/reference/pom.xml#L130", 
+        "line": 130, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-icefaces-archetype/src/test/resources/projects/default/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-jsf-archetype/src/main/resources/archetype-resources/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-jsf-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-jsf-archetype/src/main/resources/archetype-resources/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-jsf-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-jsf-archetype/src/test/resources/projects/default/reference/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-jsf-archetype/src/test/resources/projects/default/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-jsf-archetype/src/test/resources/projects/default/reference/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-jsf-archetype/src/test/resources/projects/default/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-liferay-faces-alloy-archetype/src/main/resources/archetype-resources/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-liferay-faces-alloy-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-liferay-faces-alloy-archetype/src/main/resources/archetype-resources/pom.xml#L129", 
+        "line": 129, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-liferay-faces-alloy-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-liferay-faces-alloy-archetype/src/test/resources/projects/default/reference/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-liferay-faces-alloy-archetype/src/test/resources/projects/default/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-liferay-faces-alloy-archetype/src/test/resources/projects/default/reference/pom.xml#L129", 
+        "line": 129, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-liferay-faces-alloy-archetype/src/test/resources/projects/default/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-primefaces-archetype/src/main/resources/archetype-resources/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-primefaces-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-primefaces-archetype/src/main/resources/archetype-resources/pom.xml#L129", 
+        "line": 129, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-primefaces-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-primefaces-archetype/src/main/resources/archetype-resources/pom.xml#L134", 
+        "line": 134, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-primefaces-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-primefaces-archetype/src/test/resources/projects/default/reference/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-primefaces-archetype/src/test/resources/projects/default/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-primefaces-archetype/src/test/resources/projects/default/reference/pom.xml#L129", 
+        "line": 129, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-primefaces-archetype/src/test/resources/projects/default/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-primefaces-archetype/src/test/resources/projects/default/reference/pom.xml#L134", 
+        "line": 134, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-primefaces-archetype/src/test/resources/projects/default/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-richfaces-archetype/src/main/resources/archetype-resources/pom.xml#L129", 
+        "line": 129, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-richfaces-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-richfaces-archetype/src/main/resources/archetype-resources/pom.xml#L134", 
+        "line": 134, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-richfaces-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-richfaces-archetype/src/test/resources/projects/default/reference/pom.xml#L129", 
+        "line": 129, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-richfaces-archetype/src/test/resources/projects/default/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/archetypes/liferay-portlet-richfaces-archetype/src/test/resources/projects/default/reference/pom.xml#L134", 
+        "line": 134, 
+        "value": "repository", 
+        "file": "/archetypes/liferay-portlet-richfaces-archetype/src/test/resources/projects/default/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/pom.xml#L136", 
+        "line": 136, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/pom.xml#L147", 
+        "line": 147, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/liferay/liferay-maven-support/snapshot/f5b9cba4c1d4bd71f6b538a513d3ea830a8f4f3f/files/pom.xml#L160", 
+        "line": 160, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

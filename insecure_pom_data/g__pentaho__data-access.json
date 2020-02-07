@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pentaho/data-access", 
+    "url-identifier": "g/pentaho/data-access", 
+    "id": 1506691336710, 
+    "name": "pentaho/data-access"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pentaho/data-access/snapshot/883ce9864cc01e2a813f5534ad39e4ee8e518e79/files/pom.xml#L1398", 
+        "line": 1398, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.pentaho.org/content/groups/omni/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

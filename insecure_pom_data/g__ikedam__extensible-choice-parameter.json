@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ikedam/extensible-choice-parameter", 
+    "url-identifier": "g/ikedam/extensible-choice-parameter", 
+    "id": 1506587120014, 
+    "name": "ikedam/extensible-choice-parameter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ikedam/extensible-choice-parameter/snapshot/d2a1ce6bd45aba7416f0ace5cddf2b731b27b56f/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ikedam/extensible-choice-parameter/snapshot/d2a1ce6bd45aba7416f0ace5cddf2b731b27b56f/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

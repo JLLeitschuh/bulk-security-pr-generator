@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/gora", 
+    "url-identifier": "g/apache/gora", 
+    "id": 1511130983284, 
+    "name": "apache/gora"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/gora/snapshot/569f0695736cf6b2a998d77d144ecc3dfe8a431f/files/gora-couchdb/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/gora-couchdb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/gora/snapshot/569f0695736cf6b2a998d77d144ecc3dfe8a431f/files/gora-solr/pom.xml#L106", 
+        "line": 106, 
+        "value": "repository", 
+        "file": "/gora-solr/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

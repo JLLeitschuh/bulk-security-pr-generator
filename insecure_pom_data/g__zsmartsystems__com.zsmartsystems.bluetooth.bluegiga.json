@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/zsmartsystems/com.zsmartsystems.bluetooth.bluegiga", 
+    "url-identifier": "g/zsmartsystems/com.zsmartsystems.bluetooth.bluegiga", 
+    "id": 1509893555972, 
+    "name": "zsmartsystems/com.zsmartsystems.bluetooth.bluegiga"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zsmartsystems/com.zsmartsystems.bluetooth.bluegiga/snapshot/1e582c4da5f9a72362a2d713416e603b4fe7654e/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/zsmartsystems"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

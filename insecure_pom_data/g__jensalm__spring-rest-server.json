@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jensalm/spring-rest-server", 
+    "url-identifier": "g/jensalm/spring-rest-server", 
+    "id": 28430089, 
+    "name": "jensalm/spring-rest-server"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jensalm/spring-rest-server/snapshot/172e88555a6e92d922f0b276b267eebf7d6d71e6/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jensalm/spring-rest-server/snapshot/172e88555a6e92d922f0b276b267eebf7d6d71e6/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mirrors.ibiblio.org/pub/mirrors/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jensalm/spring-rest-server/snapshot/172e88555a6e92d922f0b276b267eebf7d6d71e6/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jensalm/spring-rest-server/snapshot/172e88555a6e92d922f0b276b267eebf7d6d71e6/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

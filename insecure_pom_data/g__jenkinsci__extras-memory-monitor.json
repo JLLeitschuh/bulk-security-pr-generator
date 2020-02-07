@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/extras-memory-monitor", 
+    "url-identifier": "g/jenkinsci/extras-memory-monitor", 
+    "id": 1506676066817, 
+    "name": "jenkinsci/extras-memory-monitor"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/extras-memory-monitor/snapshot/887128e0e00e7cbd496553b3c34cdf7b389ad1c7/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

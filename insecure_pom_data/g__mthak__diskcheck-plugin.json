@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mthak/diskcheck-plugin", 
+    "url-identifier": "g/mthak/diskcheck-plugin", 
+    "id": 1506605248644, 
+    "name": "mthak/diskcheck-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mthak/diskcheck-plugin/snapshot/62a68c440552859a64a1de4a86268a1014077775/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mthak/diskcheck-plugin/snapshot/62a68c440552859a64a1de4a86268a1014077775/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

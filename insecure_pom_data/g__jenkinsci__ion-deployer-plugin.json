@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/ion-deployer-plugin", 
+    "url-identifier": "g/jenkinsci/ion-deployer-plugin", 
+    "id": 1509060086312, 
+    "name": "jenkinsci/ion-deployer-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ion-deployer-plugin/snapshot/b4ffe4e7604d761cb67d9ffa8264b03259465fb2/files/pom.xml#L104", 
+        "line": 104, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ion-deployer-plugin/snapshot/b4ffe4e7604d761cb67d9ffa8264b03259465fb2/files/pom.xml#L112", 
+        "line": 112, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

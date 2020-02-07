@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Byclosure/gcloud-sdk-plugin", 
+    "url-identifier": "g/Byclosure/gcloud-sdk-plugin", 
+    "id": 1509202656094, 
+    "name": "Byclosure/gcloud-sdk-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Byclosure/gcloud-sdk-plugin/snapshot/af8246b11b623ce90dae5065a46b1811da6c8e98/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Byclosure/gcloud-sdk-plugin/snapshot/af8246b11b623ce90dae5065a46b1811da6c8e98/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

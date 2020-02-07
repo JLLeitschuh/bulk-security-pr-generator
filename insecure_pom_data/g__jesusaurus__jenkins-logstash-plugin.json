@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jesusaurus/jenkins-logstash-plugin", 
+    "url-identifier": "g/jesusaurus/jenkins-logstash-plugin", 
+    "id": 1506599338626, 
+    "name": "jesusaurus/jenkins-logstash-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jesusaurus/jenkins-logstash-plugin/snapshot/e346e6e7559ae3c37f9c9321a534021d8123b5c3/files/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jesusaurus/jenkins-logstash-plugin/snapshot/e346e6e7559ae3c37f9c9321a534021d8123b5c3/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jesusaurus/jenkins-logstash-plugin/snapshot/e346e6e7559ae3c37f9c9321a534021d8123b5c3/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

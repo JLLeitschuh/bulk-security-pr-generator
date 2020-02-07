@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/oracle/wookiee-zookeeper", 
+    "url-identifier": "g/oracle/wookiee-zookeeper", 
+    "id": 1506606780848, 
+    "name": "oracle/wookiee-zookeeper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/oracle/wookiee-zookeeper/snapshot/d3753164763489deabe0ff1f57cc3646b7bd3975/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/oss-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/oracle/wookiee-zookeeper/snapshot/d3753164763489deabe0ff1f57cc3646b7bd3975/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/oss-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/oracle/wookiee-zookeeper/snapshot/d3753164763489deabe0ff1f57cc3646b7bd3975/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/oracle/wookiee-zookeeper/snapshot/d3753164763489deabe0ff1f57cc3646b7bd3975/files/pom.xml#L86", 
+        "line": 86, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

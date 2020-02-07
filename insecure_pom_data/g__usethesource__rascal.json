@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/usethesource/rascal", 
+    "url-identifier": "g/usethesource/rascal", 
+    "id": 1793391271, 
+    "name": "usethesource/rascal"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/rascal/snapshot/7c562be609ec1a30763631c439735c2a75122933/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/rascal/snapshot/7c562be609ec1a30763631c439735c2a75122933/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/rascal/snapshot/7c562be609ec1a30763631c439735c2a75122933/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/rascal/snapshot/7c562be609ec1a30763631c439735c2a75122933/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

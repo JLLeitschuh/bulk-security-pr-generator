@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/aws-codecommit-jobs-plugin", 
+    "url-identifier": "g/jenkinsci/aws-codecommit-jobs-plugin", 
+    "id": 1509239376831, 
+    "name": "jenkinsci/aws-codecommit-jobs-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/aws-codecommit-jobs-plugin/snapshot/52f8410f20c8470554a0a20443e3047ed3465825/files/pom.xml#L270", 
+        "line": 270, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/aws-codecommit-jobs-plugin/snapshot/52f8410f20c8470554a0a20443e3047ed3465825/files/pom.xml#L276", 
+        "line": 276, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

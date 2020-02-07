@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/AppiumTestDistribution/AppiumTestDistribution", 
+    "url-identifier": "g/AppiumTestDistribution/AppiumTestDistribution", 
+    "id": 980003, 
+    "name": "AppiumTestDistribution/AppiumTestDistribution"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AppiumTestDistribution/AppiumTestDistribution/snapshot/10d9c1832c4e6ef25ca777d816838d771781d043/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/epam/reportportal"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

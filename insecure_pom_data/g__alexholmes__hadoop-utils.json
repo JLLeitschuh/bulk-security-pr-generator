@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/alexholmes/hadoop-utils", 
+    "url-identifier": "g/alexholmes/hadoop-utils", 
+    "id": 1506757616254, 
+    "name": "alexholmes/hadoop-utils"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexholmes/hadoop-utils/snapshot/82931bebed88ec2a5f073bddcbfb6b0b5ab19147/files/pom.xml#L260", 
+        "line": 260, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

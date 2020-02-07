@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/imotov/elasticsearch-analysis-morphology", 
+    "url-identifier": "g/imotov/elasticsearch-analysis-morphology", 
+    "id": 15060078, 
+    "name": "imotov/elasticsearch-analysis-morphology"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/imotov/elasticsearch-analysis-morphology/snapshot/32d22473f23011e0eeb66f378b78f75df9fa09ba/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/imotov/elasticsearch-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/imotov/elasticsearch-analysis-morphology/snapshot/32d22473f23011e0eeb66f378b78f75df9fa09ba/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/akuznetsov/russianmorphology"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

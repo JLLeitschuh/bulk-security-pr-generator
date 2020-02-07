@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hpcloud/cloudfoundry-jenkins", 
+    "url-identifier": "g/hpcloud/cloudfoundry-jenkins", 
+    "id": 1506600970691, 
+    "name": "hpcloud/cloudfoundry-jenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hpcloud/cloudfoundry-jenkins/snapshot/35eb8a89ea08ed65c0b0710b9e683d21b931f8dc/files/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hpcloud/cloudfoundry-jenkins/snapshot/35eb8a89ea08ed65c0b0710b9e683d21b931f8dc/files/pom.xml#L96", 
+        "line": 96, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

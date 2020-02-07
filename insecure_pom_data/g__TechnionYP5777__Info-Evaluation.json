@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/TechnionYP5777/Info-Evaluation", 
+    "url-identifier": "g/TechnionYP5777/Info-Evaluation", 
+    "id": 1997940814, 
+    "name": "TechnionYP5777/Info-Evaluation"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TechnionYP5777/Info-Evaluation/snapshot/fe4977b57346c0b2d3463e099666099d1eff69f9/files/pom.xml#L194", 
+        "line": 194, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TechnionYP5777/Info-Evaluation/snapshot/fe4977b57346c0b2d3463e099666099d1eff69f9/files/pom.xml#L200", 
+        "line": 200, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

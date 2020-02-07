@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/openwebbeans-meecrowave-examples", 
+    "url-identifier": "g/apache/openwebbeans-meecrowave-examples", 
+    "id": 1511131586824, 
+    "name": "apache/openwebbeans-meecrowave-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/openwebbeans-meecrowave-examples/snapshot/219c90d79d73f767a42ac3142f7d5574fb4c9146/files/servlet-vaadin-v10/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/servlet-vaadin-v10/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/openwebbeans-meecrowave-examples/snapshot/219c90d79d73f767a42ac3142f7d5574fb4c9146/files/servlet-vaadin-v10/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/servlet-vaadin-v10/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/openwebbeans-meecrowave-examples/snapshot/219c90d79d73f767a42ac3142f7d5574fb4c9146/files/servlet-vaadin-vxx/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/servlet-vaadin-vxx/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/openwebbeans-meecrowave-examples/snapshot/219c90d79d73f767a42ac3142f7d5574fb4c9146/files/servlet-vaadin-vxx/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/servlet-vaadin-vxx/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

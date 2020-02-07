@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/newgen-servers-plugin", 
+    "url-identifier": "g/jenkinsci/newgen-servers-plugin", 
+    "id": 1509208526251, 
+    "name": "jenkinsci/newgen-servers-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/newgen-servers-plugin/snapshot/3d9e47ca75a5aaa93b96217ddc818afed2d60544/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/newgen-servers-plugin/snapshot/3d9e47ca75a5aaa93b96217ddc818afed2d60544/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/newgen-servers-plugin/snapshot/3d9e47ca75a5aaa93b96217ddc818afed2d60544/files/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

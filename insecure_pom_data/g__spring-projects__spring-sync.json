@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/spring-projects/spring-sync", 
+    "url-identifier": "g/spring-projects/spring-sync", 
+    "id": 59680175, 
+    "name": "spring-projects/spring-sync"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-sync/snapshot/e288b386464da6a5a098e7fb39f10dc38b4e1641/files/spring-sync-android-test/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/spring-sync-android-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

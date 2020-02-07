@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/arago/rike", 
+    "url-identifier": "g/arago/rike", 
+    "id": 49820028, 
+    "name": "arago/rike"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/arago/rike/snapshot/244d33b0df6210f51974200d29347d136b2a8713/files/arago-base-theme/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/arago-base-theme/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/arago/rike/snapshot/244d33b0df6210f51974200d29347d136b2a8713/files/arago-rike-rest-api/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/arago-rike-rest-api/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

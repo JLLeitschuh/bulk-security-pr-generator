@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/splunk/splunkforjenkins", 
+    "url-identifier": "g/splunk/splunkforjenkins", 
+    "id": 1509214316031, 
+    "name": "splunk/splunkforjenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splunk/splunkforjenkins/snapshot/e89ee52ece42417c183ff27c0b93c3069772bf02/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splunk/splunkforjenkins/snapshot/e89ee52ece42417c183ff27c0b93c3069772bf02/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://splunk.artifactoryonline.com/splunk/ext-releases-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/splunk/splunkforjenkins/snapshot/e89ee52ece42417c183ff27c0b93c3069772bf02/files/pom.xml#L79", 
+        "line": 79, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

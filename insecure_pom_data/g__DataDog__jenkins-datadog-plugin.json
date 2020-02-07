@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/DataDog/jenkins-datadog-plugin", 
+    "url-identifier": "g/DataDog/jenkins-datadog-plugin", 
+    "id": 1509194456608, 
+    "name": "DataDog/jenkins-datadog-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DataDog/jenkins-datadog-plugin/snapshot/b1779c5edc47e50fef1f6355e2d06cc785faa46c/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DataDog/jenkins-datadog-plugin/snapshot/b1779c5edc47e50fef1f6355e2d06cc785faa46c/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

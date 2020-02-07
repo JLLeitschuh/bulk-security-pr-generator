@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/phing-plugin", 
+    "url-identifier": "g/jenkinsci/phing-plugin", 
+    "id": 1506630539206, 
+    "name": "jenkinsci/phing-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/phing-plugin/snapshot/661d1c90d58547a529064aceaddbdd5916ba7ec6/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/phing-plugin/snapshot/661d1c90d58547a529064aceaddbdd5916ba7ec6/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

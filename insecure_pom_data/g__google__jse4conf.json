@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/google/jse4conf", 
+    "url-identifier": "g/google/jse4conf", 
+    "id": 1511138783482, 
+    "name": "google/jse4conf"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/google/jse4conf/snapshot/9c9f7a9d6c25324c896b2baf0174277b210fcae4/files/maven/pom.xml#L126", 
+        "line": 126, 
+        "value": "repository", 
+        "file": "/maven/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/google/jse4conf/snapshot/9c9f7a9d6c25324c896b2baf0174277b210fcae4/files/maven/pom.xml#L130", 
+        "line": 130, 
+        "value": "snapshotRepository", 
+        "file": "/maven/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

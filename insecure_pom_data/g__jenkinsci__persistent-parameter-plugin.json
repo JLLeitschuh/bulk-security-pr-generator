@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/persistent-parameter-plugin", 
+    "url-identifier": "g/jenkinsci/persistent-parameter-plugin", 
+    "id": 1506599069205, 
+    "name": "jenkinsci/persistent-parameter-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/persistent-parameter-plugin/snapshot/2ab38b637d6de7440546b310a9b1c0e860e75793/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/persistent-parameter-plugin/snapshot/2ab38b637d6de7440546b310a9b1c0e860e75793/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/persistent-parameter-plugin/snapshot/2ab38b637d6de7440546b310a9b1c0e860e75793/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/scalecube/scalecube-services", 
+    "url-identifier": "g/scalecube/scalecube-services", 
+    "id": 1507347606038, 
+    "name": "scalecube/scalecube-services"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/scalecube/scalecube-services/snapshot/34253135c4761426882226977598ce3bc4f23a88/files/pom.xml#L242", 
+        "line": 242, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/scalecube/scalecube-services/snapshot/34253135c4761426882226977598ce3bc4f23a88/files/pom.xml#L250", 
+        "line": 250, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/scalecube/scalecube-services/snapshot/34253135c4761426882226977598ce3bc4f23a88/files/pom.xml#L269", 
+        "line": 269, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

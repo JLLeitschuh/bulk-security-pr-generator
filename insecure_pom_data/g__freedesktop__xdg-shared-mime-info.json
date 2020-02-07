@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/freedesktop/xdg-shared-mime-info", 
+    "url-identifier": "g/freedesktop/xdg-shared-mime-info", 
+    "id": 1506525076784, 
+    "name": "freedesktop/xdg-shared-mime-info"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedesktop/xdg-shared-mime-info/snapshot/dca029d70869ea1a9a4dc70a83a8c1a1784a7219/files/tests/pom.xml#L6", 
+        "line": 6, 
+        "value": "repository", 
+        "file": "/tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedesktop/xdg-shared-mime-info/snapshot/dca029d70869ea1a9a4dc70a83a8c1a1784a7219/files/tests/pom.xml#L18", 
+        "line": 18, 
+        "value": "pluginRepository", 
+        "file": "/tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

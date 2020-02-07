@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jruby/joni", 
+    "url-identifier": "g/jruby/joni", 
+    "id": 64000041, 
+    "name": "jruby/joni"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jruby/joni/snapshot/bd7a8f75f846547aeb8822a9a41bdb02a7a2a40e/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

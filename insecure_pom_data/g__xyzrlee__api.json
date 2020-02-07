@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/xyzrlee/api", 
+    "url-identifier": "g/xyzrlee/api", 
+    "id": 1506710086046, 
+    "name": "xyzrlee/api"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xyzrlee/api/snapshot/17f5801e647b5d16435219b908a10e39f72fa654/files/api/pom.xml#L140", 
+        "line": 140, 
+        "value": "repository", 
+        "file": "/api/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

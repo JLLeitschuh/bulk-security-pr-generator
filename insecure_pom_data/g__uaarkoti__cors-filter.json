@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/uaarkoti/cors-filter", 
+    "url-identifier": "g/uaarkoti/cors-filter", 
+    "id": 1509200506099, 
+    "name": "uaarkoti/cors-filter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/uaarkoti/cors-filter/snapshot/42dcead5686114d51c1c6ce1134a4d85c65a81c6/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/uaarkoti/cors-filter/snapshot/42dcead5686114d51c1c6ce1134a4d85c65a81c6/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/file-leak-detector-plugin", 
+    "url-identifier": "g/jenkinsci/file-leak-detector-plugin", 
+    "id": 1506679616128, 
+    "name": "jenkinsci/file-leak-detector-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/file-leak-detector-plugin/snapshot/c4d3a474835cdb3ffa0f738851092a066bdb82c4/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/file-leak-detector-plugin/snapshot/c4d3a474835cdb3ffa0f738851092a066bdb82c4/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

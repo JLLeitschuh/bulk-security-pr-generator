@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/backend-jpi-create", 
+    "url-identifier": "g/jenkinsci/backend-jpi-create", 
+    "id": 1506642278430, 
+    "name": "jenkinsci/backend-jpi-create"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-jpi-create/snapshot/778f64c65ae2daa67a2807d568a192515a45ac29/files/pom.xml#L138", 
+        "line": 138, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-jpi-create/snapshot/778f64c65ae2daa67a2807d568a192515a45ac29/files/pom.xml#L145", 
+        "line": 145, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository-cloudbees.forge.cloudbees.com/public-release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

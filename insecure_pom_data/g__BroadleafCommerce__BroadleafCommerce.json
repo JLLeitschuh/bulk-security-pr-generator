@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/BroadleafCommerce/BroadleafCommerce", 
+    "url-identifier": "g/BroadleafCommerce/BroadleafCommerce", 
+    "id": 44470115, 
+    "name": "BroadleafCommerce/BroadleafCommerce"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BroadleafCommerce/BroadleafCommerce/snapshot/df8d7a847bcea2525e88a4d4a7a7da2452f08b69/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.broadleafcommerce.org/nexus/content/groups/community-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BroadleafCommerce/BroadleafCommerce/snapshot/df8d7a847bcea2525e88a4d4a7a7da2452f08b69/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.broadleafcommerce.org/nexus/content/groups/community-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BroadleafCommerce/BroadleafCommerce/snapshot/df8d7a847bcea2525e88a4d4a7a7da2452f08b69/files/pom.xml#L377", 
+        "line": 377, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.broadleafcommerce.org/nexus/content/repositories/framework-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BroadleafCommerce/BroadleafCommerce/snapshot/df8d7a847bcea2525e88a4d4a7a7da2452f08b69/files/pom.xml#L381", 
+        "line": 381, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.broadleafcommerce.org/nexus/content/repositories/framework-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

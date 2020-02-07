@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/MyCATApache/Mycat-NIO", 
+    "url-identifier": "g/MyCATApache/Mycat-NIO", 
+    "id": 1803180871, 
+    "name": "MyCATApache/Mycat-NIO"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MyCATApache/Mycat-NIO/snapshot/9549bbb44a100e4aa5dd2a2f88180bae90c85513/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.mycat.io/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MyCATApache/Mycat-NIO/snapshot/9549bbb44a100e4aa5dd2a2f88180bae90c85513/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.mycat.io/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MyCATApache/Mycat-NIO/snapshot/9549bbb44a100e4aa5dd2a2f88180bae90c85513/files/pom.xml#L39", 
+        "line": 39, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.mycat.io/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

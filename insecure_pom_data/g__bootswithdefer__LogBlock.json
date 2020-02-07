@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bootswithdefer/LogBlock", 
+    "url-identifier": "g/bootswithdefer/LogBlock", 
+    "id": 62240018, 
+    "name": "bootswithdefer/LogBlock"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bootswithdefer/LogBlock/snapshot/6dcd7cd14aa330cd8facccfdf0a399bb6e0f4b78/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.md-5.net/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bootswithdefer/LogBlock/snapshot/6dcd7cd14aa330cd8facccfdf0a399bb6e0f4b78/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.md-5.net/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bootswithdefer/LogBlock/snapshot/6dcd7cd14aa330cd8facccfdf0a399bb6e0f4b78/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.bukkit.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bootswithdefer/LogBlock/snapshot/6dcd7cd14aa330cd8facccfdf0a399bb6e0f4b78/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bootswithdefer/LogBlock/snapshot/6dcd7cd14aa330cd8facccfdf0a399bb6e0f4b78/files/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.kitteh.org/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

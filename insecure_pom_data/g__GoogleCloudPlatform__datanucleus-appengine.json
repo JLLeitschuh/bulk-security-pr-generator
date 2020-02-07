@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/datanucleus-appengine", 
+    "url-identifier": "g/GoogleCloudPlatform/datanucleus-appengine", 
+    "id": 1506130055991, 
+    "name": "GoogleCloudPlatform/datanucleus-appengine"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/datanucleus-appengine/snapshot/d42de135a9c870bdeaa9f79aeb91221426c886e4/files/maven-appengine-artifacts/datanucleus-appengine-jdo/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/maven-appengine-artifacts/datanucleus-appengine-jdo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/datanucleus-appengine/snapshot/d42de135a9c870bdeaa9f79aeb91221426c886e4/files/maven-appengine-artifacts/datanucleus-appengine-jpa/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/maven-appengine-artifacts/datanucleus-appengine-jpa/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/datanucleus-appengine/snapshot/d42de135a9c870bdeaa9f79aeb91221426c886e4/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/datanucleus-appengine/snapshot/d42de135a9c870bdeaa9f79aeb91221426c886e4/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

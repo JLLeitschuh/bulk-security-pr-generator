@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/chosen-views-tabbar", 
+    "url-identifier": "g/jenkinsci/chosen-views-tabbar", 
+    "id": 1506583589989, 
+    "name": "jenkinsci/chosen-views-tabbar"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/chosen-views-tabbar/snapshot/ce1097a5e6d4d456000fbe85b90aec9e59034184/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/chosen-views-tabbar/snapshot/ce1097a5e6d4d456000fbe85b90aec9e59034184/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

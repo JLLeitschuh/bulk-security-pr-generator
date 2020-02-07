@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nickgrealy/aws-sqs", 
+    "url-identifier": "g/nickgrealy/aws-sqs", 
+    "id": 1509056446283, 
+    "name": "nickgrealy/aws-sqs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nickgrealy/aws-sqs/snapshot/8b0525511755adc36a4bda51423112cf4a6212c2/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nickgrealy/aws-sqs/snapshot/8b0525511755adc36a4bda51423112cf4a6212c2/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

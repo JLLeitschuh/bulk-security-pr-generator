@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kamilfb/mqtt-spy", 
+    "url-identifier": "g/kamilfb/mqtt-spy", 
+    "id": 1795480664, 
+    "name": "kamilfb/mqtt-spy"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kamilfb/mqtt-spy/snapshot/5af2c472f9babbaaafe640ec08dbcd6bf23a9a9a/files/mqtt-spy-common/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/mqtt-spy-common/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/andsel/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kamilfb/mqtt-spy/snapshot/5af2c472f9babbaaafe640ec08dbcd6bf23a9a9a/files/spy-common-ui/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/spy-common-ui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.gillius.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

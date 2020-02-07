@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nbbrd/jdemetra-dotstat", 
+    "url-identifier": "g/nbbrd/jdemetra-dotstat", 
+    "id": 1510413896095, 
+    "name": "nbbrd/jdemetra-dotstat"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nbbrd/jdemetra-dotstat/snapshot/c523d018135ed103756a16856ccb159c4f378a5f/files/demetra-dotstat-core/pom.xml#L248", 
+        "line": 248, 
+        "value": "repository", 
+        "file": "/demetra-dotstat-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nbbrd/jdemetra-dotstat/snapshot/c523d018135ed103756a16856ccb159c4f378a5f/files/demetra-dotstat-desktop/pom.xml#L145", 
+        "line": 145, 
+        "value": "repository", 
+        "file": "/demetra-dotstat-desktop/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

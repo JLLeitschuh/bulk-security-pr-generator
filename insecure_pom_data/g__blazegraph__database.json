@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/blazegraph/database", 
+    "url-identifier": "g/blazegraph/database", 
+    "id": 1800121576, 
+    "name": "blazegraph/database"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/blazegraph/database/snapshot/71550801e584a7a455cba37549a4373ba881812c/files/ctc-striterators/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/ctc-striterators/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.systap.com/maven/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

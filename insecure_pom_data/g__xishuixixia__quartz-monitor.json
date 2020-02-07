@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/xishuixixia/quartz-monitor", 
+    "url-identifier": "g/xishuixixia/quartz-monitor", 
+    "id": 118110996, 
+    "name": "xishuixixia/quartz-monitor"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xishuixixia/quartz-monitor/snapshot/09d568c1c2a1feab85acef063bdfcd3b2ee3a3c7/files/pom.xml#L147", 
+        "line": 147, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

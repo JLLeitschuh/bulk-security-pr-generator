@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jzy3d/jzy3d-api", 
+    "url-identifier": "g/jzy3d/jzy3d-api", 
+    "id": 1802140628, 
+    "name": "jzy3d/jzy3d-api"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jzy3d/jzy3d-api/snapshot/d06639ab04d6ab9d87b1d73058ae9c8f5f30ff04/files/jzy3d-api/pom.xml#L143", 
+        "line": 143, 
+        "value": "repository", 
+        "file": "/jzy3d-api/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jzy3d.org/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jzy3d/jzy3d-api/snapshot/d06639ab04d6ab9d87b1d73058ae9c8f5f30ff04/files/jzy3d-api/pom.xml#L148", 
+        "line": 148, 
+        "value": "repository", 
+        "file": "/jzy3d-api/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jzy3d.org/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jzy3d/jzy3d-api/snapshot/d06639ab04d6ab9d87b1d73058ae9c8f5f30ff04/files/jzy3d-swt/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/jzy3d-swt/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-eclipse.github.io/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

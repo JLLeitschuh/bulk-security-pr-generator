@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kohsuke/jenkins", 
+    "url-identifier": "g/kohsuke/jenkins", 
+    "id": 32750040, 
+    "name": "kohsuke/jenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kohsuke/jenkins/snapshot/154b0a0e0b44abd4f9d827b540409e8e53c968ae/files/pom.xml#L123", 
+        "line": 123, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kohsuke/jenkins/snapshot/154b0a0e0b44abd4f9d827b540409e8e53c968ae/files/pom.xml#L131", 
+        "line": 131, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

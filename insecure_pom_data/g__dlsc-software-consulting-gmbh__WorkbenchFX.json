@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dlsc-software-consulting-gmbh/WorkbenchFX", 
+    "url-identifier": "g/dlsc-software-consulting-gmbh/WorkbenchFX", 
+    "id": 1506718167159, 
+    "name": "dlsc-software-consulting-gmbh/WorkbenchFX"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dlsc-software-consulting-gmbh/WorkbenchFX/snapshot/fa9655953b804e55925c7f0408b3b59ad8050ca3/files/workbenchfx-demo/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/workbenchfx-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

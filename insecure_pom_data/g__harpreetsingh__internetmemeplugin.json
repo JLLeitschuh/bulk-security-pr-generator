@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/harpreetsingh/internetmemeplugin", 
+    "url-identifier": "g/harpreetsingh/internetmemeplugin", 
+    "id": 1509204405749, 
+    "name": "harpreetsingh/internetmemeplugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/harpreetsingh/internetmemeplugin/snapshot/543f9d0839f7b54566ca61d358c7a5557d69aaed/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/harpreetsingh/internetmemeplugin/snapshot/543f9d0839f7b54566ca61d358c7a5557d69aaed/files/pom.xml#L140", 
+        "line": 140, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

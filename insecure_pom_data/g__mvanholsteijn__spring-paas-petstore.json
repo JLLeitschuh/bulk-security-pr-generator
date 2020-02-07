@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mvanholsteijn/spring-paas-petstore", 
+    "url-identifier": "g/mvanholsteijn/spring-paas-petstore", 
+    "id": 1509054546355, 
+    "name": "mvanholsteijn/spring-paas-petstore"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mvanholsteijn/spring-paas-petstore/snapshot/2ffd4108c51bd3adc00788a34c7665fe263c1038/files/pom.xml#L233", 
+        "line": 233, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mvanholsteijn/spring-paas-petstore/snapshot/2ffd4108c51bd3adc00788a34c7665fe263c1038/files/pom.xml#L238", 
+        "line": 238, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mvanholsteijn/spring-paas-petstore/snapshot/2ffd4108c51bd3adc00788a34c7665fe263c1038/files/pom.xml#L243", 
+        "line": 243, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mvanholsteijn/spring-paas-petstore/snapshot/2ffd4108c51bd3adc00788a34c7665fe263c1038/files/pom.xml#L248", 
+        "line": 248, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

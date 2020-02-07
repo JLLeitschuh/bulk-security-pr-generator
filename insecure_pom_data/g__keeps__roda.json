@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/keeps/roda", 
+    "url-identifier": "g/keeps/roda", 
+    "id": 1800439, 
+    "name": "keeps/roda"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/keeps/roda/snapshot/0a33ce2a62c6526944f27dde4e0a8cfb5d49bbc7/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://artifactory.keep.pt/keep"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/keeps/roda/snapshot/0a33ce2a62c6526944f27dde4e0a8cfb5d49bbc7/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

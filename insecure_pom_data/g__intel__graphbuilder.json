@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/intel/graphbuilder", 
+    "url-identifier": "g/intel/graphbuilder", 
+    "id": 41970011, 
+    "name": "intel/graphbuilder"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intel/graphbuilder/snapshot/9a5e32ca33a93e91c6c4021c1d2083f4c642e2f8/files/pom.xml#L127", 
+        "line": 127, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://gwtwiki.googlecode.com/svn/maven-repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/kubernetes-pipeline-plugin", 
+    "url-identifier": "g/jenkinsci/kubernetes-pipeline-plugin", 
+    "id": 1509237026051, 
+    "name": "jenkinsci/kubernetes-pipeline-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/kubernetes-pipeline-plugin/snapshot/e19eb10c282bc7082fb846408e6c3e19a88373cc/files/pom.xml#L399", 
+        "line": 399, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/kubernetes-pipeline-plugin/snapshot/e19eb10c282bc7082fb846408e6c3e19a88373cc/files/pom.xml#L405", 
+        "line": 405, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

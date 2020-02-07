@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pvdlg/boilerpipe", 
+    "url-identifier": "g/pvdlg/boilerpipe", 
+    "id": 54010018, 
+    "name": "pvdlg/boilerpipe"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pvdlg/boilerpipe/snapshot/db4e95c316699ffc9daedece6632b759f3a5d6b3/files/pom.xml#L180", 
+        "line": 180, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

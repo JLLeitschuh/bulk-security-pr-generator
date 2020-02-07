@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/arun-gupta/docker-java-sample", 
+    "url-identifier": "g/arun-gupta/docker-java-sample", 
+    "id": 1506530349810, 
+    "name": "arun-gupta/docker-java-sample"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/arun-gupta/docker-java-sample/snapshot/f32817e55007498bdce7c4ad14ba49b6a50fac8c/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://downloads.mesosphere.io/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/DSpace/xoai", 
+    "url-identifier": "g/DSpace/xoai", 
+    "id": 1507189076154, 
+    "name": "DSpace/xoai"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DSpace/xoai/snapshot/aac540c505380fa55545b937cd8324b2d0ac41c8/files/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/maven-assembly-plugin", 
+    "url-identifier": "g/apache/maven-assembly-plugin", 
+    "id": 1511094201367, 
+    "name": "apache/maven-assembly-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-assembly-plugin/snapshot/31514598a9442d989df7380b2ab41b22a960e44c/files/pom.xml#L366", 
+        "line": 366, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-assembly-plugin/snapshot/31514598a9442d989df7380b2ab41b22a960e44c/files/src/it/projects/dependency-sets/massembly-99/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/src/it/projects/dependency-sets/massembly-99/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-assembly-plugin/snapshot/31514598a9442d989df7380b2ab41b22a960e44c/files/src/it/projects/dependency-sets/using-moduleSet-implied-depSet/pom.xml#L46", 
+        "line": 46, 
+        "value": "pluginRepository", 
+        "file": "/src/it/projects/dependency-sets/using-moduleSet-implied-depSet/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

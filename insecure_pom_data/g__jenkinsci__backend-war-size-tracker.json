@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/backend-war-size-tracker", 
+    "url-identifier": "g/jenkinsci/backend-war-size-tracker", 
+    "id": 1506638388432, 
+    "name": "jenkinsci/backend-war-size-tracker"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-war-size-tracker/snapshot/06a174a40a849b4189371fac1a4de8e9e66c5e97/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.glassfish.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-war-size-tracker/snapshot/06a174a40a849b4189371fac1a4de8e9e66c5e97/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.glassfish.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-war-size-tracker/snapshot/06a174a40a849b4189371fac1a4de8e9e66c5e97/files/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

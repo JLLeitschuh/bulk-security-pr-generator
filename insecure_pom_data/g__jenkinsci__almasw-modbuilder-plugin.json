@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/almasw-modbuilder-plugin", 
+    "url-identifier": "g/jenkinsci/almasw-modbuilder-plugin", 
+    "id": 1509075626021, 
+    "name": "jenkinsci/almasw-modbuilder-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/almasw-modbuilder-plugin/snapshot/8912b269dd525ae213e693f8342e33ceb5c62fdc/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/almasw-modbuilder-plugin/snapshot/8912b269dd525ae213e693f8342e33ceb5c62fdc/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

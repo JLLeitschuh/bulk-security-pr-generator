@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ApicaSystem/Apica.LoadtestPortal.JenkinsBuildRunner", 
+    "url-identifier": "g/ApicaSystem/Apica.LoadtestPortal.JenkinsBuildRunner", 
+    "id": 1506595550890, 
+    "name": "ApicaSystem/Apica.LoadtestPortal.JenkinsBuildRunner"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ApicaSystem/Apica.LoadtestPortal.JenkinsBuildRunner/snapshot/3b8e82152d2f912bb82eea043d01550f0e177e39/files/ApicaLoadtest/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/ApicaLoadtest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ApicaSystem/Apica.LoadtestPortal.JenkinsBuildRunner/snapshot/3b8e82152d2f912bb82eea043d01550f0e177e39/files/ApicaLoadtest/pom.xml#L101", 
+        "line": 101, 
+        "value": "pluginRepository", 
+        "file": "/ApicaLoadtest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

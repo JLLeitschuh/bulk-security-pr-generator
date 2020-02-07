@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Cognifide/Slice", 
+    "url-identifier": "g/Cognifide/Slice", 
+    "id": 13080033, 
+    "name": "Cognifide/Slice"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Cognifide/Slice/snapshot/75c57d17d341e474dd8b82731cb907fcb30ead7f/files/pom.xml#L596", 
+        "line": 596, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

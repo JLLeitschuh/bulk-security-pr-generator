@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/elasticinbox/elasticinbox", 
+    "url-identifier": "g/elasticinbox/elasticinbox", 
+    "id": 47570114, 
+    "name": "elasticinbox/elasticinbox"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elasticinbox/elasticinbox/snapshot/0a5ff6a8a429e672cb29521e4d6ce1ee9194be76/files/itests/pom.xml#L479", 
+        "line": 479, 
+        "value": "repository", 
+        "file": "/itests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elasticinbox/elasticinbox/snapshot/0a5ff6a8a429e672cb29521e4d6ce1ee9194be76/files/pom.xml#L211", 
+        "line": 211, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elasticinbox/elasticinbox/snapshot/0a5ff6a8a429e672cb29521e4d6ce1ee9194be76/files/pom.xml#L224", 
+        "line": 224, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

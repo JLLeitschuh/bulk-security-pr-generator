@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/k-qing/build-line-plugin", 
+    "url-identifier": "g/k-qing/build-line-plugin", 
+    "id": 1506585590144, 
+    "name": "k-qing/build-line-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/k-qing/build-line-plugin/snapshot/dc78034c294ac0c101224a97222dbdf24d21afa3/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/k-qing/build-line-plugin/snapshot/dc78034c294ac0c101224a97222dbdf24d21afa3/files/pom.xml#L104", 
+        "line": 104, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

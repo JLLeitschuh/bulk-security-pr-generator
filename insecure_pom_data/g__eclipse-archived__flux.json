@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse-archived/flux", 
+    "url-identifier": "g/eclipse-archived/flux", 
+    "id": 57320122, 
+    "name": "eclipse-archived/flux"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-archived/flux/snapshot/df459b473f45b67a111a88f5435b609ee535dc11/files/org.eclipse.flux.parent/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/org.eclipse.flux.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/luna"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-archived/flux/snapshot/df459b473f45b67a111a88f5435b609ee535dc11/files/org.eclipse.flux.parent/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/org.eclipse.flux.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/downloads/drops/R20140525021250/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-archived/flux/snapshot/df459b473f45b67a111a88f5435b609ee535dc11/files/org.eclipse.flux.parent/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/org.eclipse.flux.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/cbi/updates/license"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/IHTSDO/snomed-template-service", 
+    "url-identifier": "g/IHTSDO/snomed-template-service", 
+    "id": 1508070004442, 
+    "name": "IHTSDO/snomed-template-service"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IHTSDO/snomed-template-service/snapshot/c18f0704ef53c67300dcfd053337a382c6ad262a/files/pom.xml#L139", 
+        "line": 139, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IHTSDO/snomed-template-service/snapshot/c18f0704ef53c67300dcfd053337a382c6ad262a/files/pom.xml#L199", 
+        "line": 199, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

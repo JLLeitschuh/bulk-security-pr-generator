@@ -1,0 +1,168 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/skyscreamer/yoga", 
+    "url-identifier": "g/skyscreamer/yoga", 
+    "id": 41760051, 
+    "name": "skyscreamer/yoga"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-demos/yoga-demo-jaxrs-shared/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/yoga-demos/yoga-demo-jaxrs-shared/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.java.net"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-demos/yoga-demo-jersey-standalone/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/yoga-demos/yoga-demo-jersey-standalone/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.java.net"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-demos/yoga-demo-resteasy/pom.xml#L104", 
+        "line": 104, 
+        "value": "repository", 
+        "file": "/yoga-demos/yoga-demo-resteasy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-demos/yoga-demo-resteasy/pom.xml#L120", 
+        "line": 120, 
+        "value": "pluginRepository", 
+        "file": "/yoga-demos/yoga-demo-resteasy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-demos/yoga-demo-shared/pom.xml#L152", 
+        "line": 152, 
+        "value": "repository", 
+        "file": "/yoga-demos/yoga-demo-shared/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-demos/yoga-demo-shared/pom.xml#L166", 
+        "line": 166, 
+        "value": "repository", 
+        "file": "/yoga-demos/yoga-demo-shared/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-demos/yoga-demo-shared/pom.xml#L178", 
+        "line": 178, 
+        "value": "pluginRepository", 
+        "file": "/yoga-demos/yoga-demo-shared/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-demos/yoga-demo-springmvc/pom.xml#L123", 
+        "line": 123, 
+        "value": "repository", 
+        "file": "/yoga-demos/yoga-demo-springmvc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-demos/yoga-demo-springmvc/pom.xml#L144", 
+        "line": 144, 
+        "value": "pluginRepository", 
+        "file": "/yoga-demos/yoga-demo-springmvc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-demos/yoga-demo-springmvc/pom.xml#L155", 
+        "line": 155, 
+        "value": "pluginRepository", 
+        "file": "/yoga-demos/yoga-demo-springmvc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-integration/yoga-jaxrs/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/yoga-integration/yoga-jaxrs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-integration/yoga-jaxrs/pom.xml#L62", 
+        "line": 62, 
+        "value": "pluginRepository", 
+        "file": "/yoga-integration/yoga-jaxrs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-integration/yoga-jersey/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/yoga-integration/yoga-jersey/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/yoga/snapshot/b49ab705b16d79bce60a5aaae34f102998c29c93/files/yoga-integration/yoga-jersey/pom.xml#L73", 
+        "line": 73, 
+        "value": "pluginRepository", 
+        "file": "/yoga-integration/yoga-jersey/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

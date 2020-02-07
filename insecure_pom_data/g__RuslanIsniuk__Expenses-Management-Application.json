@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/RuslanIsniuk/Expenses-Management-Application", 
+    "url-identifier": "g/RuslanIsniuk/Expenses-Management-Application", 
+    "id": 1506616748173, 
+    "name": "RuslanIsniuk/Expenses-Management-Application"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RuslanIsniuk/Expenses-Management-Application/snapshot/7bb4cb9276759323c0c87104714a6542809cf8f3/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.com/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

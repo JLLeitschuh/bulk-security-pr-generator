@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse/deeplearning4j", 
+    "url-identifier": "g/eclipse/deeplearning4j", 
+    "id": 5649391675244544, 
+    "name": "eclipse/deeplearning4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/deeplearning4j/snapshot/89dc58e5c19540f7d00faae0ba20d458a7ae1af3/files/gym-java-client/pom.xml#L409", 
+        "line": 409, 
+        "value": "repository", 
+        "file": "/gym-java-client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

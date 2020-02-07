@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tomdz/storm-esper", 
+    "url-identifier": "g/tomdz/storm-esper", 
+    "id": 47990004, 
+    "name": "tomdz/storm-esper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomdz/storm-esper/snapshot/0f2bd14c230ec84d1055841bd51bcb02cc0ef4d3/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomdz/storm-esper/snapshot/0f2bd14c230ec84d1055841bd51bcb02cc0ef4d3/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomdz/storm-esper/snapshot/0f2bd14c230ec84d1055841bd51bcb02cc0ef4d3/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomdz/storm-esper/snapshot/0f2bd14c230ec84d1055841bd51bcb02cc0ef4d3/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://twitter4j.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Impetus/Kundera", 
+    "url-identifier": "g/Impetus/Kundera", 
+    "id": 1803060473, 
+    "name": "Impetus/Kundera"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Impetus/Kundera/snapshot/95518328fa4a0a08c1f34d9b42f8e7a92c02f3c0/files/examples/container/jboss/data-keeper/pom.xml#L165", 
+        "line": 165, 
+        "value": "repository", 
+        "file": "/examples/container/jboss/data-keeper/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Impetus/Kundera/snapshot/95518328fa4a0a08c1f34d9b42f8e7a92c02f3c0/files/examples/container/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/examples/container/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mirrors.ibiblio.org/pub/mirrors/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Impetus/Kundera/snapshot/95518328fa4a0a08c1f34d9b42f8e7a92c02f3c0/files/examples/container/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/examples/container/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://kundera.googlecode.com/svn/maven2/maven-missing-resources"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Impetus/Kundera/snapshot/95518328fa4a0a08c1f34d9b42f8e7a92c02f3c0/files/examples/container/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/examples/container/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvn.riptano.com/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Impetus/Kundera/snapshot/95518328fa4a0a08c1f34d9b42f8e7a92c02f3c0/files/examples/polyglot/kvapps/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/examples/polyglot/kvapps/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://kundera.googlecode.com/svn/maven2/maven-missing-resources"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Impetus/Kundera/snapshot/95518328fa4a0a08c1f34d9b42f8e7a92c02f3c0/files/examples/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mirrors.ibiblio.org/pub/mirrors/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Impetus/Kundera/snapshot/95518328fa4a0a08c1f34d9b42f8e7a92c02f3c0/files/examples/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://kundera.googlecode.com/svn/maven2/maven-missing-resources"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Impetus/Kundera/snapshot/95518328fa4a0a08c1f34d9b42f8e7a92c02f3c0/files/examples/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvn.riptano.com/content/repositories/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nativelibs4java/JNAerator", 
+    "url-identifier": "g/nativelibs4java/JNAerator", 
+    "id": 43800063, 
+    "name": "nativelibs4java/JNAerator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nativelibs4java/JNAerator/snapshot/58b819971076350ed915b55559579ff247d478e4/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nativelibs4java/JNAerator/snapshot/58b819971076350ed915b55559579ff247d478e4/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

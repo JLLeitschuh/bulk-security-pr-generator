@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wso2/carbon-identity-framework", 
+    "url-identifier": "g/wso2/carbon-identity-framework", 
+    "id": 1506685816577, 
+    "name": "wso2/carbon-identity-framework"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-identity-framework/snapshot/c28de57833f240676adccc4efa0230e08b7fd024/files/components/provisioning/org.wso2.carbon.identity.provisioning/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/components/provisioning/org.wso2.carbon.identity.provisioning/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://google-api-client-libraries.appspot.com/mavenrepo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-identity-framework/snapshot/c28de57833f240676adccc4efa0230e08b7fd024/files/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-identity-framework/snapshot/c28de57833f240676adccc4efa0230e08b7fd024/files/pom.xml#L100", 
+        "line": 100, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-identity-framework/snapshot/c28de57833f240676adccc4efa0230e08b7fd024/files/pom.xml#L111", 
+        "line": 111, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-identity-framework/snapshot/c28de57833f240676adccc4efa0230e08b7fd024/files/pom.xml#L140", 
+        "line": 140, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-identity-framework/snapshot/c28de57833f240676adccc4efa0230e08b7fd024/files/pom.xml#L151", 
+        "line": 151, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-identity-framework/snapshot/c28de57833f240676adccc4efa0230e08b7fd024/files/pom.xml#L163", 
+        "line": 163, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

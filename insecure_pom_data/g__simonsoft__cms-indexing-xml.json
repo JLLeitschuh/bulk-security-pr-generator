@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/simonsoft/cms-indexing-xml", 
+    "url-identifier": "g/simonsoft/cms-indexing-xml", 
+    "id": 1506489706965, 
+    "name": "simonsoft/cms-indexing-xml"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/simonsoft/cms-indexing-xml/snapshot/53bd3e4730aa6154998ff8ab444080542b2a0dba/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://opensource.simonsoft.se/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

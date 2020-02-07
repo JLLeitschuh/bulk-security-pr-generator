@@ -1,0 +1,102 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ioos/i52n-sos", 
+    "url-identifier": "g/ioos/i52n-sos", 
+    "id": 13010011, 
+    "name": "ioos/i52n-sos"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ioos/i52n-sos/snapshot/b9b8b3372537ef58c9872f1ac93785e11a8ddfea/files/pom.xml#L553", 
+        "line": 553, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ioos/i52n-sos/snapshot/b9b8b3372537ef58c9872f1ac93785e11a8ddfea/files/pom.xml#L564", 
+        "line": 564, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ioos/i52n-sos/snapshot/b9b8b3372537ef58c9872f1ac93785e11a8ddfea/files/pom.xml#L579", 
+        "line": 579, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.axiomalaska.com/nexus/content/repositories/public-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ioos/i52n-sos/snapshot/b9b8b3372537ef58c9872f1ac93785e11a8ddfea/files/pom.xml#L590", 
+        "line": 590, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.axiomalaska.com/nexus/content/repositories/public-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ioos/i52n-sos/snapshot/b9b8b3372537ef58c9872f1ac93785e11a8ddfea/files/pom.xml#L602", 
+        "line": 602, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ioos/i52n-sos/snapshot/b9b8b3372537ef58c9872f1ac93785e11a8ddfea/files/pom.xml#L610", 
+        "line": 610, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ioos/i52n-sos/snapshot/b9b8b3372537ef58c9872f1ac93785e11a8ddfea/files/pom.xml#L628", 
+        "line": 628, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.axiomalaska.com/nexus/content/repositories/public-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ioos/i52n-sos/snapshot/b9b8b3372537ef58c9872f1ac93785e11a8ddfea/files/pom.xml#L634", 
+        "line": 634, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.axiomalaska.com/nexus/content/repositories/public-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

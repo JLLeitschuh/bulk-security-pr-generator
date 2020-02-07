@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/neo4j-contrib/rabbithole", 
+    "url-identifier": "g/neo4j-contrib/rabbithole", 
+    "id": 46070047, 
+    "name": "neo4j-contrib/rabbithole"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/neo4j-contrib/rabbithole/snapshot/34f59dc3b16ba9577e7fb1eca73e10a3ee605e8c/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/neo4j-contrib/rabbithole/snapshot/34f59dc3b16ba9577e7fb1eca73e10a3ee605e8c/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/neo4j-contrib/rabbithole/snapshot/34f59dc3b16ba9577e7fb1eca73e10a3ee605e8c/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mandubian-mvn.googlecode.com/svn/trunk/mandubian-mvn/repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

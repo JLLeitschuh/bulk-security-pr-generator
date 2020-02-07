@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dadoonet/elasticsearch-beyonder", 
+    "url-identifier": "g/dadoonet/elasticsearch-beyonder", 
+    "id": 1506465347757, 
+    "name": "dadoonet/elasticsearch-beyonder"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dadoonet/elasticsearch-beyonder/snapshot/e5626e974cbc036b75ac58b00cbdacfcc61cf659/files/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.elastic.co/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

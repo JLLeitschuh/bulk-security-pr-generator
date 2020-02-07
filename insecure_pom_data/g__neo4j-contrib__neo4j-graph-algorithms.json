@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/neo4j-contrib/neo4j-graph-algorithms", 
+    "url-identifier": "g/neo4j-contrib/neo4j-graph-algorithms", 
+    "id": 1506698327025, 
+    "name": "neo4j-contrib/neo4j-graph-algorithms"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/neo4j-contrib/neo4j-graph-algorithms/snapshot/80f137b7f1826c001766947769928a184b74b3a4/files/benchmark/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/benchmark/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.ej-technologies.com/repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

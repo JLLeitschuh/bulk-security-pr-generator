@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ShifuML/guagua", 
+    "url-identifier": "g/ShifuML/guagua", 
+    "id": 61100073, 
+    "name": "ShifuML/guagua"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ShifuML/guagua/snapshot/737a96d8ef1f4eb37a448ff5bd016ae50af712e0/files/guagua-mapreduce/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/guagua-mapreduce/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/service/local/repositories/releases/content"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ShifuML/guagua/snapshot/737a96d8ef1f4eb37a448ff5bd016ae50af712e0/files/guagua-mapreduce/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/guagua-mapreduce/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/nexus/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

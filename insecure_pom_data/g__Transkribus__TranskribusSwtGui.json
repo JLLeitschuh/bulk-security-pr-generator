@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Transkribus/TranskribusSwtGui", 
+    "url-identifier": "g/Transkribus/TranskribusSwtGui", 
+    "id": 1511025435676, 
+    "name": "Transkribus/TranskribusSwtGui"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Transkribus/TranskribusSwtGui/snapshot/f0d3e666257212b1214f527204db46fa19ba0c2b/files/pom.xml#L1004", 
+        "line": 1004, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dbis-halvar.uibk.ac.at/artifactory/libs-release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Transkribus/TranskribusSwtGui/snapshot/f0d3e666257212b1214f527204db46fa19ba0c2b/files/pom.xml#L1009", 
+        "line": 1009, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Transkribus/TranskribusSwtGui/snapshot/f0d3e666257212b1214f527204db46fa19ba0c2b/files/pom.xml#L1017", 
+        "line": 1017, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-eclipse.github.io/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

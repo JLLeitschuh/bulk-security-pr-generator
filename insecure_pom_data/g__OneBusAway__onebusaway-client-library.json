@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-client-library", 
+    "url-identifier": "g/OneBusAway/onebusaway-client-library", 
+    "id": 1507610876006, 
+    "name": "OneBusAway/onebusaway-client-library"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-client-library/snapshot/87955c9c10bbdea0eaceaad88f28736a35b21ac5/files/pom.xml#L136", 
+        "line": 136, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-client-library/snapshot/87955c9c10bbdea0eaceaad88f28736a35b21ac5/files/pom.xml#L143", 
+        "line": 143, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

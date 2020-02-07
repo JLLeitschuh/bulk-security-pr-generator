@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/b/kafka-websocket", 
+    "url-identifier": "g/b/kafka-websocket", 
+    "id": 49480006, 
+    "name": "b/kafka-websocket"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/b/kafka-websocket/snapshot/b06a47a47811a93bf54124a7c2553c86a376a57f/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/b/kafka-websocket/snapshot/b06a47a47811a93bf54124a7c2553c86a376a57f/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

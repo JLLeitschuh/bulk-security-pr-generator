@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/weiyin/appetize-jenkins-plugin", 
+    "url-identifier": "g/weiyin/appetize-jenkins-plugin", 
+    "id": 1509210538501, 
+    "name": "weiyin/appetize-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/weiyin/appetize-jenkins-plugin/snapshot/f7db191e802a51bf0f6b17d5f8837bf9ce38e315/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/weiyin/appetize-jenkins-plugin/snapshot/f7db191e802a51bf0f6b17d5f8837bf9ce38e315/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

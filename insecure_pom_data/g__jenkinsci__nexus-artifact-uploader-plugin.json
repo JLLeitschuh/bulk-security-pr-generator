@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/nexus-artifact-uploader-plugin", 
+    "url-identifier": "g/jenkinsci/nexus-artifact-uploader-plugin", 
+    "id": 1509196356206, 
+    "name": "jenkinsci/nexus-artifact-uploader-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/nexus-artifact-uploader-plugin/snapshot/d80e5095e1629f9bd6776f8fea21f18901b89680/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/nexus-artifact-uploader-plugin/snapshot/d80e5095e1629f9bd6776f8fea21f18901b89680/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

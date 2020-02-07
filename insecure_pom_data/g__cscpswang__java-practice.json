@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cscpswang/java-practice", 
+    "url-identifier": "g/cscpswang/java-practice", 
+    "id": 1510221596564, 
+    "name": "cscpswang/java-practice"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cscpswang/java-practice/snapshot/c583c6a5cc80e462000bb81063c63343f402e168/files/pom.xml#L113", 
+        "line": 113, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/build-history-metrics-plugin", 
+    "url-identifier": "g/jenkinsci/build-history-metrics-plugin", 
+    "id": 1506610389322, 
+    "name": "jenkinsci/build-history-metrics-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/build-history-metrics-plugin/snapshot/0287546856871f8775be3bfc6582e4d5fdd25d50/files/pom.xml#L112", 
+        "line": 112, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/build-history-metrics-plugin/snapshot/0287546856871f8775be3bfc6582e4d5fdd25d50/files/pom.xml#L119", 
+        "line": 119, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

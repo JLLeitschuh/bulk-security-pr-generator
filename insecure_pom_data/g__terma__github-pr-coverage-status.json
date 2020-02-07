@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/terma/github-pr-coverage-status", 
+    "url-identifier": "g/terma/github-pr-coverage-status", 
+    "id": 1509190587817, 
+    "name": "terma/github-pr-coverage-status"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/terma/github-pr-coverage-status/snapshot/2c1e34e693521bde8a88513d21c2cf0529afa091/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/terma/github-pr-coverage-status/snapshot/2c1e34e693521bde8a88513d21c2cf0529afa091/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

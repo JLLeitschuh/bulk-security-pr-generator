@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dandelion/dandelion", 
+    "url-identifier": "g/dandelion/dandelion", 
+    "id": 33300204, 
+    "name": "dandelion/dandelion"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dandelion/dandelion/snapshot/e92d5d862472227247f47342cf551746854b3be1/files/dandelion-docs/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/dandelion-docs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

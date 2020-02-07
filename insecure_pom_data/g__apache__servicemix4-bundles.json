@@ -1,0 +1,905 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles", 
+    "url-identifier": "g/apache/servicemix4-bundles", 
+    "id": 1506236366839, 
+    "name": "apache/servicemix4-bundles"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/abdera-0.4.0-incubating/pom.xml#L130", 
+        "line": 130, 
+        "value": "repository", 
+        "file": "/abdera-0.4.0-incubating/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-incubating-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/casbah-2.1.2/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/casbah-2.1.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/casbah-2.1.5-1/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/casbah-2.1.5-1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/casbah-2.6.2/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/casbah-2.6.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/casbah-2.6.3/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/casbah-2.6.3/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/casbah-2.6.4/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/casbah-2.6.4/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/casbah-2.7.2/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/casbah-2.7.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/casbah-2.7.3/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/casbah-2.7.3/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/casbah-2.8.0/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/casbah-2.8.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/commons-csv-1.0/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/commons-csv-1.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/drools-4.0.7/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/drools-4.0.7/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/drools-5.1.1/pom.xml#L79", 
+        "line": 79, 
+        "value": "repository", 
+        "file": "/drools-5.1.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/drools-5.5.0/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/drools-5.5.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/drools-5.6.0/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/drools-5.6.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/flatpack-3.2.0/pom.xml#L74", 
+        "line": 74, 
+        "value": "repository", 
+        "file": "/flatpack-3.2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/gdata-1.41.1/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/gdata-1.41.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/gentlyweb-utils-1.5/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/gentlyweb-utils-1.5/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/guice-2.0/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/guice-2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://guiceyfruit.googlecode.com/svn/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/hamcrest-1.2/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/hamcrest-1.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://guiceyfruit.googlecode.com/svn/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/hapi-0.5.1/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/hapi-0.5.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/hibernate-validator-4.0.2.GA/pom.xml#L110", 
+        "line": 110, 
+        "value": "repository", 
+        "file": "/hibernate-validator-4.0.2.GA/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.com/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/hibernate-validator-4.1.0.Final/pom.xml#L111", 
+        "line": 111, 
+        "value": "repository", 
+        "file": "/hibernate-validator-4.1.0.Final/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/hibernate-validator-5.0.2.Final/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/hibernate-validator-5.0.2.Final/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/hsqldb-1.8.0.10/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/hsqldb-1.8.0.10/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/maven2-all"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/hsqldb-1.8.0.7/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/hsqldb-1.8.0.7/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/maven2-all"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/isorelax-20050913/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/isorelax-20050913/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/jain-sip-ri-1.2.154/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/jain-sip-ri-1.2.154/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/jain-sip-ri-1.2.166/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/jain-sip-ri-1.2.166/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/jain-sip-ri-1.2.169/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/jain-sip-ri-1.2.169/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/javassist-3.11.0.GA/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/javassist-3.11.0.GA/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/javassist-3.12.0.GA/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/javassist-3.12.0.GA/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/javassist-3.12.1.GA/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/javassist-3.12.1.GA/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2-brew/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/javassist-3.9.0.GA/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/javassist-3.9.0.GA/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/jaxb-impl-2.1.13/pom.xml#L98", 
+        "line": 98, 
+        "value": "repository", 
+        "file": "/jaxb-impl-2.1.13/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/jaxp-ri-1.4.4/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/jaxp-ri-1.4.4/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/jdt-core-3.2.3/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/jdt-core-3.2.3/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/jibx-1.1.3/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/jibx-1.1.3/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jibx.sf.net/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/josql-1.5/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/josql-1.5/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.open.iona.com/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/jsendnsca-core-1.3.1/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/jsendnsca-core-1.3.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/maven2-all"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/jsmpp-2.0/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/jsmpp-2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/jsmpp-2.1.0/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/jsmpp-2.1.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/mybatis-3.0.2/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/mybatis-3.0.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/neo4j-1.8/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/neo4j-1.8/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/neo4j-1.9/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/neo4j-1.9/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/neo4j-1.9.2/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/neo4j-1.9.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/netty-3.2.10.Final/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/netty-3.2.10.Final/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/netty-3.2.3.Final/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/netty-3.2.3.Final/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/netty-3.2.4.Final/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/netty-3.2.4.Final/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/netty-3.2.5.Final/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/netty-3.2.5.Final/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/netty-3.2.6.Final/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/netty-3.2.6.Final/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/netty-3.2.7.Final/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/netty-3.2.7.Final/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/netty-3.2.8.Final/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/netty-3.2.8.Final/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/netty-3.2.9.Final/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/netty-3.2.9.Final/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/qpid-0.5.0/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/qpid-0.5.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.open.iona.com/maven2-all"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/qpid-0.6.0/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/qpid-0.6.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/qpid-0.8.0/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/qpid-0.8.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/quartz-1.6.6/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/quartz-1.6.6/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/maven2-all"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/quickfix-1.5.0/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/quickfix-1.5.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/maven2-all"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/quickfix-1.5.1/pom.xml#L83", 
+        "line": 83, 
+        "value": "repository", 
+        "file": "/quickfix-1.5.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/quickfix-1.5.2/pom.xml#L83", 
+        "line": 83, 
+        "value": "repository", 
+        "file": "/quickfix-1.5.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.marketcetera.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/quickfix-1.5.3/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/quickfix-1.5.3/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/restlet-1.1.10/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/restlet-1.1.10/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/rome-1.0/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/rome-1.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/saxon-9.1.0.1/pom.xml#L97", 
+        "line": 97, 
+        "value": "repository", 
+        "file": "/saxon-9.1.0.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/saxon-9.1.0.8/pom.xml#L126", 
+        "line": 126, 
+        "value": "repository", 
+        "file": "/saxon-9.1.0.8/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/saxon-9.3.0.11/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/saxon-9.3.0.11/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/saxon-9.4.0.1/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/saxon-9.4.0.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/saxon-9.4.0.4/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/saxon-9.4.0.4/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/scalaj-collection-1.0/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/scalaj-collection-1.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/smack-3.0.4/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/smack-3.0.4/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/smack-3.1.0/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/smack-3.1.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.reucon.com/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/smack-3.2.0/pom.xml#L93", 
+        "line": 93, 
+        "value": "repository", 
+        "file": "/smack-3.2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/smack-3.2.1/pom.xml#L98", 
+        "line": 98, 
+        "value": "repository", 
+        "file": "/smack-3.2.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/splunk-1.1.0/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/splunk-1.1.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://splunk.artifactoryonline.com/splunk/ext-releases-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/splunk-1.2.0/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/splunk-1.2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://splunk.artifactoryonline.com/splunk/ext-releases-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/splunk-1.2.1.0/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/splunk-1.2.1.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://splunk.artifactoryonline.com/splunk/ext-releases-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/splunk-1.2.2.0/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/splunk-1.2.2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://splunk.artifactoryonline.com/splunk/ext-releases-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/splunk-1.3.0/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/splunk-1.3.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://splunk.artifactoryonline.com/splunk/ext-releases-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/splunk-1.3.1.0/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/splunk-1.3.1.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://splunk.artifactoryonline.com/splunk/ext-releases-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/splunk-1.3.2.0/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/splunk-1.3.2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://splunk.artifactoryonline.com/splunk/ext-releases-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix4-bundles/snapshot/3427eae2c7c67518f6fa9a4feb08226fdcec92ca/files/spymemcached-2.5/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/spymemcached-2.5/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bleu.west.spy.net/~dustin/m2repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pocariP/project", 
+    "url-identifier": "g/pocariP/project", 
+    "id": 1506642276610, 
+    "name": "pocariP/project"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pocariP/project/snapshot/046c13c8f78bf6698bccc3bf9711b3f87bd5ed30/files/pocari/pom.xml#L212", 
+        "line": 212, 
+        "value": "repository", 
+        "file": "/pocari/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jahia.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

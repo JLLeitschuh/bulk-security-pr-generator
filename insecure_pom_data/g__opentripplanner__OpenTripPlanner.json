@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opentripplanner/OpenTripPlanner", 
+    "url-identifier": "g/opentripplanner/OpenTripPlanner", 
+    "id": 44790048, 
+    "name": "opentripplanner/OpenTripPlanner"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opentripplanner/OpenTripPlanner/snapshot/90ae1b00bd71ba07da68c28bcb75f66d214912b3/files/pom.xml#L440", 
+        "line": 440, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

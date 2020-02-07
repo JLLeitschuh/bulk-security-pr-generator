@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tinyspeck/jenkins-slack-plugin", 
+    "url-identifier": "g/tinyspeck/jenkins-slack-plugin", 
+    "id": 1509028531223, 
+    "name": "tinyspeck/jenkins-slack-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tinyspeck/jenkins-slack-plugin/snapshot/6e035e96498baf4fd16c72e74bd0c6c80c7b8046/files/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tinyspeck/jenkins-slack-plugin/snapshot/6e035e96498baf4fd16c72e74bd0c6c80c7b8046/files/pom.xml#L97", 
+        "line": 97, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

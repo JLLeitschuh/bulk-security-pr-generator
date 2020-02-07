@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dcaoyuan/nbscala", 
+    "url-identifier": "g/dcaoyuan/nbscala", 
+    "id": 26624088, 
+    "name": "dcaoyuan/nbscala"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dcaoyuan/nbscala/snapshot/44f097838d081e1051f216a22789543ad8273ed6/files/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/nexus/content/groups/netbeans"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dcaoyuan/nbscala/snapshot/44f097838d081e1051f216a22789543ad8273ed6/files/pom.xml#L100", 
+        "line": 100, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dcaoyuan/nbscala/snapshot/44f097838d081e1051f216a22789543ad8273ed6/files/pom.xml#L106", 
+        "line": 106, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.typesafe.com/typesafe/ivy-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dcaoyuan/nbscala/snapshot/44f097838d081e1051f216a22789543ad8273ed6/files/pom.xml#L110", 
+        "line": 110, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.typesafe.com/typesafe/ivy-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/blitz-io/blitz-jenkins", 
+    "url-identifier": "g/blitz-io/blitz-jenkins", 
+    "id": 1506632488054, 
+    "name": "blitz-io/blitz-jenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/blitz-io/blitz-jenkins/snapshot/f5d513efaef7b5433a34ea5230d541345ce9751a/files/pom.xml#L74", 
+        "line": 74, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/blitz-io/blitz-jenkins/snapshot/f5d513efaef7b5433a34ea5230d541345ce9751a/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

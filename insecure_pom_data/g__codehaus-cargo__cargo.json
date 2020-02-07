@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/codehaus-cargo/cargo", 
+    "url-identifier": "g/codehaus-cargo/cargo", 
+    "id": 4850275, 
+    "name": "codehaus-cargo/cargo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/codehaus-cargo/cargo/snapshot/5fb3c97875cc91c408c8cf7cfc8ad5b0f6d50e40/files/extensions/maven2/archetypes/remote-deployment/src/main/resources/archetype-resources/pom.xml#L338", 
+        "line": 338, 
+        "value": "pluginRepository", 
+        "file": "/extensions/maven2/archetypes/remote-deployment/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/glassfish/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/codehaus-cargo/cargo/snapshot/5fb3c97875cc91c408c8cf7cfc8ad5b0f6d50e40/files/extensions/maven2/archetypes/remote-deployment/src/main/resources/archetype-resources/pom.xml#L344", 
+        "line": 344, 
+        "value": "repository", 
+        "file": "/extensions/maven2/archetypes/remote-deployment/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/glassfish"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

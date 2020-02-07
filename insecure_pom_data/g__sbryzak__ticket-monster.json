@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sbryzak/ticket-monster", 
+    "url-identifier": "g/sbryzak/ticket-monster", 
+    "id": 1802081330, 
+    "name": "sbryzak/ticket-monster"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sbryzak/ticket-monster/snapshot/e60101b4b414e978f83c9da41787fbfd108465b0/files/pom.xml#L169", 
+        "line": 169, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sbryzak/ticket-monster/snapshot/e60101b4b414e978f83c9da41787fbfd108465b0/files/pom.xml#L180", 
+        "line": 180, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sbryzak/ticket-monster/snapshot/e60101b4b414e978f83c9da41787fbfd108465b0/files/pom.xml#L202", 
+        "line": 202, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sbryzak/ticket-monster/snapshot/e60101b4b414e978f83c9da41787fbfd108465b0/files/pom.xml#L213", 
+        "line": 213, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

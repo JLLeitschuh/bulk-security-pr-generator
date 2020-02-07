@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/gcloud-plugin", 
+    "url-identifier": "g/jenkinsci/gcloud-plugin", 
+    "id": 1506646059025, 
+    "name": "jenkinsci/gcloud-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/gcloud-plugin/snapshot/9b4c9cefbacacffe3d25a0ffd21ddff1bf02aa0c/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/gcloud-plugin/snapshot/9b4c9cefbacacffe3d25a0ffd21ddff1bf02aa0c/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ialbors/log-command-plugin", 
+    "url-identifier": "g/ialbors/log-command-plugin", 
+    "id": 1506601009043, 
+    "name": "ialbors/log-command-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ialbors/log-command-plugin/snapshot/b669a1df0dd53230450b8ff897bc4aab923c43c0/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ialbors/log-command-plugin/snapshot/b669a1df0dd53230450b8ff897bc4aab923c43c0/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

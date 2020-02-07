@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/camunda/camunda-bpm-platform-osgi", 
+    "url-identifier": "g/camunda/camunda-bpm-platform-osgi", 
+    "id": 13030008, 
+    "name": "camunda/camunda-bpm-platform-osgi"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camunda/camunda-bpm-platform-osgi/snapshot/c410f3d5934564e7d74e97389101c211c383e641/files/camunda-bpm-karaf-feature/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/camunda-bpm-karaf-feature/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camunda/camunda-bpm-platform-osgi/snapshot/c410f3d5934564e7d74e97389101c211c383e641/files/camunda-bpm-karaf-feature/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/camunda-bpm-karaf-feature/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camunda/camunda-bpm-platform-osgi/snapshot/c410f3d5934564e7d74e97389101c211c383e641/files/pom.xml#L375", 
+        "line": 375, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dkpro/dkpro-tc", 
+    "url-identifier": "g/dkpro/dkpro-tc", 
+    "id": 1507183366147, 
+    "name": "dkpro/dkpro-tc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dkpro/dkpro-tc/snapshot/0f3f7366900ac23034795db13985737c59858ca9/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-model-releases-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

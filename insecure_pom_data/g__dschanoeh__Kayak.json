@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dschanoeh/Kayak", 
+    "url-identifier": "g/dschanoeh/Kayak", 
+    "id": 66130065, 
+    "name": "dschanoeh/Kayak"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dschanoeh/Kayak/snapshot/f99802c2295f79d34b9d58620a855cd910ea65da/files/Kayak-core/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/Kayak-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dschanoeh/Kayak/snapshot/f99802c2295f79d34b9d58620a855cd910ea65da/files/Kayak-kcd/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/Kayak-kcd/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dschanoeh/Kayak/snapshot/f99802c2295f79d34b9d58620a855cd910ea65da/files/Kayak-logging/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/Kayak-logging/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dschanoeh/Kayak/snapshot/f99802c2295f79d34b9d58620a855cd910ea65da/files/Kayak-mapview/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/Kayak-mapview/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dschanoeh/Kayak/snapshot/f99802c2295f79d34b9d58620a855cd910ea65da/files/application/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/application/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dschanoeh/Kayak/snapshot/f99802c2295f79d34b9d58620a855cd910ea65da/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/NackademinJan/LibraryTestJenkins", 
+    "url-identifier": "g/NackademinJan/LibraryTestJenkins", 
+    "id": 1506636376606, 
+    "name": "NackademinJan/LibraryTestJenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/NackademinJan/LibraryTestJenkins/snapshot/f29a781f7c16a6de3aea986b169c0231e6269bf0/files/librarytest/librarytest-gui/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/librarytest/librarytest-gui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/NackademinJan/LibraryTestJenkins/snapshot/f29a781f7c16a6de3aea986b169c0231e6269bf0/files/librarytest/librarytest-gui/pom.xml#L222", 
+        "line": 222, 
+        "value": "repository", 
+        "file": "/librarytest/librarytest-gui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/NackademinJan/LibraryTestJenkins/snapshot/f29a781f7c16a6de3aea986b169c0231e6269bf0/files/librarytest/librarytest-gui/pom.xml#L228", 
+        "line": 228, 
+        "value": "pluginRepository", 
+        "file": "/librarytest/librarytest-gui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/NackademinJan/LibraryTestJenkins/snapshot/f29a781f7c16a6de3aea986b169c0231e6269bf0/files/librarytest/librarytest-rest/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/librarytest/librarytest-rest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

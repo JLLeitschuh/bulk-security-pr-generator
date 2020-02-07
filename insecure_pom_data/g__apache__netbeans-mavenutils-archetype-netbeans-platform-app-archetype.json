@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/netbeans-mavenutils-archetype-netbeans-platform-app-archetype", 
+    "url-identifier": "g/apache/netbeans-mavenutils-archetype-netbeans-platform-app-archetype", 
+    "id": 1511125895319, 
+    "name": "apache/netbeans-mavenutils-archetype-netbeans-platform-app-archetype"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/netbeans-mavenutils-archetype-netbeans-platform-app-archetype/snapshot/7c431a838f7211e29ca1d9aafd74e1e8a5d16cc9/files/src/main/resources/archetype-resources/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/nexus/content/groups/netbeans/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

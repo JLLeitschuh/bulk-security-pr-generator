@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JoelJ/ez-templates", 
+    "url-identifier": "g/JoelJ/ez-templates", 
+    "id": 1506700026065, 
+    "name": "JoelJ/ez-templates"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JoelJ/ez-templates/snapshot/66dc688791526799ba74f190529ff423a6579d51/files/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JoelJ/ez-templates/snapshot/66dc688791526799ba74f190529ff423a6579d51/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

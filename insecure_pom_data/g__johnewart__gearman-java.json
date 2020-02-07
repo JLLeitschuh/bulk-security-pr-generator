@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/johnewart/gearman-java", 
+    "url-identifier": "g/johnewart/gearman-java", 
+    "id": 59850059, 
+    "name": "johnewart/gearman-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/johnewart/gearman-java/snapshot/3bf5248f407648e1f025e34fdd1aa99aeaeac4aa/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/johnewart/gearman-java/snapshot/3bf5248f407648e1f025e34fdd1aa99aeaeac4aa/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

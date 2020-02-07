@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/projeto-siga/siga", 
+    "url-identifier": "g/projeto-siga/siga", 
+    "id": 1506136016228, 
+    "name": "projeto-siga/siga"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/projeto-siga/siga/snapshot/503bdfb5f4897a37b2fe22196f5a75287fa072a4/files/pom.xml#L135", 
+        "line": 135, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/projeto-siga/siga/snapshot/503bdfb5f4897a37b2fe22196f5a75287fa072a4/files/pom.xml#L149", 
+        "line": 149, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://itrc.jju.edu.cn/nexus-2.0.6/content/repositories/thirdparty/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/projeto-siga/siga/snapshot/503bdfb5f4897a37b2fe22196f5a75287fa072a4/files/pom.xml#L161", 
+        "line": 161, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.fdvs.com.ar/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

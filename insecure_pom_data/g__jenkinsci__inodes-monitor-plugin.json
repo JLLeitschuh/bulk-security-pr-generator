@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/inodes-monitor-plugin", 
+    "url-identifier": "g/jenkinsci/inodes-monitor-plugin", 
+    "id": 1506579519744, 
+    "name": "jenkinsci/inodes-monitor-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/inodes-monitor-plugin/snapshot/df375a721415c7d1775d11d6a29a9d5299ca846f/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/inodes-monitor-plugin/snapshot/df375a721415c7d1775d11d6a29a9d5299ca846f/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

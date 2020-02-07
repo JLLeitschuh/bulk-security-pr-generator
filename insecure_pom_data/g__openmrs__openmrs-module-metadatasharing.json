@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-metadatasharing", 
+    "url-identifier": "g/openmrs/openmrs-module-metadatasharing", 
+    "id": 27880008, 
+    "name": "openmrs/openmrs-module-metadatasharing"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-metadatasharing/snapshot/082d11bf69a50eff43b0756b95b92230b09fd5af/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/modules"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-metadatasharing/snapshot/082d11bf69a50eff43b0756b95b92230b09fd5af/files/pom.xml#L39", 
+        "line": 39, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-metadatasharing/snapshot/082d11bf69a50eff43b0756b95b92230b09fd5af/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-metadatasharing/snapshot/082d11bf69a50eff43b0756b95b92230b09fd5af/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

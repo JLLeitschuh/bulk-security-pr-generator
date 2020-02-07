@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/myrrix/myrrix-recommender", 
+    "url-identifier": "g/myrrix/myrrix-recommender", 
+    "id": 21840191, 
+    "name": "myrrix/myrrix-recommender"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/myrrix/myrrix-recommender/snapshot/ce07da183b13e4605b1d8eb1226215f221127cfd/files/pom.xml#L293", 
+        "line": 293, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

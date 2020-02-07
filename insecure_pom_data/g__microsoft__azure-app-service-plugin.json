@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/microsoft/azure-app-service-plugin", 
+    "url-identifier": "g/microsoft/azure-app-service-plugin", 
+    "id": 1506265448251, 
+    "name": "microsoft/azure-app-service-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/microsoft/azure-app-service-plugin/snapshot/985f3032728ee47e4b39c0641f9677b5206a6274/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/microsoft/azure-app-service-plugin/snapshot/985f3032728ee47e4b39c0641f9677b5206a6274/files/pom.xml#L189", 
+        "line": 189, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

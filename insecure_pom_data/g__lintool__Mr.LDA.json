@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lintool/Mr.LDA", 
+    "url-identifier": "g/lintool/Mr.LDA", 
+    "id": 10650269, 
+    "name": "lintool/Mr.LDA"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lintool/Mr.LDA/snapshot/9ff4f10e94618cb853aed8dae31fd32eb2ccf019/files/pom.xml#L100", 
+        "line": 100, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bkmeneguello/extreme-notification-plugin", 
+    "url-identifier": "g/bkmeneguello/extreme-notification-plugin", 
+    "id": 1506585259663, 
+    "name": "bkmeneguello/extreme-notification-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bkmeneguello/extreme-notification-plugin/snapshot/348d3d17138a987ee8a8067e9a8103278b2c5dac/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bkmeneguello/extreme-notification-plugin/snapshot/348d3d17138a987ee8a8067e9a8103278b2c5dac/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

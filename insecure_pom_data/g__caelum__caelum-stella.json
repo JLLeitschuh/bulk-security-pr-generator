@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/caelum/caelum-stella", 
+    "url-identifier": "g/caelum/caelum-stella", 
+    "id": 41070083, 
+    "name": "caelum/caelum-stella"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/caelum/caelum-stella/snapshot/7ac2b324d3e575433d4c8b6cd86047297e1436ea/files/examples/faces-example-2x/pom.xml#L117", 
+        "line": 117, 
+        "value": "repository", 
+        "file": "/examples/faces-example-2x/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/caelum/caelum-stella/snapshot/7ac2b324d3e575433d4c8b6cd86047297e1436ea/files/examples/hibernate-persistence-example/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/examples/hibernate-persistence-example/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/caelum/caelum-stella/snapshot/7ac2b324d3e575433d4c8b6cd86047297e1436ea/files/examples/hibernate-seam-example/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/examples/hibernate-seam-example/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.softeu.cz/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/caelum/caelum-stella/snapshot/7ac2b324d3e575433d4c8b6cd86047297e1436ea/files/examples/vraptor-validator-example/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/examples/vraptor-validator-example/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/caelum/caelum-stella/snapshot/7ac2b324d3e575433d4c8b6cd86047297e1436ea/files/stella-faces/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/stella-faces/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/caelum/caelum-stella/snapshot/7ac2b324d3e575433d4c8b6cd86047297e1436ea/files/stella-gateway-formas-pagamento/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/stella-gateway-formas-pagamento/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.openqa.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/caelum/caelum-stella/snapshot/7ac2b324d3e575433d4c8b6cd86047297e1436ea/files/stella-gateway-formas-pagamento/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/stella-gateway-formas-pagamento/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vidageek.net/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

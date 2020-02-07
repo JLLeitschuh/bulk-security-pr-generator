@@ -1,0 +1,333 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin", 
+    "url-identifier": "g/jenkinsci/analysis-suite-plugin", 
+    "id": 1506687295974, 
+    "name": "jenkinsci/analysis-suite-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/analysis-collector/pom.xml#L105", 
+        "line": 105, 
+        "value": "repository", 
+        "file": "/analysis-collector/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/analysis-collector/pom.xml#L112", 
+        "line": 112, 
+        "value": "pluginRepository", 
+        "file": "/analysis-collector/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/analysis-config/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/analysis-config/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/analysis-config/pom.xml#L55", 
+        "line": 55, 
+        "value": "pluginRepository", 
+        "file": "/analysis-config/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/analysis-core/pom.xml#L109", 
+        "line": 109, 
+        "value": "repository", 
+        "file": "/analysis-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/analysis-core/pom.xml#L116", 
+        "line": 116, 
+        "value": "pluginRepository", 
+        "file": "/analysis-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/analysis-pom/pom.xml#L231", 
+        "line": 231, 
+        "value": "repository", 
+        "file": "/analysis-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/analysis-pom/pom.xml#L238", 
+        "line": 238, 
+        "value": "pluginRepository", 
+        "file": "/analysis-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/analysis-test/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/analysis-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/analysis-test/pom.xml#L54", 
+        "line": 54, 
+        "value": "pluginRepository", 
+        "file": "/analysis-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/checkstyle/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/checkstyle/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/checkstyle/pom.xml#L62", 
+        "line": 62, 
+        "value": "pluginRepository", 
+        "file": "/checkstyle/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/dry/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/dry/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/dry/pom.xml#L60", 
+        "line": 60, 
+        "value": "pluginRepository", 
+        "file": "/dry/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/findbugs/library/pom.xml#L116", 
+        "line": 116, 
+        "value": "repository", 
+        "file": "/findbugs/library/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/findbugs/library/pom.xml#L123", 
+        "line": 123, 
+        "value": "pluginRepository", 
+        "file": "/findbugs/library/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/findbugs/plugin/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/findbugs/plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/findbugs/plugin/pom.xml#L84", 
+        "line": 84, 
+        "value": "pluginRepository", 
+        "file": "/findbugs/plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/findbugs/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/findbugs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/findbugs/pom.xml#L32", 
+        "line": 32, 
+        "value": "pluginRepository", 
+        "file": "/findbugs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/findbugs/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/findbugs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/pmd/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pmd/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/pmd/pom.xml#L92", 
+        "line": 92, 
+        "value": "pluginRepository", 
+        "file": "/pmd/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/tasks/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/tasks/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/tasks/pom.xml#L66", 
+        "line": 66, 
+        "value": "pluginRepository", 
+        "file": "/tasks/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/warnings/pom.xml#L144", 
+        "line": 144, 
+        "value": "repository", 
+        "file": "/warnings/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/analysis-suite-plugin/snapshot/4a111b46ce3912c57f65e2a034a6fbb551c4927e/files/warnings/pom.xml#L151", 
+        "line": 151, 
+        "value": "pluginRepository", 
+        "file": "/warnings/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

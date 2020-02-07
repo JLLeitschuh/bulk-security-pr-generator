@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/zhaoshuxue/springBoot", 
+    "url-identifier": "g/zhaoshuxue/springBoot", 
+    "id": 1506702286976, 
+    "name": "zhaoshuxue/springBoot"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhaoshuxue/springBoot/snapshot/00483ec3ef017190a405f4a35d29fe8d0d32d040/files/example/spring-boot-starter-sqlite-demo/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/example/spring-boot-starter-sqlite-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhaoshuxue/springBoot/snapshot/00483ec3ef017190a405f4a35d29fe8d0d32d040/files/example/spring-boot-starter-sqlite-demo/pom.xml#L67", 
+        "line": 67, 
+        "value": "pluginRepository", 
+        "file": "/example/spring-boot-starter-sqlite-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhaoshuxue/springBoot/snapshot/00483ec3ef017190a405f4a35d29fe8d0d32d040/files/spring-boot-hibernate/pom.xml#L112", 
+        "line": 112, 
+        "value": "repository", 
+        "file": "/spring-boot-hibernate/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhaoshuxue/springBoot/snapshot/00483ec3ef017190a405f4a35d29fe8d0d32d040/files/spring-boot-hibernate-v2/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/spring-boot-hibernate-v2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhaoshuxue/springBoot/snapshot/00483ec3ef017190a405f4a35d29fe8d0d32d040/files/spring-boot-mybatis/pom.xml#L167", 
+        "line": 167, 
+        "value": "repository", 
+        "file": "/spring-boot-mybatis/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhaoshuxue/springBoot/snapshot/00483ec3ef017190a405f4a35d29fe8d0d32d040/files/springboot2.0/springboot-es/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/springboot2.0/springboot-es/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhaoshuxue/springBoot/snapshot/00483ec3ef017190a405f4a35d29fe8d0d32d040/files/springboot2.0/springboot-ueditor/pom.xml#L154", 
+        "line": 154, 
+        "value": "repository", 
+        "file": "/springboot2.0/springboot-ueditor/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

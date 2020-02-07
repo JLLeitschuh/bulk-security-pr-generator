@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yahoo/yql-plus", 
+    "url-identifier": "g/yahoo/yql-plus", 
+    "id": 1506704006224, 
+    "name": "yahoo/yql-plus"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/yql-plus/snapshot/91ab01bc58472effd618d2885f6a72e4742cefa3/files/examples/weather-service/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/examples/weather-service/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/yql-plus/snapshot/91ab01bc58472effd618d2885f6a72e4742cefa3/files/yqlplus_engine/pom.xml#L114", 
+        "line": 114, 
+        "value": "repository", 
+        "file": "/yqlplus_engine/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

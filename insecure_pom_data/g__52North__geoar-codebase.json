@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/geoar-codebase", 
+    "url-identifier": "g/52North/geoar-codebase", 
+    "id": 1506703782017, 
+    "name": "52North/geoar-codebase"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/geoar-codebase/snapshot/2087d41802d5a1f673c3c4799bf8506ef8ca3a80/files/pom.xml#L304", 
+        "line": 304, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

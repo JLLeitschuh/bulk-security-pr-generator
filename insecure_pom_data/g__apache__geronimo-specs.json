@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/geronimo-specs", 
+    "url-identifier": "g/apache/geronimo-specs", 
+    "id": 1511103811278, 
+    "name": "apache/geronimo-specs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/geronimo-specs/snapshot/aaec0c3a5995a1b6599181b81ce4cfdb57dd5f8d/files/geronimo-servlet_3.1_spec/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/geronimo-servlet_3.1_spec/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

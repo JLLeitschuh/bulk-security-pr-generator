@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/michaelliao/jsonstream", 
+    "url-identifier": "g/michaelliao/jsonstream", 
+    "id": 57591109, 
+    "name": "michaelliao/jsonstream"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/michaelliao/jsonstream/snapshot/21bb5e9f8b51a25b688ba3b45e4b0b528ec65532/files/pom.xml#L134", 
+        "line": 134, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

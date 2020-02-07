@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/eventing-rest-api", 
+    "url-identifier": "g/52North/eventing-rest-api", 
+    "id": 1506699620281, 
+    "name": "52North/eventing-rest-api"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/eventing-rest-api/snapshot/ccb738b14091f0b76f2ea6be05f2f7013f6db960/files/pom.xml#L371", 
+        "line": 371, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/eventing-rest-api/snapshot/ccb738b14091f0b76f2ea6be05f2f7013f6db960/files/pom.xml#L378", 
+        "line": 378, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/eventing-rest-api/snapshot/ccb738b14091f0b76f2ea6be05f2f7013f6db960/files/pom.xml#L382", 
+        "line": 382, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/eventing-rest-api/snapshot/ccb738b14091f0b76f2ea6be05f2f7013f6db960/files/pom.xml#L393", 
+        "line": 393, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

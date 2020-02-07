@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/clearcase-plugin", 
+    "url-identifier": "g/jenkinsci/clearcase-plugin", 
+    "id": 1509234825998, 
+    "name": "jenkinsci/clearcase-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/clearcase-plugin/snapshot/551b33637c38c7290f6a84906a72fdbd0f71942f/files/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/clearcase-plugin/snapshot/551b33637c38c7290f6a84906a72fdbd0f71942f/files/pom.xml#L127", 
+        "line": 127, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/clearcase-plugin/snapshot/551b33637c38c7290f6a84906a72fdbd0f71942f/files/pom.xml#L134", 
+        "line": 134, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

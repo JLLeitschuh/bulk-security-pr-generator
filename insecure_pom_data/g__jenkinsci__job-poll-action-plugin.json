@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/job-poll-action-plugin", 
+    "url-identifier": "g/jenkinsci/job-poll-action-plugin", 
+    "id": 1506595518523, 
+    "name": "jenkinsci/job-poll-action-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/job-poll-action-plugin/snapshot/cdb4282f2e9711d28a745aad263b4c14704cf4af/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/job-poll-action-plugin/snapshot/cdb4282f2e9711d28a745aad263b4c14704cf4af/files/pom.xml#L87", 
+        "line": 87, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lucidworks/storm-solr", 
+    "url-identifier": "g/lucidworks/storm-solr", 
+    "id": 17870003, 
+    "name": "lucidworks/storm-solr"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lucidworks/storm-solr/snapshot/0e61b60e6ac905a929ebb8a82a881c33383828ac/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lucidworks/storm-solr/snapshot/0e61b60e6ac905a929ebb8a82a881c33383828ac/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mapr.com/nexus/content/groups/mapr-public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/global-build-stats-plugin", 
+    "url-identifier": "g/jenkinsci/global-build-stats-plugin", 
+    "id": 930035, 
+    "name": "jenkinsci/global-build-stats-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/global-build-stats-plugin/snapshot/0445e05765b5a9be3ee8c63cca9836caa4f84c86/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/global-build-stats-plugin/snapshot/0445e05765b5a9be3ee8c63cca9836caa4f84c86/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

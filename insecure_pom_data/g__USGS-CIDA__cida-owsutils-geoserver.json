@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/USGS-CIDA/cida-owsutils-geoserver", 
+    "url-identifier": "g/USGS-CIDA/cida-owsutils-geoserver", 
+    "id": 1506723429941, 
+    "name": "USGS-CIDA/cida-owsutils-geoserver"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/cida-owsutils-geoserver/snapshot/e48feb0d10b2a6ef87515a54370462004887a3c7/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://internal.cida.usgs.gov/maven/content/repositories/cida-public-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/cida-owsutils-geoserver/snapshot/e48feb0d10b2a6ef87515a54370462004887a3c7/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://internal.cida.usgs.gov/maven/content/repositories/cida-public-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/cida-owsutils-geoserver/snapshot/e48feb0d10b2a6ef87515a54370462004887a3c7/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cida.usgs.gov/maven/cida-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/cida-owsutils-geoserver/snapshot/e48feb0d10b2a6ef87515a54370462004887a3c7/files/pom.xml#L75", 
+        "line": 75, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/cida-owsutils-geoserver/snapshot/e48feb0d10b2a6ef87515a54370462004887a3c7/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geo-solutions.it/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

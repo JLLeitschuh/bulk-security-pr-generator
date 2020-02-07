@@ -1,0 +1,135 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Melati/Melati", 
+    "url-identifier": "g/Melati/Melati", 
+    "id": 1506718556319, 
+    "name": "Melati/Melati"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Melati/Melati/snapshot/e42215e70c1fcd409463d091639b0a8906490c72/files/courteouspoem/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/courteouspoem/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.melati.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Melati/Melati/snapshot/e42215e70c1fcd409463d091639b0a8906490c72/files/courteouspoem/pom.xml#L84", 
+        "line": 84, 
+        "value": "pluginRepository", 
+        "file": "/courteouspoem/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.melati.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Melati/Melati/snapshot/e42215e70c1fcd409463d091639b0a8906490c72/files/courteouspoem/src/main/webapp/META-INF/maven/org.melati/melati/pom.xml#L372", 
+        "line": 372, 
+        "value": "repository", 
+        "file": "/courteouspoem/src/main/webapp/META-INF/maven/org.melati/melati/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://melati.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Melati/Melati/snapshot/e42215e70c1fcd409463d091639b0a8906490c72/files/melati/pom.xml#L343", 
+        "line": 343, 
+        "value": "repository", 
+        "file": "/melati/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://melati.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Melati/Melati/snapshot/e42215e70c1fcd409463d091639b0a8906490c72/files/melati-archetype/src/main/resources/archetype-resources/pom.xml#L281", 
+        "line": 281, 
+        "value": "pluginRepository", 
+        "file": "/melati-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.melati.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Melati/Melati/snapshot/e42215e70c1fcd409463d091639b0a8906490c72/files/melati-archetype/src/main/resources/archetype-resources/pom.xml#L288", 
+        "line": 288, 
+        "value": "repository", 
+        "file": "/melati-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.melati.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Melati/Melati/snapshot/e42215e70c1fcd409463d091639b0a8906490c72/files/melati-archetype/src/main/resources/archetype-resources/pom.xml#L293", 
+        "line": 293, 
+        "value": "repository", 
+        "file": "/melati-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://webmacro.sourceforge.net/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Melati/Melati/snapshot/e42215e70c1fcd409463d091639b0a8906490c72/files/poem/pom.xml#L262", 
+        "line": 262, 
+        "value": "repository", 
+        "file": "/poem/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://melati.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Melati/Melati/snapshot/e42215e70c1fcd409463d091639b0a8906490c72/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.melati.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Melati/Melati/snapshot/e42215e70c1fcd409463d091639b0a8906490c72/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.melati.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Melati/Melati/snapshot/e42215e70c1fcd409463d091639b0a8906490c72/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://webmacro.sourceforge.net/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

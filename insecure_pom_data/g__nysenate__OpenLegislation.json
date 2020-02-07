@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nysenate/OpenLegislation", 
+    "url-identifier": "g/nysenate/OpenLegislation", 
+    "id": 1798080325, 
+    "name": "nysenate/OpenLegislation"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nysenate/OpenLegislation/snapshot/5cb208b3adb48365298e9036bc0162375cd814fd/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.nysenate.gov/maven/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nysenate/OpenLegislation/snapshot/5cb208b3adb48365298e9036bc0162375cd814fd/files/pom.xml#L388", 
+        "line": 388, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

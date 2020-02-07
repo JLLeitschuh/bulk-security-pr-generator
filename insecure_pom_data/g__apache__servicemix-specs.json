@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/servicemix-specs", 
+    "url-identifier": "g/apache/servicemix-specs", 
+    "id": 1511133653904, 
+    "name": "apache/servicemix-specs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix-specs/snapshot/644361213ba772fb1d0ca220c24b1b92d3f0e178/files/jain-sip-api-1.2/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/jain-sip-api-1.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix-specs/snapshot/644361213ba772fb1d0ca220c24b1b92d3f0e178/files/jain-sip-api-1.2.1/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/jain-sip-api-1.2.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix-specs/snapshot/644361213ba772fb1d0ca220c24b1b92d3f0e178/files/jsr311-api-1.1/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/jsr311-api-1.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicemix-specs/snapshot/644361213ba772fb1d0ca220c24b1b92d3f0e178/files/jsr311-api-1.1.1/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/jsr311-api-1.1.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

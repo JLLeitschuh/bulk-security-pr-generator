@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/helgoland-server", 
+    "url-identifier": "g/52North/helgoland-server", 
+    "id": 1509101036153, 
+    "name": "52North/helgoland-server"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/helgoland-server/snapshot/87e15ba5553fc4a5ea7c0f3b9e1e84205379cdec/files/pom.xml#L880", 
+        "line": 880, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/helgoland-server/snapshot/87e15ba5553fc4a5ea7c0f3b9e1e84205379cdec/files/pom.xml#L885", 
+        "line": 885, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/helgoland-server/snapshot/87e15ba5553fc4a5ea7c0f3b9e1e84205379cdec/files/pom.xml#L892", 
+        "line": 892, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/helgoland-server/snapshot/87e15ba5553fc4a5ea7c0f3b9e1e84205379cdec/files/pom.xml#L904", 
+        "line": 904, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

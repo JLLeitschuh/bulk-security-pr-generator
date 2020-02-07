@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/build-view-column-plugin", 
+    "url-identifier": "g/jenkinsci/build-view-column-plugin", 
+    "id": 1506610661188, 
+    "name": "jenkinsci/build-view-column-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/build-view-column-plugin/snapshot/bf7a74104ca7b8206b370b95124ff8127d4a8310/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

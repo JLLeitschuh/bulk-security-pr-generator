@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/medcl/elasticsearch-analysis-pinyin", 
+    "url-identifier": "g/medcl/elasticsearch-analysis-pinyin", 
+    "id": 20480038, 
+    "name": "medcl/elasticsearch-analysis-pinyin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/medcl/elasticsearch-analysis-pinyin/snapshot/cb8f3af1b9356314f228de52a7435187db91c728/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/arangamani/gem-publisher-jenkins", 
+    "url-identifier": "g/arangamani/gem-publisher-jenkins", 
+    "id": 1509220146057, 
+    "name": "arangamani/gem-publisher-jenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/arangamani/gem-publisher-jenkins/snapshot/767641a928620a7542d2654206196466d57d56cb/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/arangamani/gem-publisher-jenkins/snapshot/767641a928620a7542d2654206196466d57d56cb/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

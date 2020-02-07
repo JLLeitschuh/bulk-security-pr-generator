@@ -1,0 +1,113 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse-ee4j/eclipselink-examples", 
+    "url-identifier": "g/eclipse-ee4j/eclipselink-examples", 
+    "id": 1506495549755, 
+    "name": "eclipse-ee4j/eclipselink-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/eclipselink-examples/snapshot/2da782c83e716aa5cf5b3f7dbe6fbd78d77c9374/files/dbws/dbws.maven/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/dbws/dbws.maven/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/eclipselink/maven.repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/eclipselink-examples/snapshot/2da782c83e716aa5cf5b3f7dbe6fbd78d77c9374/files/dbws/dbws.simple/run.builder/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/dbws/dbws.simple/run.builder/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/eclipselink-examples/snapshot/2da782c83e716aa5cf5b3f7dbe6fbd78d77c9374/files/dbws/dbws.simple/run.builder/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/dbws/dbws.simple/run.builder/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/eclipselink/maven.repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/eclipselink-examples/snapshot/2da782c83e716aa5cf5b3f7dbe6fbd78d77c9374/files/dbws/dbws.simple/service.test/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/dbws/dbws.simple/service.test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/eclipselink-examples/snapshot/2da782c83e716aa5cf5b3f7dbe6fbd78d77c9374/files/dbws/dbws.simple/service.test/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/dbws/dbws.simple/service.test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/eclipselink/maven.repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/eclipselink-examples/snapshot/2da782c83e716aa5cf5b3f7dbe6fbd78d77c9374/files/dbws/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/dbws/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/eclipselink/maven.repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/eclipselink-examples/snapshot/2da782c83e716aa5cf5b3f7dbe6fbd78d77c9374/files/mysports/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/mysports/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/eclipselink-examples/snapshot/2da782c83e716aa5cf5b3f7dbe6fbd78d77c9374/files/mysports/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/mysports/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/eclipselink/maven.repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/eclipselink-examples/snapshot/2da782c83e716aa5cf5b3f7dbe6fbd78d77c9374/files/nosql/mongo/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/nosql/mongo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/eclipselink/maven.repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

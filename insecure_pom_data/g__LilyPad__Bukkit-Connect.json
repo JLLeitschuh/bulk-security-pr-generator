@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/LilyPad/Bukkit-Connect", 
+    "url-identifier": "g/LilyPad/Bukkit-Connect", 
+    "id": 14340055, 
+    "name": "LilyPad/Bukkit-Connect"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LilyPad/Bukkit-Connect/snapshot/49b573d2e6c30edd019ae38db745b04dd1bc2bf8/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ci.lilypadmc.org/plugin/repository/everything"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

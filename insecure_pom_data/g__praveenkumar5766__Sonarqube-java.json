@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/praveenkumar5766/Sonarqube-java", 
+    "url-identifier": "g/praveenkumar5766/Sonarqube-java", 
+    "id": 1508267126363, 
+    "name": "praveenkumar5766/Sonarqube-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/praveenkumar5766/Sonarqube-java/snapshot/9ea8573c50e6573eb221d4d6318432a7a86d236d/files/its/plugin/projects/struts-1.3.9-lite/pom.xml#L266", 
+        "line": 266, 
+        "value": "repository", 
+        "file": "/its/plugin/projects/struts-1.3.9-lite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/maven-snapshot-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

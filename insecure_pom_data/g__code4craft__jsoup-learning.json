@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/code4craft/jsoup-learning", 
+    "url-identifier": "g/code4craft/jsoup-learning", 
+    "id": 31225093, 
+    "name": "code4craft/jsoup-learning"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/code4craft/jsoup-learning/snapshot/e0b2dfabcdbce943260558521d121a846173cb27/files/pom.xml#L123", 
+        "line": 123, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/code4craft/jsoup-learning/snapshot/e0b2dfabcdbce943260558521d121a846173cb27/files/pom.xml#L128", 
+        "line": 128, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

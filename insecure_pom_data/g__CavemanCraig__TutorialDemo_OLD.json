@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/CavemanCraig/TutorialDemo_OLD", 
+    "url-identifier": "g/CavemanCraig/TutorialDemo_OLD", 
+    "id": 1506710586145, 
+    "name": "CavemanCraig/TutorialDemo_OLD"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CavemanCraig/TutorialDemo_OLD/snapshot/ec2b253e65adad89014b118359d1e07aacf9333a/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CavemanCraig/TutorialDemo_OLD/snapshot/ec2b253e65adad89014b118359d1e07aacf9333a/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.com/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

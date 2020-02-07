@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/gordonad/enterprise-spring-best-practices", 
+    "url-identifier": "g/gordonad/enterprise-spring-best-practices", 
+    "id": 48460091, 
+    "name": "gordonad/enterprise-spring-best-practices"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gordonad/enterprise-spring-best-practices/snapshot/3bfebb0c0b7b607c514961b3a5354e1440b66fb9/files/pom.xml#L862", 
+        "line": 862, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springframework.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gordonad/enterprise-spring-best-practices/snapshot/3bfebb0c0b7b607c514961b3a5354e1440b66fb9/files/pom.xml#L867", 
+        "line": 867, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gordonad/enterprise-spring-best-practices/snapshot/3bfebb0c0b7b607c514961b3a5354e1440b66fb9/files/pom.xml#L872", 
+        "line": 872, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springframework.org/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gordonad/enterprise-spring-best-practices/snapshot/3bfebb0c0b7b607c514961b3a5354e1440b66fb9/files/pom.xml#L880", 
+        "line": 880, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springframework.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gordonad/enterprise-spring-best-practices/snapshot/3bfebb0c0b7b607c514961b3a5354e1440b66fb9/files/pom.xml#L885", 
+        "line": 885, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gordonad/enterprise-spring-best-practices/snapshot/3bfebb0c0b7b607c514961b3a5354e1440b66fb9/files/pom.xml#L890", 
+        "line": 890, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springframework.org/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gordonad/enterprise-spring-best-practices/snapshot/3bfebb0c0b7b607c514961b3a5354e1440b66fb9/files/pom.xml#L897", 
+        "line": 897, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

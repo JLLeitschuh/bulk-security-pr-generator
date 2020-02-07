@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/medcl/elasticsearch-analysis-ik", 
+    "url-identifier": "g/medcl/elasticsearch-analysis-ik", 
+    "id": 940125, 
+    "name": "medcl/elasticsearch-analysis-ik"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/medcl/elasticsearch-analysis-ik/snapshot/6e83e84960c7abef7e9453f143b30e6196bcdc9d/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

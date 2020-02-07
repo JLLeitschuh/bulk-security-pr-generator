@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/cucumber-performance-plugin", 
+    "url-identifier": "g/jenkinsci/cucumber-performance-plugin", 
+    "id": 1506583509987, 
+    "name": "jenkinsci/cucumber-performance-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/cucumber-performance-plugin/snapshot/a55a3295914dbb82f1da54dbeca35adcb76527be/files/testingInfo/JavaTest/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/testingInfo/JavaTest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/cucumber-performance-plugin/snapshot/a55a3295914dbb82f1da54dbeca35adcb76527be/files/testingInfo/JavaTest/pom.xml#L21", 
+        "line": 21, 
+        "value": "pluginRepository", 
+        "file": "/testingInfo/JavaTest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/graphaware/neo4j-framework", 
+    "url-identifier": "g/graphaware/neo4j-framework", 
+    "id": 23442758, 
+    "name": "graphaware/neo4j-framework"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/graphaware/neo4j-framework/snapshot/6fce88d5510a08a38d6c5aa22ef4d14ed0e5a740/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/graphaware/neo4j-framework/snapshot/6fce88d5510a08a38d6c5aa22ef4d14ed0e5a740/files/pom.xml#L92", 
+        "line": 92, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

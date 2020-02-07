@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ifedorenko/p2-browser", 
+    "url-identifier": "g/ifedorenko/p2-browser", 
+    "id": 44810049, 
+    "name": "ifedorenko/p2-browser"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ifedorenko/p2-browser/snapshot/9d5ab025d354a5f140b5a23b4a624f18dca314b0/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/3.8"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

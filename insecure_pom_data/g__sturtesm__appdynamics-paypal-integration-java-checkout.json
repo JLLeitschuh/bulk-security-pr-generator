@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sturtesm/appdynamics-paypal-integration-java-checkout", 
+    "url-identifier": "g/sturtesm/appdynamics-paypal-integration-java-checkout", 
+    "id": 1506696496557, 
+    "name": "sturtesm/appdynamics-paypal-integration-java-checkout"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sturtesm/appdynamics-paypal-integration-java-checkout/snapshot/b1f22c8a6fa51bf5f7ff268d01f5cf44a4a71a64/files/Java_PayPalCheckout/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/Java_PayPalCheckout/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

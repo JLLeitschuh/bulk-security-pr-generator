@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/menonvarun/test-results-analyzer", 
+    "url-identifier": "g/menonvarun/test-results-analyzer", 
+    "id": 1506704126194, 
+    "name": "menonvarun/test-results-analyzer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/menonvarun/test-results-analyzer/snapshot/01289a992d3a3c990ed4012ab107774c5bfc86b3/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/menonvarun/test-results-analyzer/snapshot/01289a992d3a3c990ed4012ab107774c5bfc86b3/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/menonvarun/test-results-analyzer/snapshot/01289a992d3a3c990ed4012ab107774c5bfc86b3/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

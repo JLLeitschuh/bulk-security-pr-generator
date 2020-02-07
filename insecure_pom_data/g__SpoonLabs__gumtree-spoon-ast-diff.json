@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SpoonLabs/gumtree-spoon-ast-diff", 
+    "url-identifier": "g/SpoonLabs/gumtree-spoon-ast-diff", 
+    "id": 1506717977132, 
+    "name": "SpoonLabs/gumtree-spoon-ast-diff"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SpoonLabs/gumtree-spoon-ast-diff/snapshot/e08984b4fae6a3d2101581ac05b66d33778cb5dd/files/pom.xml#L235", 
+        "line": 235, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.inria.fr/artifactory/spoon-public-snapshot/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

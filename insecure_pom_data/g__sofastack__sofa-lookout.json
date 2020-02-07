@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sofastack/sofa-lookout", 
+    "url-identifier": "g/sofastack/sofa-lookout", 
+    "id": 1506732276188, 
+    "name": "sofastack/sofa-lookout"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sofastack/sofa-lookout/snapshot/8712a95f226f640a9d0d1122159bc25bc0dea3f2/files/server/metrics/starter/pom.xml#L75", 
+        "line": 75, 
+        "value": "repository", 
+        "file": "/server/metrics/starter/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvn.dev.alipay.net:8081/artifactory/content/repositories/Alipay-Releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sofastack/sofa-lookout/snapshot/8712a95f226f640a9d0d1122159bc25bc0dea3f2/files/server/metrics/starter/pom.xml#L80", 
+        "line": 80, 
+        "value": "snapshotRepository", 
+        "file": "/server/metrics/starter/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvn.dev.alipay.net:8081/artifactory/content/repositories/Alipay-Snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

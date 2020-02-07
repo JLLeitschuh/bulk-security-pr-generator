@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Open-MBEE/util", 
+    "url-identifier": "g/Open-MBEE/util", 
+    "id": 1506060797974, 
+    "name": "Open-MBEE/util"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Open-MBEE/util/snapshot/daa391e0fad5272efdc62481d55c91f7803e1265/files/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://europambee-build.jpl.nasa.gov:8082/artifactory/libs-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Open-MBEE/util/snapshot/daa391e0fad5272efdc62481d55c91f7803e1265/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://europambee-build.jpl.nasa.gov:8082/artifactory/libs-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

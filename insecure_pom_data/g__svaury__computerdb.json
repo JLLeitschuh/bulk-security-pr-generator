@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/svaury/computerdb", 
+    "url-identifier": "g/svaury/computerdb", 
+    "id": 1962230031, 
+    "name": "svaury/computerdb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svaury/computerdb/snapshot/24fc75b56d60f70422250ef277e2b1bcdb193261/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://version99.qos.ch/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

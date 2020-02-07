@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/marathon-plugin", 
+    "url-identifier": "g/jenkinsci/marathon-plugin", 
+    "id": 1509072816003, 
+    "name": "jenkinsci/marathon-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/marathon-plugin/snapshot/15f753cd95fcfe36093276990333b2591f9e4460/files/pom.xml#L175", 
+        "line": 175, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/marathon-plugin/snapshot/15f753cd95fcfe36093276990333b2591f9e4460/files/pom.xml#L181", 
+        "line": 181, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

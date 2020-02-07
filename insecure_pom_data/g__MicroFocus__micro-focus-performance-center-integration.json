@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/MicroFocus/micro-focus-performance-center-integration", 
+    "url-identifier": "g/MicroFocus/micro-focus-performance-center-integration", 
+    "id": 1509220266744, 
+    "name": "MicroFocus/micro-focus-performance-center-integration"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MicroFocus/micro-focus-performance-center-integration/snapshot/6fc0854190eb74aae00890c2c98360437b869739/files/pom.xml#L237", 
+        "line": 237, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MicroFocus/micro-focus-performance-center-integration/snapshot/6fc0854190eb74aae00890c2c98360437b869739/files/pom.xml#L241", 
+        "line": 241, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/adm/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

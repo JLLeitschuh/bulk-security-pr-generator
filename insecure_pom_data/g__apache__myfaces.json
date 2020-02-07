@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/myfaces", 
+    "url-identifier": "g/apache/myfaces", 
+    "id": 1507088026034, 
+    "name": "apache/myfaces"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces/snapshot/2dd73b39ae85c4aab6513ebb75ff4c1a82cddc78/files/api/pom.xml#L483", 
+        "line": 483, 
+        "value": "pluginRepository", 
+        "file": "/api/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces/snapshot/2dd73b39ae85c4aab6513ebb75ff4c1a82cddc78/files/parent/pom.xml#L513", 
+        "line": 513, 
+        "value": "pluginRepository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces/snapshot/2dd73b39ae85c4aab6513ebb75ff4c1a82cddc78/files/pom.xml#L169", 
+        "line": 169, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

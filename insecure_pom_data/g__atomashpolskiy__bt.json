@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/atomashpolskiy/bt", 
+    "url-identifier": "g/atomashpolskiy/bt", 
+    "id": 1506717388868, 
+    "name": "atomashpolskiy/bt"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/atomashpolskiy/bt/snapshot/4fe5b8af035b62f77b84f7bb9e40caac3908d1f9/files/bt-upnp/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/bt-upnp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://4thline.org/m2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jibaro/dl4j-spark-cdh5-examples", 
+    "url-identifier": "g/jibaro/dl4j-spark-cdh5-examples", 
+    "id": 1507181386146, 
+    "name": "jibaro/dl4j-spark-cdh5-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jibaro/dl4j-spark-cdh5-examples/snapshot/36b692e2485ca760711f7378e70a9a78091d9921/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

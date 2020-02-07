@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/lib-jenkins-maven-artifact-manager", 
+    "url-identifier": "g/jenkinsci/lib-jenkins-maven-artifact-manager", 
+    "id": 1506581299664, 
+    "name": "jenkinsci/lib-jenkins-maven-artifact-manager"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/lib-jenkins-maven-artifact-manager/snapshot/9b1644e35e654adac55c97ee1c4dcedb4e2511e2/files/pom.xml#L166", 
+        "line": 166, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/lib-jenkins-maven-artifact-manager/snapshot/9b1644e35e654adac55c97ee1c4dcedb4e2511e2/files/pom.xml#L170", 
+        "line": 170, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/senseidb/bobo", 
+    "url-identifier": "g/senseidb/bobo", 
+    "id": 44060029, 
+    "name": "senseidb/bobo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/senseidb/bobo/snapshot/3fb4b8289bc61a50a2a79e2c19d61ab219f93f35/files/bobo-parent/pom.xml#L148", 
+        "line": 148, 
+        "value": "repository", 
+        "file": "/bobo-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/infinitest/infinitest", 
+    "url-identifier": "g/infinitest/infinitest", 
+    "id": 1509087297903, 
+    "name": "infinitest/infinitest"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/infinitest/infinitest/snapshot/f7f46c4c9e6869564cdc997e39ca1a9433d52366/files/infinitest-intellij/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/infinitest-intellij/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/infinitest/intellij/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/infinitest/infinitest/snapshot/f7f46c4c9e6869564cdc997e39ca1a9433d52366/files/testWorkspace/scala-project/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/testWorkspace/scala-project/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/infinitest/infinitest/snapshot/f7f46c4c9e6869564cdc997e39ca1a9433d52366/files/testWorkspace/scala-project/pom.xml#L20", 
+        "line": 20, 
+        "value": "pluginRepository", 
+        "file": "/testWorkspace/scala-project/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

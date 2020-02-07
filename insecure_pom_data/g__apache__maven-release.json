@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/maven-release", 
+    "url-identifier": "g/apache/maven-release", 
+    "id": 1506236366789, 
+    "name": "apache/maven-release"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-release/snapshot/edfe1c613428590818e3da9cc32654c7fef49e8f/files/maven-release-manager/src/test/resources/projects/rewrite-for-branch/basic-pom-namespace/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/maven-release-manager/src/test/resources/projects/rewrite-for-branch/basic-pom-namespace/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-release/snapshot/edfe1c613428590818e3da9cc32654c7fef49e8f/files/maven-release-manager/src/test/resources/projects/rewrite-for-release/basic-pom-namespace/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/maven-release-manager/src/test/resources/projects/rewrite-for-release/basic-pom-namespace/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/RapidPM/rapidpm-dependencies", 
+    "url-identifier": "g/RapidPM/rapidpm-dependencies", 
+    "id": 1509413516569, 
+    "name": "RapidPM/rapidpm-dependencies"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RapidPM/rapidpm-dependencies/snapshot/a4496b3f2ddb6c07d83750dd141bed419a308507/files/pom.xml#L132", 
+        "line": 132, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.sven-ruppert.de/repository/maven-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RapidPM/rapidpm-dependencies/snapshot/a4496b3f2ddb6c07d83750dd141bed419a308507/files/pom.xml#L137", 
+        "line": 137, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.sven-ruppert.de/repository/maven-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RapidPM/rapidpm-dependencies/snapshot/a4496b3f2ddb6c07d83750dd141bed419a308507/files/pom.xml#L145", 
+        "line": 145, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.sven-ruppert.de/repository/maven-public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

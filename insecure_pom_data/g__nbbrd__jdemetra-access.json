@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nbbrd/jdemetra-access", 
+    "url-identifier": "g/nbbrd/jdemetra-access", 
+    "id": 1510449046117, 
+    "name": "nbbrd/jdemetra-access"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nbbrd/jdemetra-access/snapshot/1fbc8ac47f9f78165a029fea1993f952d5b6316c/files/pom.xml#L208", 
+        "line": 208, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/heremaps/fluentd-plugin", 
+    "url-identifier": "g/heremaps/fluentd-plugin", 
+    "id": 1506612549261, 
+    "name": "heremaps/fluentd-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/heremaps/fluentd-plugin/snapshot/b5713a2396014f5b0f49fcd055db7d9058dc53e1/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/heremaps/fluentd-plugin/snapshot/b5713a2396014f5b0f49fcd055db7d9058dc53e1/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

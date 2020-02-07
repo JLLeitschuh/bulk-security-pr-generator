@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/m-y-mo/myfaces-trinidad_20165019", 
+    "url-identifier": "g/m-y-mo/myfaces-trinidad_20165019", 
+    "id": 1506131966077, 
+    "name": "m-y-mo/myfaces-trinidad_20165019"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/m-y-mo/myfaces-trinidad_20165019/snapshot/a1eeac1466719e137fe8e0415bc59d9af666764b/files/pom.xml#L143", 
+        "line": 143, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/m-y-mo/myfaces-trinidad_20165019/snapshot/a1eeac1466719e137fe8e0415bc59d9af666764b/files/pom.xml#L155", 
+        "line": 155, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/m-y-mo/myfaces-trinidad_20165019/snapshot/a1eeac1466719e137fe8e0415bc59d9af666764b/files/trinidad-examples/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/trinidad-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

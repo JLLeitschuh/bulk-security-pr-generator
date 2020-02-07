@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dandelion/dandelion-datatables", 
+    "url-identifier": "g/dandelion/dandelion-datatables", 
+    "id": 35820191, 
+    "name": "dandelion/dandelion-datatables"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dandelion/dandelion-datatables/snapshot/bd55c7264ff219b63c0cc829f6f4361073ad1372/files/datatables-docs/pom.xml#L113", 
+        "line": 113, 
+        "value": "repository", 
+        "file": "/datatables-docs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dandelion/dandelion-datatables/snapshot/bd55c7264ff219b63c0cc829f6f4361073ad1372/files/pom.xml#L343", 
+        "line": 343, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository-dandelion.forge.cloudbees.com/snapshot/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dandelion/dandelion-datatables/snapshot/bd55c7264ff219b63c0cc829f6f4361073ad1372/files/pom.xml#L355", 
+        "line": 355, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository-dandelion.forge.cloudbees.com/release/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

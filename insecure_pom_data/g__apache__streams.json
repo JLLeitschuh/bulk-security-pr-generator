@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/streams", 
+    "url-identifier": "g/apache/streams", 
+    "id": 1506242137726, 
+    "name": "apache/streams"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/streams/snapshot/cc445747750570a928cffb29d6496da82ec02ad3/files/pom.xml#L204", 
+        "line": 204, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/streams/snapshot/cc445747750570a928cffb29d6496da82ec02ad3/files/pom.xml#L238", 
+        "line": 238, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/streams/snapshot/cc445747750570a928cffb29d6496da82ec02ad3/files/streams-contrib/streams-provider-google/google-gplus/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/streams-contrib/streams-provider-google/google-gplus/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.typesafe.com/typesafe/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/streams/snapshot/cc445747750570a928cffb29d6496da82ec02ad3/files/streams-contrib/streams-provider-youtube/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/streams-contrib/streams-provider-youtube/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://google-api-client-libraries.appspot.com/mavenrepo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

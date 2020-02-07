@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/marcust/struts1", 
+    "url-identifier": "g/marcust/struts1", 
+    "id": 2157150813, 
+    "name": "marcust/struts1"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/marcust/struts1/snapshot/0c4daf7094ad0133c17e11dc64b7637cfe7462bc/files/integration/tg4w/pom.xml#L85", 
+        "line": 85, 
+        "value": "pluginRepository", 
+        "file": "/integration/tg4w/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://tools4java.sourceforge.net/m2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/marcust/struts1/snapshot/0c4daf7094ad0133c17e11dc64b7637cfe7462bc/files/pom.xml#L287", 
+        "line": 287, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/maven-snapshot-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

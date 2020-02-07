@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ukiuni/call-remote-job-plugin", 
+    "url-identifier": "g/ukiuni/call-remote-job-plugin", 
+    "id": 1509256816043, 
+    "name": "ukiuni/call-remote-job-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ukiuni/call-remote-job-plugin/snapshot/2a4497acf8c0afd074db13ffd7b8e7edbcb39254/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ukiuni/call-remote-job-plugin/snapshot/2a4497acf8c0afd074db13ffd7b8e7edbcb39254/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

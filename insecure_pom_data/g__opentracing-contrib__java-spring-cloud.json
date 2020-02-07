@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opentracing-contrib/java-spring-cloud", 
+    "url-identifier": "g/opentracing-contrib/java-spring-cloud", 
+    "id": 1506763426200, 
+    "name": "opentracing-contrib/java-spring-cloud"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opentracing-contrib/java-spring-cloud/snapshot/3ffc8c51d26c1e43d4d138b0b3fc84c7b53251c6/files/pom.xml#L307", 
+        "line": 307, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

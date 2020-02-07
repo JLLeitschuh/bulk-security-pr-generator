@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rasto/lcmc", 
+    "url-identifier": "g/rasto/lcmc", 
+    "id": 54270102, 
+    "name": "rasto/lcmc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rasto/lcmc/snapshot/8825989cf6c3c3462c9ecdf75dde5be3c97ab003/files/pom.xml#L165", 
+        "line": 165, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.imagej.net/content/repositories/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

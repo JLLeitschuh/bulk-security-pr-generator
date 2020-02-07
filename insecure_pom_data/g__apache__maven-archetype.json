@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/maven-archetype", 
+    "url-identifier": "g/apache/maven-archetype", 
+    "id": 1511112409492, 
+    "name": "apache/maven-archetype"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-archetype/snapshot/0703f0b0313cf871b0c1105d95e09e33caa7b097/files/maven-archetype-plugin/src/test/projects/simple-inheritence/pom.xml#L108", 
+        "line": 108, 
+        "value": "repository", 
+        "file": "/maven-archetype-plugin/src/test/projects/simple-inheritence/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

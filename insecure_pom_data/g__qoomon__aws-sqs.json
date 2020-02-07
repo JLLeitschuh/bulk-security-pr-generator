@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/qoomon/aws-sqs", 
+    "url-identifier": "g/qoomon/aws-sqs", 
+    "id": 1510445016062, 
+    "name": "qoomon/aws-sqs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/qoomon/aws-sqs/snapshot/e0e13b578296e66e6c6d49c358365e891709ed89/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.qoomon.com/archiva/repository/internal/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

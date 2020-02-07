@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/terrainserver", 
+    "url-identifier": "g/52North/terrainserver", 
+    "id": 1509110416805, 
+    "name": "52North/terrainserver"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/terrainserver/snapshot/c72362549e9cb2a10e388cb396a23ec8cc0aeb09/files/pom.xml#L198", 
+        "line": 198, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/terrainserver/snapshot/c72362549e9cb2a10e388cb396a23ec8cc0aeb09/files/pom.xml#L203", 
+        "line": 203, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

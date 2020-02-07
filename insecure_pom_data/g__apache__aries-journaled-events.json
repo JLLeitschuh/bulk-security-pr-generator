@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/aries-journaled-events", 
+    "url-identifier": "g/apache/aries-journaled-events", 
+    "id": 1511098376797, 
+    "name": "apache/aries-journaled-events"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/aries-journaled-events/snapshot/6960721db13940c96bc2be8d58e1607adeb57aa6/files/pom.xml#L274", 
+        "line": 274, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/content/groups/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/aries-journaled-events/snapshot/6960721db13940c96bc2be8d58e1607adeb57aa6/files/pom.xml#L289", 
+        "line": 289, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/content/groups/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/daniel-beck/compress-buildlog-plugin", 
+    "url-identifier": "g/daniel-beck/compress-buildlog-plugin", 
+    "id": 1509237691247, 
+    "name": "daniel-beck/compress-buildlog-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/daniel-beck/compress-buildlog-plugin/snapshot/a200d6c05aac1522a8a348858ec72ab96174f810/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/daniel-beck/compress-buildlog-plugin/snapshot/a200d6c05aac1522a8a348858ec72ab96174f810/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

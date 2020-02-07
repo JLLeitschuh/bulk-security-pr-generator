@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bdshadow/IdeaProjectImporter", 
+    "url-identifier": "g/bdshadow/IdeaProjectImporter", 
+    "id": 1506716306385, 
+    "name": "bdshadow/IdeaProjectImporter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bdshadow/IdeaProjectImporter/snapshot/05130526c14b0e989a68c5781bf602cc0c34c3a1/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/mars"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

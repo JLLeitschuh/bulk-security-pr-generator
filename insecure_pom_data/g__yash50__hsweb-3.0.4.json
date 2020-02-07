@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yash50/hsweb-3.0.4", 
+    "url-identifier": "g/yash50/hsweb-3.0.4", 
+    "id": 1510729840242, 
+    "name": "yash50/hsweb-3.0.4"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yash50/hsweb-3.0.4/snapshot/87c323a9beade3c3ee7bd2ef59eb2604c96c71ea/files/pom.xml#L435", 
+        "line": 435, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yash50/hsweb-3.0.4/snapshot/87c323a9beade3c3ee7bd2ef59eb2604c96c71ea/files/pom.xml#L446", 
+        "line": 446, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yash50/hsweb-3.0.4/snapshot/87c323a9beade3c3ee7bd2ef59eb2604c96c71ea/files/pom.xml#L454", 
+        "line": 454, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yash50/hsweb-3.0.4/snapshot/87c323a9beade3c3ee7bd2ef59eb2604c96c71ea/files/pom.xml#L459", 
+        "line": 459, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yash50/hsweb-3.0.4/snapshot/87c323a9beade3c3ee7bd2ef59eb2604c96c71ea/files/pom.xml#L467", 
+        "line": 467, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

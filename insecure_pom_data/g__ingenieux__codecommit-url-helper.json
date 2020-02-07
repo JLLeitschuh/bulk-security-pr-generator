@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ingenieux/codecommit-url-helper", 
+    "url-identifier": "g/ingenieux/codecommit-url-helper", 
+    "id": 1509239566312, 
+    "name": "ingenieux/codecommit-url-helper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ingenieux/codecommit-url-helper/snapshot/c2187585e3f9bc20491ca06fa30d9a7d419e0f78/files/pom.xml#L110", 
+        "line": 110, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ingenieux/codecommit-url-helper/snapshot/c2187585e3f9bc20491ca06fa30d9a7d419e0f78/files/pom.xml#L116", 
+        "line": 116, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

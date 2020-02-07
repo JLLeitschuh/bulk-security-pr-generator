@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/backend-jenkins-ci-cloudbees-com-filler", 
+    "url-identifier": "g/jenkinsci/backend-jenkins-ci-cloudbees-com-filler", 
+    "id": 1506591179461, 
+    "name": "jenkinsci/backend-jenkins-ci-cloudbees-com-filler"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-jenkins-ci-cloudbees-com-filler/snapshot/9c8e3d3bcb250269824d3f6fe1e1334d55ba16b8/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

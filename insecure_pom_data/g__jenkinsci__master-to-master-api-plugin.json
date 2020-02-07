@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/master-to-master-api-plugin", 
+    "url-identifier": "g/jenkinsci/master-to-master-api-plugin", 
+    "id": 1506577500377, 
+    "name": "jenkinsci/master-to-master-api-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/master-to-master-api-plugin/snapshot/4aba36905ec623cd31db8f5bcfecb103ef842046/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/master-to-master-api-plugin/snapshot/4aba36905ec623cd31db8f5bcfecb103ef842046/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

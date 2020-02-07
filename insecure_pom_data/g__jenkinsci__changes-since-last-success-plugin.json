@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/changes-since-last-success-plugin", 
+    "url-identifier": "g/jenkinsci/changes-since-last-success-plugin", 
+    "id": 1506597360289, 
+    "name": "jenkinsci/changes-since-last-success-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/changes-since-last-success-plugin/snapshot/9f278028eb46716b265a15f6cbaf1af95573f550/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/changes-since-last-success-plugin/snapshot/9f278028eb46716b265a15f6cbaf1af95573f550/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

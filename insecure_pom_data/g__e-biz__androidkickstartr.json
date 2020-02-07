@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/e-biz/androidkickstartr", 
+    "url-identifier": "g/e-biz/androidkickstartr", 
+    "id": 44800029, 
+    "name": "e-biz/androidkickstartr"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/e-biz/androidkickstartr/snapshot/24fe296d6310b94722d152e4f8fe57623848fa50/files/androidkickstartr-ws/pom.xml#L38", 
+        "line": 38, 
+        "value": "pluginRepository", 
+        "file": "/androidkickstartr-ws/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository-cloudbees.forge.cloudbees.com/public-release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jhalterman/sarge", 
+    "url-identifier": "g/jhalterman/sarge", 
+    "id": 1792650279, 
+    "name": "jhalterman/sarge"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jhalterman/sarge/snapshot/ab6212b5cba04b06f42991cf59ded297d185fc07/files/pom.xml#L172", 
+        "line": 172, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

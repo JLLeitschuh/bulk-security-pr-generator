@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/MeasureAuthoringTool/MeasureAuthoringTool", 
+    "url-identifier": "g/MeasureAuthoringTool/MeasureAuthoringTool", 
+    "id": 1510846419372, 
+    "name": "MeasureAuthoringTool/MeasureAuthoringTool"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MeasureAuthoringTool/MeasureAuthoringTool/snapshot/775d673a87537f6a70711a5059fad904ee19eb94/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.icm.edu.pl/artifactory/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

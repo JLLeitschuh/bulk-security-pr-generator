@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ottogroup/schedoscope", 
+    "url-identifier": "g/ottogroup/schedoscope", 
+    "id": 1507195126081, 
+    "name": "ottogroup/schedoscope"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ottogroup/schedoscope/snapshot/10545cfad1662c899ca9c4568894048736b8468a/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ottogroup/schedoscope/snapshot/10545cfad1662c899ca9c4568894048736b8468a/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pk11-scratch.googlecode.com/svn/trunk"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/usethesource/rascal-eclipse", 
+    "url-identifier": "g/usethesource/rascal-eclipse", 
+    "id": 1506965556257, 
+    "name": "usethesource/rascal-eclipse"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/rascal-eclipse/snapshot/ec5f7b0c3f06d57a9e0b988abbd421f39647c505/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/rascal-eclipse/snapshot/ec5f7b0c3f06d57a9e0b988abbd421f39647c505/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/rascal-eclipse/snapshot/ec5f7b0c3f06d57a9e0b988abbd421f39647c505/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/rascal-eclipse/snapshot/ec5f7b0c3f06d57a9e0b988abbd421f39647c505/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/eclipse-neon/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/rascal-eclipse/snapshot/ec5f7b0c3f06d57a9e0b988abbd421f39647c505/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/tm-terminal-marketplace/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JanusGraph/janusgraph", 
+    "url-identifier": "g/JanusGraph/janusgraph", 
+    "id": 1505799056444, 
+    "name": "JanusGraph/janusgraph"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JanusGraph/janusgraph/snapshot/591329513e58d9204684dcfb7aeba22e29ba5e04/files/janusgraph-berkeleyje/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/janusgraph-berkeleyje/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JanusGraph/janusgraph/snapshot/591329513e58d9204684dcfb7aeba22e29ba5e04/files/pom.xml#L164", 
+        "line": 164, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

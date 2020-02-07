@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/ca-apm-plugin", 
+    "url-identifier": "g/jenkinsci/ca-apm-plugin", 
+    "id": 1509228876522, 
+    "name": "jenkinsci/ca-apm-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ca-apm-plugin/snapshot/7c5a3ddbac08e49e81ff1c480e43b0de241af196/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ca-apm-plugin/snapshot/7c5a3ddbac08e49e81ff1c480e43b0de241af196/files/pom.xml#L68", 
+        "line": 68, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

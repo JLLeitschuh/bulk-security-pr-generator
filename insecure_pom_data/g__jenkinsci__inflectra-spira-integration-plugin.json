@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/inflectra-spira-integration-plugin", 
+    "url-identifier": "g/jenkinsci/inflectra-spira-integration-plugin", 
+    "id": 1506612290444, 
+    "name": "jenkinsci/inflectra-spira-integration-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/inflectra-spira-integration-plugin/snapshot/67c2feb73e5417b87dcd913259706314032eb0b5/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.glassfish.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/inflectra-spira-integration-plugin/snapshot/67c2feb73e5417b87dcd913259706314032eb0b5/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.glassfish.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

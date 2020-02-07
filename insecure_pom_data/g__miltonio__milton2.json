@@ -1,0 +1,223 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/miltonio/milton2", 
+    "url-identifier": "g/miltonio/milton2", 
+    "id": 4880023, 
+    "name": "miltonio/milton2"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/apps/milton-mini-server/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/apps/milton-mini-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/apps/milton-mini-server/pom.xml#L20", 
+        "line": 20, 
+        "value": "snapshotRepository", 
+        "file": "/apps/milton-mini-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/examples/eclipse-tut-1/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/examples/eclipse-tut-1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/examples/milton-anno-bandstand/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/examples/milton-anno-bandstand/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/examples/milton-anno-bandstand/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/examples/milton-anno-bandstand/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/examples/milton-anno-bandstand/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/examples/milton-anno-bandstand/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/examples/milton-ref/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/examples/milton-ref/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/milton/Milton"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/examples/milton-ref/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/examples/milton-ref/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/examples/tuts-anno1/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/examples/tuts-anno1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/milton/Milton"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/examples/tuts-anno1/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/examples/tuts-anno1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/external/alertify.js/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/external/alertify.js/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/external/alertify.js/pom.xml#L18", 
+        "line": 18, 
+        "value": "snapshotRepository", 
+        "file": "/external/alertify.js/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/external/bootstrap/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/external/bootstrap/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/external/bootstrap/pom.xml#L18", 
+        "line": 18, 
+        "value": "snapshotRepository", 
+        "file": "/external/bootstrap/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/external/cardme/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/external/cardme/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.ettrema.com/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/milton-server-ce/pom.xml#L247", 
+        "line": 247, 
+        "value": "repository", 
+        "file": "/milton-server-ce/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/pom.xml#L188", 
+        "line": 188, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://milton.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/miltonio/milton2/snapshot/0f7e0e20e1f6f32e992a1af6cc56c05d28bb9216/files/pom.xml#L192", 
+        "line": 192, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/milton/Milton"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

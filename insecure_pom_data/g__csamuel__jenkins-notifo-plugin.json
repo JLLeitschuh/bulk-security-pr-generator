@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/csamuel/jenkins-notifo-plugin", 
+    "url-identifier": "g/csamuel/jenkins-notifo-plugin", 
+    "id": 1506644169089, 
+    "name": "csamuel/jenkins-notifo-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/csamuel/jenkins-notifo-plugin/snapshot/18a8887d548781b414ae5380ff6f4cca85ac6db8/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/csamuel/jenkins-notifo-plugin/snapshot/18a8887d548781b414ae5380ff6f4cca85ac6db8/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.glassfish.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/csamuel/jenkins-notifo-plugin/snapshot/18a8887d548781b414ae5380ff6f4cca85ac6db8/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://powermock.googlecode.com/svn/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/csamuel/jenkins-notifo-plugin/snapshot/18a8887d548781b414ae5380ff6f4cca85ac6db8/files/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/csamuel/jenkins-notifo-plugin/snapshot/18a8887d548781b414ae5380ff6f4cca85ac6db8/files/pom.xml#L96", 
+        "line": 96, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

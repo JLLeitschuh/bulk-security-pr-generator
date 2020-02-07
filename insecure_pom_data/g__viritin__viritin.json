@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/viritin/viritin", 
+    "url-identifier": "g/viritin/viritin", 
+    "id": 43230116, 
+    "name": "viritin/viritin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/viritin/viritin/snapshot/5ac8dd90fefd097b571e679334ea0d7c546d506d/files/viritin/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/viritin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/viritin/viritin/snapshot/5ac8dd90fefd097b571e679334ea0d7c546d506d/files/viritin-compatibility/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/viritin-compatibility/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

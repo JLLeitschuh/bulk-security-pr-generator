@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/estatio/estatio", 
+    "url-identifier": "g/estatio/estatio", 
+    "id": 1930055, 
+    "name": "estatio/estatio"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/estatio/estatio/snapshot/ad33e5176d1135ee2febf4fd4d0ae10bef7fc1e9/files/mothballed/migration-integtests/pom.xml#L186", 
+        "line": 186, 
+        "value": "repository", 
+        "file": "/mothballed/migration-integtests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.bodar.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

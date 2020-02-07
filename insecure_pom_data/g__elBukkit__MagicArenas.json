@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/elBukkit/MagicArenas", 
+    "url-identifier": "g/elBukkit/MagicArenas", 
+    "id": 1505884236432, 
+    "name": "elBukkit/MagicArenas"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elBukkit/MagicArenas/snapshot/d74741aafae97e15871ad910e7bdd0eba9cfd792/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.elmakers.com/repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

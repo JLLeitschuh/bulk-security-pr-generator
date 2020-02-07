@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/defect/exjobb", 
+    "url-identifier": "g/defect/exjobb", 
+    "id": 1506717966103, 
+    "name": "defect/exjobb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/defect/exjobb/snapshot/70fd5f6097a1e1ca33be5b179f4b6b491b0f8578/files/hadoop-jobs/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/hadoop-jobs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

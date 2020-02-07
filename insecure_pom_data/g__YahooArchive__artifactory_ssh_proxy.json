@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/YahooArchive/artifactory_ssh_proxy", 
+    "url-identifier": "g/YahooArchive/artifactory_ssh_proxy", 
+    "id": 1506603058816, 
+    "name": "YahooArchive/artifactory_ssh_proxy"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/YahooArchive/artifactory_ssh_proxy/snapshot/61e9486035b01b719c8c6d0732fac52282dca679/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/jfrog/artifactory-tools"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/YahooArchive/artifactory_ssh_proxy/snapshot/61e9486035b01b719c8c6d0732fac52282dca679/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/jfrog/artifactory-tools"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

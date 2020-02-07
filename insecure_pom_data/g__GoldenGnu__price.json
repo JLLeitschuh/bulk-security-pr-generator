@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/GoldenGnu/price", 
+    "url-identifier": "g/GoldenGnu/price", 
+    "id": 1508055970288, 
+    "name": "GoldenGnu/price"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GoldenGnu/price/snapshot/ea37625dddde736121145ad85712bc7a344196a4/files/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository ftp://maven.nikr.net/maven.nikr.net"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

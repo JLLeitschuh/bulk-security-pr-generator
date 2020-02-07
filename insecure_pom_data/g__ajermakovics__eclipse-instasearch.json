@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ajermakovics/eclipse-instasearch", 
+    "url-identifier": "g/ajermakovics/eclipse-instasearch", 
+    "id": 57870051, 
+    "name": "ajermakovics/eclipse-instasearch"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ajermakovics/eclipse-instasearch/snapshot/cab4431bf94137e848202224ba3c41c2879d9fc4/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/indigo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

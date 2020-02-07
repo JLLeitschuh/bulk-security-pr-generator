@@ -1,0 +1,124 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yahoo/athenz", 
+    "url-identifier": "g/yahoo/athenz", 
+    "id": 1506702106285, 
+    "name": "yahoo/athenz"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/athenz/snapshot/8f172febe01b34c5103dc95950507c6ac0271cb7/files/clients/java/zms/examples/tls-support/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/clients/java/zms/examples/tls-support/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/athenz/snapshot/8f172febe01b34c5103dc95950507c6ac0271cb7/files/clients/java/zts/core/examples/tls-support/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/clients/java/zts/core/examples/tls-support/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/athenz/snapshot/8f172febe01b34c5103dc95950507c6ac0271cb7/files/examples/java/centralized-use-case/client/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/examples/java/centralized-use-case/client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/athenz/snapshot/8f172febe01b34c5103dc95950507c6ac0271cb7/files/examples/java/centralized-use-case/servlet/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/examples/java/centralized-use-case/servlet/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/athenz/snapshot/8f172febe01b34c5103dc95950507c6ac0271cb7/files/examples/java/decentralized-use-case/client/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/examples/java/decentralized-use-case/client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/athenz/snapshot/8f172febe01b34c5103dc95950507c6ac0271cb7/files/examples/java/decentralized-use-case/servlet/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/examples/java/decentralized-use-case/servlet/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/athenz/snapshot/8f172febe01b34c5103dc95950507c6ac0271cb7/files/examples/java/instance-provider/client/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/examples/java/instance-provider/client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/athenz/snapshot/8f172febe01b34c5103dc95950507c6ac0271cb7/files/examples/java/instance-provider/provider/pom.xml#L201", 
+        "line": 201, 
+        "value": "repository", 
+        "file": "/examples/java/instance-provider/provider/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/athenz/snapshot/8f172febe01b34c5103dc95950507c6ac0271cb7/files/libs/java/cert_refresher/examples/tls-support/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/libs/java/cert_refresher/examples/tls-support/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/athenz/snapshot/8f172febe01b34c5103dc95950507c6ac0271cb7/files/pom.xml#L226", 
+        "line": 226, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

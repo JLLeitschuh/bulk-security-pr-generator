@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/NationalSecurityAgency/datawave", 
+    "url-identifier": "g/NationalSecurityAgency/datawave", 
+    "id": 1506703766111, 
+    "name": "NationalSecurityAgency/datawave"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/NationalSecurityAgency/datawave/snapshot/09f73d401968a4a10babe9fecf0d8354adc8cbe6/files/pom.xml#L1128", 
+        "line": 1128, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://geowave-maven.s3-website-us-east-1.amazonaws.com/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

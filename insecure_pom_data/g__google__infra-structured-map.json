@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/google/infra-structured-map", 
+    "url-identifier": "g/google/infra-structured-map", 
+    "id": 1506128196185, 
+    "name": "google/infra-structured-map"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/google/infra-structured-map/snapshot/6b422bfe45768e9462fbb2f505c67a20f29bc906/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

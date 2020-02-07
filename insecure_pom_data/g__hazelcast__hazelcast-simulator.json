@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hazelcast/hazelcast-simulator", 
+    "url-identifier": "g/hazelcast/hazelcast-simulator", 
+    "id": 11270093, 
+    "name": "hazelcast/hazelcast-simulator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hazelcast/hazelcast-simulator/snapshot/ccb8c62ee06f17e073b479db0a0e4efcd97be5da/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hazelcast/hazelcast-simulator/snapshot/ccb8c62ee06f17e073b479db0a0e4efcd97be5da/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo2.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

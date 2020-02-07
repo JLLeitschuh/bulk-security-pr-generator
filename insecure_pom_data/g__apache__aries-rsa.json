@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/aries-rsa", 
+    "url-identifier": "g/apache/aries-rsa", 
+    "id": 1506250306111, 
+    "name": "apache/aries-rsa"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/aries-rsa/snapshot/6a02af182b195859dab576b32e799cdcee75f813/files/parent/pom.xml#L311", 
+        "line": 311, 
+        "value": "repository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/content/groups/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/aries-rsa/snapshot/6a02af182b195859dab576b32e799cdcee75f813/files/parent/pom.xml#L326", 
+        "line": 326, 
+        "value": "pluginRepository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/content/groups/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

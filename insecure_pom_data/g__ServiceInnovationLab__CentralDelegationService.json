@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ServiceInnovationLab/CentralDelegationService", 
+    "url-identifier": "g/ServiceInnovationLab/CentralDelegationService", 
+    "id": 1506492307503, 
+    "name": "ServiceInnovationLab/CentralDelegationService"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ServiceInnovationLab/CentralDelegationService/snapshot/6f368e4d42d3d148d5e56d6fbf58a34796650572/files/pom.xml#L428", 
+        "line": 428, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

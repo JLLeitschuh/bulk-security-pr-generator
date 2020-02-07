@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/StripesFramework/stripes-injection-enricher", 
+    "url-identifier": "g/StripesFramework/stripes-injection-enricher", 
+    "id": 1506532140321, 
+    "name": "StripesFramework/stripes-injection-enricher"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/StripesFramework/stripes-injection-enricher/snapshot/9c01665be37d87bd61f3a3e52f2f6acf6c34327c/files/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

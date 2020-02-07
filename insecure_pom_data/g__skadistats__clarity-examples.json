@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/skadistats/clarity-examples", 
+    "url-identifier": "g/skadistats/clarity-examples", 
+    "id": 61410011, 
+    "name": "skadistats/clarity-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skadistats/clarity-examples/snapshot/583b9e1bb9287b5ccf3e11e832b127be095a8e94/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

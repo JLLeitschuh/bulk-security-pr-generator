@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tomighty/tomighty", 
+    "url-identifier": "g/tomighty/tomighty", 
+    "id": 38901168, 
+    "name": "tomighty/tomighty"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomighty/tomighty/snapshot/30738f54cbb86b49c45c271aa7186a6caf115e99/files/tomighty-swing/pom.xml#L220", 
+        "line": 220, 
+        "value": "pluginRepository", 
+        "file": "/tomighty-swing/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://tomighty.googlecode.com/svn/maven/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomighty/tomighty/snapshot/30738f54cbb86b49c45c271aa7186a6caf115e99/files/tomighty-swing/pom.xml#L260", 
+        "line": 260, 
+        "value": "repository", 
+        "file": "/tomighty-swing/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://tomighty.googlecode.com/svn/maven/repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

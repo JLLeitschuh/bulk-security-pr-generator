@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-status-exporter", 
+    "url-identifier": "g/OneBusAway/onebusaway-status-exporter", 
+    "id": 1507610915994, 
+    "name": "OneBusAway/onebusaway-status-exporter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-status-exporter/snapshot/54d60c8ee5af2fa106549c7763d86b1e5e41a8e5/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

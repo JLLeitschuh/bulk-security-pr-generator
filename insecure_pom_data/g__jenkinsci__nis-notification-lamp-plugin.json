@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/nis-notification-lamp-plugin", 
+    "url-identifier": "g/jenkinsci/nis-notification-lamp-plugin", 
+    "id": 1509077046036, 
+    "name": "jenkinsci/nis-notification-lamp-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/nis-notification-lamp-plugin/snapshot/b134059e6a80c90b3a6de1094b41387576d5fe43/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/nis-notification-lamp-plugin/snapshot/b134059e6a80c90b3a6de1094b41387576d5fe43/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/nis-notification-lamp-plugin/snapshot/b134059e6a80c90b3a6de1094b41387576d5fe43/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

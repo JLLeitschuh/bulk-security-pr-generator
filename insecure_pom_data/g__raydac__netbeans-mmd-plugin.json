@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/raydac/netbeans-mmd-plugin", 
+    "url-identifier": "g/raydac/netbeans-mmd-plugin", 
+    "id": 1797539585, 
+    "name": "raydac/netbeans-mmd-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/raydac/netbeans-mmd-plugin/snapshot/958b1a64997881afd67edfde76215b9ac8cff849/files/mind-map/nb-mind-map/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/mind-map/nb-mind-map/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

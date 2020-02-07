@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/taksan/elastic-axis-plugin", 
+    "url-identifier": "g/taksan/elastic-axis-plugin", 
+    "id": 1509225026037, 
+    "name": "taksan/elastic-axis-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/taksan/elastic-axis-plugin/snapshot/f1eec5323b7afce1d9249d302ec4ad165e3af125/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/taksan/elastic-axis-plugin/snapshot/f1eec5323b7afce1d9249d302ec4ad165e3af125/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

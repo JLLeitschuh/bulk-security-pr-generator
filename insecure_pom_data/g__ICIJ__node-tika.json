@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ICIJ/node-tika", 
+    "url-identifier": "g/ICIJ/node-tika", 
+    "id": 56482137, 
+    "name": "ICIJ/node-tika"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ICIJ/node-tika/snapshot/396ddbbe71ab10412e4df99733dc99f85a30b740/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jbig2-imageio.googlecode.com/svn/maven-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

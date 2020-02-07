@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hantsy/seam3-sandbox", 
+    "url-identifier": "g/hantsy/seam3-sandbox", 
+    "id": 1509223056033, 
+    "name": "hantsy/seam3-sandbox"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hantsy/seam3-sandbox/snapshot/2dc5e0ca42593661878bfd424dee7c20de76e2f9/files/pom.xml#L380", 
+        "line": 380, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

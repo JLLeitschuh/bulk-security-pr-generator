@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/echurchill/CityWorld", 
+    "url-identifier": "g/echurchill/CityWorld", 
+    "id": 1506713516892, 
+    "name": "echurchill/CityWorld"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/echurchill/CityWorld/snapshot/fdfeafba1ba6feead866631c67b717463662e5f7/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/1000Memories/photon-core", 
+    "url-identifier": "g/1000Memories/photon-core", 
+    "id": 26440232, 
+    "name": "1000Memories/photon-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/1000Memories/photon-core/snapshot/3b91094de25f9697c3fbd7dbc2cedaf6c1cf099b/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/1000Memories/photon-core/snapshot/3b91094de25f9697c3fbd7dbc2cedaf6c1cf099b/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

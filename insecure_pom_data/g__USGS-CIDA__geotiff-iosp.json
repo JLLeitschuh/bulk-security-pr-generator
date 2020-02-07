@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/USGS-CIDA/geotiff-iosp", 
+    "url-identifier": "g/USGS-CIDA/geotiff-iosp", 
+    "id": 1506730641869, 
+    "name": "USGS-CIDA/geotiff-iosp"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/geotiff-iosp/snapshot/426858103f273b0ca2ec98220e71a0dc4b952fc0/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://internal.cida.usgs.gov/maven/content/repositories/cida-public-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/geotiff-iosp/snapshot/426858103f273b0ca2ec98220e71a0dc4b952fc0/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://internal.cida.usgs.gov/maven/content/repositories/cida-public-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/geotiff-iosp/snapshot/426858103f273b0ca2ec98220e71a0dc4b952fc0/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geo-solutions.it"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/geotiff-iosp/snapshot/426858103f273b0ca2ec98220e71a0dc4b952fc0/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

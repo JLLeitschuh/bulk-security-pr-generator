@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/brendano/ark-tweet-nlp", 
+    "url-identifier": "g/brendano/ark-tweet-nlp", 
+    "id": 1509216636214, 
+    "name": "brendano/ark-tweet-nlp"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brendano/ark-tweet-nlp/snapshot/8146aa699a19f6e01e2b91852e3f361a20056518/files/ark-tweet-nlp/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/ark-tweet-nlp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

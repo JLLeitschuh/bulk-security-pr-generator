@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-uk", 
+    "url-identifier": "g/OneBusAway/onebusaway-uk", 
+    "id": 1507585715982, 
+    "name": "OneBusAway/onebusaway-uk"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-uk/snapshot/c39207654290720bf951eb6238d57729125fc6ce/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

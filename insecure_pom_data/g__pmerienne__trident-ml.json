@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pmerienne/trident-ml", 
+    "url-identifier": "g/pmerienne/trident-ml", 
+    "id": 47570090, 
+    "name": "pmerienne/trident-ml"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pmerienne/trident-ml/snapshot/da8872615e6c77ea7b3ac9eb83cc27273948ef6a/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

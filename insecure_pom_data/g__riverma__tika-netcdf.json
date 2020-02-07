@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/riverma/tika-netcdf", 
+    "url-identifier": "g/riverma/tika-netcdf", 
+    "id": 1507189236229, 
+    "name": "riverma/tika-netcdf"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/riverma/tika-netcdf/snapshot/aa2a4a8249bd704696b83ab908fc6137faf0e372/files/tika-server/pom.xml#L35", 
+        "line": 35, 
+        "value": "pluginRepository", 
+        "file": "/tika-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.qmino.com/content/repositories/miredot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

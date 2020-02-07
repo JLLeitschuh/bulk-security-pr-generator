@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wy-scm/hidden-parameter-plugin", 
+    "url-identifier": "g/wy-scm/hidden-parameter-plugin", 
+    "id": 1506585609984, 
+    "name": "wy-scm/hidden-parameter-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wy-scm/hidden-parameter-plugin/snapshot/240fa03dfb7558e6e08369d247148f83066f9841/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wy-scm/hidden-parameter-plugin/snapshot/240fa03dfb7558e6e08369d247148f83066f9841/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

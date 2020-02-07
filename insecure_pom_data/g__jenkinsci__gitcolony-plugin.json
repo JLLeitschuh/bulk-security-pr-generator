@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/gitcolony-plugin", 
+    "url-identifier": "g/jenkinsci/gitcolony-plugin", 
+    "id": 1509228886119, 
+    "name": "jenkinsci/gitcolony-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/gitcolony-plugin/snapshot/68d6988dec9fd005961096c7b5f3a290f4f107ab/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/gitcolony-plugin/snapshot/68d6988dec9fd005961096c7b5f3a290f4f107ab/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

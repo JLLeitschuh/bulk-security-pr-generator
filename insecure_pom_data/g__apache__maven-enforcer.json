@@ -1,0 +1,124 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/maven-enforcer", 
+    "url-identifier": "g/apache/maven-enforcer", 
+    "id": 1506241666105, 
+    "name": "apache/maven-enforcer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-enforcer/snapshot/0f7b054e7392309aa3bad559ad9a913272769026/files/maven-enforcer-plugin/src/it/projects/require-no-repositories-allow-plugin-repo/pom.xml#L32", 
+        "line": 32, 
+        "value": "pluginRepository", 
+        "file": "/maven-enforcer-plugin/src/it/projects/require-no-repositories-allow-plugin-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://example.com/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-enforcer/snapshot/0f7b054e7392309aa3bad559ad9a913272769026/files/maven-enforcer-plugin/src/it/projects/require-no-repositories-allow-plugin-repo/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/maven-enforcer-plugin/src/it/projects/require-no-repositories-allow-plugin-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://localhost"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-enforcer/snapshot/0f7b054e7392309aa3bad559ad9a913272769026/files/maven-enforcer-plugin/src/it/projects/require-no-repositories-allow-repo/pom.xml#L32", 
+        "line": 32, 
+        "value": "pluginRepository", 
+        "file": "/maven-enforcer-plugin/src/it/projects/require-no-repositories-allow-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://example.com/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-enforcer/snapshot/0f7b054e7392309aa3bad559ad9a913272769026/files/maven-enforcer-plugin/src/it/projects/require-no-repositories-allow-repo/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/maven-enforcer-plugin/src/it/projects/require-no-repositories-allow-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://localhost"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-enforcer/snapshot/0f7b054e7392309aa3bad559ad9a913272769026/files/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://localhost"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-enforcer/snapshot/0f7b054e7392309aa3bad559ad9a913272769026/files/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_allowed-plugin-repo/pom.xml#L32", 
+        "line": 32, 
+        "value": "pluginRepository", 
+        "file": "/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_allowed-plugin-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://example.com/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-enforcer/snapshot/0f7b054e7392309aa3bad559ad9a913272769026/files/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_allowed-plugin-repo/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_allowed-plugin-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://localhost"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-enforcer/snapshot/0f7b054e7392309aa3bad559ad9a913272769026/files/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_plugin-repositories/pom.xml#L30", 
+        "line": 30, 
+        "value": "pluginRepository", 
+        "file": "/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_plugin-repositories/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://example.com/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-enforcer/snapshot/0f7b054e7392309aa3bad559ad9a913272769026/files/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_repositories/pom.xml#L32", 
+        "line": 32, 
+        "value": "pluginRepository", 
+        "file": "/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_repositories/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://example.com/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-enforcer/snapshot/0f7b054e7392309aa3bad559ad9a913272769026/files/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_repositories/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_repositories/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://localhost"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

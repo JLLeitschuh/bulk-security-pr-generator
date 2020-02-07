@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/codedx-plugin", 
+    "url-identifier": "g/jenkinsci/codedx-plugin", 
+    "id": 1509079196669, 
+    "name": "jenkinsci/codedx-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/codedx-plugin/snapshot/8e6e275e8d90889b98c63d0395a4cb173d15d592/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/codedx-plugin/snapshot/8e6e275e8d90889b98c63d0395a4cb173d15d592/files/pom.xml#L79", 
+        "line": 79, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

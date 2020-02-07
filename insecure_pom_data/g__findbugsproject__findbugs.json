@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/findbugsproject/findbugs", 
+    "url-identifier": "g/findbugsproject/findbugs", 
+    "id": 28580019, 
+    "name": "findbugsproject/findbugs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/findbugsproject/findbugs/snapshot/6dc8a60bd99ecd6c98402989f5effc6870f56a65/files/eclipsePlugin/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/eclipsePlugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/indigo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

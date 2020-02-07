@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo", 
+    "url-identifier": "g/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo", 
+    "id": 1507612856009, 
+    "name": "OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/snapshot/a33e0ade2cf44f45e75bd2b6841db8a45d68b342/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

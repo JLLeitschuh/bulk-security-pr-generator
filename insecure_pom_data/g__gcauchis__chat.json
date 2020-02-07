@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/gcauchis/chat", 
+    "url-identifier": "g/gcauchis/chat", 
+    "id": 1508651405977, 
+    "name": "gcauchis/chat"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gcauchis/chat/snapshot/37ddcd5dd49ad12e3ecc1372d7b8740306d38dec/files/pom.xml#L462", 
+        "line": 462, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gcauchis/chat/snapshot/37ddcd5dd49ad12e3ecc1372d7b8740306d38dec/files/pom.xml#L467", 
+        "line": 467, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://opensource.mxtelecom.com/maven/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gcauchis/chat/snapshot/37ddcd5dd49ad12e3ecc1372d7b8740306d38dec/files/pom.xml#L481", 
+        "line": 481, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.ibiblio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gcauchis/chat/snapshot/37ddcd5dd49ad12e3ecc1372d7b8740306d38dec/files/pom.xml#L486", 
+        "line": 486, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gcauchis/chat/snapshot/37ddcd5dd49ad12e3ecc1372d7b8740306d38dec/files/pom.xml#L496", 
+        "line": 496, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gcauchis/chat/snapshot/37ddcd5dd49ad12e3ecc1372d7b8740306d38dec/files/server/server-service/server-service-impl-neo4j/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/server/server-service/server-service-impl-neo4j/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

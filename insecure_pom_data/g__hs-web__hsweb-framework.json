@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hs-web/hsweb-framework", 
+    "url-identifier": "g/hs-web/hsweb-framework", 
+    "id": 1793613675, 
+    "name": "hs-web/hsweb-framework"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-framework/snapshot/0503c6979c25c6479abf62c25189eaf1c75d026a/files/pom.xml#L435", 
+        "line": 435, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-framework/snapshot/0503c6979c25c6479abf62c25189eaf1c75d026a/files/pom.xml#L446", 
+        "line": 446, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-framework/snapshot/0503c6979c25c6479abf62c25189eaf1c75d026a/files/pom.xml#L454", 
+        "line": 454, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-framework/snapshot/0503c6979c25c6479abf62c25189eaf1c75d026a/files/pom.xml#L459", 
+        "line": 459, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-framework/snapshot/0503c6979c25c6479abf62c25189eaf1c75d026a/files/pom.xml#L467", 
+        "line": 467, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eshioji/trident-tutorial", 
+    "url-identifier": "g/eshioji/trident-tutorial", 
+    "id": 45080089, 
+    "name": "eshioji/trident-tutorial"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eshioji/trident-tutorial/snapshot/74f314f9e287eb5d5c2c91a89a68e15ea43e46d7/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/github-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eshioji/trident-tutorial/snapshot/74f314f9e287eb5d5c2c91a89a68e15ea43e46d7/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eshioji/trident-tutorial/snapshot/74f314f9e287eb5d5c2c91a89a68e15ea43e46d7/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://twitter4j.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eshioji/trident-tutorial/snapshot/74f314f9e287eb5d5c2c91a89a68e15ea43e46d7/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://files.couchbase.com/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eshioji/trident-tutorial/snapshot/74f314f9e287eb5d5c2c91a89a68e15ea43e46d7/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

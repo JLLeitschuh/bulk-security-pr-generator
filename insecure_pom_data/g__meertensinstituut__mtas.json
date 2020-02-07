@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/meertensinstituut/mtas", 
+    "url-identifier": "g/meertensinstituut/mtas", 
+    "id": 1507214406006, 
+    "name": "meertensinstituut/mtas"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/meertensinstituut/mtas/snapshot/1cd231ecbf62d1b6a2944401ef3a9be3b56fe247/files/pom.xml#L447", 
+        "line": 447, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nyholku/purejavacomm", 
+    "url-identifier": "g/nyholku/purejavacomm", 
+    "id": 7890104, 
+    "name": "nyholku/purejavacomm"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nyholku/purejavacomm/snapshot/060e0fd4619b9107c1793e0d6983cd1c155a1b9a/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository ftp://ftp.sparetimelabs.com/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

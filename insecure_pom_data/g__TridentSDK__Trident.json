@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/TridentSDK/Trident", 
+    "url-identifier": "g/TridentSDK/Trident", 
+    "id": 49770058, 
+    "name": "TridentSDK/Trident"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TridentSDK/Trident/snapshot/cb4d49234dcb5adb3dade6d23dafc660900030e8/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.tridentsdk.net/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TridentSDK/Trident/snapshot/cb4d49234dcb5adb3dade6d23dafc660900030e8/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TridentSDK/Trident/snapshot/cb4d49234dcb5adb3dade6d23dafc660900030e8/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

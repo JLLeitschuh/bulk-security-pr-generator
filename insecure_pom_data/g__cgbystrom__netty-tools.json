@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cgbystrom/netty-tools", 
+    "url-identifier": "g/cgbystrom/netty-tools", 
+    "id": 32780055, 
+    "name": "cgbystrom/netty-tools"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cgbystrom/netty-tools/snapshot/0d7997d0a4857a45f68665517769587eb1e0cb7b/files/pom.xml#L100", 
+        "line": 100, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cgbystrom/netty-tools/snapshot/0d7997d0a4857a45f68665517769587eb1e0cb7b/files/pom.xml#L107", 
+        "line": 107, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

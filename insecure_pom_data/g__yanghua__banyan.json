@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yanghua/banyan", 
+    "url-identifier": "g/yanghua/banyan", 
+    "id": 1804074619, 
+    "name": "yanghua/banyan"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yanghua/banyan/snapshot/5e89e611e99961bb6c3f86a2022e4128ce1966c6/files/client/pom.xml#L132", 
+        "line": 132, 
+        "value": "repository", 
+        "file": "/client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://172.16.1.104:8081/nexus/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

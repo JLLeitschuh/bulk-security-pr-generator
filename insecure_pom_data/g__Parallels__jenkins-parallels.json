@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Parallels/jenkins-parallels", 
+    "url-identifier": "g/Parallels/jenkins-parallels", 
+    "id": 1506667686011, 
+    "name": "Parallels/jenkins-parallels"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Parallels/jenkins-parallels/snapshot/5c1728d2f18b0e5af0cdc0cb8da408331de1cbd7/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Parallels/jenkins-parallels/snapshot/5c1728d2f18b0e5af0cdc0cb8da408331de1cbd7/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

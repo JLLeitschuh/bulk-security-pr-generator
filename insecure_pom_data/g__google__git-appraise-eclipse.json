@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/google/git-appraise-eclipse", 
+    "url-identifier": "g/google/git-appraise-eclipse", 
+    "id": 1506124486036, 
+    "name": "google/git-appraise-eclipse"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/google/git-appraise-eclipse/snapshot/c8a2b5b77a9698f1daa2492015268c5421049126/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/mars"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

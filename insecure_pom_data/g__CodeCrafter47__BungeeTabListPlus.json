@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/CodeCrafter47/BungeeTabListPlus", 
+    "url-identifier": "g/CodeCrafter47/BungeeTabListPlus", 
+    "id": 19218552, 
+    "name": "CodeCrafter47/BungeeTabListPlus"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CodeCrafter47/BungeeTabListPlus/snapshot/1fcbdbfbf2081a10f1e4134d214c2aca6f3d1801/files/api-sponge/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/api-sponge/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spongepowered.org/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CodeCrafter47/BungeeTabListPlus/snapshot/1fcbdbfbf2081a10f1e4134d214c2aca6f3d1801/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codecrafter47.dyndns.eu/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CodeCrafter47/BungeeTabListPlus/snapshot/1fcbdbfbf2081a10f1e4134d214c2aca6f3d1801/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codecrafter47.dyndns.eu/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CodeCrafter47/BungeeTabListPlus/snapshot/1fcbdbfbf2081a10f1e4134d214c2aca6f3d1801/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codecrafter47.dyndns.eu/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CodeCrafter47/BungeeTabListPlus/snapshot/1fcbdbfbf2081a10f1e4134d214c2aca6f3d1801/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.md-5.net/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CodeCrafter47/BungeeTabListPlus/snapshot/1fcbdbfbf2081a10f1e4134d214c2aca6f3d1801/files/sponge/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/sponge/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spongepowered.org/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

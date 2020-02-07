@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/spotify/helios", 
+    "url-identifier": "g/spotify/helios", 
+    "id": 9980348, 
+    "name": "spotify/helios"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spotify/helios/snapshot/ac17bfbf0c52af3a2605bda9d98f0d0b38620b80/files/pom.xml#L110", 
+        "line": 110, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spotify/helios/snapshot/ac17bfbf0c52af3a2605bda9d98f0d0b38620b80/files/pom.xml#L114", 
+        "line": 114, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/readytalk/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

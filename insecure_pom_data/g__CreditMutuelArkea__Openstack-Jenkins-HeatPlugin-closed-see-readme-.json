@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/CreditMutuelArkea/Openstack-Jenkins-HeatPlugin-closed-see-readme-", 
+    "url-identifier": "g/CreditMutuelArkea/Openstack-Jenkins-HeatPlugin-closed-see-readme-", 
+    "id": 1506593291064, 
+    "name": "CreditMutuelArkea/Openstack-Jenkins-HeatPlugin-closed-see-readme-"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CreditMutuelArkea/Openstack-Jenkins-HeatPlugin-closed-see-readme-/snapshot/6e36af2ea6bc39e8e204af0b544f6666bd417c6a/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CreditMutuelArkea/Openstack-Jenkins-HeatPlugin-closed-see-readme-/snapshot/6e36af2ea6bc39e8e204af0b544f6666bd417c6a/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

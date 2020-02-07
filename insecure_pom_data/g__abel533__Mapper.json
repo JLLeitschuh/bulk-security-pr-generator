@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/abel533/Mapper", 
+    "url-identifier": "g/abel533/Mapper", 
+    "id": 42290196, 
+    "name": "abel533/Mapper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/abel533/Mapper/snapshot/373f6bfc9cef49ba23a460366c3f722679321215/files/spring-boot-starter/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/spring-boot-starter/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/abel533/Mapper/snapshot/373f6bfc9cef49ba23a460366c3f722679321215/files/spring-boot-starter/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/spring-boot-starter/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/abel533/Mapper/snapshot/373f6bfc9cef49ba23a460366c3f722679321215/files/spring-boot-starter/pom.xml#L71", 
+        "line": 71, 
+        "value": "pluginRepository", 
+        "file": "/spring-boot-starter/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/abel533/Mapper/snapshot/373f6bfc9cef49ba23a460366c3f722679321215/files/spring-boot-starter/pom.xml#L75", 
+        "line": 75, 
+        "value": "pluginRepository", 
+        "file": "/spring-boot-starter/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/elaatifi/orika", 
+    "url-identifier": "g/elaatifi/orika", 
+    "id": 49810006, 
+    "name": "elaatifi/orika"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elaatifi/orika/snapshot/53a51dd6aad6b5bb5e367833b6039a100c4eb7d9/files/pom.xml#L266", 
+        "line": 266, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elaatifi/orika/snapshot/53a51dd6aad6b5bb5e367833b6039a100c4eb7d9/files/pom.xml#L271", 
+        "line": 271, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

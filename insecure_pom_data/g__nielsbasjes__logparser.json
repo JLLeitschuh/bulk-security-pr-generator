@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nielsbasjes/logparser", 
+    "url-identifier": "g/nielsbasjes/logparser", 
+    "id": 1506743726309, 
+    "name": "nielsbasjes/logparser"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nielsbasjes/logparser/snapshot/0e72ae474329cc07d8c91b47c2f69f34b3df8d0d/files/httpdlog/httpdlog-serde/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/httpdlog/httpdlog-serde/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

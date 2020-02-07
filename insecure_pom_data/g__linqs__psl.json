@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/linqs/psl", 
+    "url-identifier": "g/linqs/psl", 
+    "id": 39975862, 
+    "name": "linqs/psl"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/linqs/psl/snapshot/ca06455917d8dd099826ce7e296459c3df21e509/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.linqs.org/maven/repositories/psl-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/linqs/psl/snapshot/ca06455917d8dd099826ce7e296459c3df21e509/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.linqs.org/maven/repositories/psl-thirdparty/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

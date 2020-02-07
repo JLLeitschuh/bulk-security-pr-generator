@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/metrics-ganglia-plugin", 
+    "url-identifier": "g/jenkinsci/metrics-ganglia-plugin", 
+    "id": 1506677536159, 
+    "name": "jenkinsci/metrics-ganglia-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/metrics-ganglia-plugin/snapshot/d095b7889c78c457a8c61443c2950a1256788bae/files/pom.xml#L79", 
+        "line": 79, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/metrics-ganglia-plugin/snapshot/d095b7889c78c457a8c61443c2950a1256788bae/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

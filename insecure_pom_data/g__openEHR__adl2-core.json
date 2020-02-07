@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openEHR/adl2-core", 
+    "url-identifier": "g/openEHR/adl2-core", 
+    "id": 5970376, 
+    "name": "openEHR/adl2-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openEHR/adl2-core/snapshot/13c16d1c807e107b0ded1db5f50705dbf02f7ee9/files/pom.xml#L216", 
+        "line": 216, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pehar.marand.si:8081/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openEHR/adl2-core/snapshot/13c16d1c807e107b0ded1db5f50705dbf02f7ee9/files/pom.xml#L221", 
+        "line": 221, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pehar.marand.si:8081/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ron190/jsql-injection", 
+    "url-identifier": "g/ron190/jsql-injection", 
+    "id": 1509216206868, 
+    "name": "ron190/jsql-injection"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ron190/jsql-injection/snapshot/4e2c4affb2944cc3b25dec2542a8ed5b5dbb6406/files/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jspresso.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

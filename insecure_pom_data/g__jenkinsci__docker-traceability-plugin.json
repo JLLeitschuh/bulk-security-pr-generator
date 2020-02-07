@@ -1,0 +1,113 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/docker-traceability-plugin", 
+    "url-identifier": "g/jenkinsci/docker-traceability-plugin", 
+    "id": 1509206576043, 
+    "name": "jenkinsci/docker-traceability-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/docker-traceability-plugin/snapshot/9953c1f84cb4607988813c57519d82ea26e3b26f/files/docker-java-shaded/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/docker-java-shaded/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/docker-traceability-plugin/snapshot/9953c1f84cb4607988813c57519d82ea26e3b26f/files/docker-java-shaded/pom.xml#L87", 
+        "line": 87, 
+        "value": "pluginRepository", 
+        "file": "/docker-java-shaded/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/docker-traceability-plugin/snapshot/9953c1f84cb4607988813c57519d82ea26e3b26f/files/docker-java-shaded/pom.xml#L94", 
+        "line": 94, 
+        "value": "repository", 
+        "file": "/docker-java-shaded/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/docker-traceability-plugin/snapshot/9953c1f84cb4607988813c57519d82ea26e3b26f/files/docker-traceability-api/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/docker-traceability-api/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/docker-traceability-plugin/snapshot/9953c1f84cb4607988813c57519d82ea26e3b26f/files/docker-traceability-api/pom.xml#L126", 
+        "line": 126, 
+        "value": "pluginRepository", 
+        "file": "/docker-traceability-api/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/docker-traceability-plugin/snapshot/9953c1f84cb4607988813c57519d82ea26e3b26f/files/docker-traceability-api/pom.xml#L133", 
+        "line": 133, 
+        "value": "repository", 
+        "file": "/docker-traceability-api/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/docker-traceability-plugin/snapshot/9953c1f84cb4607988813c57519d82ea26e3b26f/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/docker-traceability-plugin/snapshot/9953c1f84cb4607988813c57519d82ea26e3b26f/files/pom.xml#L84", 
+        "line": 84, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/docker-traceability-plugin/snapshot/9953c1f84cb4607988813c57519d82ea26e3b26f/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

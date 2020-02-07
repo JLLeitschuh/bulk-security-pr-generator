@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/conveyal/gtfs-lib", 
+    "url-identifier": "g/conveyal/gtfs-lib", 
+    "id": 1507587176073, 
+    "name": "conveyal/gtfs-lib"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/conveyal/gtfs-lib/snapshot/7d63a9a7bde463a0f2b918e2e0c2d912270f22ee/files/pom.xml#L213", 
+        "line": 213, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

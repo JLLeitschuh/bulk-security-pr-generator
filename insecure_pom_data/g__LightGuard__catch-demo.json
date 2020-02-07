@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/LightGuard/catch-demo", 
+    "url-identifier": "g/LightGuard/catch-demo", 
+    "id": 1509200546422, 
+    "name": "LightGuard/catch-demo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LightGuard/catch-demo/snapshot/7d20ad304a4b3a4e0caf751517c108efb9a16e56/files/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

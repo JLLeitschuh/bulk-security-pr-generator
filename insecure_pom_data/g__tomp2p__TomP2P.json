@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tomp2p/TomP2P", 
+    "url-identifier": "g/tomp2p/TomP2P", 
+    "id": 11030014, 
+    "name": "tomp2p/TomP2P"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomp2p/TomP2P/snapshot/46f193245acf9b9cead6164eb0f402bfe81afdc0/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://tomp2p.net/dev/mvn"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

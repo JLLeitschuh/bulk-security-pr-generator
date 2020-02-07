@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/angelozerr/angularjs-eclipse", 
+    "url-identifier": "g/angelozerr/angularjs-eclipse", 
+    "id": 42670055, 
+    "name": "angelozerr/angularjs-eclipse"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/angelozerr/angularjs-eclipse/snapshot/b0fc92f712c62f1b6adad222e25e009b6ed101bf/files/pom.xml#L181", 
+        "line": 181, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/neon"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/angelozerr/angularjs-eclipse/snapshot/b0fc92f712c62f1b6adad222e25e009b6ed101bf/files/pom.xml#L186", 
+        "line": 186, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.opensagres.fr/tern.repository/1.3.0-SNAPSHOT/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/angelozerr/angularjs-eclipse/snapshot/b0fc92f712c62f1b6adad222e25e009b6ed101bf/files/pom.xml#L191", 
+        "line": 191, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/cbi/updates/license/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/angelozerr/angularjs-eclipse/snapshot/b0fc92f712c62f1b6adad222e25e009b6ed101bf/files/pom.xml#L196", 
+        "line": 196, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.opensagres.fr/eclipse-wtp-webresources/1.1.0/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pulse00/Twig-Eclipse-Plugin", 
+    "url-identifier": "g/pulse00/Twig-Eclipse-Plugin", 
+    "id": 50070041, 
+    "name": "pulse00/Twig-Eclipse-Plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Twig-Eclipse-Plugin/snapshot/c09857914136fb2833c3eb915f940dcd74ec78e0/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pdt-eg.github.io/Core-Plugin/nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Twig-Eclipse-Plugin/snapshot/c09857914136fb2833c3eb915f940dcd74ec78e0/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pdt-eg.github.io/external-mirror/nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Twig-Eclipse-Plugin/snapshot/c09857914136fb2833c3eb915f940dcd74ec78e0/files/pom.xml#L75", 
+        "line": 75, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pulse00.github.io/eclipse-indexing-framework/nightly"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

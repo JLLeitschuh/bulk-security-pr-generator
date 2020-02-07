@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Bukkit/Bukkit", 
+    "url-identifier": "g/Bukkit/Bukkit", 
+    "id": 1509058586044, 
+    "name": "Bukkit/Bukkit"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Bukkit/Bukkit/snapshot/62e7e40f20094b45b8af6afc3d0b6f55cd6509d5/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.bukkit.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Bukkit/Bukkit/snapshot/62e7e40f20094b45b8af6afc3d0b6f55cd6509d5/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.bukkit.org/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

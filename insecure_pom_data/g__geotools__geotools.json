@@ -1,0 +1,322 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/geotools/geotools", 
+    "url-identifier": "g/geotools/geotools", 
+    "id": 33610156, 
+    "name": "geotools/geotools"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/coverage/artifacts/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/coverage/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/coverage/artifacts/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/coverage/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/coverage/artifacts/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/coverage/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/datastore/artifacts/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/datastore/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/datastore/artifacts/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/datastore/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/datastore/artifacts/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/datastore/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/feature/artifacts/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/feature/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/feature/artifacts/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/feature/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/feature/artifacts/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/feature/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/filter/artifacts/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/filter/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/filter/artifacts/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/filter/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/filter/artifacts/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/filter/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/geometry/artifacts/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/geometry/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/geometry/artifacts/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/geometry/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/geometry/artifacts/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/geometry/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/map/artifacts/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/map/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/map/artifacts/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/map/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/map/artifacts/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/map/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/quickstart/artifacts/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/quickstart/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/quickstart/artifacts/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/quickstart/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/quickstart/artifacts/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/quickstart/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/raster/artifacts/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/raster/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/raster/artifacts/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/raster/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/docs/user/tutorial/raster/artifacts/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/docs/user/tutorial/raster/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/modules/unsupported/arcgis-rest/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/modules/unsupported/arcgis-rest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/modules/unsupported/ogr/ogr-bridj/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/modules/unsupported/ogr/ogr-bridj/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nativelibs4java.sourceforge.net/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/pom.xml#L2325", 
+        "line": 2325, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geotools/geotools/snapshot/b291cc1c652f567b3921c0b4c9ee09cb1b4ca935/files/pom.xml#L2357", 
+        "line": 2357, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

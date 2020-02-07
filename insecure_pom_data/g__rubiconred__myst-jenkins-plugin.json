@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rubiconred/myst-jenkins-plugin", 
+    "url-identifier": "g/rubiconred/myst-jenkins-plugin", 
+    "id": 1509179336034, 
+    "name": "rubiconred/myst-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rubiconred/myst-jenkins-plugin/snapshot/73b107b23ebdacaccfd163ef17506f3dec9c33d9/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rubiconred/myst-jenkins-plugin/snapshot/73b107b23ebdacaccfd163ef17506f3dec9c33d9/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

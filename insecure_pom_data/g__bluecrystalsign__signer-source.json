@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bluecrystalsign/signer-source", 
+    "url-identifier": "g/bluecrystalsign/signer-source", 
+    "id": 1506120686854, 
+    "name": "bluecrystalsign/signer-source"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bluecrystalsign/signer-source/snapshot/38f5a81a2dbb38d1ad8d34ff628087b05494de38/files/bluecrystal.server.rest.jboss63/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/bluecrystal.server.rest.jboss63/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bluecrystalsign/signer-source/snapshot/38f5a81a2dbb38d1ad8d34ff628087b05494de38/files/bluecrystal.server.rest.jboss63/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/bluecrystal.server.rest.jboss63/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://itrc.jju.edu.cn/nexus-2.0.6/content/repositories/thirdparty/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bluecrystalsign/signer-source/snapshot/38f5a81a2dbb38d1ad8d34ff628087b05494de38/files/bluecrystal.server.rest.jboss63/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/bluecrystal.server.rest.jboss63/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nfms4redd.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bluecrystalsign/signer-source/snapshot/38f5a81a2dbb38d1ad8d34ff628087b05494de38/files/bluecrystal.server.rest.jboss63/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/bluecrystal.server.rest.jboss63/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.fdvs.com.ar/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

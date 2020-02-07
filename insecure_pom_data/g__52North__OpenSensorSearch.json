@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/OpenSensorSearch", 
+    "url-identifier": "g/52North/OpenSensorSearch", 
+    "id": 1506711421274, 
+    "name": "52North/OpenSensorSearch"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/OpenSensorSearch/snapshot/4fdb4a2e55de00c7bce05858ca844a8b44a52d8a/files/pom.xml#L258", 
+        "line": 258, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/OpenSensorSearch/snapshot/4fdb4a2e55de00c7bce05858ca844a8b44a52d8a/files/pom.xml#L269", 
+        "line": 269, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/OpenSensorSearch/snapshot/4fdb4a2e55de00c7bce05858ca844a8b44a52d8a/files/pom.xml#L281", 
+        "line": 281, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/OpenSensorSearch/snapshot/4fdb4a2e55de00c7bce05858ca844a8b44a52d8a/files/pom.xml#L288", 
+        "line": 288, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/postgis-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/OpenSensorSearch/snapshot/4fdb4a2e55de00c7bce05858ca844a8b44a52d8a/files/pom.xml#L296", 
+        "line": 296, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

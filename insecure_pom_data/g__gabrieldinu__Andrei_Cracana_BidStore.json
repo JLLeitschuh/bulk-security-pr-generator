@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/gabrieldinu/Andrei_Cracana_BidStore", 
+    "url-identifier": "g/gabrieldinu/Andrei_Cracana_BidStore", 
+    "id": 1506605297753, 
+    "name": "gabrieldinu/Andrei_Cracana_BidStore"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gabrieldinu/Andrei_Cracana_BidStore/snapshot/a6247b294913294d6177c947476d4e84f2ef88bb/files/BidStore/BidStore-web/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/BidStore/BidStore-web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

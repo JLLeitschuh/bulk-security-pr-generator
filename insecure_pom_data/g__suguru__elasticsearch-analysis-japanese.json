@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/suguru/elasticsearch-analysis-japanese", 
+    "url-identifier": "g/suguru/elasticsearch-analysis-japanese", 
+    "id": 1506599058911, 
+    "name": "suguru/elasticsearch-analysis-japanese"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/suguru/elasticsearch-analysis-japanese/snapshot/93b855f77fe1da39c4ad5bb9649606f2f4fbcd06/files/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.atilika.org/nexus/content/repositories/atilika"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

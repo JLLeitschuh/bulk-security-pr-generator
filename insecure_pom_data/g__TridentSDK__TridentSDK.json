@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/TridentSDK/TridentSDK", 
+    "url-identifier": "g/TridentSDK/TridentSDK", 
+    "id": 65200032, 
+    "name": "TridentSDK/TridentSDK"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TridentSDK/TridentSDK/snapshot/1dea4c5ca455fe7ea3bace8190bf76285279a3d9/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.tridentsdk.net/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TridentSDK/TridentSDK/snapshot/1dea4c5ca455fe7ea3bace8190bf76285279a3d9/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/iverberk/jenkins-nomad", 
+    "url-identifier": "g/iverberk/jenkins-nomad", 
+    "id": 1506587458443, 
+    "name": "iverberk/jenkins-nomad"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/iverberk/jenkins-nomad/snapshot/47cefc72c961803d021a67326213d2cb1c5ef5da/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/iverberk/jenkins-nomad/snapshot/47cefc72c961803d021a67326213d2cb1c5ef5da/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

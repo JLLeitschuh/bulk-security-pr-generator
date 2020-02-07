@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/antonyh/hippo-site-nucleus", 
+    "url-identifier": "g/antonyh/hippo-site-nucleus", 
+    "id": 1506593520124, 
+    "name": "antonyh/hippo-site-nucleus"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/antonyh/hippo-site-nucleus/snapshot/f01196d70ec44dcbb9295baad1219b3617a95992/files/ht/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/ht/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.onehippo.com/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

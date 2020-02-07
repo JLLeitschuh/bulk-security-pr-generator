@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Aconex/scrutineer", 
+    "url-identifier": "g/Aconex/scrutineer", 
+    "id": 24850110, 
+    "name": "Aconex/scrutineer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Aconex/scrutineer/snapshot/2120250ee84d060bd2039be041c3c947c074b12e/files/pom.xml#L226", 
+        "line": 226, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Aconex/scrutineer/snapshot/2120250ee84d060bd2039be041c3c947c074b12e/files/pom.xml#L234", 
+        "line": 234, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Aconex/scrutineer/snapshot/2120250ee84d060bd2039be041c3c947c074b12e/files/pom.xml#L239", 
+        "line": 239, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

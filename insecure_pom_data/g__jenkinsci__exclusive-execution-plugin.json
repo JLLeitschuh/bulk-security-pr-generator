@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/exclusive-execution-plugin", 
+    "url-identifier": "g/jenkinsci/exclusive-execution-plugin", 
+    "id": 1509202416534, 
+    "name": "jenkinsci/exclusive-execution-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/exclusive-execution-plugin/snapshot/7350d0b2d14cbca77e3b0835b8548c64f9b8b7d6/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

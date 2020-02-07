@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/aep/btrfs-workspace-plugin", 
+    "url-identifier": "g/aep/btrfs-workspace-plugin", 
+    "id": 1509234706599, 
+    "name": "aep/btrfs-workspace-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aep/btrfs-workspace-plugin/snapshot/e81476c6ddb77925e0ae0cf19c6f4cea36329346/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aep/btrfs-workspace-plugin/snapshot/e81476c6ddb77925e0ae0cf19c6f4cea36329346/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aep/btrfs-workspace-plugin/snapshot/e81476c6ddb77925e0ae0cf19c6f4cea36329346/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

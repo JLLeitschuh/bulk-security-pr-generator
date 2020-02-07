@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mjeanroy/junit-servers", 
+    "url-identifier": "g/mjeanroy/junit-servers", 
+    "id": 1509063566820, 
+    "name": "mjeanroy/junit-servers"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mjeanroy/junit-servers/snapshot/09b4672bede277835c93692ff0e900e50e4b4400/files/samples/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/samples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

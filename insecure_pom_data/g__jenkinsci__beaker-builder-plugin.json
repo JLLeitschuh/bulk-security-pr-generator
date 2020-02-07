@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/beaker-builder-plugin", 
+    "url-identifier": "g/jenkinsci/beaker-builder-plugin", 
+    "id": 1506591230513, 
+    "name": "jenkinsci/beaker-builder-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/beaker-builder-plugin/snapshot/75a4ea2bab830f9c27e10257a161233a2f1d8eb3/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/beaker-builder-plugin/snapshot/75a4ea2bab830f9c27e10257a161233a2f1d8eb3/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/beaker-builder-plugin/snapshot/75a4ea2bab830f9c27e10257a161233a2f1d8eb3/files/pom.xml#L73", 
+        "line": 73, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

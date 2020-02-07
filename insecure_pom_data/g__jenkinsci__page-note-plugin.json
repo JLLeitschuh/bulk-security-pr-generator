@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/page-note-plugin", 
+    "url-identifier": "g/jenkinsci/page-note-plugin", 
+    "id": 1506606849700, 
+    "name": "jenkinsci/page-note-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/page-note-plugin/snapshot/b8a35ac49c1132adb64b3b553b5f612a922b30e8/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/page-note-plugin/snapshot/b8a35ac49c1132adb64b3b553b5f612a922b30e8/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

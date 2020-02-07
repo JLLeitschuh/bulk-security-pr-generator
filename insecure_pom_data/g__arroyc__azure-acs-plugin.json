@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/arroyc/azure-acs-plugin", 
+    "url-identifier": "g/arroyc/azure-acs-plugin", 
+    "id": 1509218363937, 
+    "name": "arroyc/azure-acs-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/arroyc/azure-acs-plugin/snapshot/907b9015ac20f9d79549312771b2622b2ff8ea62/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/arroyc/azure-acs-plugin/snapshot/907b9015ac20f9d79549312771b2622b2ff8ea62/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

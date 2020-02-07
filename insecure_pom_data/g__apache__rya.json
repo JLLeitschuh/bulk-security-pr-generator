@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/rya", 
+    "url-identifier": "g/apache/rya", 
+    "id": 1506249675992, 
+    "name": "apache/rya"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/rya/snapshot/93e29abe6367f3d8d75da1e0b7c478dc76dc925e/files/osgi/rdf4j-runtime-osgi/pom.xml#L127", 
+        "line": 127, 
+        "value": "repository", 
+        "file": "/osgi/rdf4j-runtime-osgi/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.aqute.biz/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/rya/snapshot/93e29abe6367f3d8d75da1e0b7c478dc76dc925e/files/pom.xml#L280", 
+        "line": 280, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

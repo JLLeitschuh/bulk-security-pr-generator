@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/games647/FastLogin", 
+    "url-identifier": "g/games647/FastLogin", 
+    "id": 1799666074, 
+    "name": "games647/FastLogin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/games647/FastLogin/snapshot/6b0c742b0bdee9e0bb7c597b4275851471e51603/files/bukkit/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/bukkit/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/nexus/repository/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/games647/FastLogin/snapshot/6b0c742b0bdee9e0bb7c597b4275851471e51603/files/bukkit/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/bukkit/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.extendedclip.com/content/repositories/placeholderapi/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

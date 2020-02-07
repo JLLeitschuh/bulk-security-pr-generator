@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-webservices.rest", 
+    "url-identifier": "g/openmrs/openmrs-module-webservices.rest", 
+    "id": 1506720426054, 
+    "name": "openmrs/openmrs-module-webservices.rest"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-webservices.rest/snapshot/a0716de39bf3eb14ebcb44f5819c3d5d6ca02471/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/modules/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-webservices.rest/snapshot/a0716de39bf3eb14ebcb44f5819c3d5d6ca02471/files/pom.xml#L26", 
+        "line": 26, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-webservices.rest/snapshot/a0716de39bf3eb14ebcb44f5819c3d5d6ca02471/files/pom.xml#L634", 
+        "line": 634, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-webservices.rest/snapshot/a0716de39bf3eb14ebcb44f5819c3d5d6ca02471/files/pom.xml#L642", 
+        "line": 642, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

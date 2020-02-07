@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/java-client-api", 
+    "url-identifier": "g/jenkinsci/java-client-api", 
+    "id": 68270006, 
+    "name": "jenkinsci/java-client-api"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/java-client-api/snapshot/b2949f73cfc4bd1ed4cf0965db37173ba539139f/files/pom.xml#L478", 
+        "line": 478, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

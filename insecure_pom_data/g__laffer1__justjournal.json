@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/laffer1/justjournal", 
+    "url-identifier": "g/laffer1/justjournal", 
+    "id": 1506714129703, 
+    "name": "laffer1/justjournal"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/laffer1/justjournal/snapshot/0752f164a22a278fb88b8e34215b6be0d9f3c3f7/files/pom.xml#L388", 
+        "line": 388, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/laffer1/justjournal/snapshot/0752f164a22a278fb88b8e34215b6be0d9f3c3f7/files/pom.xml#L394", 
+        "line": 394, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/laffer1/justjournal/snapshot/0752f164a22a278fb88b8e34215b6be0d9f3c3f7/files/pom.xml#L399", 
+        "line": 399, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/laffer1/justjournal/snapshot/0752f164a22a278fb88b8e34215b6be0d9f3c3f7/files/pom.xml#L410", 
+        "line": 410, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.gemstone.com/maven/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/laffer1/justjournal/snapshot/0752f164a22a278fb88b8e34215b6be0d9f3c3f7/files/pom.xml#L420", 
+        "line": 420, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

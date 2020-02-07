@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/taskurotta/taskurotta", 
+    "url-identifier": "g/taskurotta/taskurotta", 
+    "id": 1505967916157, 
+    "name": "taskurotta/taskurotta"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/taskurotta/taskurotta/snapshot/753a6d70278e874cf06043b01228941706dd7cea/files/pom.xml#L116", 
+        "line": 116, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.egron.net:8081/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/taskurotta/taskurotta/snapshot/753a6d70278e874cf06043b01228941706dd7cea/files/pom.xml#L120", 
+        "line": 120, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.egron.net:8081/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

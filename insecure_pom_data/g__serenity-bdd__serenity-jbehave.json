@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/serenity-bdd/serenity-jbehave", 
+    "url-identifier": "g/serenity-bdd/serenity-jbehave", 
+    "id": 10200036, 
+    "name": "serenity-bdd/serenity-jbehave"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/serenity-bdd/serenity-jbehave/snapshot/a54dad2b4eb4cb32e46aa1ee5bc0585b16a2babf/files/src/smoketests/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/src/smoketests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/serenity-bdd/serenity-jbehave/snapshot/a54dad2b4eb4cb32e46aa1ee5bc0585b16a2babf/files/src/smoketests/pom.xml#L32", 
+        "line": 32, 
+        "value": "pluginRepository", 
+        "file": "/src/smoketests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

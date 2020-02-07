@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/david4096/notdockstore", 
+    "url-identifier": "g/david4096/notdockstore", 
+    "id": 1510836858276, 
+    "name": "david4096/notdockstore"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/david4096/notdockstore/snapshot/293534a8252f869ee95251d5bb57584e42121eb1/files/pom.xml#L106", 
+        "line": 106, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/david4096/notdockstore/snapshot/293534a8252f869ee95251d5bb57584e42121eb1/files/pom.xml#L126", 
+        "line": 126, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://sagebionetworks.artifactoryonline.com/sagebionetworks/libs-releases-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

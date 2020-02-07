@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cincheo/jsweet", 
+    "url-identifier": "g/cincheo/jsweet", 
+    "id": 5990119, 
+    "name": "cincheo/jsweet"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cincheo/jsweet/snapshot/ca66c816a83e3145f7b71bd636fdb0618ac0ad4d/files/jsweet-transpiler/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/jsweet-transpiler/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jsweet.org/artifactory/libs-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cincheo/jsweet/snapshot/ca66c816a83e3145f7b71bd636fdb0618ac0ad4d/files/jsweet-transpiler/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/jsweet-transpiler/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jsweet.org/artifactory/libs-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cincheo/jsweet/snapshot/ca66c816a83e3145f7b71bd636fdb0618ac0ad4d/files/jsweet-transpiler/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/jsweet-transpiler/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jsweet.org/artifactory/ext-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cincheo/jsweet/snapshot/ca66c816a83e3145f7b71bd636fdb0618ac0ad4d/files/jsweet-transpiler/pom.xml#L328", 
+        "line": 328, 
+        "value": "repository", 
+        "file": "/jsweet-transpiler/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jsweet.org/artifactory/libs-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cincheo/jsweet/snapshot/ca66c816a83e3145f7b71bd636fdb0618ac0ad4d/files/jsweet-transpiler/pom.xml#L333", 
+        "line": 333, 
+        "value": "snapshotRepository", 
+        "file": "/jsweet-transpiler/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jsweet.org/artifactory/libs-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

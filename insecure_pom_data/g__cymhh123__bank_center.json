@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cymhh123/bank_center", 
+    "url-identifier": "g/cymhh123/bank_center", 
+    "id": 1507332906120, 
+    "name": "cymhh123/bank_center"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cymhh123/bank_center/snapshot/0be8979e7a5a19842fde6a32bc21711c2130670f/files/src/main/webapp/static/lib/Highcharts/4.1.7/exporting-server/java/highcharts-export/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/src/main/webapp/static/lib/Highcharts/4.1.7/exporting-server/java/highcharts-export/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cymhh123/bank_center/snapshot/0be8979e7a5a19842fde6a32bc21711c2130670f/files/src/main/webapp/static/lib/Highcharts/4.1.7/exporting-server/java/highcharts-export/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/src/main/webapp/static/lib/Highcharts/4.1.7/exporting-server/java/highcharts-export/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

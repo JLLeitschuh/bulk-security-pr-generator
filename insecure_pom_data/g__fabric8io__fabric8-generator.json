@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/fabric8io/fabric8-generator", 
+    "url-identifier": "g/fabric8io/fabric8-generator", 
+    "id": 1506726076645, 
+    "name": "fabric8io/fabric8-generator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fabric8io/fabric8-generator/snapshot/2a2301c4c3ebe4c8ce54d414ab0b3eabb3264025/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://central.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fabric8io/fabric8-generator/snapshot/2a2301c4c3ebe4c8ce54d414ab0b3eabb3264025/files/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

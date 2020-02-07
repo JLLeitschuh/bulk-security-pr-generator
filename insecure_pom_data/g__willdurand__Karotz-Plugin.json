@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/willdurand/Karotz-Plugin", 
+    "url-identifier": "g/willdurand/Karotz-Plugin", 
+    "id": 1509190516656, 
+    "name": "willdurand/Karotz-Plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/willdurand/Karotz-Plugin/snapshot/fe97a2b3fa7696c73c1f9db794e283b086f2daf2/files/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/willdurand/Karotz-Plugin/snapshot/fe97a2b3fa7696c73c1f9db794e283b086f2daf2/files/pom.xml#L128", 
+        "line": 128, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

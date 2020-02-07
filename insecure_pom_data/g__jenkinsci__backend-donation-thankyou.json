@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/backend-donation-thankyou", 
+    "url-identifier": "g/jenkinsci/backend-donation-thankyou", 
+    "id": 1506593189661, 
+    "name": "jenkinsci/backend-donation-thankyou"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-donation-thankyou/snapshot/59346ca93b3cc6a33f1b97b4cd267e659ae75323/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.burtsev.net"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

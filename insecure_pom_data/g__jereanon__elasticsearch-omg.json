@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jereanon/elasticsearch-omg", 
+    "url-identifier": "g/jereanon/elasticsearch-omg", 
+    "id": 1506702338104, 
+    "name": "jereanon/elasticsearch-omg"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jereanon/elasticsearch-omg/snapshot/eb5157ae149f0db9ebcd1da35823612d1ed70de3/files/pom.xml#L156", 
+        "line": 156, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

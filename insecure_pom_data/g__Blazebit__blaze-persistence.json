@@ -1,0 +1,399 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence", 
+    "url-identifier": "g/Blazebit/blaze-persistence", 
+    "id": 1507645346178, 
+    "name": "Blazebit/blaze-persistence"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/core/testsuite/pom.xml#L1472", 
+        "line": 1472, 
+        "value": "repository", 
+        "file": "/core/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/core/testsuite/pom.xml#L1619", 
+        "line": 1619, 
+        "value": "repository", 
+        "file": "/core/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/core/testsuite/pom.xml#L1871", 
+        "line": 1871, 
+        "value": "repository", 
+        "file": "/core/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/core/testsuite/pom.xml#L2032", 
+        "line": 2032, 
+        "value": "repository", 
+        "file": "/core/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/core/testsuite/pom.xml#L2184", 
+        "line": 2184, 
+        "value": "repository", 
+        "file": "/core/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/entity-view/testsuite/pom.xml#L1122", 
+        "line": 1122, 
+        "value": "repository", 
+        "file": "/entity-view/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/entity-view/testsuite/pom.xml#L1237", 
+        "line": 1237, 
+        "value": "repository", 
+        "file": "/entity-view/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/entity-view/testsuite/pom.xml#L1459", 
+        "line": 1459, 
+        "value": "repository", 
+        "file": "/entity-view/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/entity-view/testsuite/pom.xml#L1615", 
+        "line": 1615, 
+        "value": "repository", 
+        "file": "/entity-view/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/entity-view/testsuite/pom.xml#L1763", 
+        "line": 1763, 
+        "value": "repository", 
+        "file": "/entity-view/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/datanucleus/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/integration/datanucleus/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/datanucleus-5.1/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/integration/datanucleus-5.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/deltaspike-data/testsuite/pom.xml#L1089", 
+        "line": 1089, 
+        "value": "repository", 
+        "file": "/integration/deltaspike-data/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/deltaspike-data/testsuite/pom.xml#L1205", 
+        "line": 1205, 
+        "value": "repository", 
+        "file": "/integration/deltaspike-data/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/deltaspike-data/testsuite/pom.xml#L1427", 
+        "line": 1427, 
+        "value": "repository", 
+        "file": "/integration/deltaspike-data/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/deltaspike-data/testsuite/pom.xml#L1586", 
+        "line": 1586, 
+        "value": "repository", 
+        "file": "/integration/deltaspike-data/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/deltaspike-data/testsuite/pom.xml#L1739", 
+        "line": 1739, 
+        "value": "repository", 
+        "file": "/integration/deltaspike-data/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/hibernate-6.0/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/integration/hibernate-6.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/spring-data/2.0/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/integration/spring-data/2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/spring-data/2.0/pom.xml#L42", 
+        "line": 42, 
+        "value": "pluginRepository", 
+        "file": "/integration/spring-data/2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/spring-data/2.1/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/integration/spring-data/2.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/spring-data/2.1/pom.xml#L46", 
+        "line": 46, 
+        "value": "pluginRepository", 
+        "file": "/integration/spring-data/2.1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/spring-data/2.2/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/integration/spring-data/2.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/spring-data/2.2/pom.xml#L46", 
+        "line": 46, 
+        "value": "pluginRepository", 
+        "file": "/integration/spring-data/2.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/spring-data/testsuite/pom.xml#L1116", 
+        "line": 1116, 
+        "value": "repository", 
+        "file": "/integration/spring-data/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/spring-data/testsuite/pom.xml#L1232", 
+        "line": 1232, 
+        "value": "repository", 
+        "file": "/integration/spring-data/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/spring-data/testsuite/pom.xml#L1481", 
+        "line": 1481, 
+        "value": "repository", 
+        "file": "/integration/spring-data/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/spring-data/testsuite/pom.xml#L1635", 
+        "line": 1635, 
+        "value": "repository", 
+        "file": "/integration/spring-data/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/integration/spring-data/testsuite/pom.xml#L1783", 
+        "line": 1783, 
+        "value": "repository", 
+        "file": "/integration/spring-data/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/jpa-criteria/testsuite/pom.xml#L802", 
+        "line": 802, 
+        "value": "repository", 
+        "file": "/jpa-criteria/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/jpa-criteria/testsuite/pom.xml#L917", 
+        "line": 917, 
+        "value": "repository", 
+        "file": "/jpa-criteria/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/jpa-criteria/testsuite/pom.xml#L1132", 
+        "line": 1132, 
+        "value": "repository", 
+        "file": "/jpa-criteria/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/jpa-criteria/testsuite/pom.xml#L1285", 
+        "line": 1285, 
+        "value": "repository", 
+        "file": "/jpa-criteria/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/jpa-criteria/testsuite/pom.xml#L1433", 
+        "line": 1433, 
+        "value": "repository", 
+        "file": "/jpa-criteria/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2-nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Blazebit/blaze-persistence/snapshot/423fddc926ad6e64aea20422d6cf1ef9efab16f2/files/pom.xml#L160", 
+        "line": 160, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

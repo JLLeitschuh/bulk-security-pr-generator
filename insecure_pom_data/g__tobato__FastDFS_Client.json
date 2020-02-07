@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tobato/FastDFS_Client", 
+    "url-identifier": "g/tobato/FastDFS_Client", 
+    "id": 1796763432, 
+    "name": "tobato/FastDFS_Client"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tobato/FastDFS_Client/snapshot/aa838e780dd023e55770eb8c114402b9a5b45d39/files/pom.xml#L154", 
+        "line": 154, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://${local.nexus}/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tobato/FastDFS_Client/snapshot/aa838e780dd023e55770eb8c114402b9a5b45d39/files/pom.xml#L159", 
+        "line": 159, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://${local.nexus}/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

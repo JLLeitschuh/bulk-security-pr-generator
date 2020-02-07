@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/parasoft-findings-plugin", 
+    "url-identifier": "g/jenkinsci/parasoft-findings-plugin", 
+    "id": 1509064726370, 
+    "name": "jenkinsci/parasoft-findings-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/parasoft-findings-plugin/snapshot/92d058286547fdc1bcdab43e259d6f8664b7523c/files/pom.xml#L159", 
+        "line": 159, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.pustefix-framework.org/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/parasoft-findings-plugin/snapshot/92d058286547fdc1bcdab43e259d6f8664b7523c/files/pom.xml#L170", 
+        "line": 170, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.pustefix-framework.org/repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

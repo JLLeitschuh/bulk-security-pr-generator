@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/gitlab-plugin", 
+    "url-identifier": "g/jenkinsci/gitlab-plugin", 
+    "id": 1509228726199, 
+    "name": "jenkinsci/gitlab-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/gitlab-plugin/snapshot/4fde77a129de3240a9e5eb38eb4275bffac34ff1/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/jgit/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

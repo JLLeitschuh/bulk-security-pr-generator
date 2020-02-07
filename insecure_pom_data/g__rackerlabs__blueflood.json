@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rackerlabs/blueflood", 
+    "url-identifier": "g/rackerlabs/blueflood", 
+    "id": 2970384, 
+    "name": "rackerlabs/blueflood"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rackerlabs/blueflood/snapshot/9669bc9b866a740dae5df23ee40ae2457e83e107/files/blueflood-core/pom.xml#L381", 
+        "line": 381, 
+        "value": "repository", 
+        "file": "/blueflood-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/netarchivesuite/netarchivesuite", 
+    "url-identifier": "g/netarchivesuite/netarchivesuite", 
+    "id": 7920061, 
+    "name": "netarchivesuite/netarchivesuite"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/netarchivesuite/netarchivesuite/snapshot/9d7e7712ad9b88a7a9663b251bf3caef876dac8e/files/pom.xml#L180", 
+        "line": 180, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://builds.archive.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

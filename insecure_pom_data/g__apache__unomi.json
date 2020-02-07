@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/unomi", 
+    "url-identifier": "g/apache/unomi", 
+    "id": 1506236327354, 
+    "name": "apache/unomi"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/unomi/snapshot/3ac43acf50bf894187e9fc5899c362e8c7e544f2/files/rest/pom.xml#L34", 
+        "line": 34, 
+        "value": "pluginRepository", 
+        "file": "/rest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.qmino.com/content/repositories/miredot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

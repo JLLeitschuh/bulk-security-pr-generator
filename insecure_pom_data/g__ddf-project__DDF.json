@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ddf-project/DDF", 
+    "url-identifier": "g/ddf-project/DDF", 
+    "id": 1910054, 
+    "name": "ddf-project/DDF"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ddf-project/DDF/snapshot/60f9756fd6dd850101a91cbb08e565c0b123c3c2/files/core/pom.xml#L360", 
+        "line": 360, 
+        "value": "repository", 
+        "file": "/core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.typesafe.com/typesafe/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ddf-project/DDF/snapshot/60f9756fd6dd850101a91cbb08e565c0b123c3c2/files/examples/pom.xml#L330", 
+        "line": 330, 
+        "value": "repository", 
+        "file": "/examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.typesafe.com/typesafe/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ddf-project/DDF/snapshot/60f9756fd6dd850101a91cbb08e565c0b123c3c2/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ddf-project/DDF/snapshot/60f9756fd6dd850101a91cbb08e565c0b123c3c2/files/spark/pom.xml#L420", 
+        "line": 420, 
+        "value": "repository", 
+        "file": "/spark/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.typesafe.com/typesafe/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

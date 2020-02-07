@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tinkerpop/rexster", 
+    "url-identifier": "g/tinkerpop/rexster", 
+    "id": 25520080, 
+    "name": "tinkerpop/rexster"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tinkerpop/rexster/snapshot/611e8870500cd1f57823324f0f80414d1b98a366/files/rexster-kibbles/batch-kibble/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/rexster-kibbles/batch-kibble/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tinkerpop/rexster/snapshot/611e8870500cd1f57823324f0f80414d1b98a366/files/rexster-kibbles/frames-kibble/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/rexster-kibbles/frames-kibble/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tinkerpop/rexster/snapshot/611e8870500cd1f57823324f0f80414d1b98a366/files/rexster-kibbles/sample-kibbles/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/rexster-kibbles/sample-kibbles/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tinkerpop/rexster/snapshot/611e8870500cd1f57823324f0f80414d1b98a366/files/rexster-kibbles/sparql-kibble/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/rexster-kibbles/sparql-kibble/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

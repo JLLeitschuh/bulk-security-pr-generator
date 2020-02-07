@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jwmach1/parameterized-scheduler", 
+    "url-identifier": "g/jwmach1/parameterized-scheduler", 
+    "id": 1509210348485, 
+    "name": "jwmach1/parameterized-scheduler"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jwmach1/parameterized-scheduler/snapshot/cdad3443fb65fb0772d620b768d45c59da325e44/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jwmach1/parameterized-scheduler/snapshot/cdad3443fb65fb0772d620b768d45c59da325e44/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

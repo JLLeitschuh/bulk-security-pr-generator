@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/adobe/aem-importer-markdown-maven-plugin", 
+    "url-identifier": "g/adobe/aem-importer-markdown-maven-plugin", 
+    "id": 1506264617387, 
+    "name": "adobe/aem-importer-markdown-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adobe/aem-importer-markdown-maven-plugin/snapshot/0a04bf27185d29066a48d567ba796496fd053846/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.adobe.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adobe/aem-importer-markdown-maven-plugin/snapshot/0a04bf27185d29066a48d567ba796496fd053846/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

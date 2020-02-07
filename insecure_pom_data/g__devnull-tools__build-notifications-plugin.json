@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/devnull-tools/build-notifications-plugin", 
+    "url-identifier": "g/devnull-tools/build-notifications-plugin", 
+    "id": 1509237510710, 
+    "name": "devnull-tools/build-notifications-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/devnull-tools/build-notifications-plugin/snapshot/a8addb220dabb4298ca051900c9007af90279e42/files/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/devnull-tools/build-notifications-plugin/snapshot/a8addb220dabb4298ca051900c9007af90279e42/files/pom.xml#L88", 
+        "line": 88, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

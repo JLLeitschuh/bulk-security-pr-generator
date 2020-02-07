@@ -1,0 +1,157 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wso2/wso2-synapse", 
+    "url-identifier": "g/wso2/wso2-synapse", 
+    "id": 1506704146203, 
+    "name": "wso2/wso2-synapse"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/modules/distribution/pom.xml#L140", 
+        "line": 140, 
+        "value": "repository", 
+        "file": "/modules/distribution/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.atlassian.com/repository/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/modules/securevault/pom.xml#L151", 
+        "line": 151, 
+        "value": "pluginRepository", 
+        "file": "/modules/securevault/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/pom.xml#L113", 
+        "line": 113, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/pom.xml#L135", 
+        "line": 135, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/snapshots/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/pom.xml#L1532", 
+        "line": 1532, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/pom.xml#L1542", 
+        "line": 1542, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/pom.xml#L1552", 
+        "line": 1552, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/pom.xml#L1566", 
+        "line": 1566, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/pom.xml#L1576", 
+        "line": 1576, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/pom.xml#L1588", 
+        "line": 1588, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/pom.xml#L1600", 
+        "line": 1600, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/wso2-synapse/snapshot/21d316c387f564af597732661485f510f842d196/files/pom.xml#L1605", 
+        "line": 1605, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

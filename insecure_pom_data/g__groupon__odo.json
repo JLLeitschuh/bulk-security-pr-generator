@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/groupon/odo", 
+    "url-identifier": "g/groupon/odo", 
+    "id": 53010026, 
+    "name": "groupon/odo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/groupon/odo/snapshot/b4a3100e8086a685b8dea2b7531ad3e87fcfed1f/files/proxyui/pom.xml#L275", 
+        "line": 275, 
+        "value": "repository", 
+        "file": "/proxyui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/groupon/odo/snapshot/b4a3100e8086a685b8dea2b7531ad3e87fcfed1f/files/proxyui/pom.xml#L282", 
+        "line": 282, 
+        "value": "repository", 
+        "file": "/proxyui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/groupon/odo/snapshot/b4a3100e8086a685b8dea2b7531ad3e87fcfed1f/files/proxyui/pom.xml#L289", 
+        "line": 289, 
+        "value": "repository", 
+        "file": "/proxyui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://webjars.github.com/m2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/groupon/odo/snapshot/b4a3100e8086a685b8dea2b7531ad3e87fcfed1f/files/proxyui/pom.xml#L295", 
+        "line": 295, 
+        "value": "pluginRepository", 
+        "file": "/proxyui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/groupon/odo/snapshot/b4a3100e8086a685b8dea2b7531ad3e87fcfed1f/files/proxyui/pom.xml#L299", 
+        "line": 299, 
+        "value": "pluginRepository", 
+        "file": "/proxyui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

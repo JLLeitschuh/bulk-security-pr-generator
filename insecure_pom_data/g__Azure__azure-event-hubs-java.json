@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Azure/azure-event-hubs-java", 
+    "url-identifier": "g/Azure/azure-event-hubs-java", 
+    "id": 1505768345988, 
+    "name": "Azure/azure-event-hubs-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Azure/azure-event-hubs-java/snapshot/26a314a7417f3df220af1c6fb2462bf874d771a2/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://raw.github.com/SreeramGarlapati/jproxy/master/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

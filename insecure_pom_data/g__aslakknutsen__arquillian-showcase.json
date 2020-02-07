@@ -1,0 +1,102 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/aslakknutsen/arquillian-showcase", 
+    "url-identifier": "g/aslakknutsen/arquillian-showcase", 
+    "id": 35751211, 
+    "name": "aslakknutsen/arquillian-showcase"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aslakknutsen/arquillian-showcase/snapshot/60b8bbc432365cbdbffcda55ea65202fde94a528/files/container-boms/resin-embedded-4/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/container-boms/resin-embedded-4/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aslakknutsen/arquillian-showcase/snapshot/60b8bbc432365cbdbffcda55ea65202fde94a528/files/container-boms/resin-embedded-4/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/container-boms/resin-embedded-4/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://caucho.com/m2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aslakknutsen/arquillian-showcase/snapshot/60b8bbc432365cbdbffcda55ea65202fde94a528/files/extensions/weld-servlet/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/extensions/weld-servlet/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aslakknutsen/arquillian-showcase/snapshot/60b8bbc432365cbdbffcda55ea65202fde94a528/files/jpa-lite/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/jpa-lite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.eclipse.org/downloads/download.php?r=1&nf=1&file=/rt/eclipselink/maven.repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aslakknutsen/arquillian-showcase/snapshot/60b8bbc432365cbdbffcda55ea65202fde94a528/files/parent/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aslakknutsen/arquillian-showcase/snapshot/60b8bbc432365cbdbffcda55ea65202fde94a528/files/parent/pom.xml#L71", 
+        "line": 71, 
+        "value": "pluginRepository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aslakknutsen/arquillian-showcase/snapshot/60b8bbc432365cbdbffcda55ea65202fde94a528/files/spring/pom.xml#L242", 
+        "line": 242, 
+        "value": "repository", 
+        "file": "/spring/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aslakknutsen/arquillian-showcase/snapshot/60b8bbc432365cbdbffcda55ea65202fde94a528/files/spring/pom.xml#L252", 
+        "line": 252, 
+        "value": "repository", 
+        "file": "/spring/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

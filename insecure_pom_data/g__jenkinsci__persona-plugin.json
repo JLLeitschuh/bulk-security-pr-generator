@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/persona-plugin", 
+    "url-identifier": "g/jenkinsci/persona-plugin", 
+    "id": 1506603280669, 
+    "name": "jenkinsci/persona-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/persona-plugin/snapshot/4c320d11970e1404aa0ef55bc7a34ba2f5cb72e2/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/persona-plugin/snapshot/4c320d11970e1404aa0ef55bc7a34ba2f5cb72e2/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/twitter/hraven", 
+    "url-identifier": "g/twitter/hraven", 
+    "id": 48300019, 
+    "name": "twitter/hraven"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/twitter/hraven/snapshot/5bb64b114bb04d049795c51cdcaef1a1f08ec8a1/files/pom.xml#L106", 
+        "line": 106, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

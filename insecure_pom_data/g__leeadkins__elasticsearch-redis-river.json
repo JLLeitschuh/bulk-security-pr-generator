@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/leeadkins/elasticsearch-redis-river", 
+    "url-identifier": "g/leeadkins/elasticsearch-redis-river", 
+    "id": 62390034, 
+    "name": "leeadkins/elasticsearch-redis-river"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/leeadkins/elasticsearch-redis-river/snapshot/0b17cfaa7963a8aba31f0b3a0a38cd0e265b5c60/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

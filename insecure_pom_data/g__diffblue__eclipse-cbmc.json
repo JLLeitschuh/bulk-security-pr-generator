@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/diffblue/eclipse-cbmc", 
+    "url-identifier": "g/diffblue/eclipse-cbmc", 
+    "id": 1508293376032, 
+    "name": "diffblue/eclipse-cbmc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/diffblue/eclipse-cbmc/snapshot/03874f41b5fc7c39df90333ab1147b73d8f0c7f7/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/cbi/updates/license/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

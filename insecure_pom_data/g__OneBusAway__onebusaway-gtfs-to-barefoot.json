@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-to-barefoot", 
+    "url-identifier": "g/OneBusAway/onebusaway-gtfs-to-barefoot", 
+    "id": 1507612866000, 
+    "name": "OneBusAway/onebusaway-gtfs-to-barefoot"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-to-barefoot/snapshot/da4ab5a80076167afb8b2fafa60b0f708dac7564/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

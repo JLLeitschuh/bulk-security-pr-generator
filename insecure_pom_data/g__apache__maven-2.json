@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/maven-2", 
+    "url-identifier": "g/apache/maven-2", 
+    "id": 1506248046113, 
+    "name": "apache/maven-2"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-2/snapshot/5952790d6aa471af5ac0695641814fbef0da1655/files/maven-core-it-runner/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/maven-core-it-runner/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

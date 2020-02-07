@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/vogellacompany/saneclipse", 
+    "url-identifier": "g/vogellacompany/saneclipse", 
+    "id": 67070057, 
+    "name": "vogellacompany/saneclipse"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vogellacompany/saneclipse/snapshot/c7b7bde69719dbc7c06e89730a34fa0a3bb16488/files/com.vogella.saneclipse.parent/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/com.vogella.saneclipse.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/neon/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/backend-plugin-report-card", 
+    "url-identifier": "g/jenkinsci/backend-plugin-report-card", 
+    "id": 1506603029180, 
+    "name": "jenkinsci/backend-plugin-report-card"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-plugin-report-card/snapshot/6dd2158e4435c551e525cf030857c795bccc7317/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.glassfish.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-plugin-report-card/snapshot/6dd2158e4435c551e525cf030857c795bccc7317/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.glassfish.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-plugin-report-card/snapshot/6dd2158e4435c551e525cf030857c795bccc7317/files/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

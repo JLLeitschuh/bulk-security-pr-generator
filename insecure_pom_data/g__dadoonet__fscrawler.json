@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dadoonet/fscrawler", 
+    "url-identifier": "g/dadoonet/fscrawler", 
+    "id": 46353547, 
+    "name": "dadoonet/fscrawler"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dadoonet/fscrawler/snapshot/8edb2a236b9a1e653b5d3669e25104aec926c84e/files/elasticsearch-client/elasticsearch-client-v7/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/elasticsearch-client/elasticsearch-client-v7/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://s3.amazonaws.com/download.elasticsearch.org/lucenesnapshots/83f9835"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

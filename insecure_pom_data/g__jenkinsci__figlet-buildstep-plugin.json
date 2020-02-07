@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/figlet-buildstep-plugin", 
+    "url-identifier": "g/jenkinsci/figlet-buildstep-plugin", 
+    "id": 1509206266357, 
+    "name": "jenkinsci/figlet-buildstep-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/figlet-buildstep-plugin/snapshot/72f36723c5b6ff70755ee750f3445b3c3e3dede9/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/figlet-buildstep-plugin/snapshot/72f36723c5b6ff70755ee750f3445b3c3e3dede9/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

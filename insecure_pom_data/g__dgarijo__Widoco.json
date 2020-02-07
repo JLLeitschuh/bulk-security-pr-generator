@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dgarijo/Widoco", 
+    "url-identifier": "g/dgarijo/Widoco", 
+    "id": 4860049, 
+    "name": "dgarijo/Widoco"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dgarijo/Widoco/snapshot/29e306ad0acce1ba79e5112264c0b94baac3f983/files/pom.xml#L208", 
+        "line": 208, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

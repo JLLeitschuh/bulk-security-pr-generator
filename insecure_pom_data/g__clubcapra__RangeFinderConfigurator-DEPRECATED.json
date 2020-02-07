@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/clubcapra/RangeFinderConfigurator-DEPRECATED", 
+    "url-identifier": "g/clubcapra/RangeFinderConfigurator-DEPRECATED", 
+    "id": 1506538276973, 
+    "name": "clubcapra/RangeFinderConfigurator-DEPRECATED"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/clubcapra/RangeFinderConfigurator-DEPRECATED/snapshot/5a17f5cfd25acba52be843f80e1069a0dbb33bea/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/clubcapra/RangeFinderConfigurator-DEPRECATED/snapshot/5a17f5cfd25acba52be843f80e1069a0dbb33bea/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clubcapra.com/artifactory/libs-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

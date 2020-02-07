@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/asdf2014/CapturePackage", 
+    "url-identifier": "g/asdf2014/CapturePackage", 
+    "id": 1509707766707, 
+    "name": "asdf2014/CapturePackage"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/asdf2014/CapturePackage/snapshot/849476b5f8731a0fe57b28383977e0a4dd809254/files/pom.xml#L314", 
+        "line": 314, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

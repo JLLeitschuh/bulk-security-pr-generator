@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/resty-gwt/resty-gwt", 
+    "url-identifier": "g/resty-gwt/resty-gwt", 
+    "id": 960041, 
+    "name": "resty-gwt/resty-gwt"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/resty-gwt/resty-gwt/snapshot/2899328e572ba6825f919d45066a5142b45eb845/files/restygwt-examples/restygwt-rails-example/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/restygwt-examples/restygwt-rails-example/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

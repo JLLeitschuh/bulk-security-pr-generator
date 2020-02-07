@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/cloudstack", 
+    "url-identifier": "g/apache/cloudstack", 
+    "id": 12080048, 
+    "name": "apache/cloudstack"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/cloudstack/snapshot/e24aefa28e4b6d60eb7f7b38648a247a5188296f/files/client/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://juniper.github.io/contrail-maven/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/cloudstack/snapshot/e24aefa28e4b6d60eb7f7b38648a247a5188296f/files/plugins/network-elements/juniper-contrail/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/plugins/network-elements/juniper-contrail/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://juniper.github.io/contrail-maven/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

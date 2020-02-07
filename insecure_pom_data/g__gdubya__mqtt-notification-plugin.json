@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/gdubya/mqtt-notification-plugin", 
+    "url-identifier": "g/gdubya/mqtt-notification-plugin", 
+    "id": 1509136206043, 
+    "name": "gdubya/mqtt-notification-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gdubya/mqtt-notification-plugin/snapshot/62413b96f6f0f95e361cbad6d88ba754e9af78dc/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gdubya/mqtt-notification-plugin/snapshot/62413b96f6f0f95e361cbad6d88ba754e9af78dc/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

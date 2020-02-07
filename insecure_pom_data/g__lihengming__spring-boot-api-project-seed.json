@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lihengming/spring-boot-api-project-seed", 
+    "url-identifier": "g/lihengming/spring-boot-api-project-seed", 
+    "id": 1506170506738, 
+    "name": "lihengming/spring-boot-api-project-seed"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lihengming/spring-boot-api-project-seed/snapshot/b34289f6963e98e2d611bf13162c1ac21e6a4305/files/pom.xml#L125", 
+        "line": 125, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lihengming/spring-boot-api-project-seed/snapshot/b34289f6963e98e2d611bf13162c1ac21e6a4305/files/pom.xml#L135", 
+        "line": 135, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

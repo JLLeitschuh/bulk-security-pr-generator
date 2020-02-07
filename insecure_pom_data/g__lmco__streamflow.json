@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lmco/streamflow", 
+    "url-identifier": "g/lmco/streamflow", 
+    "id": 46063832, 
+    "name": "lmco/streamflow"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lmco/streamflow/snapshot/5ef3ba3f62e4956b2f7a09b89e2c1bb4baa156ba/files/pom.xml#L79", 
+        "line": 79, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lmco/streamflow/snapshot/5ef3ba3f62e4956b2f7a09b89e2c1bb4baa156ba/files/pom.xml#L83", 
+        "line": 83, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/eclipselink/maven.repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

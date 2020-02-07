@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/neo4j-contrib/graph-collections", 
+    "url-identifier": "g/neo4j-contrib/graph-collections", 
+    "id": 62050065, 
+    "name": "neo4j-contrib/graph-collections"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/neo4j-contrib/graph-collections/snapshot/1efc5f6f364e24602dece8f1f2386dac41fd8b10/files/pom.xml#L117", 
+        "line": 117, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/neo4j-contrib/graph-collections/snapshot/1efc5f6f364e24602dece8f1f2386dac41fd8b10/files/pom.xml#L123", 
+        "line": 123, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

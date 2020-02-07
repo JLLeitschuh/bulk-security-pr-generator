@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OpenFeign/feign-vertx", 
+    "url-identifier": "g/OpenFeign/feign-vertx", 
+    "id": 1506597108094, 
+    "name": "OpenFeign/feign-vertx"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenFeign/feign-vertx/snapshot/fcc16b6f36d2829bbbdd802553ef65052156d0ca/files/pom.xml#L263", 
+        "line": 263, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

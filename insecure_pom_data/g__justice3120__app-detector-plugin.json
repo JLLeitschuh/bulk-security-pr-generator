@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/justice3120/app-detector-plugin", 
+    "url-identifier": "g/justice3120/app-detector-plugin", 
+    "id": 1509120516007, 
+    "name": "justice3120/app-detector-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/justice3120/app-detector-plugin/snapshot/ad36ffa59695abca5969ca538c71e98df33cec97/files/pom.xml#L147", 
+        "line": 147, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/justice3120/app-detector-plugin/snapshot/ad36ffa59695abca5969ca538c71e98df33cec97/files/pom.xml#L153", 
+        "line": 153, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

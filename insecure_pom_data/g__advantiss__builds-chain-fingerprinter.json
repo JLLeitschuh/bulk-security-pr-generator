@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/advantiss/builds-chain-fingerprinter", 
+    "url-identifier": "g/advantiss/builds-chain-fingerprinter", 
+    "id": 1509202596247, 
+    "name": "advantiss/builds-chain-fingerprinter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/advantiss/builds-chain-fingerprinter/snapshot/5e0e5a4356a6b7116e3b3a11858256fcd4971ba3/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/advantiss/builds-chain-fingerprinter/snapshot/5e0e5a4356a6b7116e3b3a11858256fcd4971ba3/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

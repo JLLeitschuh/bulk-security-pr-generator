@@ -1,0 +1,124 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/perf4j/perf4j", 
+    "url-identifier": "g/perf4j/perf4j", 
+    "id": 45940041, 
+    "name": "perf4j/perf4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/perf4j/perf4j/snapshot/59a33a4a51a7fd688a9172cc58a66b95e38c6b87/files/pom.xml#L149", 
+        "line": 149, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-ibiblio-rsync-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/perf4j/perf4j/snapshot/59a33a4a51a7fd688a9172cc58a66b95e38c6b87/files/pom.xml#L153", 
+        "line": 153, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/perf4j/perf4j/snapshot/59a33a4a51a7fd688a9172cc58a66b95e38c6b87/files/pom.xml#L157", 
+        "line": 157, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/perf4j/perf4j/snapshot/59a33a4a51a7fd688a9172cc58a66b95e38c6b87/files/pom.xml#L161", 
+        "line": 161, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-incubating-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/perf4j/perf4j/snapshot/59a33a4a51a7fd688a9172cc58a66b95e38c6b87/files/pom.xml#L165", 
+        "line": 165, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/perf4j/perf4j/snapshot/59a33a4a51a7fd688a9172cc58a66b95e38c6b87/files/pom.xml#L172", 
+        "line": 172, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/perf4j/perf4j/snapshot/59a33a4a51a7fd688a9172cc58a66b95e38c6b87/files/pom.xml#L176", 
+        "line": 176, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/org/codehaus/mojo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/perf4j/perf4j/snapshot/59a33a4a51a7fd688a9172cc58a66b95e38c6b87/files/pom.xml#L180", 
+        "line": 180, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/perf4j/perf4j/snapshot/59a33a4a51a7fd688a9172cc58a66b95e38c6b87/files/pom.xml#L184", 
+        "line": 184, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/perf4j/perf4j/snapshot/59a33a4a51a7fd688a9172cc58a66b95e38c6b87/files/pom.xml#L188", 
+        "line": 188, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

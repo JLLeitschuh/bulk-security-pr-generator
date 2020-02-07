@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SmartDeveloperHub/sdh-scm-harvester", 
+    "url-identifier": "g/SmartDeveloperHub/sdh-scm-harvester", 
+    "id": 25890051, 
+    "name": "SmartDeveloperHub/sdh-scm-harvester"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SmartDeveloperHub/sdh-scm-harvester/snapshot/919dfafa63bce484159ebd682d12f3f380c6c8bd/files/container/src/main/resources/pom.xml#L72", 
+        "line": 72, 
+        "value": "pluginRepository", 
+        "file": "/container/src/main/resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

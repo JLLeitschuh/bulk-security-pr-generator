@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/usethesource/capsule", 
+    "url-identifier": "g/usethesource/capsule", 
+    "id": 1791610401, 
+    "name": "usethesource/capsule"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/capsule/snapshot/54081624f26f92927d4f353b966dce28dcb542eb/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/capsule/snapshot/54081624f26f92927d4f353b966dce28dcb542eb/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/usethesource/capsule/snapshot/54081624f26f92927d4f353b966dce28dcb542eb/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

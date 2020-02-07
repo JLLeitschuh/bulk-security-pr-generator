@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/triturus", 
+    "url-identifier": "g/52North/triturus", 
+    "id": 1506709570763, 
+    "name": "52North/triturus"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/triturus/snapshot/415328bd44d44ddc44dac637143ab9daa826c584/files/pom.xml#L329", 
+        "line": 329, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/triturus/snapshot/415328bd44d44ddc44dac637143ab9daa826c584/files/pom.xml#L334", 
+        "line": 334, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openpnp/openpnp", 
+    "url-identifier": "g/openpnp/openpnp", 
+    "id": 1798670167, 
+    "name": "openpnp/openpnp"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openpnp/openpnp/snapshot/cff22a0a4cb0cde35ee3728a5af128a7d4ecb854/files/pom.xml#L412", 
+        "line": 412, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven2.javacv.googlecode.com/git"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

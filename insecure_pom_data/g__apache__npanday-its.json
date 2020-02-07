@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/npanday-its", 
+    "url-identifier": "g/apache/npanday-its", 
+    "id": 1506235187869, 
+    "name": "apache/npanday-its"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/npanday-its/snapshot/a0ac5f445dcf2e2e46ea4c054a3cbc303d6c7fcd/files/src/test/resources/NPANDAY_140_ConflictingExtensionsTest/pom.xml#L67", 
+        "line": 67, 
+        "value": "pluginRepository", 
+        "file": "/src/test/resources/NPANDAY_140_ConflictingExtensionsTest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.servebox.org/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/npanday-its/snapshot/a0ac5f445dcf2e2e46ea4c054a3cbc303d6c7fcd/files/src/test/resources/NPANDAY_140_ConflictingExtensionsTest/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/src/test/resources/NPANDAY_140_ConflictingExtensionsTest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.servebox.org/repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lucidworks/spark-solr", 
+    "url-identifier": "g/lucidworks/spark-solr", 
+    "id": 14100001, 
+    "name": "lucidworks/spark-solr"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lucidworks/spark-solr/snapshot/3dfa5f4d235cef4cf308925e76d7f6feb0ededf8/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

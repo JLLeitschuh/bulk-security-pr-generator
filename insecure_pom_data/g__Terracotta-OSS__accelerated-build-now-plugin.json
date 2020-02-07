@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Terracotta-OSS/accelerated-build-now-plugin", 
+    "url-identifier": "g/Terracotta-OSS/accelerated-build-now-plugin", 
+    "id": 1506589281088, 
+    "name": "Terracotta-OSS/accelerated-build-now-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/accelerated-build-now-plugin/snapshot/1618eff0d89b964d0d67c6ea70561fe2c8c78de1/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/accelerated-build-now-plugin/snapshot/1618eff0d89b964d0d67c6ea70561fe2c8c78de1/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

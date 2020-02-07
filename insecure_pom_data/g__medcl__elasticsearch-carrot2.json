@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/medcl/elasticsearch-carrot2", 
+    "url-identifier": "g/medcl/elasticsearch-carrot2", 
+    "id": 59980050, 
+    "name": "medcl/elasticsearch-carrot2"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/medcl/elasticsearch-carrot2/snapshot/d0fcfd1c9126efac448c512a8b40f5c6850be031/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

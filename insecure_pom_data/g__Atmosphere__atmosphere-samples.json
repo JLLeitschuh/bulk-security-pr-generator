@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Atmosphere/atmosphere-samples", 
+    "url-identifier": "g/Atmosphere/atmosphere-samples", 
+    "id": 99622388, 
+    "name": "Atmosphere/atmosphere-samples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Atmosphere/atmosphere-samples/snapshot/19e5e325ace0b267a9be90d4aa20ae0630bb2cca/files/pom.xml#L378", 
+        "line": 378, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Atmosphere/atmosphere-samples/snapshot/19e5e325ace0b267a9be90d4aa20ae0630bb2cca/files/pom.xml#L382", 
+        "line": 382, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

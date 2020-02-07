@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hs-web/hsweb-printer", 
+    "url-identifier": "g/hs-web/hsweb-printer", 
+    "id": 1506722305996, 
+    "name": "hs-web/hsweb-printer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-printer/snapshot/1003c797561021b2a4911372b89646083957caf4/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-printer/snapshot/1003c797561021b2a4911372b89646083957caf4/files/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-printer/snapshot/1003c797561021b2a4911372b89646083957caf4/files/pom.xml#L93", 
+        "line": 93, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-printer/snapshot/1003c797561021b2a4911372b89646083957caf4/files/pom.xml#L98", 
+        "line": 98, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

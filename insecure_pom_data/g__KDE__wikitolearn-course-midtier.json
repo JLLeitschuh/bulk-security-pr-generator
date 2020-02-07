@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/KDE/wikitolearn-course-midtier", 
+    "url-identifier": "g/KDE/wikitolearn-course-midtier", 
+    "id": 1506243756116, 
+    "name": "KDE/wikitolearn-course-midtier"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/KDE/wikitolearn-course-midtier/snapshot/cf21aef6e737aeefe24484cbec6223e04d5926b4/files/pom.xml#L115", 
+        "line": 115, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/KDE/wikitolearn-course-midtier/snapshot/cf21aef6e737aeefe24484cbec6223e04d5926b4/files/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/KDE/wikitolearn-course-midtier/snapshot/cf21aef6e737aeefe24484cbec6223e04d5926b4/files/pom.xml#L129", 
+        "line": 129, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/KDE/wikitolearn-course-midtier/snapshot/cf21aef6e737aeefe24484cbec6223e04d5926b4/files/pom.xml#L133", 
+        "line": 133, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

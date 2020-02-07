@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/square/rack-servlet", 
+    "url-identifier": "g/square/rack-servlet", 
+    "id": 58880074, 
+    "name": "square/rack-servlet"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/square/rack-servlet/snapshot/8ef3a92a0561c39e14bdab3adc8433c0cd744178/files/examples/dropwizard/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/examples/dropwizard/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/square/rack-servlet/snapshot/8ef3a92a0561c39e14bdab3adc8433c0cd744178/files/integration/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/integration/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

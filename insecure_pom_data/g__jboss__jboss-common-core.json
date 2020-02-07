@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jboss/jboss-common-core", 
+    "url-identifier": "g/jboss/jboss-common-core", 
+    "id": 1508366132390, 
+    "name": "jboss/jboss-common-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jboss/jboss-common-core/snapshot/e5249a75ac8cfffdfa1d32038b3ead9b6601a1bf/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jboss/jboss-common-core/snapshot/e5249a75ac8cfffdfa1d32038b3ead9b6601a1bf/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

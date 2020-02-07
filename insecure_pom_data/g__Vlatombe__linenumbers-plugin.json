@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Vlatombe/linenumbers-plugin", 
+    "url-identifier": "g/Vlatombe/linenumbers-plugin", 
+    "id": 1506593659523, 
+    "name": "Vlatombe/linenumbers-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Vlatombe/linenumbers-plugin/snapshot/9341c6b258cb4b31ad6d83df59cc61eaeccd554f/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Vlatombe/linenumbers-plugin/snapshot/9341c6b258cb4b31ad6d83df59cc61eaeccd554f/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Vlatombe/linenumbers-plugin/snapshot/9341c6b258cb4b31ad6d83df59cc61eaeccd554f/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Vlatombe/linenumbers-plugin/snapshot/9341c6b258cb4b31ad6d83df59cc61eaeccd554f/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

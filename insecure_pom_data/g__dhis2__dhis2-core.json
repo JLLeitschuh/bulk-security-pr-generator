@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dhis2/dhis2-core", 
+    "url-identifier": "g/dhis2/dhis2-core", 
+    "id": 1967160005, 
+    "name": "dhis2/dhis2-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dhis2/dhis2-core/snapshot/b7c3fdb7276d0974f2a11b7c1d5e046d3127126d/files/dhis-2/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/dhis-2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dhis2/dhis2-core/snapshot/b7c3fdb7276d0974f2a11b7c1d5e046d3127126d/files/dhis-2/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/dhis-2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.java.net/content/repositories/staging/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

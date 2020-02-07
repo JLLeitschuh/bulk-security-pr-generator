@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/myfaces-extcdi", 
+    "url-identifier": "g/apache/myfaces-extcdi", 
+    "id": 1506238497100, 
+    "name": "apache/myfaces-extcdi"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-extcdi/snapshot/aed3532477c914deaed994016457622d19985613/files/core/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-extcdi/snapshot/aed3532477c914deaed994016457622d19985613/files/examples/jsf-examples/hello_myfaces-codi_jsf20/pom.xml#L419", 
+        "line": 419, 
+        "value": "repository", 
+        "file": "/examples/jsf-examples/hello_myfaces-codi_jsf20/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-extcdi/snapshot/aed3532477c914deaed994016457622d19985613/files/examples/jsf-examples/hello_myfaces-codi_jsf20/pom.xml#L464", 
+        "line": 464, 
+        "value": "repository", 
+        "file": "/examples/jsf-examples/hello_myfaces-codi_jsf20/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-extcdi/snapshot/aed3532477c914deaed994016457622d19985613/files/examples/jsf-playground/clientside_windowhandler_jsf20/pom.xml#L202", 
+        "line": 202, 
+        "value": "repository", 
+        "file": "/examples/jsf-playground/clientside_windowhandler_jsf20/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-extcdi/snapshot/aed3532477c914deaed994016457622d19985613/files/examples/jsf-playground/hello_myfaces-codi_jsf20/pom.xml#L202", 
+        "line": 202, 
+        "value": "repository", 
+        "file": "/examples/jsf-playground/hello_myfaces-codi_jsf20/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-extcdi/snapshot/aed3532477c914deaed994016457622d19985613/files/pom.xml#L748", 
+        "line": 748, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/1/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

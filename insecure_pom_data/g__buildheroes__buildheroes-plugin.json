@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/buildheroes/buildheroes-plugin", 
+    "url-identifier": "g/buildheroes/buildheroes-plugin", 
+    "id": 1506601270146, 
+    "name": "buildheroes/buildheroes-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/buildheroes/buildheroes-plugin/snapshot/470a44212d3fc5e86a935e4b6fefe00df0b588f7/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/buildheroes/buildheroes-plugin/snapshot/470a44212d3fc5e86a935e4b6fefe00df0b588f7/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/buildheroes/buildheroes-plugin/snapshot/470a44212d3fc5e86a935e4b6fefe00df0b588f7/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

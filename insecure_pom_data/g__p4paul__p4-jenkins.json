@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/p4paul/p4-jenkins", 
+    "url-identifier": "g/p4paul/p4-jenkins", 
+    "id": 1506498028453, 
+    "name": "p4paul/p4-jenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/p4paul/p4-jenkins/snapshot/6b4788f1b15b36674cd5a51017649de2b90809d3/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://artifactory.bnr.perforce.com/artifactory/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

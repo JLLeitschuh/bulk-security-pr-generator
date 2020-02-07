@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mguymon/model-citizen", 
+    "url-identifier": "g/mguymon/model-citizen", 
+    "id": 66050040, 
+    "name": "mguymon/model-citizen"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mguymon/model-citizen/snapshot/18310ce56f76907e4a3453a0a23e4b30bd16a2fa/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

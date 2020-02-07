@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/crap4j-plugin", 
+    "url-identifier": "g/jenkinsci/crap4j-plugin", 
+    "id": 1509030646188, 
+    "name": "jenkinsci/crap4j-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/crap4j-plugin/snapshot/fcfd9abcfc3df8e44f5b5d308bed054667aea6ba/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/crap4j-plugin/snapshot/fcfd9abcfc3df8e44f5b5d308bed054667aea6ba/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

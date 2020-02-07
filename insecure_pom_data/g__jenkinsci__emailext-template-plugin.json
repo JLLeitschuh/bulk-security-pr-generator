@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/emailext-template-plugin", 
+    "url-identifier": "g/jenkinsci/emailext-template-plugin", 
+    "id": 1506581712361, 
+    "name": "jenkinsci/emailext-template-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/emailext-template-plugin/snapshot/e112874a1cf4c5663ff24e76a55955eeb2bfc36f/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/emailext-template-plugin/snapshot/e112874a1cf4c5663ff24e76a55955eeb2bfc36f/files/pom.xml#L87", 
+        "line": 87, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

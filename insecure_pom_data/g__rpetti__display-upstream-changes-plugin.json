@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rpetti/display-upstream-changes-plugin", 
+    "url-identifier": "g/rpetti/display-upstream-changes-plugin", 
+    "id": 1509241177547, 
+    "name": "rpetti/display-upstream-changes-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rpetti/display-upstream-changes-plugin/snapshot/67667e57d25e8e76128db6d6e3c4af67427a4ec6/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rpetti/display-upstream-changes-plugin/snapshot/67667e57d25e8e76128db6d6e3c4af67427a4ec6/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

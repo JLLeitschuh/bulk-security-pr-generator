@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mediathekview/MediathekView", 
+    "url-identifier": "g/mediathekview/MediathekView", 
+    "id": 1797130300, 
+    "name": "mediathekview/MediathekView"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mediathekview/MediathekView/snapshot/38ccb463e2306df37c5e3d2ac2e250ac56d76031/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

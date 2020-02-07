@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/PeteGoo/tcSlackBuildNotifier", 
+    "url-identifier": "g/PeteGoo/tcSlackBuildNotifier", 
+    "id": 42800012, 
+    "name": "PeteGoo/tcSlackBuildNotifier"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PeteGoo/tcSlackBuildNotifier/snapshot/2ea14bf818f6ea3139877f00a4312265a05c4829/files/pom.xml#L141", 
+        "line": 141, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.code.sf.net/p/tcplugins/code/maven2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PeteGoo/tcSlackBuildNotifier/snapshot/2ea14bf818f6ea3139877f00a4312265a05c4829/files/pom.xml#L148", 
+        "line": 148, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.jetbrains.com/teamcity-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PeteGoo/tcSlackBuildNotifier/snapshot/2ea14bf818f6ea3139877f00a4312265a05c4829/files/tcslackbuildnotifier-core/pom.xml#L105", 
+        "line": 105, 
+        "value": "repository", 
+        "file": "/tcslackbuildnotifier-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.code.sf.net/p/tcplugins/code/maven2-repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

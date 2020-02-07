@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ChristianBecker/http-post-plugin", 
+    "url-identifier": "g/ChristianBecker/http-post-plugin", 
+    "id": 1509237316145, 
+    "name": "ChristianBecker/http-post-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ChristianBecker/http-post-plugin/snapshot/293ef7680df13fbb439bfb21968f7e6480d6fcd0/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ChristianBecker/http-post-plugin/snapshot/293ef7680df13fbb439bfb21968f7e6480d6fcd0/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

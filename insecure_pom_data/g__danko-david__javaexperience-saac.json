@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/danko-david/javaexperience-saac", 
+    "url-identifier": "g/danko-david/javaexperience-saac", 
+    "id": 1510696392848, 
+    "name": "danko-david/javaexperience-saac"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/danko-david/javaexperience-saac/snapshot/02a1174bcb356290806f15cb781e8fb3aca0ce98/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.javaexperience.eu/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

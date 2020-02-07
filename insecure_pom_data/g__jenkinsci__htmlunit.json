@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/htmlunit", 
+    "url-identifier": "g/jenkinsci/htmlunit", 
+    "id": 1506601040567, 
+    "name": "jenkinsci/htmlunit"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/htmlunit/snapshot/f9bd05296ac1f1501fa1eacc6c852675b4639430/files/pom.xml#L717", 
+        "line": 717, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

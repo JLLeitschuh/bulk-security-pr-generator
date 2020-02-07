@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jbarrus/jenkins-badge-setter", 
+    "url-identifier": "g/jbarrus/jenkins-badge-setter", 
+    "id": 1510647236853, 
+    "name": "jbarrus/jenkins-badge-setter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jbarrus/jenkins-badge-setter/snapshot/f0c70ac9604a09d140402aaf1580d5b45b1f3739/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jbarrus/jenkins-badge-setter/snapshot/f0c70ac9604a09d140402aaf1580d5b45b1f3739/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/agile-cockpit-notification-plugin", 
+    "url-identifier": "g/jenkinsci/agile-cockpit-notification-plugin", 
+    "id": 1509239136554, 
+    "name": "jenkinsci/agile-cockpit-notification-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/agile-cockpit-notification-plugin/snapshot/b17433465bed41137bdab0b5de731112b6a281ad/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/agile-cockpit-notification-plugin/snapshot/b17433465bed41137bdab0b5de731112b6a281ad/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

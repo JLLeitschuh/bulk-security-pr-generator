@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/MentorQuesta/questa-vrm", 
+    "url-identifier": "g/MentorQuesta/questa-vrm", 
+    "id": 1506603029184, 
+    "name": "MentorQuesta/questa-vrm"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MentorQuesta/questa-vrm/snapshot/19cd14a0c8a91037819f85a346c16078672a902b/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MentorQuesta/questa-vrm/snapshot/19cd14a0c8a91037819f85a346c16078672a902b/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

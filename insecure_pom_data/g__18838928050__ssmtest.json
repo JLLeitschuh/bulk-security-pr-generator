@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/18838928050/ssmtest", 
+    "url-identifier": "g/18838928050/ssmtest", 
+    "id": 1506696526569, 
+    "name": "18838928050/ssmtest"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/18838928050/ssmtest/snapshot/d4b329db89db4750ef5f794ecca3fc51a14af9e6/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.0.0.12:8081/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/18838928050/ssmtest/snapshot/d4b329db89db4750ef5f794ecca3fc51a14af9e6/files/pom.xml#L26", 
+        "line": 26, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.0.0.12:8081/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/18838928050/ssmtest/snapshot/d4b329db89db4750ef5f794ecca3fc51a14af9e6/files/target/m2e-wtp/web-resources/META-INF/maven/com.dossp/ssmtest/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/target/m2e-wtp/web-resources/META-INF/maven/com.dossp/ssmtest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.0.0.12:8081/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/18838928050/ssmtest/snapshot/d4b329db89db4750ef5f794ecca3fc51a14af9e6/files/target/m2e-wtp/web-resources/META-INF/maven/com.dossp/ssmtest/pom.xml#L26", 
+        "line": 26, 
+        "value": "snapshotRepository", 
+        "file": "/target/m2e-wtp/web-resources/META-INF/maven/com.dossp/ssmtest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.0.0.12:8081/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

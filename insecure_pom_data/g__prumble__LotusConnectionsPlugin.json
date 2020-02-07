@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/prumble/LotusConnectionsPlugin", 
+    "url-identifier": "g/prumble/LotusConnectionsPlugin", 
+    "id": 1509245446000, 
+    "name": "prumble/LotusConnectionsPlugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/prumble/LotusConnectionsPlugin/snapshot/d8f4a391968130b64b37d2a18f6b5782377e61bd/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/prumble/LotusConnectionsPlugin/snapshot/d8f4a391968130b64b37d2a18f6b5782377e61bd/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

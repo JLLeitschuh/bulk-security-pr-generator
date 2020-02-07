@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SeleniumHQ/fluent-selenium", 
+    "url-identifier": "g/SeleniumHQ/fluent-selenium", 
+    "id": 1794861292, 
+    "name": "SeleniumHQ/fluent-selenium"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SeleniumHQ/fluent-selenium/snapshot/94da4080ee2dbe92eb5959e5a8e5e036bd27ef1b/files/java/pom.xml#L135", 
+        "line": 135, 
+        "value": "repository", 
+        "file": "/java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

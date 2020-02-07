@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/joerghoh/cq5-utils", 
+    "url-identifier": "g/joerghoh/cq5-utils", 
+    "id": 1509257546034, 
+    "name": "joerghoh/cq5-utils"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/joerghoh/cq5-utils/snapshot/54acc728e7718b9b8ede6c983225629803d09c96/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.adobe.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/joerghoh/cq5-utils/snapshot/54acc728e7718b9b8ede6c983225629803d09c96/files/pom.xml#L113", 
+        "line": 113, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.adobe.com/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

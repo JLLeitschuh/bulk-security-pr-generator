@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dadoonet/spring-elasticsearch", 
+    "url-identifier": "g/dadoonet/spring-elasticsearch", 
+    "id": 27430049, 
+    "name": "dadoonet/spring-elasticsearch"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dadoonet/spring-elasticsearch/snapshot/949e33937fb2c50e68a4bfcf615a136a56b9b284/files/pom.xml#L102", 
+        "line": 102, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.elastic.co/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

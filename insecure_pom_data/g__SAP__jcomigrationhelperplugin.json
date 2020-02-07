@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SAP/jcomigrationhelperplugin", 
+    "url-identifier": "g/SAP/jcomigrationhelperplugin", 
+    "id": 1506262836202, 
+    "name": "SAP/jcomigrationhelperplugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SAP/jcomigrationhelperplugin/snapshot/2f94a2c9b8463d41edcd9c1eb50e81837ec95c3d/files/com.sap.ims.isa.jcomigrationhelper.parent/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/com.sap.ims.isa.jcomigrationhelper.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/mars"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

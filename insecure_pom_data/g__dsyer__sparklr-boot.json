@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dsyer/sparklr-boot", 
+    "url-identifier": "g/dsyer/sparklr-boot", 
+    "id": 28430090, 
+    "name": "dsyer/sparklr-boot"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dsyer/sparklr-boot/snapshot/7e3793ace41d2e845f69e70a7db26693928d1e58/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dsyer/sparklr-boot/snapshot/7e3793ace41d2e845f69e70a7db26693928d1e58/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dsyer/sparklr-boot/snapshot/7e3793ace41d2e845f69e70a7db26693928d1e58/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/vvakame/JsonPullParser", 
+    "url-identifier": "g/vvakame/JsonPullParser", 
+    "id": 33160129, 
+    "name": "vvakame/JsonPullParser"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vvakame/JsonPullParser/snapshot/a1b42b1645e178c74b2b5ac4999723213c0ac837/files/jsonpullparser-benchmark/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/jsonpullparser-benchmark/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.seasar.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vvakame/JsonPullParser/snapshot/a1b42b1645e178c74b2b5ac4999723213c0ac837/files/jsonpullparser-benchmark/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/jsonpullparser-benchmark/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://vvakame.github.com/JsonPullParser/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vvakame/JsonPullParser/snapshot/a1b42b1645e178c74b2b5ac4999723213c0ac837/files/jsonpullparser-parent/pom.xml#L102", 
+        "line": 102, 
+        "value": "repository", 
+        "file": "/jsonpullparser-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.seasar.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vvakame/JsonPullParser/snapshot/a1b42b1645e178c74b2b5ac4999723213c0ac837/files/jsonpullparser-usage/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/jsonpullparser-usage/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://vvakame.github.com/JsonPullParser/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vvakame/JsonPullParser/snapshot/a1b42b1645e178c74b2b5ac4999723213c0ac837/files/jsonpullparser-usage/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/jsonpullparser-usage/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://vvakame.github.com/JsonPullParser/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

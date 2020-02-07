@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Codearte/catch-exception", 
+    "url-identifier": "g/Codearte/catch-exception", 
+    "id": 30370409, 
+    "name": "Codearte/catch-exception"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Codearte/catch-exception/snapshot/4f07fa273831d39543a916b4c378036f35f9b727/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Codearte/catch-exception/snapshot/4f07fa273831d39543a916b4c378036f35f9b727/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

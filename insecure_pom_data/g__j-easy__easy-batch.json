@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/j-easy/easy-batch", 
+    "url-identifier": "g/j-easy/easy-batch", 
+    "id": 12120065, 
+    "name": "j-easy/easy-batch"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/j-easy/easy-batch/snapshot/6c4de1d6f0cffbe39dd80a722f3984654d5549d5/files/easy-batch-extensions/easy-batch-integration/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/easy-batch-extensions/easy-batch-integration/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/repositories/root_repository/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/j-easy/easy-batch/snapshot/6c4de1d6f0cffbe39dd80a722f3984654d5549d5/files/easy-batch-jms/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/easy-batch-jms/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/repositories/root_repository/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

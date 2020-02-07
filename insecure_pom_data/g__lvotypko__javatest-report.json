@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lvotypko/javatest-report", 
+    "url-identifier": "g/lvotypko/javatest-report", 
+    "id": 1509234946497, 
+    "name": "lvotypko/javatest-report"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lvotypko/javatest-report/snapshot/da988a0dbaad239da948f239ccebfc8cf450a81d/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lvotypko/javatest-report/snapshot/da988a0dbaad239da948f239ccebfc8cf450a81d/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

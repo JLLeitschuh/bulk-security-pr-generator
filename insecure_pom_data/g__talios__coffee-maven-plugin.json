@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/talios/coffee-maven-plugin", 
+    "url-identifier": "g/talios/coffee-maven-plugin", 
+    "id": 1506767196281, 
+    "name": "talios/coffee-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/talios/coffee-maven-plugin/snapshot/8db7af6c5372a5679224c03c34d578b2dba1e5ed/files/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/talios/coffee-maven-plugin/snapshot/8db7af6c5372a5679224c03c34d578b2dba1e5ed/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/github-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

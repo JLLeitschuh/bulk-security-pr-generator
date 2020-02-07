@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Portals", 
+    "url-identifier": "g/Multiverse/Multiverse-Portals", 
+    "id": 32170019, 
+    "name": "Multiverse/Multiverse-Portals"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Portals/snapshot/bcd142d8c86e3c32b466896d811efcdaf39a746d/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Portals/snapshot/bcd142d8c86e3c32b466896d811efcdaf39a746d/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Portals/snapshot/bcd142d8c86e3c32b466896d811efcdaf39a746d/files/pom.xml#L204", 
+        "line": 204, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/content/repositories/multiverse"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Portals/snapshot/bcd142d8c86e3c32b466896d811efcdaf39a746d/files/pom.xml#L208", 
+        "line": 208, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/content/repositories/multiverse-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

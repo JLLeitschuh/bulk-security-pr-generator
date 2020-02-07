@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/CogComp/cogcomp-nlp", 
+    "url-identifier": "g/CogComp/cogcomp-nlp", 
+    "id": 1797877849, 
+    "name": "CogComp/cogcomp-nlp"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CogComp/cogcomp-nlp/snapshot/3a3fa8d032bfd93c44d9186a711ccc6799796a56/files/big-data-utils/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/big-data-utils/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rsync.xypron.de/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CogComp/cogcomp-nlp/snapshot/3a3fa8d032bfd93c44d9186a711ccc6799796a56/files/commasrl/pom.xml#L20", 
+        "line": 20, 
+        "value": "pluginRepository", 
+        "file": "/commasrl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://macniece.seas.upenn.edu/m2repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CogComp/cogcomp-nlp/snapshot/3a3fa8d032bfd93c44d9186a711ccc6799796a56/files/ner/pom.xml#L15", 
+        "line": 15, 
+        "value": "pluginRepository", 
+        "file": "/ner/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cogcomp.org/m2repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CogComp/cogcomp-nlp/snapshot/3a3fa8d032bfd93c44d9186a711ccc6799796a56/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://macniece.seas.upenn.edu/m2repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CogComp/cogcomp-nlp/snapshot/3a3fa8d032bfd93c44d9186a711ccc6799796a56/files/quantifier/pom.xml#L16", 
+        "line": 16, 
+        "value": "pluginRepository", 
+        "file": "/quantifier/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cogcomp.org/m2repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CogComp/cogcomp-nlp/snapshot/3a3fa8d032bfd93c44d9186a711ccc6799796a56/files/question-type/pom.xml#L78", 
+        "line": 78, 
+        "value": "pluginRepository", 
+        "file": "/question-type/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cogcomp.org/m2repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CogComp/cogcomp-nlp/snapshot/3a3fa8d032bfd93c44d9186a711ccc6799796a56/files/relation-extraction/pom.xml#L14", 
+        "line": 14, 
+        "value": "pluginRepository", 
+        "file": "/relation-extraction/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cogcomp.org/m2repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

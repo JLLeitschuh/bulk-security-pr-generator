@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ilx/ksadmin", 
+    "url-identifier": "g/ilx/ksadmin", 
+    "id": 1506597259560, 
+    "name": "ilx/ksadmin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ilx/ksadmin/snapshot/2a92f1b207e1853498a1a72c420b40e9a1ed5223/files/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springframework.org/release-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ilx/ksadmin/snapshot/2a92f1b207e1853498a1a72c420b40e9a1ed5223/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/simple/ext-release-local/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

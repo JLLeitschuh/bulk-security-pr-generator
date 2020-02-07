@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mysql-time-machine/replicator", 
+    "url-identifier": "g/mysql-time-machine/replicator", 
+    "id": 1506094636350, 
+    "name": "mysql-time-machine/replicator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mysql-time-machine/replicator/snapshot/c2d977ef6030c0288b905f3c031bd4911ae4f3d4/files/pom.xml#L375", 
+        "line": 375, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://packages.confluent.io/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/LaisvydasLT/lsf-cloud", 
+    "url-identifier": "g/LaisvydasLT/lsf-cloud", 
+    "id": 1509218063676, 
+    "name": "LaisvydasLT/lsf-cloud"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LaisvydasLT/lsf-cloud/snapshot/08b912e434bdcd901332ccaa600f40086eacfdfa/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LaisvydasLT/lsf-cloud/snapshot/08b912e434bdcd901332ccaa600f40086eacfdfa/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

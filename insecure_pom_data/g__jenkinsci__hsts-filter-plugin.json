@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/hsts-filter-plugin", 
+    "url-identifier": "g/jenkinsci/hsts-filter-plugin", 
+    "id": 1509063086019, 
+    "name": "jenkinsci/hsts-filter-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/hsts-filter-plugin/snapshot/f14bbf21dfd473c217d25410a54cd035d6fe6323/files/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/hsts-filter-plugin/snapshot/f14bbf21dfd473c217d25410a54cd035d6fe6323/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/hsts-filter-plugin/snapshot/f14bbf21dfd473c217d25410a54cd035d6fe6323/files/pom.xml#L87", 
+        "line": 87, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

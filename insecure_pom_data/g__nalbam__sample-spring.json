@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nalbam/sample-spring", 
+    "url-identifier": "g/nalbam/sample-spring", 
+    "id": 1506499798401, 
+    "name": "nalbam/sample-spring"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nalbam/sample-spring/snapshot/7c5be0e0cf86cc863a9b0e028fbae0a7abc327bc/files/pom.xml#L125", 
+        "line": 125, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://sonatype-nexus.devops.svc.cluster.local:8080/repository/maven-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nalbam/sample-spring/snapshot/7c5be0e0cf86cc863a9b0e028fbae0a7abc327bc/files/pom.xml#L129", 
+        "line": 129, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://sonatype-nexus.devops.svc.cluster.local:8080/repository/maven-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

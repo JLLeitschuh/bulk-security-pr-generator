@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/BroadleafCommerce/LegacyDemoSite", 
+    "url-identifier": "g/BroadleafCommerce/LegacyDemoSite", 
+    "id": 1506644169356, 
+    "name": "BroadleafCommerce/LegacyDemoSite"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BroadleafCommerce/LegacyDemoSite/snapshot/209f70dd31c062182e7241a087f522bb8681d903/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.broadleafcommerce.org/nexus/content/groups/community-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BroadleafCommerce/LegacyDemoSite/snapshot/209f70dd31c062182e7241a087f522bb8681d903/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.broadleafcommerce.org/nexus/content/groups/community-releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

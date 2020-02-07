@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/chirino/lmdbjni", 
+    "url-identifier": "g/chirino/lmdbjni", 
+    "id": 1506182036928, 
+    "name": "chirino/lmdbjni"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/chirino/lmdbjni/snapshot/85445ac15b8455183ce5c002a8cce15149ac6ede/files/pom.xml#L303", 
+        "line": 303, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/nexus/content/groups/public-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/chirino/lmdbjni/snapshot/85445ac15b8455183ce5c002a8cce15149ac6ede/files/pom.xml#L317", 
+        "line": 317, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/nexus/content/groups/public-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

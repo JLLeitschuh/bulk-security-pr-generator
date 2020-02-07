@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/GeoKnow/LinkedGeoData", 
+    "url-identifier": "g/GeoKnow/LinkedGeoData", 
+    "id": 51010060, 
+    "name": "GeoKnow/LinkedGeoData"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GeoKnow/LinkedGeoData/snapshot/a51239f09bc3ed62e8a07b645d0002bdaac8672f/files/pom.xml#L193", 
+        "line": 193, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/repository/internal"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GeoKnow/LinkedGeoData/snapshot/a51239f09bc3ed62e8a07b645d0002bdaac8672f/files/pom.xml#L199", 
+        "line": 199, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/repository/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GeoKnow/LinkedGeoData/snapshot/a51239f09bc3ed62e8a07b645d0002bdaac8672f/files/pom.xml#L205", 
+        "line": 205, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://topquadrant.com/repository/spin"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GeoKnow/LinkedGeoData/snapshot/a51239f09bc3ed62e8a07b645d0002bdaac8672f/files/pom.xml#L350", 
+        "line": 350, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/archiva/repository/internal"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GeoKnow/LinkedGeoData/snapshot/a51239f09bc3ed62e8a07b645d0002bdaac8672f/files/pom.xml#L356", 
+        "line": 356, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/archiva/repository/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

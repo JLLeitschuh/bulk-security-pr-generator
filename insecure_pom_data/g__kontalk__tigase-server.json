@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kontalk/tigase-server", 
+    "url-identifier": "g/kontalk/tigase-server", 
+    "id": 11040015, 
+    "name": "kontalk/tigase-server"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kontalk/tigase-server/snapshot/2f4369c1c690e53844ab37642842dcf8c8d4ac42/files/modules/master/pom.xml#L220", 
+        "line": 220, 
+        "value": "repository", 
+        "file": "/modules/master/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-repo.tigase.org/repository/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kontalk/tigase-server/snapshot/2f4369c1c690e53844ab37642842dcf8c8d4ac42/files/modules/master/pom.xml#L225", 
+        "line": 225, 
+        "value": "repository", 
+        "file": "/modules/master/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-repo.tigase.org/repository/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kontalk/tigase-server/snapshot/2f4369c1c690e53844ab37642842dcf8c8d4ac42/files/modules/master/pom.xml#L235", 
+        "line": 235, 
+        "value": "repository", 
+        "file": "/modules/master/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-repo.tigase.org/repository/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kontalk/tigase-server/snapshot/2f4369c1c690e53844ab37642842dcf8c8d4ac42/files/modules/master/pom.xml#L240", 
+        "line": 240, 
+        "value": "snapshotRepository", 
+        "file": "/modules/master/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-repo.tigase.org/repository/snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

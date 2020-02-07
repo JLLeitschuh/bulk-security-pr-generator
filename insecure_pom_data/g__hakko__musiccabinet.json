@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hakko/musiccabinet", 
+    "url-identifier": "g/hakko/musiccabinet", 
+    "id": 1796321037, 
+    "name": "hakko/musiccabinet"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hakko/musiccabinet/snapshot/c83b2c0ef8f310c4492cd5365968a04f31c7ba6d/files/musiccabinet-server/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/musiccabinet-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hakko/musiccabinet/snapshot/c83b2c0ef8f310c4492cd5365968a04f31c7ba6d/files/musiccabinet-server/pom.xml#L126", 
+        "line": 126, 
+        "value": "repository", 
+        "file": "/musiccabinet-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hakko/musiccabinet/snapshot/c83b2c0ef8f310c4492cd5365968a04f31c7ba6d/files/musiccabinet-server/pom.xml#L131", 
+        "line": 131, 
+        "value": "repository", 
+        "file": "/musiccabinet-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

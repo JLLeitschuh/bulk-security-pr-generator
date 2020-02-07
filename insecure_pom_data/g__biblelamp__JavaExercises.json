@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/biblelamp/JavaExercises", 
+    "url-identifier": "g/biblelamp/JavaExercises", 
+    "id": 1506681717601, 
+    "name": "biblelamp/JavaExercises"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/biblelamp/JavaExercises/snapshot/6ddf3b39f331153250692d2bfd225cf9dc10b141/files/TestTasks/itv.ru/kirill-salyamov-spring-boot-jsf/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/TestTasks/itv.ru/kirill-salyamov-spring-boot-jsf/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

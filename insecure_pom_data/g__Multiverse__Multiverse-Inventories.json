@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Inventories", 
+    "url-identifier": "g/Multiverse/Multiverse-Inventories", 
+    "id": 1790041, 
+    "name": "Multiverse/Multiverse-Inventories"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Inventories/snapshot/ea701494d415eba4d869f035864152f52465492d/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Inventories/snapshot/ea701494d415eba4d869f035864152f52465492d/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://doodleproject.sourceforge.net/maven2/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Inventories/snapshot/ea701494d415eba4d869f035864152f52465492d/files/pom.xml#L315", 
+        "line": 315, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/content/repositories/multiverse"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Inventories/snapshot/ea701494d415eba4d869f035864152f52465492d/files/pom.xml#L319", 
+        "line": 319, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/content/repositories/multiverse-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

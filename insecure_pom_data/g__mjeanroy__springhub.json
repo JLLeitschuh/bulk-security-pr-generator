@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mjeanroy/springhub", 
+    "url-identifier": "g/mjeanroy/springhub", 
+    "id": 1506718007763, 
+    "name": "mjeanroy/springhub"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mjeanroy/springhub/snapshot/f6decfad2acffed31081d6c5ecbf5105041c00de/files/pom.xml#L128", 
+        "line": 128, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

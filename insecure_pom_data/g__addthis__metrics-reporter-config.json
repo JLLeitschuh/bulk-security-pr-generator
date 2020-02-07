@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/addthis/metrics-reporter-config", 
+    "url-identifier": "g/addthis/metrics-reporter-config", 
+    "id": 69000049, 
+    "name": "addthis/metrics-reporter-config"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/addthis/metrics-reporter-config/snapshot/acf5e118716541d08223d5bee7400884be92ddba/files/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/addthis/metrics-reporter-config/snapshot/acf5e118716541d08223d5bee7400884be92ddba/files/pom.xml#L131", 
+        "line": 131, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/addthis/metrics-reporter-config/snapshot/acf5e118716541d08223d5bee7400884be92ddba/files/pom.xml#L136", 
+        "line": 136, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/readytalk/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

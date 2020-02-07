@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jbox2d/jbox2d", 
+    "url-identifier": "g/jbox2d/jbox2d", 
+    "id": 21060094, 
+    "name": "jbox2d/jbox2d"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jbox2d/jbox2d/snapshot/6f26b26de98c5d46cba0bebce21149b2787dd9e2/files/pom.xml#L158", 
+        "line": 158, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jbox2d/jbox2d/snapshot/6f26b26de98c5d46cba0bebce21149b2787dd9e2/files/pom.xml#L163", 
+        "line": 163, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

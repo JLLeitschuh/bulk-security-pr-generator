@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dkpro/dkpro-similarity", 
+    "url-identifier": "g/dkpro/dkpro-similarity", 
+    "id": 1507204706300, 
+    "name": "dkpro/dkpro-similarity"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dkpro/dkpro-similarity/snapshot/68afeb06219bc96b6abe551c463c4e5575deb35a/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-model-releases-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dkpro/dkpro-similarity/snapshot/68afeb06219bc96b6abe551c463c4e5575deb35a/files/pom.xml#L167", 
+        "line": 167, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lvotypko/exclusive-labels-plugin", 
+    "url-identifier": "g/lvotypko/exclusive-labels-plugin", 
+    "id": 1509249376211, 
+    "name": "lvotypko/exclusive-labels-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lvotypko/exclusive-labels-plugin/snapshot/5296a0ce69d4eb883af1ff50974921c040809055/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lvotypko/exclusive-labels-plugin/snapshot/5296a0ce69d4eb883af1ff50974921c040809055/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lvotypko/exclusive-labels-plugin/snapshot/5296a0ce69d4eb883af1ff50974921c040809055/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

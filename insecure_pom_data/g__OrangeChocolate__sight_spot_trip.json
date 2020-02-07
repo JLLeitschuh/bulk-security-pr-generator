@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OrangeChocolate/sight_spot_trip", 
+    "url-identifier": "g/OrangeChocolate/sight_spot_trip", 
+    "id": 1506587317459, 
+    "name": "OrangeChocolate/sight_spot_trip"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OrangeChocolate/sight_spot_trip/snapshot/de86c2fc92bd527c7b0f3839b68df49e03a6714f/files/pom.xml#L164", 
+        "line": 164, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

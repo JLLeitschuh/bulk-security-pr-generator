@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/devtty/store", 
+    "url-identifier": "g/devtty/store", 
+    "id": 1510758189770, 
+    "name": "devtty/store"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/devtty/store/snapshot/4dc927b8a0e17959267e6b26eb98238e7ee4b7ea/files/pom.xml#L369", 
+        "line": 369, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/devtty/store/snapshot/4dc927b8a0e17959267e6b26eb98238e7ee4b7ea/files/pom.xml#L374", 
+        "line": 374, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

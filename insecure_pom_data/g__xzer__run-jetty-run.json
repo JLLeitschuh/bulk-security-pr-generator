@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/xzer/run-jetty-run", 
+    "url-identifier": "g/xzer/run-jetty-run", 
+    "id": 1790983520, 
+    "name": "xzer/run-jetty-run"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xzer/run-jetty-run/snapshot/fce880c6a2e0247ee2e66f16673b9ff5eb423b48/files/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavensync.zkoss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xzer/run-jetty-run/snapshot/fce880c6a2e0247ee2e66f16673b9ff5eb423b48/files/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavensync.zkoss.org/zk/pe-eval"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xzer/run-jetty-run/snapshot/fce880c6a2e0247ee2e66f16673b9ff5eb423b48/files/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavensync.zkoss.org/zk/ee-eval"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xzer/run-jetty-run/snapshot/fce880c6a2e0247ee2e66f16673b9ff5eb423b48/files/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml#L38", 
+        "line": 38, 
+        "value": "pluginRepository", 
+        "file": "/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavensync.zkoss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xzer/run-jetty-run/snapshot/fce880c6a2e0247ee2e66f16673b9ff5eb423b48/files/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml#L43", 
+        "line": 43, 
+        "value": "pluginRepository", 
+        "file": "/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.maven.codehaus.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xzer/run-jetty-run/snapshot/fce880c6a2e0247ee2e66f16673b9ff5eb423b48/files/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml#L51", 
+        "line": 51, 
+        "value": "pluginRepository", 
+        "file": "/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xzer/run-jetty-run/snapshot/fce880c6a2e0247ee2e66f16673b9ff5eb423b48/files/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/mars/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jberkel/pay-me", 
+    "url-identifier": "g/jberkel/pay-me", 
+    "id": 1507213646176, 
+    "name": "jberkel/pay-me"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jberkel/pay-me/snapshot/586b0c2ecd80d7533fbbd0051b3000603dd8d2af/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zegoggl.es:8081/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

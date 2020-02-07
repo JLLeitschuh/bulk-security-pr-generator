@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dbpedia/extraction-framework", 
+    "url-identifier": "g/dbpedia/extraction-framework", 
+    "id": 1506742036623, 
+    "name": "dbpedia/extraction-framework"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dbpedia/extraction-framework/snapshot/dcf01a5162d4e45d71bac346e0b127d5639edc76/files/core/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www2.ph.ed.ac.uk/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dbpedia/extraction-framework/snapshot/dcf01a5162d4e45d71bac346e0b127d5639edc76/files/live/pom.xml#L83", 
+        "line": 83, 
+        "value": "repository", 
+        "file": "/live/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://audiobox.keytwo.net"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin", 
+    "url-identifier": "g/pulse00/Symfony-2-Eclipse-Plugin", 
+    "id": 48360118, 
+    "name": "pulse00/Symfony-2-Eclipse-Plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin/snapshot/da4e01ad5e1c681596563fd77bed56ababfad972/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dadacoalition.org/yedit"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin/snapshot/da4e01ad5e1c681596563fd77bed56ababfad972/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/${eclipse.name}"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin/snapshot/da4e01ad5e1c681596563fd77bed56ababfad972/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/technology/dltk/updates-dev/${dltk.version}/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin/snapshot/da4e01ad5e1c681596563fd77bed56ababfad972/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/pdt/updates/${pdt.version}/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin/snapshot/da4e01ad5e1c681596563fd77bed56ababfad972/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/downloads/drops/R20150519210750/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin/snapshot/da4e01ad5e1c681596563fd77bed56ababfad972/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin/snapshot/da4e01ad5e1c681596563fd77bed56ababfad972/files/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pulse00.github.io/Doctrine-Eclipse-Plugin/nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin/snapshot/da4e01ad5e1c681596563fd77bed56ababfad972/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pulse00.github.io/Twig-Eclipse-Plugin/nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin/snapshot/da4e01ad5e1c681596563fd77bed56ababfad972/files/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pdt-eg.github.io/Core-Plugin/nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin/snapshot/da4e01ad5e1c681596563fd77bed56ababfad972/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pdt-eg.github.io/external-mirror/nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Symfony-2-Eclipse-Plugin/snapshot/da4e01ad5e1c681596563fd77bed56ababfad972/files/pom.xml#L96", 
+        "line": 96, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pulse00.github.io/eclipse-indexing-framework/nightly"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

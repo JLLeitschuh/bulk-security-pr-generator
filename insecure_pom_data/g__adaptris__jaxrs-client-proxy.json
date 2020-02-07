@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/adaptris/jaxrs-client-proxy", 
+    "url-identifier": "g/adaptris/jaxrs-client-proxy", 
+    "id": 1506704207333, 
+    "name": "adaptris/jaxrs-client-proxy"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adaptris/jaxrs-client-proxy/snapshot/7d660d6dca2b37cc0ab969324e019bea71fda564/files/pom.xml#L189", 
+        "line": 189, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://development.adaptris.net/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adaptris/jaxrs-client-proxy/snapshot/7d660d6dca2b37cc0ab969324e019bea71fda564/files/pom.xml#L193", 
+        "line": 193, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://development.adaptris.net/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

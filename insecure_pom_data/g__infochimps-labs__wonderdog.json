@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/infochimps-labs/wonderdog", 
+    "url-identifier": "g/infochimps-labs/wonderdog", 
+    "id": 47930026, 
+    "name": "infochimps-labs/wonderdog"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/infochimps-labs/wonderdog/snapshot/827143031741983b7447c11c639e72a303bf6157/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/infochimps-labs/wonderdog/snapshot/827143031741983b7447c11c639e72a303bf6157/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/org/codehaus"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

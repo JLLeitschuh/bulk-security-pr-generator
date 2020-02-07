@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/light/JOps", 
+    "url-identifier": "g/light/JOps", 
+    "id": 51070014, 
+    "name": "light/JOps"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/light/JOps/snapshot/5994d071f9dae59758075a985851a093ef3c2e2c/files/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.bidouille.org/archiva/repository/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

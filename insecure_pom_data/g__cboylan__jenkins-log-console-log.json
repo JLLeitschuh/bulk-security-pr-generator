@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cboylan/jenkins-log-console-log", 
+    "url-identifier": "g/cboylan/jenkins-log-console-log", 
+    "id": 1509208616166, 
+    "name": "cboylan/jenkins-log-console-log"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cboylan/jenkins-log-console-log/snapshot/c9170c843795b677409e21a903f249fe12d001c8/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cboylan/jenkins-log-console-log/snapshot/c9170c843795b677409e21a903f249fe12d001c8/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

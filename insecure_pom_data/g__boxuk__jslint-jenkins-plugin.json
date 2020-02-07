@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/boxuk/jslint-jenkins-plugin", 
+    "url-identifier": "g/boxuk/jslint-jenkins-plugin", 
+    "id": 1506604870268, 
+    "name": "boxuk/jslint-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/boxuk/jslint-jenkins-plugin/snapshot/8daae09921e1bd5d15f988e0622ee0ac4b40cd4a/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/boxuk/jslint-jenkins-plugin/snapshot/8daae09921e1bd5d15f988e0622ee0ac4b40cd4a/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

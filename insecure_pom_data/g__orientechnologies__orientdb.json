@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/orientechnologies/orientdb", 
+    "url-identifier": "g/orientechnologies/orientdb", 
+    "id": 4880162, 
+    "name": "orientechnologies/orientdb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/orientechnologies/orientdb/snapshot/431056980cc317bc692da5f2a6bd88cb4177f0e2/files/pom.xml#L160", 
+        "line": 160, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

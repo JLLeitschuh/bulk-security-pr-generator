@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-reporting", 
+    "url-identifier": "g/openmrs/openmrs-module-reporting", 
+    "id": 16050038, 
+    "name": "openmrs/openmrs-module-reporting"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-reporting/snapshot/09f35a5f9d4dbaee46f65ca51f94f70edbb42018/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/modules"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-reporting/snapshot/09f35a5f9d4dbaee46f65ca51f94f70edbb42018/files/pom.xml#L26", 
+        "line": 26, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-reporting/snapshot/09f35a5f9d4dbaee46f65ca51f94f70edbb42018/files/pom.xml#L559", 
+        "line": 559, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-reporting/snapshot/09f35a5f9d4dbaee46f65ca51f94f70edbb42018/files/pom.xml#L567", 
+        "line": 567, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

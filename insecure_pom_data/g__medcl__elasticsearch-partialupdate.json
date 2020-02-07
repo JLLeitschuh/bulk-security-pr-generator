@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/medcl/elasticsearch-partialupdate", 
+    "url-identifier": "g/medcl/elasticsearch-partialupdate", 
+    "id": 1506718446791, 
+    "name": "medcl/elasticsearch-partialupdate"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/medcl/elasticsearch-partialupdate/snapshot/38da38672a5438a65f7db046ab19d558b739842c/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

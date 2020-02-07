@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/HyperDunk/DR-TIKA", 
+    "url-identifier": "g/HyperDunk/DR-TIKA", 
+    "id": 1507191016085, 
+    "name": "HyperDunk/DR-TIKA"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/HyperDunk/DR-TIKA/snapshot/fb6ae37b1dc46323b6a3abcc082be7dba0f997eb/files/tika-server/pom.xml#L35", 
+        "line": 35, 
+        "value": "pluginRepository", 
+        "file": "/tika-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.qmino.com/content/repositories/miredot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

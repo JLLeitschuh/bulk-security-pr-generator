@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/awconstable/company-manager", 
+    "url-identifier": "g/awconstable/company-manager", 
+    "id": 1510833108468, 
+    "name": "awconstable/company-manager"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/awconstable/company-manager/snapshot/ee8fcf27c0b88ceccd6426595c658ec1c30f0741/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvn.carbonfive.com/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

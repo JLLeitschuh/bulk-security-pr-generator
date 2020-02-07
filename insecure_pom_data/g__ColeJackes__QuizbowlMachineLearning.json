@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ColeJackes/QuizbowlMachineLearning", 
+    "url-identifier": "g/ColeJackes/QuizbowlMachineLearning", 
+    "id": 1507214156407, 
+    "name": "ColeJackes/QuizbowlMachineLearning"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ColeJackes/QuizbowlMachineLearning/snapshot/f0ab4293cd7d5542ce0db5574363e3819684baf6/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.davidsoergel.com/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ColeJackes/QuizbowlMachineLearning/snapshot/f0ab4293cd7d5542ce0db5574363e3819684baf6/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.davidsoergel.com/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ColeJackes/QuizbowlMachineLearning/snapshot/f0ab4293cd7d5542ce0db5574363e3819684baf6/files/tika-1.13/tika-server/pom.xml#L36", 
+        "line": 36, 
+        "value": "pluginRepository", 
+        "file": "/tika-1.13/tika-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.qmino.com/content/repositories/miredot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

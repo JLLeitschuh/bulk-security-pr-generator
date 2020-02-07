@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dkpro/dkpro-toolbox", 
+    "url-identifier": "g/dkpro/dkpro-toolbox", 
+    "id": 1507198666119, 
+    "name": "dkpro/dkpro-toolbox"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dkpro/dkpro-toolbox/snapshot/52062f1a222d8da2393ee8404849d0e53dca6952/files/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dkpro/dkpro-toolbox/snapshot/52062f1a222d8da2393ee8404849d0e53dca6952/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-ukp-snapshots-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dkpro/dkpro-toolbox/snapshot/52062f1a222d8da2393ee8404849d0e53dca6952/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/iluwatar/java-design-patterns", 
+    "url-identifier": "g/iluwatar/java-design-patterns", 
+    "id": 1505958176673, 
+    "name": "iluwatar/java-design-patterns"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/iluwatar/java-design-patterns/snapshot/7b1cc64145698002ccac64a223be5b410fb3748c/files/naked-objects/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/naked-objects/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository-estatio.forge.cloudbees.com/snapshot/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/intuit/Tank", 
+    "url-identifier": "g/intuit/Tank", 
+    "id": 1506618767869, 
+    "name": "intuit/Tank"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intuit/Tank/snapshot/16261af2cf06082a634c92289fffc3aaa636979a/files/pom.xml#L1177", 
+        "line": 1177, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intuit/Tank/snapshot/16261af2cf06082a634c92289fffc3aaa636979a/files/pom.xml#L1194", 
+        "line": 1194, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intuit/Tank/snapshot/16261af2cf06082a634c92289fffc3aaa636979a/files/pom.xml#L1199", 
+        "line": 1199, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intuit/Tank/snapshot/16261af2cf06082a634c92289fffc3aaa636979a/files/pom.xml#L1210", 
+        "line": 1210, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.ibiblio.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intuit/Tank/snapshot/16261af2cf06082a634c92289fffc3aaa636979a/files/pom.xml#L1215", 
+        "line": 1215, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.ow2.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intuit/Tank/snapshot/16261af2cf06082a634c92289fffc3aaa636979a/files/pom.xml#L1220", 
+        "line": 1220, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intuit/Tank/snapshot/16261af2cf06082a634c92289fffc3aaa636979a/files/pom.xml#L1224", 
+        "line": 1224, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://central.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intuit/Tank/snapshot/16261af2cf06082a634c92289fffc3aaa636979a/files/pom.xml#L1228", 
+        "line": 1228, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/plugins-release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intuit/Tank/snapshot/16261af2cf06082a634c92289fffc3aaa636979a/files/pom.xml#L1242", 
+        "line": 1242, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo2.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intuit/Tank/snapshot/16261af2cf06082a634c92289fffc3aaa636979a/files/tools/jenkins_plugin/pom.xml#L79", 
+        "line": 79, 
+        "value": "repository", 
+        "file": "/tools/jenkins_plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/intuit/Tank/snapshot/16261af2cf06082a634c92289fffc3aaa636979a/files/tools/jenkins_plugin/pom.xml#L85", 
+        "line": 85, 
+        "value": "pluginRepository", 
+        "file": "/tools/jenkins_plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

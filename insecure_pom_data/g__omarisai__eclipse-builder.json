@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/omarisai/eclipse-builder", 
+    "url-identifier": "g/omarisai/eclipse-builder", 
+    "id": 1509251456017, 
+    "name": "omarisai/eclipse-builder"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/omarisai/eclipse-builder/snapshot/806f49b732129a96d2b0b6ae336eb4fc26e612f4/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/omarisai/eclipse-builder/snapshot/806f49b732129a96d2b0b6ae336eb4fc26e612f4/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

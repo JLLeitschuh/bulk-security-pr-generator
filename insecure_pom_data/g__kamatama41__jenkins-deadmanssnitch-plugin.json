@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kamatama41/jenkins-deadmanssnitch-plugin", 
+    "url-identifier": "g/kamatama41/jenkins-deadmanssnitch-plugin", 
+    "id": 1509238775988, 
+    "name": "kamatama41/jenkins-deadmanssnitch-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kamatama41/jenkins-deadmanssnitch-plugin/snapshot/fba2ae02521f9c8177b27cc05a4a860ec8036c7b/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kamatama41/jenkins-deadmanssnitch-plugin/snapshot/fba2ae02521f9c8177b27cc05a4a860ec8036c7b/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

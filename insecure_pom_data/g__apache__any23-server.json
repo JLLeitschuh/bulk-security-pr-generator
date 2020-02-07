@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/any23-server", 
+    "url-identifier": "g/apache/any23-server", 
+    "id": 1511121407715, 
+    "name": "apache/any23-server"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/any23-server/snapshot/a116156e59428146fd47d1bc3fe8a1d45c6cf26f/files/pom.xml#L110", 
+        "line": 110, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://allenai.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/any23-server/snapshot/a116156e59428146fd47d1bc3fe8a1d45c6cf26f/files/pom.xml#L120", 
+        "line": 120, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://allenai.bintray.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

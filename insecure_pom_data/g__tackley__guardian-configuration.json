@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tackley/guardian-configuration", 
+    "url-identifier": "g/tackley/guardian-configuration", 
+    "id": 1506263776614, 
+    "name": "tackley/guardian-configuration"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tackley/guardian-configuration/snapshot/d35214dd74c4e9d8ce38a0cdeaf54b550b69310d/files/pom.xml#L117", 
+        "line": 117, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://tackley.github.com/maven/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

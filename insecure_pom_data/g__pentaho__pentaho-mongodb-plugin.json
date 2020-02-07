@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pentaho/pentaho-mongodb-plugin", 
+    "url-identifier": "g/pentaho/pentaho-mongodb-plugin", 
+    "id": 42530016, 
+    "name": "pentaho/pentaho-mongodb-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pentaho/pentaho-mongodb-plugin/snapshot/428e1bcbbebdde31349bfc4b54530cad0547e239/files/pom.xml#L155", 
+        "line": 155, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.pentaho.org/content/groups/omni/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

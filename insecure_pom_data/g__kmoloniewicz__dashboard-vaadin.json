@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kmoloniewicz/dashboard-vaadin", 
+    "url-identifier": "g/kmoloniewicz/dashboard-vaadin", 
+    "id": 1505790846248, 
+    "name": "kmoloniewicz/dashboard-vaadin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmoloniewicz/dashboard-vaadin/snapshot/7e3d301a33a07bdb4c2033efd525e6f4c1339ac6/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

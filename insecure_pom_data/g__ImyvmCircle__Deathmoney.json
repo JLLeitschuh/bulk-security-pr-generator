@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ImyvmCircle/Deathmoney", 
+    "url-identifier": "g/ImyvmCircle/Deathmoney", 
+    "id": 1506714176276, 
+    "name": "ImyvmCircle/Deathmoney"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ImyvmCircle/Deathmoney/snapshot/1451f1a1cdf90c9640dfdb4bd49af370b8fe3b45/files/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

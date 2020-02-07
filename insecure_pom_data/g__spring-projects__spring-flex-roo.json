@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/spring-projects/spring-flex-roo", 
+    "url-identifier": "g/spring-projects/spring-flex-roo", 
+    "id": 2116480733, 
+    "name": "spring-projects/spring-flex-roo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-flex-roo/snapshot/ebf414b6980f5dd56aa7ab01d43d33a41e66aff6/files/org.springframework.flex.roo.addon/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/org.springframework.flex.roo.addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://spring-roo-repository.springsource.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-flex-roo/snapshot/ebf414b6980f5dd56aa7ab01d43d33a41e66aff6/files/org.springframework.flex.roo.addon/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/org.springframework.flex.roo.addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-flex-roo/snapshot/ebf414b6980f5dd56aa7ab01d43d33a41e66aff6/files/org.springframework.flex.roo.addon/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/org.springframework.flex.roo.addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-flex-roo/snapshot/ebf414b6980f5dd56aa7ab01d43d33a41e66aff6/files/org.springframework.flex.roo.addon/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/org.springframework.flex.roo.addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-flex-roo/snapshot/ebf414b6980f5dd56aa7ab01d43d33a41e66aff6/files/org.springframework.flex.roo.addon/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/org.springframework.flex.roo.addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-flex-roo/snapshot/ebf414b6980f5dd56aa7ab01d43d33a41e66aff6/files/org.springframework.flex.roo.addon/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/org.springframework.flex.roo.addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-flex-roo/snapshot/ebf414b6980f5dd56aa7ab01d43d33a41e66aff6/files/org.springframework.flex.roo.addon/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/org.springframework.flex.roo.addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.badgers-in-foil.co.uk/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

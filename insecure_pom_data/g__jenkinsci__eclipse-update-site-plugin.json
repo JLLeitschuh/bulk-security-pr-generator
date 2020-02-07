@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/eclipse-update-site-plugin", 
+    "url-identifier": "g/jenkinsci/eclipse-update-site-plugin", 
+    "id": 1506610309302, 
+    "name": "jenkinsci/eclipse-update-site-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/eclipse-update-site-plugin/snapshot/dadc3c1688d0b1be9c6e3f233de3064757ec6039/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/eclipse-update-site-plugin/snapshot/dadc3c1688d0b1be9c6e3f233de3064757ec6039/files/pom.xml#L26", 
+        "line": 26, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

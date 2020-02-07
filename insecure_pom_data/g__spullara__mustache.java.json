@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/spullara/mustache.java", 
+    "url-identifier": "g/spullara/mustache.java", 
+    "id": 10140049, 
+    "name": "spullara/mustache.java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spullara/mustache.java/snapshot/2bf3d3b971b9f0c8f53375dd06a5a6661a9f643c/files/scala-extensions/scala-extensions-2.10/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/scala-extensions/scala-extensions-2.10/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spullara/mustache.java/snapshot/2bf3d3b971b9f0c8f53375dd06a5a6661a9f643c/files/scala-extensions/scala-extensions-2.11/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/scala-extensions/scala-extensions-2.11/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spullara/mustache.java/snapshot/2bf3d3b971b9f0c8f53375dd06a5a6661a9f643c/files/scala-extensions/scala-extensions-2.12/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/scala-extensions/scala-extensions-2.12/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cantaloupe-project/cantaloupe", 
+    "url-identifier": "g/cantaloupe-project/cantaloupe", 
+    "id": 1509211706261, 
+    "name": "cantaloupe-project/cantaloupe"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cantaloupe-project/cantaloupe/snapshot/16bbc3919d1092b3e06e4aff6af6de9dc9136df4/files/pom.xml#L414", 
+        "line": 414, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geo-solutions.it/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

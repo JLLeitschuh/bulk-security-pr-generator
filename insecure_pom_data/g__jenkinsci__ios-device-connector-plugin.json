@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/ios-device-connector-plugin", 
+    "url-identifier": "g/jenkinsci/ios-device-connector-plugin", 
+    "id": 1509246826345, 
+    "name": "jenkinsci/ios-device-connector-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ios-device-connector-plugin/snapshot/fabee2f0196552d6a73d8517ef4f49f5a787cb6d/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ios-device-connector-plugin/snapshot/fabee2f0196552d6a73d8517ef4f49f5a787cb6d/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

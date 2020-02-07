@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dooApp/FXForm2", 
+    "url-identifier": "g/dooApp/FXForm2", 
+    "id": 1792590763, 
+    "name": "dooApp/FXForm2"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dooApp/FXForm2/snapshot/403c981f6a36b6ca51f583a527567e51e8609091/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

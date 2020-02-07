@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/AvanzaBank/astrix", 
+    "url-identifier": "g/AvanzaBank/astrix", 
+    "id": 7860058, 
+    "name": "AvanzaBank/astrix"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AvanzaBank/astrix/snapshot/dce600543bc5e4b5a105cbbb2fb8490967d2bae1/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-repository.openspaces.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

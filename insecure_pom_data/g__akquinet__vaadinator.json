@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/akquinet/vaadinator", 
+    "url-identifier": "g/akquinet/vaadinator", 
+    "id": 2980352, 
+    "name": "akquinet/vaadinator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akquinet/vaadinator/snapshot/aaad55f189d130db4050b305ebf9000827bf2c84/files/VaadinatorArchetypes/vaadinator-desktop-jboss-archetype/src/main/resources/archetype-resources/pom.xml#L218", 
+        "line": 218, 
+        "value": "repository", 
+        "file": "/VaadinatorArchetypes/vaadinator-desktop-jboss-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akquinet/vaadinator/snapshot/aaad55f189d130db4050b305ebf9000827bf2c84/files/VaadinatorArchetypes/vaadinator-desktop-tomcat-archetype/src/main/resources/archetype-resources/pom.xml#L218", 
+        "line": 218, 
+        "value": "repository", 
+        "file": "/VaadinatorArchetypes/vaadinator-desktop-tomcat-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akquinet/vaadinator/snapshot/aaad55f189d130db4050b305ebf9000827bf2c84/files/VaadinatorArchetypes/vaadinator-touchkit-jboss-archetype/src/main/resources/archetype-resources/pom.xml#L256", 
+        "line": 256, 
+        "value": "repository", 
+        "file": "/VaadinatorArchetypes/vaadinator-touchkit-jboss-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akquinet/vaadinator/snapshot/aaad55f189d130db4050b305ebf9000827bf2c84/files/VaadinatorArchetypes/vaadinator-touchkit-tomcat-archetype/src/main/resources/archetype-resources/pom.xml#L256", 
+        "line": 256, 
+        "value": "repository", 
+        "file": "/VaadinatorArchetypes/vaadinator-touchkit-tomcat-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akquinet/vaadinator/snapshot/aaad55f189d130db4050b305ebf9000827bf2c84/files/VaadinatorExample/WebDriverExample/pom.xml#L126", 
+        "line": 126, 
+        "value": "repository", 
+        "file": "/VaadinatorExample/WebDriverExample/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akquinet/vaadinator/snapshot/aaad55f189d130db4050b305ebf9000827bf2c84/files/VaadinatorExample/WebDriverExampleTouchkit/pom.xml#L376", 
+        "line": 376, 
+        "value": "repository", 
+        "file": "/VaadinatorExample/WebDriverExampleTouchkit/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akquinet/vaadinator/snapshot/aaad55f189d130db4050b305ebf9000827bf2c84/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

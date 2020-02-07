@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sksamuel/elasticsearch-river-neo4j", 
+    "url-identifier": "g/sksamuel/elasticsearch-river-neo4j", 
+    "id": 41940099, 
+    "name": "sksamuel/elasticsearch-river-neo4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sksamuel/elasticsearch-river-neo4j/snapshot/34abe8af27c2d6fe506df8cd326734696946505c/files/pom.xml#L113", 
+        "line": 113, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sksamuel/elasticsearch-river-neo4j/snapshot/34abe8af27c2d6fe506df8cd326734696946505c/files/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

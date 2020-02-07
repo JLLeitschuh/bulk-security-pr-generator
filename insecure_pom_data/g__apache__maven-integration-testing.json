@@ -1,0 +1,212 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/maven-integration-testing", 
+    "url-identifier": "g/apache/maven-integration-testing", 
+    "id": 1506237037755, 
+    "name": "apache/maven-integration-testing"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/it0139/child/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/it0139/child/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/it0140/child/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/it0140/child/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-0624/dependencyManagement/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/mng-0624/dependencyManagement/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://gandalf.topazproject.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-2739/repo-id/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/mng-2739/repo-id/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.apache.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-3831/child/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/mng-3831/child/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-3843/test-2/child-2/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/mng-3843/test-2/child-2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://child.url/dist"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-3843/test-2/child-2/pom.xml#L93", 
+        "line": 93, 
+        "value": "snapshotRepository", 
+        "file": "/core-it-suite/src/test/resources/mng-3843/test-2/child-2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://child.url/snaps"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-3843/test-2/child-2/pom.xml#L150", 
+        "line": 150, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/mng-3843/test-2/child-2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://child.url/remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-3843/test-2/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/mng-3843/test-2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://parent.url/dist"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-3843/test-2/pom.xml#L92", 
+        "line": 92, 
+        "value": "snapshotRepository", 
+        "file": "/core-it-suite/src/test/resources/mng-3843/test-2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://parent.url/snaps"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-3843/test-2/pom.xml#L131", 
+        "line": 131, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/mng-3843/test-2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://parent.url/remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-3846/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/mng-3846/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://parent.url/dist"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-3846/pom.xml#L64", 
+        "line": 64, 
+        "value": "snapshotRepository", 
+        "file": "/core-it-suite/src/test/resources/mng-3846/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://parent.url/snaps"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-3979/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/mng-3979/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.apache.org/null"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-4254/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/mng-4254/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dummyhost.com/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-4470/release/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/core-it-suite/src/test/resources/mng-4470/release/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bad1.host/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-suite/src/test/resources/mng-4470/snapshot/pom.xml#L36", 
+        "line": 36, 
+        "value": "snapshotRepository", 
+        "file": "/core-it-suite/src/test/resources/mng-4470/snapshot/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bad2.host/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-integration-testing/snapshot/cdefa100b33aa4f3673576955dd551736f7000ea/files/core-it-support/maven-it-sample-archetype/src/main/resources/archetype-resources/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/core-it-support/maven-it-sample-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

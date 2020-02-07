@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openzipkin/brave", 
+    "url-identifier": "g/openzipkin/brave", 
+    "id": 960052, 
+    "name": "openzipkin/brave"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openzipkin/brave/snapshot/f2868db637cc31fa0a5359d251630c666af52ea7/files/brave-bom/pom.xml#L54", 
+        "line": 54, 
+        "value": "snapshotRepository", 
+        "file": "/brave-bom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openzipkin/brave/snapshot/f2868db637cc31fa0a5359d251630c666af52ea7/files/pom.xml#L131", 
+        "line": 131, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nramaker/TwitterNetPromoter", 
+    "url-identifier": "g/nramaker/TwitterNetPromoter", 
+    "id": 1505886176571, 
+    "name": "nramaker/TwitterNetPromoter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nramaker/TwitterNetPromoter/snapshot/c38560fcfd8f89b0afe1a03bd2a9d155490726ac/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nramaker/TwitterNetPromoter/snapshot/c38560fcfd8f89b0afe1a03bd2a9d155490726ac/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

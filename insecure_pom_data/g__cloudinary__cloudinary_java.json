@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cloudinary/cloudinary_java", 
+    "url-identifier": "g/cloudinary/cloudinary_java", 
+    "id": 2039100508, 
+    "name": "cloudinary/cloudinary_java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cloudinary/cloudinary_java/snapshot/38eddc98585cbae9855160a492c06c4840a2467d/files/samples/photo_album_gae/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/samples/photo_album_gae/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://gmultipart.googlecode.com/svn/repo/m2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

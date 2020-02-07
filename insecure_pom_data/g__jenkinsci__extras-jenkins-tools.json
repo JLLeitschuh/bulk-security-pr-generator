@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/extras-jenkins-tools", 
+    "url-identifier": "g/jenkinsci/extras-jenkins-tools", 
+    "id": 1506581719561, 
+    "name": "jenkinsci/extras-jenkins-tools"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/extras-jenkins-tools/snapshot/23b7570d8e876ce6ecbf6214669e5b48de8aa99d/files/core/pom.xml#L147", 
+        "line": 147, 
+        "value": "repository", 
+        "file": "/core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://TODO/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/extras-jenkins-tools/snapshot/23b7570d8e876ce6ecbf6214669e5b48de8aa99d/files/core/pom.xml#L152", 
+        "line": 152, 
+        "value": "snapshotRepository", 
+        "file": "/core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://TODO/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/extras-jenkins-tools/snapshot/23b7570d8e876ce6ecbf6214669e5b48de8aa99d/files/metabuild/pom.xml#L169", 
+        "line": 169, 
+        "value": "repository", 
+        "file": "/metabuild/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://TODO/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/extras-jenkins-tools/snapshot/23b7570d8e876ce6ecbf6214669e5b48de8aa99d/files/metabuild/pom.xml#L174", 
+        "line": 174, 
+        "value": "snapshotRepository", 
+        "file": "/metabuild/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://TODO/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/extras-jenkins-tools/snapshot/23b7570d8e876ce6ecbf6214669e5b48de8aa99d/files/teamcity2hudson/pom.xml#L165", 
+        "line": 165, 
+        "value": "repository", 
+        "file": "/teamcity2hudson/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://TODO/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/extras-jenkins-tools/snapshot/23b7570d8e876ce6ecbf6214669e5b48de8aa99d/files/teamcity2hudson/pom.xml#L170", 
+        "line": 170, 
+        "value": "snapshotRepository", 
+        "file": "/teamcity2hudson/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://TODO/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

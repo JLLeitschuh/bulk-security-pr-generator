@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/CopadoSolutions/copado-jenkins-plugin", 
+    "url-identifier": "g/CopadoSolutions/copado-jenkins-plugin", 
+    "id": 1509067336070, 
+    "name": "CopadoSolutions/copado-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CopadoSolutions/copado-jenkins-plugin/snapshot/9d7a37ee56bba4ede9f5cb3fe07bf3de5c08d6c8/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CopadoSolutions/copado-jenkins-plugin/snapshot/9d7a37ee56bba4ede9f5cb3fe07bf3de5c08d6c8/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Hygieia/hygieia-publisher-jenkins-plugin", 
+    "url-identifier": "g/Hygieia/hygieia-publisher-jenkins-plugin", 
+    "id": 1510653769297, 
+    "name": "Hygieia/hygieia-publisher-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Hygieia/hygieia-publisher-jenkins-plugin/snapshot/90e6f9f6b0c0efa0f19d3f912ff9dfa25708054d/files/pom.xml#L256", 
+        "line": 256, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Hygieia/hygieia-publisher-jenkins-plugin/snapshot/90e6f9f6b0c0efa0f19d3f912ff9dfa25708054d/files/pom.xml#L263", 
+        "line": 263, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

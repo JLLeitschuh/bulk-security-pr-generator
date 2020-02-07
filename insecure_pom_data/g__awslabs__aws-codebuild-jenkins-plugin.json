@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/awslabs/aws-codebuild-jenkins-plugin", 
+    "url-identifier": "g/awslabs/aws-codebuild-jenkins-plugin", 
+    "id": 1509218263039, 
+    "name": "awslabs/aws-codebuild-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/awslabs/aws-codebuild-jenkins-plugin/snapshot/29a5f87aa204676aa50998331dc2a0091e9181fe/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/awslabs/aws-codebuild-jenkins-plugin/snapshot/29a5f87aa204676aa50998331dc2a0091e9181fe/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/awslabs/aws-codepipeline-plugin-for-jenkins", 
+    "url-identifier": "g/awslabs/aws-codepipeline-plugin-for-jenkins", 
+    "id": 1509257536021, 
+    "name": "awslabs/aws-codepipeline-plugin-for-jenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/awslabs/aws-codepipeline-plugin-for-jenkins/snapshot/6deda166051d54c152a0a79187e2637e3c442084/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/awslabs/aws-codepipeline-plugin-for-jenkins/snapshot/6deda166051d54c152a0a79187e2637e3c442084/files/pom.xml#L98", 
+        "line": 98, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

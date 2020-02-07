@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/backend-goto-app", 
+    "url-identifier": "g/jenkinsci/backend-goto-app", 
+    "id": 1506579350850, 
+    "name": "jenkinsci/backend-goto-app"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-goto-app/snapshot/001e3fbe73f02795d11ff6913ead9da007f1a304/files/pom.xml#L165", 
+        "line": 165, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-goto-app/snapshot/001e3fbe73f02795d11ff6913ead9da007f1a304/files/pom.xml#L172", 
+        "line": 172, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

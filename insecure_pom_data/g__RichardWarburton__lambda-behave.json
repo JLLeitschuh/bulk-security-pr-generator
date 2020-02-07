@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/RichardWarburton/lambda-behave", 
+    "url-identifier": "g/RichardWarburton/lambda-behave", 
+    "id": 44950002, 
+    "name": "RichardWarburton/lambda-behave"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RichardWarburton/lambda-behave/snapshot/abc12876707d1cee1fd0277ed47a42c402649443/files/lambda-behave-scalatest/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/lambda-behave-scalatest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

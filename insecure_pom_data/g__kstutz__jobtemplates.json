@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kstutz/jobtemplates", 
+    "url-identifier": "g/kstutz/jobtemplates", 
+    "id": 1506591379502, 
+    "name": "kstutz/jobtemplates"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kstutz/jobtemplates/snapshot/77ce2428fcc03eac85f6318befd0c72c04b706c5/files/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kstutz/jobtemplates/snapshot/77ce2428fcc03eac85f6318befd0c72c04b706c5/files/pom.xml#L90", 
+        "line": 90, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

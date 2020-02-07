@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/fcrepo4/fcrepo4", 
+    "url-identifier": "g/fcrepo4/fcrepo4", 
+    "id": 11010055, 
+    "name": "fcrepo4/fcrepo4"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fcrepo4/fcrepo4/snapshot/a51137ca8a6f909b2c880a6e2cd5b17a91ba9908/files/fcrepo-auth-webac/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/fcrepo-auth-webac/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ptgoetz/storm-jms", 
+    "url-identifier": "g/ptgoetz/storm-jms", 
+    "id": 41760069, 
+    "name": "ptgoetz/storm-jms"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ptgoetz/storm-jms/snapshot/bd8a2bcdaf4655ad398d8e09b46f4745ce3eadce/files/examples/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

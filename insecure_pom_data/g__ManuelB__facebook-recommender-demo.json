@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ManuelB/facebook-recommender-demo", 
+    "url-identifier": "g/ManuelB/facebook-recommender-demo", 
+    "id": 45720017, 
+    "name": "ManuelB/facebook-recommender-demo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ManuelB/facebook-recommender-demo/snapshot/c02edfe6170f1839a302efa8946284535d4f31c7/files/pom.xml#L93", 
+        "line": 93, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/glassfish"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

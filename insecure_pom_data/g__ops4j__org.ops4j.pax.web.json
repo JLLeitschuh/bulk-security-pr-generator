@@ -1,0 +1,124 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ops4j/org.ops4j.pax.web", 
+    "url-identifier": "g/ops4j/org.ops4j.pax.web", 
+    "id": 21225097, 
+    "name": "ops4j/org.ops4j.pax.web"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ops4j/org.ops4j.pax.web/snapshot/77ba000d613e7254be50895f93fcfe59acb2fc74/files/pax-web-itest/pax-web-itest-container/pax-web-itest-container-jetty/pom.xml#L886", 
+        "line": 886, 
+        "value": "repository", 
+        "file": "/pax-web-itest/pax-web-itest-container/pax-web-itest-container-jetty/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ops4j/org.ops4j.pax.web/snapshot/77ba000d613e7254be50895f93fcfe59acb2fc74/files/pax-web-itest/pax-web-itest-container/pax-web-itest-container-tomcat/pom.xml#L754", 
+        "line": 754, 
+        "value": "repository", 
+        "file": "/pax-web-itest/pax-web-itest-container/pax-web-itest-container-tomcat/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ops4j/org.ops4j.pax.web/snapshot/77ba000d613e7254be50895f93fcfe59acb2fc74/files/pax-web-itest/pax-web-itest-container/pax-web-itest-container-undertow/pom.xml#L786", 
+        "line": 786, 
+        "value": "repository", 
+        "file": "/pax-web-itest/pax-web-itest-container/pax-web-itest-container-undertow/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ops4j/org.ops4j.pax.web/snapshot/77ba000d613e7254be50895f93fcfe59acb2fc74/files/pax-web-itest/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/pax-web-itest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ops4j/org.ops4j.pax.web/snapshot/77ba000d613e7254be50895f93fcfe59acb2fc74/files/pax-web-itest/pom.xml#L101", 
+        "line": 101, 
+        "value": "repository", 
+        "file": "/pax-web-itest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ops4j/org.ops4j.pax.web/snapshot/77ba000d613e7254be50895f93fcfe59acb2fc74/files/pom.xml#L979", 
+        "line": 979, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ops4j/org.ops4j.pax.web/snapshot/77ba000d613e7254be50895f93fcfe59acb2fc74/files/pom.xml#L990", 
+        "line": 990, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ops4j/org.ops4j.pax.web/snapshot/77ba000d613e7254be50895f93fcfe59acb2fc74/files/samples/war-jsf/pom.xml#L154", 
+        "line": 154, 
+        "value": "repository", 
+        "file": "/samples/war-jsf/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ops4j/org.ops4j.pax.web/snapshot/77ba000d613e7254be50895f93fcfe59acb2fc74/files/samples/war-jsf-primefaces/pom.xml#L153", 
+        "line": 153, 
+        "value": "repository", 
+        "file": "/samples/war-jsf-primefaces/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ops4j/org.ops4j.pax.web/snapshot/77ba000d613e7254be50895f93fcfe59acb2fc74/files/samples/war-jsf-primefaces/pom.xml#L163", 
+        "line": 163, 
+        "value": "repository", 
+        "file": "/samples/war-jsf-primefaces/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

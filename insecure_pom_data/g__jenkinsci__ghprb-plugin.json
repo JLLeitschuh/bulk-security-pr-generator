@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/ghprb-plugin", 
+    "url-identifier": "g/jenkinsci/ghprb-plugin", 
+    "id": 1793550847, 
+    "name": "jenkinsci/ghprb-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ghprb-plugin/snapshot/e828d62eb6dc2c88997f28ee8c2d28fbc91330bb/files/pom.xml#L305", 
+        "line": 305, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/jgit/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

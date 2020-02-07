@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Chungsaeha/Project", 
+    "url-identifier": "g/Chungsaeha/Project", 
+    "id": 1506608448162, 
+    "name": "Chungsaeha/Project"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Chungsaeha/Project/snapshot/a857d3fc6afb40681c9c5a1623f8071022a4992e/files/MyCaffe_Admin-HttpServer-master/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/MyCaffe_Admin-HttpServer-master/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Chungsaeha/Project/snapshot/a857d3fc6afb40681c9c5a1623f8071022a4992e/files/MyCaffe_Admin-HttpServer-master/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/MyCaffe_Admin-HttpServer-master/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.egovframe.go.kr/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Chungsaeha/Project/snapshot/a857d3fc6afb40681c9c5a1623f8071022a4992e/files/MyCaffe_Admin-HttpServer-master/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/MyCaffe_Admin-HttpServer-master/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mesir.googlecode.com/svn/trunk/mavenrepo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Chungsaeha/Project/snapshot/a857d3fc6afb40681c9c5a1623f8071022a4992e/files/MyCaffe_Admin-HttpServer-master/target/m2e-wtp/web-resources/META-INF/maven/com.company/mycaffe/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/MyCaffe_Admin-HttpServer-master/target/m2e-wtp/web-resources/META-INF/maven/com.company/mycaffe/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Chungsaeha/Project/snapshot/a857d3fc6afb40681c9c5a1623f8071022a4992e/files/MyCaffe_Admin-HttpServer-master/target/m2e-wtp/web-resources/META-INF/maven/com.company/mycaffe/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/MyCaffe_Admin-HttpServer-master/target/m2e-wtp/web-resources/META-INF/maven/com.company/mycaffe/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.egovframe.go.kr/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Chungsaeha/Project/snapshot/a857d3fc6afb40681c9c5a1623f8071022a4992e/files/MyCaffe_Admin-HttpServer-master/target/m2e-wtp/web-resources/META-INF/maven/com.company/mycaffe/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/MyCaffe_Admin-HttpServer-master/target/m2e-wtp/web-resources/META-INF/maven/com.company/mycaffe/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mesir.googlecode.com/svn/trunk/mavenrepo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

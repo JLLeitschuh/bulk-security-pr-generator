@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/webanno/webanno", 
+    "url-identifier": "g/webanno/webanno", 
+    "id": 5980106, 
+    "name": "webanno/webanno"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/webanno/webanno/snapshot/ce93738967e3edd815302d272dc8b5f54663916f/files/pom.xml#L99", 
+        "line": 99, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/webanno/webanno/snapshot/ce93738967e3edd815302d272dc8b5f54663916f/files/pom.xml#L112", 
+        "line": 112, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

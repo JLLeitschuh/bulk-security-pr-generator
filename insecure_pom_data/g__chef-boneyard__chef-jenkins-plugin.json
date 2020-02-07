@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/chef-boneyard/chef-jenkins-plugin", 
+    "url-identifier": "g/chef-boneyard/chef-jenkins-plugin", 
+    "id": 1509032636162, 
+    "name": "chef-boneyard/chef-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/chef-boneyard/chef-jenkins-plugin/snapshot/78928999df0fd1ee1547c079aa4e9177a050815b/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/chef-boneyard/chef-jenkins-plugin/snapshot/78928999df0fd1ee1547c079aa4e9177a050815b/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

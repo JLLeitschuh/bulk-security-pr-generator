@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/onap/so", 
+    "url-identifier": "g/onap/so", 
+    "id": 1506461014925, 
+    "name": "onap/so"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/onap/so/snapshot/94655ea4c7cab1a01eed8259a35a7da1aa7a7539/files/pom.xml#L113", 
+        "line": 113, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/onap/so/snapshot/94655ea4c7cab1a01eed8259a35a7da1aa7a7539/files/pom.xml#L117", 
+        "line": 117, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

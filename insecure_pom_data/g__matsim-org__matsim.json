@@ -1,0 +1,146 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/matsim-org/matsim", 
+    "url-identifier": "g/matsim-org/matsim", 
+    "id": 1506695246059, 
+    "name": "matsim-org/matsim"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/benchmark/pom.xml#L14", 
+        "line": 14, 
+        "value": "snapshotRepository", 
+        "file": "/benchmark/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/oss-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/contribs/osm/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/contribs/osm/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvn.topobyte.de"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/contribs/osm/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/contribs/osm/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvn.slimjars.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/contribs/pom.xml#L22", 
+        "line": 22, 
+        "value": "snapshotRepository", 
+        "file": "/contribs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/oss-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/contribs/pom.xml#L189", 
+        "line": 189, 
+        "value": "repository", 
+        "file": "/contribs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/contribs/pom.xml#L195", 
+        "line": 195, 
+        "value": "repository", 
+        "file": "/contribs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/contribs/pom.xml#L201", 
+        "line": 201, 
+        "value": "repository", 
+        "file": "/contribs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/matsim/matsim"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/examples/pom.xml#L14", 
+        "line": 14, 
+        "value": "snapshotRepository", 
+        "file": "/examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/oss-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/matsim/pom.xml#L32", 
+        "line": 32, 
+        "value": "snapshotRepository", 
+        "file": "/matsim/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/oss-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/matsim/pom.xml#L292", 
+        "line": 292, 
+        "value": "repository", 
+        "file": "/matsim/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/matsim/pom.xml#L298", 
+        "line": 298, 
+        "value": "repository", 
+        "file": "/matsim/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/matsim/matsim"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matsim-org/matsim/snapshot/de845a9cd321745d669e7d33700849b763397d6b/files/matsim/pom.xml#L302", 
+        "line": 302, 
+        "value": "repository", 
+        "file": "/matsim/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/libs-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

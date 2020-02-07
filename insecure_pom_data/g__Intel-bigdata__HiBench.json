@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Intel-bigdata/HiBench", 
+    "url-identifier": "g/Intel-bigdata/HiBench", 
+    "id": 31910057, 
+    "name": "Intel-bigdata/HiBench"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Intel-bigdata/HiBench/snapshot/a56f54e2211172599944d8d3d0a6f15f2f1bd30b/files/gearpumpbench/streaming/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/gearpumpbench/streaming/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/fvunicorn/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

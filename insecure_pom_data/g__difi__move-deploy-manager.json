@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/difi/move-deploy-manager", 
+    "url-identifier": "g/difi/move-deploy-manager", 
+    "id": 1509150586340, 
+    "name": "difi/move-deploy-manager"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/difi/move-deploy-manager/snapshot/c7c44b59e2576818f549e5e6dd47303d57155d60/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jsch.sf.net/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

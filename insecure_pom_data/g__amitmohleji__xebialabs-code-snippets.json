@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/amitmohleji/xebialabs-code-snippets", 
+    "url-identifier": "g/amitmohleji/xebialabs-code-snippets", 
+    "id": 1509063096025, 
+    "name": "amitmohleji/xebialabs-code-snippets"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amitmohleji/xebialabs-code-snippets/snapshot/3c70e993f8609d0b364804456ecb38649a6c715b/files/priceline/dar/pom.xml#L19", 
+        "line": 19, 
+        "value": "pluginRepository", 
+        "file": "/priceline/dar/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.knopflerfish.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amitmohleji/xebialabs-code-snippets/snapshot/3c70e993f8609d0b364804456ecb38649a6c715b/files/priceline/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/priceline/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven:8082/nexus/content/repositories/libs-releases-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amitmohleji/xebialabs-code-snippets/snapshot/3c70e993f8609d0b364804456ecb38649a6c715b/files/priceline/pom.xml#L51", 
+        "line": 51, 
+        "value": "snapshotRepository", 
+        "file": "/priceline/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven:8082/nexus/content/repositories/libs-snapshots-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amitmohleji/xebialabs-code-snippets/snapshot/3c70e993f8609d0b364804456ecb38649a6c715b/files/priceline/pom.xml#L74", 
+        "line": 74, 
+        "value": "repository", 
+        "file": "/priceline/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven:8082/nexus/content/groups/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amitmohleji/xebialabs-code-snippets/snapshot/3c70e993f8609d0b364804456ecb38649a6c715b/files/priceline/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/priceline/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven:8082/nexus/content/repositories/plugins-releases-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amitmohleji/xebialabs-code-snippets/snapshot/3c70e993f8609d0b364804456ecb38649a6c715b/files/priceline/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/priceline/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven:8082/nexus/content/groups/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amitmohleji/xebialabs-code-snippets/snapshot/3c70e993f8609d0b364804456ecb38649a6c715b/files/priceline/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/priceline/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven:8082/nexus/content/repositories/ext-snapshots-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

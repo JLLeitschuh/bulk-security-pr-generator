@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/MidnightBSD/security-advisory", 
+    "url-identifier": "g/MidnightBSD/security-advisory", 
+    "id": 1506702887551, 
+    "name": "MidnightBSD/security-advisory"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MidnightBSD/security-advisory/snapshot/1a4beba39bf0cd71c8d309e8a8cb66ab345295e6/files/pom.xml#L226", 
+        "line": 226, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MidnightBSD/security-advisory/snapshot/1a4beba39bf0cd71c8d309e8a8cb66ab345295e6/files/pom.xml#L232", 
+        "line": 232, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MidnightBSD/security-advisory/snapshot/1a4beba39bf0cd71c8d309e8a8cb66ab345295e6/files/pom.xml#L237", 
+        "line": 237, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MidnightBSD/security-advisory/snapshot/1a4beba39bf0cd71c8d309e8a8cb66ab345295e6/files/pom.xml#L248", 
+        "line": 248, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.gemstone.com/maven/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MidnightBSD/security-advisory/snapshot/1a4beba39bf0cd71c8d309e8a8cb66ab345295e6/files/pom.xml#L258", 
+        "line": 258, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/v1v/jenkinslint-plugin", 
+    "url-identifier": "g/v1v/jenkinslint-plugin", 
+    "id": 1506597489030, 
+    "name": "v1v/jenkinslint-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/v1v/jenkinslint-plugin/snapshot/aede9c8ba603a9d41485d30f80c23eaa9e042bc5/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/v1v/jenkinslint-plugin/snapshot/aede9c8ba603a9d41485d30f80c23eaa9e042bc5/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/v1v/jenkinslint-plugin/snapshot/aede9c8ba603a9d41485d30f80c23eaa9e042bc5/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

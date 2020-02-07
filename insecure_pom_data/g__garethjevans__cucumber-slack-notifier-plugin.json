@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/garethjevans/cucumber-slack-notifier-plugin", 
+    "url-identifier": "g/garethjevans/cucumber-slack-notifier-plugin", 
+    "id": 1506612639554, 
+    "name": "garethjevans/cucumber-slack-notifier-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/garethjevans/cucumber-slack-notifier-plugin/snapshot/0feeeaccf2e087d1b2f0b998a7804ba8c6c057a7/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/garethjevans/cucumber-slack-notifier-plugin/snapshot/0feeeaccf2e087d1b2f0b998a7804ba8c6c057a7/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

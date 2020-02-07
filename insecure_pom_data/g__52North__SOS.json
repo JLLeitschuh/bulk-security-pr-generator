@@ -1,0 +1,135 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/SOS", 
+    "url-identifier": "g/52North/SOS", 
+    "id": 5970327, 
+    "name": "52North/SOS"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS/snapshot/9fa05b01d8d3c049112f48d01121690729722415/files/misc/wsdl/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/misc/wsdl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS/snapshot/9fa05b01d8d3c049112f48d01121690729722415/files/misc/wsdl/pom.xml#L98", 
+        "line": 98, 
+        "value": "repository", 
+        "file": "/misc/wsdl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS/snapshot/9fa05b01d8d3c049112f48d01121690729722415/files/misc/wsdl/pom.xml#L109", 
+        "line": 109, 
+        "value": "repository", 
+        "file": "/misc/wsdl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS/snapshot/9fa05b01d8d3c049112f48d01121690729722415/files/misc/wsdl/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/misc/wsdl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://lists.refractions.net/m2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS/snapshot/9fa05b01d8d3c049112f48d01121690729722415/files/misc/wsdl/pom.xml#L128", 
+        "line": 128, 
+        "value": "repository", 
+        "file": "/misc/wsdl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.hibernatespatial.org/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS/snapshot/9fa05b01d8d3c049112f48d01121690729722415/files/misc/wsdl/pom.xml#L135", 
+        "line": 135, 
+        "value": "repository", 
+        "file": "/misc/wsdl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS/snapshot/9fa05b01d8d3c049112f48d01121690729722415/files/operations/core-v20/pom.xml#L100", 
+        "line": 100, 
+        "value": "repository", 
+        "file": "/operations/core-v20/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS/snapshot/9fa05b01d8d3c049112f48d01121690729722415/files/operations/core-v20/pom.xml#L108", 
+        "line": 108, 
+        "value": "repository", 
+        "file": "/operations/core-v20/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS/snapshot/9fa05b01d8d3c049112f48d01121690729722415/files/operations/core-v20/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/operations/core-v20/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS/snapshot/9fa05b01d8d3c049112f48d01121690729722415/files/pom.xml#L2064", 
+        "line": 2064, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS/snapshot/9fa05b01d8d3c049112f48d01121690729722415/files/pom.xml#L2080", 
+        "line": 2080, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

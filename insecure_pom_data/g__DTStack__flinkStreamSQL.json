@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/DTStack/flinkStreamSQL", 
+    "url-identifier": "g/DTStack/flinkStreamSQL", 
+    "id": 1506689257426, 
+    "name": "DTStack/flinkStreamSQL"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DTStack/flinkStreamSQL/snapshot/533b1b2abf174e743360872ff2fdd372f7f5c36e/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DTStack/flinkStreamSQL/snapshot/533b1b2abf174e743360872ff2fdd372f7f5c36e/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DTStack/flinkStreamSQL/snapshot/533b1b2abf174e743360872ff2fdd372f7f5c36e/files/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/jetty-hadoop"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/maripo/jenkins-blink1-plugin", 
+    "url-identifier": "g/maripo/jenkins-blink1-plugin", 
+    "id": 1509190536737, 
+    "name": "maripo/jenkins-blink1-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/maripo/jenkins-blink1-plugin/snapshot/2d9daf103f72f7346474cd16f37601873efe8155/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/maripo/jenkins-blink1-plugin/snapshot/2d9daf103f72f7346474cd16f37601873efe8155/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

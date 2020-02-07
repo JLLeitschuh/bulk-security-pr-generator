@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ocpsoft/rewrite", 
+    "url-identifier": "g/ocpsoft/rewrite", 
+    "id": 30535217, 
+    "name": "ocpsoft/rewrite"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ocpsoft/rewrite/snapshot/2a9c577f2678115b7c82ad5550746ee90ca87f6f/files/showcase/rest-ws/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/showcase/rest-ws/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ocpsoft.org/repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

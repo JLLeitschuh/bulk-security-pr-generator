@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/external-scheduler-plugin", 
+    "url-identifier": "g/jenkinsci/external-scheduler-plugin", 
+    "id": 1506667715990, 
+    "name": "jenkinsci/external-scheduler-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/external-scheduler-plugin/snapshot/a073c34908c23afe4a660ccd91b7ffb75da3958d/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/external-scheduler-plugin/snapshot/a073c34908c23afe4a660ccd91b7ffb75da3958d/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

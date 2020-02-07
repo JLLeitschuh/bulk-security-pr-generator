@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openmrs/openmrs-core", 
+    "url-identifier": "g/openmrs/openmrs-core", 
+    "id": 970037, 
+    "name": "openmrs/openmrs-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-core/snapshot/e426152a10b8b225b442ed32bc8113f7cca0a21d/files/pom.xml#L1017", 
+        "line": 1017, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-core/snapshot/e426152a10b8b225b442ed32bc8113f7cca0a21d/files/pom.xml#L1025", 
+        "line": 1025, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-core/snapshot/e426152a10b8b225b442ed32bc8113f7cca0a21d/files/pom.xml#L1036", 
+        "line": 1036, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-core/snapshot/e426152a10b8b225b442ed32bc8113f7cca0a21d/files/pom.xml#L1041", 
+        "line": 1041, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

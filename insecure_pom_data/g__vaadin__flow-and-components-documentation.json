@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/vaadin/flow-and-components-documentation", 
+    "url-identifier": "g/vaadin/flow-and-components-documentation", 
+    "id": 1506780156277, 
+    "name": "vaadin/flow-and-components-documentation"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vaadin/flow-and-components-documentation/snapshot/160aabd57f33f35d82051bbd251e752da1fe3182/files/tutorial-servlet-spring-boot/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/tutorial-servlet-spring-boot/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

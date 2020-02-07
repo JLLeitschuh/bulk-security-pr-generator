@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-munin-plugin", 
+    "url-identifier": "g/OneBusAway/onebusaway-gtfs-realtime-munin-plugin", 
+    "id": 1507608706317, 
+    "name": "OneBusAway/onebusaway-gtfs-realtime-munin-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-munin-plugin/snapshot/ac24a5bd39d41f64ce3f9e3ede40ccf1f1cc7501/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

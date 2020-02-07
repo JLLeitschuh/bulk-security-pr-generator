@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/AMCBridgeDevTeam/build-configurator-plugin", 
+    "url-identifier": "g/AMCBridgeDevTeam/build-configurator-plugin", 
+    "id": 1506601040519, 
+    "name": "AMCBridgeDevTeam/build-configurator-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AMCBridgeDevTeam/build-configurator-plugin/snapshot/92eff44562dd579100eccea0608c66b612c0b70b/files/configurator/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/configurator/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AMCBridgeDevTeam/build-configurator-plugin/snapshot/92eff44562dd579100eccea0608c66b612c0b70b/files/configurator/pom.xml#L55", 
+        "line": 55, 
+        "value": "pluginRepository", 
+        "file": "/configurator/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

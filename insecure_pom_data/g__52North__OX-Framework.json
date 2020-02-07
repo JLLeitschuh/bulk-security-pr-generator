@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/OX-Framework", 
+    "url-identifier": "g/52North/OX-Framework", 
+    "id": 1509214426182, 
+    "name": "52North/OX-Framework"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/OX-Framework/snapshot/c09e86b0b6400285b3793aa537f212731a9457a9/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/OX-Framework/snapshot/c09e86b0b6400285b3793aa537f212731a9457a9/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

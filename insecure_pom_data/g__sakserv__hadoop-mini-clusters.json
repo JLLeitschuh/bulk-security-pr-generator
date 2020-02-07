@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sakserv/hadoop-mini-clusters", 
+    "url-identifier": "g/sakserv/hadoop-mini-clusters", 
+    "id": 1796580306, 
+    "name": "sakserv/hadoop-mini-clusters"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sakserv/hadoop-mini-clusters/snapshot/3010c9670f6565e83289ed10117a4c1e31fab737/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

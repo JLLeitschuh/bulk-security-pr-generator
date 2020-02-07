@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/incubator-optiq-linq4j", 
+    "url-identifier": "g/apache/incubator-optiq-linq4j", 
+    "id": 1506239576656, 
+    "name": "apache/incubator-optiq-linq4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-optiq-linq4j/snapshot/4318fb9a6732cd255870a4f1332e4bf9380fc4a9/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

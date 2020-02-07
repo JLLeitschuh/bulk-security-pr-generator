@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JLLeitschuh/bad-pom", 
+    "url-identifier": "g/JLLeitschuh/bad-pom", 
+    "id": 1510831757744, 
+    "name": "JLLeitschuh/bad-pom"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JLLeitschuh/bad-pom/snapshot/0f3f8e2aeac32c71497bf980def31467aa8b8579/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://insecure-repository.example"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JLLeitschuh/bad-pom/snapshot/0f3f8e2aeac32c71497bf980def31467aa8b8579/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://insecure-repository.example"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JLLeitschuh/bad-pom/snapshot/0f3f8e2aeac32c71497bf980def31467aa8b8579/files/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://insecure-repository.example"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JLLeitschuh/bad-pom/snapshot/0f3f8e2aeac32c71497bf980def31467aa8b8579/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://insecure-repository.example"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/lib-task-reactor", 
+    "url-identifier": "g/jenkinsci/lib-task-reactor", 
+    "id": 1506612340490, 
+    "name": "jenkinsci/lib-task-reactor"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/lib-task-reactor/snapshot/528f0e8c21e04597dcb07aae99ef4e02c3a052f5/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

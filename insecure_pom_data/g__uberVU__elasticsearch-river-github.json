@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/uberVU/elasticsearch-river-github", 
+    "url-identifier": "g/uberVU/elasticsearch-river-github", 
+    "id": 1506688946651, 
+    "name": "uberVU/elasticsearch-river-github"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/uberVU/elasticsearch-river-github/snapshot/a49f03257ce17e7e300492aa61bf08903e8d0ce8/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

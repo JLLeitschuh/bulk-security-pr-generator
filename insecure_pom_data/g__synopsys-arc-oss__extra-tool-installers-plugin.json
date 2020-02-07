@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/synopsys-arc-oss/extra-tool-installers-plugin", 
+    "url-identifier": "g/synopsys-arc-oss/extra-tool-installers-plugin", 
+    "id": 1509210248706, 
+    "name": "synopsys-arc-oss/extra-tool-installers-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/synopsys-arc-oss/extra-tool-installers-plugin/snapshot/5364af8a2f5150ad18229018bffeb6055b9fb9e6/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/synopsys-arc-oss/extra-tool-installers-plugin/snapshot/5364af8a2f5150ad18229018bffeb6055b9fb9e6/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

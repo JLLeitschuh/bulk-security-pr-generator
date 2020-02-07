@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/silpion/jenkins-gitflow-plugin", 
+    "url-identifier": "g/silpion/jenkins-gitflow-plugin", 
+    "id": 1506593520279, 
+    "name": "silpion/jenkins-gitflow-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/silpion/jenkins-gitflow-plugin/snapshot/235514c6ee950aeb80bfac153f426a46ef95e59a/files/pom.xml#L163", 
+        "line": 163, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/silpion/jenkins-gitflow-plugin/snapshot/235514c6ee950aeb80bfac153f426a46ef95e59a/files/pom.xml#L169", 
+        "line": 169, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

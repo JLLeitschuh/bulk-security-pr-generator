@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mstr-dfeng/mail-reminder-plugin", 
+    "url-identifier": "g/mstr-dfeng/mail-reminder-plugin", 
+    "id": 1506603010071, 
+    "name": "mstr-dfeng/mail-reminder-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mstr-dfeng/mail-reminder-plugin/snapshot/f841147ccd549c66d3990071db3b45e40288c722/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mstr-dfeng/mail-reminder-plugin/snapshot/f841147ccd549c66d3990071db3b45e40288c722/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

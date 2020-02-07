@@ -1,0 +1,333 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eugenp/tutorials", 
+    "url-identifier": "g/eugenp/tutorials", 
+    "id": 1505960736188, 
+    "name": "eugenp/tutorials"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/apache-spark/pom.xml#L94", 
+        "line": 94, 
+        "value": "repository", 
+        "file": "/apache-spark/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/spark-packages/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/apache-tapestry/pom.xml#L129", 
+        "line": 129, 
+        "value": "repository", 
+        "file": "/apache-tapestry/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/core-groovy/pom.xml#L104", 
+        "line": 104, 
+        "value": "repository", 
+        "file": "/core-groovy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/core-groovy-2/pom.xml#L158", 
+        "line": 158, 
+        "value": "repository", 
+        "file": "/core-groovy-2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/core-groovy-collections/pom.xml#L115", 
+        "line": 115, 
+        "value": "repository", 
+        "file": "/core-groovy-collections/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/core-java-modules/core-java-9/pom.xml#L63", 
+        "line": 63, 
+        "value": "pluginRepository", 
+        "file": "/core-java-modules/core-java-9/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/core-java-modules/core-java-9-improvements/pom.xml#L58", 
+        "line": 58, 
+        "value": "pluginRepository", 
+        "file": "/core-java-modules/core-java-9-improvements/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/core-java-modules/core-java-9-new-features/pom.xml#L47", 
+        "line": 47, 
+        "value": "pluginRepository", 
+        "file": "/core-java-modules/core-java-9-new-features/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/geotools/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/geotools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/guest/core-kotlin/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/guest/core-kotlin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/jee-7/pom.xml#L495", 
+        "line": 495, 
+        "value": "repository", 
+        "file": "/jee-7/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/mvc-spec/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/jws/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/jws/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.opennms.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/libraries/pom.xml#L442", 
+        "line": 442, 
+        "value": "repository", 
+        "file": "/libraries/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/cuba-platform/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/libraries/pom.xml#L450", 
+        "line": 450, 
+        "value": "repository", 
+        "file": "/libraries/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.numericalmethod.com/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/libraries-2/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/libraries-2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/libraries-data-2/pom.xml#L134", 
+        "line": 134, 
+        "value": "repository", 
+        "file": "/libraries-data-2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.numericalmethod.com/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/muleesb/pom.xml#L186", 
+        "line": 186, 
+        "value": "repository", 
+        "file": "/muleesb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/muleesb/pom.xml#L192", 
+        "line": 192, 
+        "value": "repository", 
+        "file": "/muleesb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mulesoft.org/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/muleesb/pom.xml#L201", 
+        "line": 201, 
+        "value": "pluginRepository", 
+        "file": "/muleesb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mulesoft.org/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/parent-kotlin/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/parent-kotlin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/kotlin/kotlin-eap"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/parent-kotlin/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/parent-kotlin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/parent-kotlin/pom.xml#L37", 
+        "line": 37, 
+        "value": "pluginRepository", 
+        "file": "/parent-kotlin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/kotlin/kotlin-eap"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/persistence-modules/hibernate5/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/persistence-modules/hibernate5/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/persistence-modules/spring-data-gemfire/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/persistence-modules/spring-data-gemfire/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.gemstone.com.s3.amazonaws.com/maven/release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/spring-boot-modules/spring-boot-mvc/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/spring-boot-modules/spring-boot-mvc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/spring-ejb/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/spring-ejb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/vaadin/pom.xml#L127", 
+        "line": 127, 
+        "value": "repository", 
+        "file": "/vaadin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/vaadin/pom.xml#L142", 
+        "line": 142, 
+        "value": "repository", 
+        "file": "/vaadin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eugenp/tutorials/snapshot/9b50a4e765bc13fcc6aa4ba1362a58f3de089380/files/vaadin/pom.xml#L158", 
+        "line": 158, 
+        "value": "pluginRepository", 
+        "file": "/vaadin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

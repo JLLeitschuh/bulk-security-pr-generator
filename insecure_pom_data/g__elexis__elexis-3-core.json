@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/elexis/elexis-3-core", 
+    "url-identifier": "g/elexis/elexis-3-core", 
+    "id": 22760003, 
+    "name": "elexis/elexis-3-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elexis/elexis-3-core/snapshot/103756f8f599251af56511b0ee96d64e9efa4c8b/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.elexis.info/elexis/${git.target.branch}/p2/target"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elexis/elexis-3-core/snapshot/103756f8f599251af56511b0ee96d64e9efa4c8b/files/pom.xml#L499", 
+        "line": 499, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/3.8"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

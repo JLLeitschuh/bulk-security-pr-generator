@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/icescrum-plugin", 
+    "url-identifier": "g/jenkinsci/icescrum-plugin", 
+    "id": 1509236866096, 
+    "name": "jenkinsci/icescrum-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/icescrum-plugin/snapshot/394ca792a8fd8b22ece3dc1d81ed8d408cdc9ec2/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/icescrum-plugin/snapshot/394ca792a8fd8b22ece3dc1d81ed8d408cdc9ec2/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

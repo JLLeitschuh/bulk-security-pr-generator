@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/impersonation-plugin", 
+    "url-identifier": "g/jenkinsci/impersonation-plugin", 
+    "id": 1506583510003, 
+    "name": "jenkinsci/impersonation-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/impersonation-plugin/snapshot/f8d9048ad7c23d388efc5a385c4e47b6a37a1636/files/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/impersonation-plugin/snapshot/f8d9048ad7c23d388efc5a385c4e47b6a37a1636/files/pom.xml#L82", 
+        "line": 82, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bstick12/jenkins-ci-leastload", 
+    "url-identifier": "g/bstick12/jenkins-ci-leastload", 
+    "id": 1509218083111, 
+    "name": "bstick12/jenkins-ci-leastload"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bstick12/jenkins-ci-leastload/snapshot/5a68f785d393c660019719e3dc0af6490895f8b6/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bstick12/jenkins-ci-leastload/snapshot/5a68f785d393c660019719e3dc0af6490895f8b6/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bstick12/jenkins-ci-leastload/snapshot/5a68f785d393c660019719e3dc0af6490895f8b6/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

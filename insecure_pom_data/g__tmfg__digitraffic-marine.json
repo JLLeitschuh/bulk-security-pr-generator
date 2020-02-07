@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tmfg/digitraffic-marine", 
+    "url-identifier": "g/tmfg/digitraffic-marine", 
+    "id": 1510220976416, 
+    "name": "tmfg/digitraffic-marine"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tmfg/digitraffic-marine/snapshot/b2aac697edd79ac51143d3370ae2300611e38a70/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tmfg/digitraffic-marine/snapshot/b2aac697edd79ac51143d3370ae2300611e38a70/files/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tmfg/digitraffic-marine/snapshot/b2aac697edd79ac51143d3370ae2300611e38a70/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

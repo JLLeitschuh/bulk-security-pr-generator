@@ -1,0 +1,146 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wso2-attic/product-emm", 
+    "url-identifier": "g/wso2-attic/product-emm", 
+    "id": 1790860802, 
+    "name": "wso2-attic/product-emm"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml#L115", 
+        "line": 115, 
+        "value": "pluginRepository", 
+        "file": "/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml#L126", 
+        "line": 126, 
+        "value": "pluginRepository", 
+        "file": "/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml#L138", 
+        "line": 138, 
+        "value": "pluginRepository", 
+        "file": "/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml#L152", 
+        "line": 152, 
+        "value": "repository", 
+        "file": "/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml#L163", 
+        "line": 163, 
+        "value": "repository", 
+        "file": "/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml#L174", 
+        "line": 174, 
+        "value": "repository", 
+        "file": "/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/pom.xml#L1237", 
+        "line": 1237, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/pom.xml#L1247", 
+        "line": 1247, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/pom.xml#L1259", 
+        "line": 1259, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/pom.xml#L1278", 
+        "line": 1278, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/pom.xml#L1288", 
+        "line": 1288, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-emm/snapshot/e4c75293ef535ccf8d339732e951c04e0efa0063/files/pom.xml#L1298", 
+        "line": 1298, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

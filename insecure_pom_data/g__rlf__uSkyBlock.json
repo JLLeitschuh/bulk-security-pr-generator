@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rlf/uSkyBlock", 
+    "url-identifier": "g/rlf/uSkyBlock", 
+    "id": 2034020353, 
+    "name": "rlf/uSkyBlock"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rlf/uSkyBlock/snapshot/d1da46a07eafeccd67f232848cf15116e180b1be/files/bukkit-utils/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/bukkit-utils/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rlf/uSkyBlock/snapshot/d1da46a07eafeccd67f232848cf15116e180b1be/files/pom.xml#L97", 
+        "line": 97, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rlf/uSkyBlock/snapshot/d1da46a07eafeccd67f232848cf15116e180b1be/files/pom.xml#L101", 
+        "line": 101, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rlf/uSkyBlock/snapshot/d1da46a07eafeccd67f232848cf15116e180b1be/files/pom.xml#L105", 
+        "line": 105, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

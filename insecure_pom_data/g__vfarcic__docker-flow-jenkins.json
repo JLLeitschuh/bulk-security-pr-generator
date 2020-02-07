@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/vfarcic/docker-flow-jenkins", 
+    "url-identifier": "g/vfarcic/docker-flow-jenkins", 
+    "id": 1506597229691, 
+    "name": "vfarcic/docker-flow-jenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vfarcic/docker-flow-jenkins/snapshot/42f566555cc516f15249d4e8b4ac6c869cb31c96/files/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vfarcic/docker-flow-jenkins/snapshot/42f566555cc516f15249d4e8b4ac6c869cb31c96/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

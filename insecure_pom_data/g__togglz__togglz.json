@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/togglz/togglz", 
+    "url-identifier": "g/togglz/togglz", 
+    "id": 31490031, 
+    "name": "togglz/togglz"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/togglz/togglz/snapshot/9f0c2669a70b874355b19228fef52590af1f467c/files/pom.xml#L550", 
+        "line": 550, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/TheHortonMachine/hortonmachine", 
+    "url-identifier": "g/TheHortonMachine/hortonmachine", 
+    "id": 15494902, 
+    "name": "TheHortonMachine/hortonmachine"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TheHortonMachine/hortonmachine/snapshot/5e0548d1a5cff05ce61a99fd21ba3eed4fe7832f/files/pom.xml#L758", 
+        "line": 758, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TheHortonMachine/hortonmachine/snapshot/5e0548d1a5cff05ce61a99fd21ba3eed4fe7832f/files/pom.xml#L762", 
+        "line": 762, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TheHortonMachine/hortonmachine/snapshot/5e0548d1a5cff05ce61a99fd21ba3eed4fe7832f/files/pom.xml#L782", 
+        "line": 782, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TheHortonMachine/hortonmachine/snapshot/5e0548d1a5cff05ce61a99fd21ba3eed4fe7832f/files/pom.xml#L791", 
+        "line": 791, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geo-solutions.it/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TheHortonMachine/hortonmachine/snapshot/5e0548d1a5cff05ce61a99fd21ba3eed4fe7832f/files/pom.xml#L800", 
+        "line": 800, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TheHortonMachine/hortonmachine/snapshot/5e0548d1a5cff05ce61a99fd21ba3eed4fe7832f/files/pom.xml#L825", 
+        "line": 825, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jzy3d.org/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TheHortonMachine/hortonmachine/snapshot/5e0548d1a5cff05ce61a99fd21ba3eed4fe7832f/files/pom.xml#L831", 
+        "line": 831, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jitpack.io"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

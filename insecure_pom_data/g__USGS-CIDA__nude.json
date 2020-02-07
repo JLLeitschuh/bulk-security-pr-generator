@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/USGS-CIDA/nude", 
+    "url-identifier": "g/USGS-CIDA/nude", 
+    "id": 1506734362496, 
+    "name": "USGS-CIDA/nude"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/nude/snapshot/3645fd27b7a81558f58effce37a0c758e7292c5e/files/pom.xml#L75", 
+        "line": 75, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://internal.cida.usgs.gov/maven/content/repositories/cida-public-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/nude/snapshot/3645fd27b7a81558f58effce37a0c758e7292c5e/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://internal.cida.usgs.gov/maven/content/repositories/cida-public-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/nude/snapshot/3645fd27b7a81558f58effce37a0c758e7292c5e/files/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cida.usgs.gov/maven/cida-public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/nude/snapshot/3645fd27b7a81558f58effce37a0c758e7292c5e/files/pom.xml#L93", 
+        "line": 93, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.akka.io/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/nude/snapshot/3645fd27b7a81558f58effce37a0c758e7292c5e/files/pom.xml#L101", 
+        "line": 101, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cida.usgs.gov/maven/cida-public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

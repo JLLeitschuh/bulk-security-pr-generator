@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/domino-succ/domino", 
+    "url-identifier": "g/domino-succ/domino", 
+    "id": 47500085, 
+    "name": "domino-succ/domino"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/domino-succ/domino/snapshot/1315bcc4bcd072292a50dfa280b3b94fa6877b30/files/domino-client/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/domino-client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jline.sourceforge.net/m2repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

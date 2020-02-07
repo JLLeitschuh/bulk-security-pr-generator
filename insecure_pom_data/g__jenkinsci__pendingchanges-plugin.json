@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/pendingchanges-plugin", 
+    "url-identifier": "g/jenkinsci/pendingchanges-plugin", 
+    "id": 1506585708695, 
+    "name": "jenkinsci/pendingchanges-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/pendingchanges-plugin/snapshot/a8ad8531a8c28187306bf01022cf468d93583955/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/pendingchanges-plugin/snapshot/a8ad8531a8c28187306bf01022cf468d93583955/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JodaOrg/joda-time-i18n", 
+    "url-identifier": "g/JodaOrg/joda-time-i18n", 
+    "id": 1509062656132, 
+    "name": "JodaOrg/joda-time-i18n"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JodaOrg/joda-time-i18n/snapshot/d5c20d5af6b4516e912f6de649eb9ad6aedd2669/files/pom.xml#L391", 
+        "line": 391, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JodaOrg/joda-time-i18n/snapshot/d5c20d5af6b4516e912f6de649eb9ad6aedd2669/files/pom.xml#L397", 
+        "line": 397, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/joda-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/odrotbohm/rest-microservices", 
+    "url-identifier": "g/odrotbohm/rest-microservices", 
+    "id": 25710037, 
+    "name": "odrotbohm/rest-microservices"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/odrotbohm/rest-microservices/snapshot/f109e2d8b186485d88ad1f32612b09ea8b1b4900/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/odrotbohm/rest-microservices/snapshot/f109e2d8b186485d88ad1f32612b09ea8b1b4900/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

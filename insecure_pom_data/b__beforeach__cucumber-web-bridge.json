@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/beforeach/cucumber-web-bridge", 
+    "url-identifier": "b/beforeach/cucumber-web-bridge", 
+    "id": 1307240082, 
+    "name": "beforeach/cucumber-web-bridge"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/beforeach/cucumber-web-bridge/snapshot/7d9e8a1a5a9a9f651fec07e075aa0c1a6fe23e8a/files/cwb-core/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/cwb-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.foreach.be/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/beforeach/cucumber-web-bridge/snapshot/7d9e8a1a5a9a9f651fec07e075aa0c1a6fe23e8a/files/pom.xml#L248", 
+        "line": 248, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.foreach.be/nexus/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/beforeach/cucumber-web-bridge/snapshot/7d9e8a1a5a9a9f651fec07e075aa0c1a6fe23e8a/files/pom.xml#L253", 
+        "line": 253, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.foreach.be/nexus/repository/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

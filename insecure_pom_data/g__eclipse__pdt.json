@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse/pdt", 
+    "url-identifier": "g/eclipse/pdt", 
+    "id": 10320089, 
+    "name": "eclipse/pdt"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/pdt/snapshot/049eb6934061f79138f21dbba343261972c2a260/files/incubation/builtin-php/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/incubation/builtin-php/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/oxygen/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/pdt/snapshot/049eb6934061f79138f21dbba343261972c2a260/files/incubation/builtin-php/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/incubation/builtin-php/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/cbi/updates/license/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/pdt/snapshot/049eb6934061f79138f21dbba343261972c2a260/files/plugins/org.eclipse.php.help/pom.xml#L98", 
+        "line": 98, 
+        "value": "repository", 
+        "file": "/plugins/org.eclipse.php.help/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/${eclipse.name}"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

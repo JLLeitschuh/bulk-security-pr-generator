@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OpenSOC/opensoc-streaming", 
+    "url-identifier": "g/OpenSOC/opensoc-streaming", 
+    "id": 31550046, 
+    "name": "OpenSOC/opensoc-streaming"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenSOC/opensoc-streaming/snapshot/d621beb4ddad6e49ed8fd8598ec92b96f02e4393/files/OpenSOC-DataServices/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/OpenSOC-DataServices/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.krakenapps.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenSOC/opensoc-streaming/snapshot/d621beb4ddad6e49ed8fd8598ec92b96f02e4393/files/OpenSOC-Topologies/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/OpenSOC-Topologies/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenSOC/opensoc-streaming/snapshot/d621beb4ddad6e49ed8fd8598ec92b96f02e4393/files/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

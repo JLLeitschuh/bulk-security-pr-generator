@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Yelp/pyleus", 
+    "url-identifier": "g/Yelp/pyleus", 
+    "id": 139752521, 
+    "name": "Yelp/pyleus"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Yelp/pyleus/snapshot/9fc3f6da4dc768c396f1f606200ee23fedc1aad3/files/topology_builder/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/topology_builder/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

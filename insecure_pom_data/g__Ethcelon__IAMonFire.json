@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Ethcelon/IAMonFire", 
+    "url-identifier": "g/Ethcelon/IAMonFire", 
+    "id": 1506713563177, 
+    "name": "Ethcelon/IAMonFire"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Ethcelon/IAMonFire/snapshot/bf2f8878c9b6fade2da343c0ed58290b7c046a55/files/B/pom.xml#L207", 
+        "line": 207, 
+        "value": "pluginRepository", 
+        "file": "/B/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Ethcelon/IAMonFire/snapshot/bf2f8878c9b6fade2da343c0ed58290b7c046a55/files/B/pom.xml#L215", 
+        "line": 215, 
+        "value": "pluginRepository", 
+        "file": "/B/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-milestone-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Ethcelon/IAMonFire/snapshot/bf2f8878c9b6fade2da343c0ed58290b7c046a55/files/B/pom.xml#L226", 
+        "line": 226, 
+        "value": "repository", 
+        "file": "/B/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Ethcelon/IAMonFire/snapshot/bf2f8878c9b6fade2da343c0ed58290b7c046a55/files/B/pom.xml#L234", 
+        "line": 234, 
+        "value": "repository", 
+        "file": "/B/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.forgerock.org:80/repo/community"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

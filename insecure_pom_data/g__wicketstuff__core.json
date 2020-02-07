@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wicketstuff/core", 
+    "url-identifier": "g/wicketstuff/core", 
+    "id": 124792349, 
+    "name": "wicketstuff/core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wicketstuff/core/snapshot/2f81c9c0b1b4c0272cfb838705eb5db4464cf50a/files/async-tasks-parent/async-tasks-impl/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/async-tasks-parent/async-tasks-impl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

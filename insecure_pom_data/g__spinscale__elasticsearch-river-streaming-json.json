@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/spinscale/elasticsearch-river-streaming-json", 
+    "url-identifier": "g/spinscale/elasticsearch-river-streaming-json", 
+    "id": 1506709877082, 
+    "name": "spinscale/elasticsearch-river-streaming-json"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spinscale/elasticsearch-river-streaming-json/snapshot/cab0c6dccc8543b9b7c9e2edeb5bbf31b9d2944c/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spinscale/elasticsearch-river-streaming-json/snapshot/cab0c6dccc8543b9b7c9e2edeb5bbf31b9d2944c/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

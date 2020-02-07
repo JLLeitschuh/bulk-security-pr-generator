@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hoobalias/TuneKeeper", 
+    "url-identifier": "g/hoobalias/TuneKeeper", 
+    "id": 1507351936110, 
+    "name": "hoobalias/TuneKeeper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hoobalias/TuneKeeper/snapshot/a0ab76067fe690fb70597688c2c8da59e52dc48d/files/accounts/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/accounts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

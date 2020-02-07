@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opsgenie/opsgenie-jenkins-plugin", 
+    "url-identifier": "g/opsgenie/opsgenie-jenkins-plugin", 
+    "id": 1509192576601, 
+    "name": "opsgenie/opsgenie-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opsgenie/opsgenie-jenkins-plugin/snapshot/1dd655b0e3ca8d52aa8ad5f6f034597283ffb0c2/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opsgenie/opsgenie-jenkins-plugin/snapshot/1dd655b0e3ca8d52aa8ad5f6f034597283ffb0c2/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

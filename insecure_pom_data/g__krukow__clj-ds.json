@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/krukow/clj-ds", 
+    "url-identifier": "g/krukow/clj-ds", 
+    "id": 10650255, 
+    "name": "krukow/clj-ds"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krukow/clj-ds/snapshot/8ba15e539678cfde8df1585b47bc9b39e9d46300/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krukow/clj-ds/snapshot/8ba15e539678cfde8df1585b47bc9b39e9d46300/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

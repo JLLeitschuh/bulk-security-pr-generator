@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/omajid/eclipse-bug-reference", 
+    "url-identifier": "g/omajid/eclipse-bug-reference", 
+    "id": 1506716097152, 
+    "name": "omajid/eclipse-bug-reference"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/omajid/eclipse-bug-reference/snapshot/98a008ed31ad0c17ccb4c991785911b613cd996c/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/${platform-version-name}"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

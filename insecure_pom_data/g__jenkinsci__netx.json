@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/netx", 
+    "url-identifier": "g/jenkinsci/netx", 
+    "id": 1509225466382, 
+    "name": "jenkinsci/netx"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/netx/snapshot/d0f8ab161ab521f15e6f25cee77515b5d1702113/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/netx/snapshot/d0f8ab161ab521f15e6f25cee77515b5d1702113/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/incubator-samoa", 
+    "url-identifier": "g/apache/incubator-samoa", 
+    "id": 52936483, 
+    "name": "apache/incubator-samoa"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-samoa/snapshot/30fd9d575ac303b978f40c6d1fcafdcc0c232ca5/files/samoa-storm/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/samoa-storm/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

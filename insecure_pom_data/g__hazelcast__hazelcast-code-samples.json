@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hazelcast/hazelcast-code-samples", 
+    "url-identifier": "g/hazelcast/hazelcast-code-samples", 
+    "id": 65220037, 
+    "name": "hazelcast/hazelcast-code-samples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hazelcast/hazelcast-code-samples/snapshot/dca235238875f04e0ed60bd628c95c28b1a41afd/files/hazelcast-integration/dynacache/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/hazelcast-integration/dynacache/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/maven/repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/violetumleditor/violetumleditor", 
+    "url-identifier": "g/violetumleditor/violetumleditor", 
+    "id": 1506740278180, 
+    "name": "violetumleditor/violetumleditor"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/violetumleditor/violetumleditor/snapshot/077f13dc2f9f913afad3965182b421a30deef872/files/violetproduct-eclipseplugin/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/violetproduct-eclipseplugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/indigo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

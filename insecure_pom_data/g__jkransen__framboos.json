@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jkransen/framboos", 
+    "url-identifier": "g/jkransen/framboos", 
+    "id": 54560026, 
+    "name": "jkransen/framboos"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jkransen/framboos/snapshot/44761a9e4deb7f3c5bdd7c2548a71c8af19298cc/files/pom.xml#L138", 
+        "line": 138, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.sparetimelabs.com/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

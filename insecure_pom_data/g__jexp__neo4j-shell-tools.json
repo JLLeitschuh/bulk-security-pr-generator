@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jexp/neo4j-shell-tools", 
+    "url-identifier": "g/jexp/neo4j-shell-tools", 
+    "id": 42710058, 
+    "name": "jexp/neo4j-shell-tools"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jexp/neo4j-shell-tools/snapshot/196371a10ca0431ed5c0d30e7a965e2de855c665/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

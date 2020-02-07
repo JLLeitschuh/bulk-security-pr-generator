@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/maven-deployment-linker-plugin", 
+    "url-identifier": "g/jenkinsci/maven-deployment-linker-plugin", 
+    "id": 1509230736390, 
+    "name": "jenkinsci/maven-deployment-linker-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/maven-deployment-linker-plugin/snapshot/c929348df963c51cfc612d136548938bd6fcd2de/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/maven-deployment-linker-plugin/snapshot/c929348df963c51cfc612d136548938bd6fcd2de/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

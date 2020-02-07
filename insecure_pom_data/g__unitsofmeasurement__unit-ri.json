@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/unitsofmeasurement/unit-ri", 
+    "url-identifier": "g/unitsofmeasurement/unit-ri", 
+    "id": 4840308, 
+    "name": "unitsofmeasurement/unit-ri"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/unitsofmeasurement/unit-ri/snapshot/f1c1d18c5c0919b4b926a348bc55aa30b229b0f6/files/pom.xml#L450", 
+        "line": 450, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/unitsofmeasurement/unit-ri/snapshot/f1c1d18c5c0919b4b926a348bc55aa30b229b0f6/files/pom.xml#L455", 
+        "line": 455, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/unitsofmeasurement/unit-ri/snapshot/f1c1d18c5c0919b4b926a348bc55aa30b229b0f6/files/pom.xml#L463", 
+        "line": 463, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

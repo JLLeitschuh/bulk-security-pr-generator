@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-modules", 
+    "url-identifier": "g/OneBusAway/onebusaway-gtfs-modules", 
+    "id": 5990116, 
+    "name": "OneBusAway/onebusaway-gtfs-modules"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-modules/snapshot/8ea23be334b4f4df24f024781e769f2f41570796/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.conveyal.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-modules/snapshot/8ea23be334b4f4df24f024781e769f2f41570796/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-modules/snapshot/8ea23be334b4f4df24f024781e769f2f41570796/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-modules/snapshot/8ea23be334b4f4df24f024781e769f2f41570796/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

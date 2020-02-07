@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/chocoteam/choco-report", 
+    "url-identifier": "g/chocoteam/choco-report", 
+    "id": 1506741961551, 
+    "name": "chocoteam/choco-report"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/chocoteam/choco-report/snapshot/43dad76876428967ac8966b58e7e1d4dab1e355f/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codehaus.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/chocoteam/choco-report/snapshot/43dad76876428967ac8966b58e7e1d4dab1e355f/files/pom.xml#L104", 
+        "line": 104, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-vdv-modules", 
+    "url-identifier": "g/OneBusAway/onebusaway-vdv-modules", 
+    "id": 1507609085991, 
+    "name": "OneBusAway/onebusaway-vdv-modules"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-vdv-modules/snapshot/bde35e2a744cd025ffe69d520a6b82306542a9cc/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

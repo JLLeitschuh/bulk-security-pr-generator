@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/elastic/elasticsearch-hdfs", 
+    "url-identifier": "g/elastic/elasticsearch-hdfs", 
+    "id": 1506469121066, 
+    "name": "elastic/elasticsearch-hdfs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elastic/elasticsearch-hdfs/snapshot/dc4e03f7e330816079a78f048a330bd7bafa28ee/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

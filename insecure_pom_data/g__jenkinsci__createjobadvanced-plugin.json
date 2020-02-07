@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/createjobadvanced-plugin", 
+    "url-identifier": "g/jenkinsci/createjobadvanced-plugin", 
+    "id": 1509052416300, 
+    "name": "jenkinsci/createjobadvanced-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/createjobadvanced-plugin/snapshot/c2fd1dace479b55c60acf57c414926ae8f348581/files/pom.xml#L100", 
+        "line": 100, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/createjobadvanced-plugin/snapshot/c2fd1dace479b55c60acf57c414926ae8f348581/files/pom.xml#L107", 
+        "line": 107, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

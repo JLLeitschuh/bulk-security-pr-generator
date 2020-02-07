@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Sprengnetter-Immobilienbewertung/jenfluence", 
+    "url-identifier": "g/Sprengnetter-Immobilienbewertung/jenfluence", 
+    "id": 1509259146266, 
+    "name": "Sprengnetter-Immobilienbewertung/jenfluence"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Sprengnetter-Immobilienbewertung/jenfluence/snapshot/736aaa0ba5957461d3e8955bbce25d5a2c5e53e0/files/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Sprengnetter-Immobilienbewertung/jenfluence/snapshot/736aaa0ba5957461d3e8955bbce25d5a2c5e53e0/files/pom.xml#L102", 
+        "line": 102, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

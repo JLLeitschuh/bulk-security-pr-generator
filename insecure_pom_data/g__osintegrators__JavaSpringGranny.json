@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/osintegrators/JavaSpringGranny", 
+    "url-identifier": "g/osintegrators/JavaSpringGranny", 
+    "id": 1506263886195, 
+    "name": "osintegrators/JavaSpringGranny"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/osintegrators/JavaSpringGranny/snapshot/20e087ee7f19085b78dc0619d21dbbefca08fc80/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/osintegrators/JavaSpringGranny/snapshot/20e087ee7f19085b78dc0619d21dbbefca08fc80/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

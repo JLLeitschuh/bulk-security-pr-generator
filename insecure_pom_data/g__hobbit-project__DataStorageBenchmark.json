@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hobbit-project/DataStorageBenchmark", 
+    "url-identifier": "g/hobbit-project/DataStorageBenchmark", 
+    "id": 1506493527545, 
+    "name": "hobbit-project/DataStorageBenchmark"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hobbit-project/DataStorageBenchmark/snapshot/e1505d535b7ff9ec87e6acbf6a4225713ad35a5b/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/repository/internal"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hobbit-project/DataStorageBenchmark/snapshot/e1505d535b7ff9ec87e6acbf6a4225713ad35a5b/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/repository/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

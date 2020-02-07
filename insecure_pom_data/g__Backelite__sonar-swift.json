@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Backelite/sonar-swift", 
+    "url-identifier": "g/Backelite/sonar-swift", 
+    "id": 1801060105, 
+    "name": "Backelite/sonar-swift"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Backelite/sonar-swift/snapshot/37e7f57be7c6e6f6794ce82dab908e044879afda/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.sonarsource.org/content/repositories/sonar"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Backelite/sonar-swift/snapshot/37e7f57be7c6e6f6794ce82dab908e044879afda/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.sonarsource.org/content/repositories/sonar"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

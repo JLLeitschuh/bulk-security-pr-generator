@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mortennobel/java-image-scaling", 
+    "url-identifier": "g/mortennobel/java-image-scaling", 
+    "id": 1797798529, 
+    "name": "mortennobel/java-image-scaling"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mortennobel/java-image-scaling/snapshot/7d51fd47152a9d62b544646bd11b40b8ca9812d4/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mortennobel/java-image-scaling/snapshot/7d51fd47152a9d62b544646bd11b40b8ca9812d4/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

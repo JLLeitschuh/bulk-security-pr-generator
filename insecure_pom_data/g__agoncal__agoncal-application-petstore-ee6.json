@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/agoncal/agoncal-application-petstore-ee6", 
+    "url-identifier": "g/agoncal/agoncal-application-petstore-ee6", 
+    "id": 41130084, 
+    "name": "agoncal/agoncal-application-petstore-ee6"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/agoncal/agoncal-application-petstore-ee6/snapshot/96c48df12159940f70ce4be15b9a419075be428b/files/pom.xml#L370", 
+        "line": 370, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.sonarsource.org/content/repositories/sonar"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/agoncal/agoncal-application-petstore-ee6/snapshot/96c48df12159940f70ce4be15b9a419075be428b/files/pom.xml#L412", 
+        "line": 412, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

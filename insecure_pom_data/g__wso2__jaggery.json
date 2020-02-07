@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wso2/jaggery", 
+    "url-identifier": "g/wso2/jaggery", 
+    "id": 13060056, 
+    "name": "wso2/jaggery"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/jaggery/snapshot/ba7137a6f39aa560bf659e9c4393b9ba9f046b8b/files/components/app-listeners/org.jaggeryjs.jaggery.tomcat.listener/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/components/app-listeners/org.jaggeryjs.jaggery.tomcat.listener/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/jaggery/snapshot/ba7137a6f39aa560bf659e9c4393b9ba9f046b8b/files/pom.xml#L262", 
+        "line": 262, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/jaggery/snapshot/ba7137a6f39aa560bf659e9c4393b9ba9f046b8b/files/pom.xml#L272", 
+        "line": 272, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/jaggery/snapshot/ba7137a6f39aa560bf659e9c4393b9ba9f046b8b/files/pom.xml#L282", 
+        "line": 282, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/jaggery/snapshot/ba7137a6f39aa560bf659e9c4393b9ba9f046b8b/files/pom.xml#L296", 
+        "line": 296, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/jaggery/snapshot/ba7137a6f39aa560bf659e9c4393b9ba9f046b8b/files/pom.xml#L306", 
+        "line": 306, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/jaggery/snapshot/ba7137a6f39aa560bf659e9c4393b9ba9f046b8b/files/pom.xml#L318", 
+        "line": 318, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

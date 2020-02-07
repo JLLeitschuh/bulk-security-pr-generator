@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/alibaba/p3c", 
+    "url-identifier": "g/alibaba/p3c", 
+    "id": 1506245678685, 
+    "name": "alibaba/p3c"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alibaba/p3c/snapshot/f91613282efd0140dcd24cd7811ab419eaa13eed/files/eclipse-plugin/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/eclipse-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mirrors.ustc.edu.cn/eclipse/releases/juno/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alibaba/p3c/snapshot/f91613282efd0140dcd24cd7811ab419eaa13eed/files/eclipse-plugin/pom.xml#L189", 
+        "line": 189, 
+        "value": "repository", 
+        "file": "/eclipse-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/4.4"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

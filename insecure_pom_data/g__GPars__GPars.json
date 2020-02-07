@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/GPars/GPars", 
+    "url-identifier": "g/GPars/GPars", 
+    "id": 4860358, 
+    "name": "GPars/GPars"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GPars/GPars/snapshot/66c2741bfb8b7bb145a3f2b053380a60290b105a/files/java-demo/pom.xml#L92", 
+        "line": 92, 
+        "value": "repository", 
+        "file": "/java-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GPars/GPars/snapshot/66c2741bfb8b7bb145a3f2b053380a60290b105a/files/java-demo/pom.xml#L97", 
+        "line": 97, 
+        "value": "repository", 
+        "file": "/java-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GPars/GPars/snapshot/66c2741bfb8b7bb145a3f2b053380a60290b105a/files/java-demo/pom.xml#L113", 
+        "line": 113, 
+        "value": "repository", 
+        "file": "/java-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

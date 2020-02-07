@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ikedam/groovy-label-assignment", 
+    "url-identifier": "g/ikedam/groovy-label-assignment", 
+    "id": 1509239616167, 
+    "name": "ikedam/groovy-label-assignment"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ikedam/groovy-label-assignment/snapshot/0b66b5f08a6838542921240b1ed4da0f7d710554/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ikedam/groovy-label-assignment/snapshot/0b66b5f08a6838542921240b1ed4da0f7d710554/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

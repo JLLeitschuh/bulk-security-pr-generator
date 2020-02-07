@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ViaVersion/ViaBackwards", 
+    "url-identifier": "g/ViaVersion/ViaBackwards", 
+    "id": 1508385176060, 
+    "name": "ViaVersion/ViaBackwards"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ViaVersion/ViaBackwards/snapshot/5650d2be6d9eb973d268ba216e47b47aa209f1f2/files/sponge/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/sponge/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spongepowered.org/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mongeez/mongeez", 
+    "url-identifier": "g/mongeez/mongeez", 
+    "id": 31330007, 
+    "name": "mongeez/mongeez"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mongeez/mongeez/snapshot/18968a227a6f864339bd2ad5a12c9f801118372f/files/examples/pom.xml#L103", 
+        "line": 103, 
+        "value": "repository", 
+        "file": "/examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://morphia.googlecode.com/svn/mavenrepo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

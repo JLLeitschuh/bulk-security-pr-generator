@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/IncPlusPlus/betterstat-server", 
+    "url-identifier": "g/IncPlusPlus/betterstat-server", 
+    "id": 1509197836004, 
+    "name": "IncPlusPlus/betterstat-server"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IncPlusPlus/betterstat-server/snapshot/8e65eecb05040b5569ccc7376818be5cecb80f1c/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IncPlusPlus/betterstat-server/snapshot/8e65eecb05040b5569ccc7376818be5cecb80f1c/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IncPlusPlus/betterstat-server/snapshot/8e65eecb05040b5569ccc7376818be5cecb80f1c/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IncPlusPlus/betterstat-server/snapshot/8e65eecb05040b5569ccc7376818be5cecb80f1c/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

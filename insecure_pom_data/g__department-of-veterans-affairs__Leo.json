@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/department-of-veterans-affairs/Leo", 
+    "url-identifier": "g/department-of-veterans-affairs/Leo", 
+    "id": 1511226450072, 
+    "name": "department-of-veterans-affairs/Leo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/department-of-veterans-affairs/Leo/snapshot/ede94bd5710150b8cc96e413cccda37aa8eeb2de/files/pom.xml#L6", 
+        "line": 6, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://decipher.chpc.utah.edu/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/department-of-veterans-affairs/Leo/snapshot/ede94bd5710150b8cc96e413cccda37aa8eeb2de/files/pom.xml#L334", 
+        "line": 334, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://decipher.chpc.utah.edu/nexus/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

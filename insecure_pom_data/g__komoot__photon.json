@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/komoot/photon", 
+    "url-identifier": "g/komoot/photon", 
+    "id": 42290187, 
+    "name": "komoot/photon"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/komoot/photon/snapshot/274a7449a2186b9f3896e99075c5f30c2530a17e/files/pom.xml#L169", 
+        "line": 169, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

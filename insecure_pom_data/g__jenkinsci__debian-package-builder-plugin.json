@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/debian-package-builder-plugin", 
+    "url-identifier": "g/jenkinsci/debian-package-builder-plugin", 
+    "id": 1509144816039, 
+    "name": "jenkinsci/debian-package-builder-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/debian-package-builder-plugin/snapshot/094ee4005a1761f453e727d6a21c93b5aaf2c3ba/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/debian-package-builder-plugin/snapshot/094ee4005a1761f453e727d6a21c93b5aaf2c3ba/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

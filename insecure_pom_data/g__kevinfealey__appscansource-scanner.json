@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kevinfealey/appscansource-scanner", 
+    "url-identifier": "g/kevinfealey/appscansource-scanner", 
+    "id": 1506591638865, 
+    "name": "kevinfealey/appscansource-scanner"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kevinfealey/appscansource-scanner/snapshot/5e248c6339cf19e3a92f3195c454e8264f3315f3/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kevinfealey/appscansource-scanner/snapshot/5e248c6339cf19e3a92f3195c454e8264f3315f3/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

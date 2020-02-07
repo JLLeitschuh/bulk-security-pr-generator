@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/awslabs/aws-device-farm-jenkins-plugin", 
+    "url-identifier": "g/awslabs/aws-device-farm-jenkins-plugin", 
+    "id": 1509233776117, 
+    "name": "awslabs/aws-device-farm-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/awslabs/aws-device-farm-jenkins-plugin/snapshot/7a163c837b286e4a43c8d88da288f980ca2ab3fe/files/pom.xml#L79", 
+        "line": 79, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

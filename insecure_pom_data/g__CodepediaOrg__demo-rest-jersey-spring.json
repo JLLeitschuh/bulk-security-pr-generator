@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/CodepediaOrg/demo-rest-jersey-spring", 
+    "url-identifier": "g/CodepediaOrg/demo-rest-jersey-spring", 
+    "id": 51010032, 
+    "name": "CodepediaOrg/demo-rest-jersey-spring"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CodepediaOrg/demo-rest-jersey-spring/snapshot/427d8734f2e3d8af7749d9339156b27349c63630/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

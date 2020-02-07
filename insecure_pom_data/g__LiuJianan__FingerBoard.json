@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/LiuJianan/FingerBoard", 
+    "url-identifier": "g/LiuJianan/FingerBoard", 
+    "id": 1506196726340, 
+    "name": "LiuJianan/FingerBoard"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LiuJianan/FingerBoard/snapshot/bf8de3a003f09876c3dc75d823a8b01b2c6b191c/files/pom.xml#L177", 
+        "line": 177, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

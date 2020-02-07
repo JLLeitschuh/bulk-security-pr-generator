@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/matlux/jvm-breakglass", 
+    "url-identifier": "g/matlux/jvm-breakglass", 
+    "id": 1795341512, 
+    "name": "matlux/jvm-breakglass"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matlux/jvm-breakglass/snapshot/1595076bfb2c20550480fad37b5280fc472208f1/files/bootloader/pom.xml#L108", 
+        "line": 108, 
+        "value": "repository", 
+        "file": "/bootloader/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matlux/jvm-breakglass/snapshot/1595076bfb2c20550480fad37b5280fc472208f1/files/examples/SpringMVC/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/examples/SpringMVC/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matlux/jvm-breakglass/snapshot/1595076bfb2c20550480fad37b5280fc472208f1/files/examples/SpringMVCrest/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/examples/SpringMVCrest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matlux/jvm-breakglass/snapshot/1595076bfb2c20550480fad37b5280fc472208f1/files/examples/server/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/examples/server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matlux/jvm-breakglass/snapshot/1595076bfb2c20550480fad37b5280fc472208f1/files/examples/server-no-spring/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/examples/server-no-spring/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

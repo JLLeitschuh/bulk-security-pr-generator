@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jeremylong/odc-falsepositives", 
+    "url-identifier": "g/jeremylong/odc-falsepositives", 
+    "id": 1510596687132, 
+    "name": "jeremylong/odc-falsepositives"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jeremylong/odc-falsepositives/snapshot/19bf87fb55857d39a9b4693b4affee36adeda83d/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jeremylong/odc-falsepositives/snapshot/19bf87fb55857d39a9b4693b4affee36adeda83d/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

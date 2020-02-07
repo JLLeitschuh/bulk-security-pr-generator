@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/prospero238/liquibase-runner", 
+    "url-identifier": "g/prospero238/liquibase-runner", 
+    "id": 1509218403421, 
+    "name": "prospero238/liquibase-runner"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/prospero238/liquibase-runner/snapshot/ae2f073fe7d5ac4d3a9300f56aad1198968183ed/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/prospero238/liquibase-runner/snapshot/ae2f073fe7d5ac4d3a9300f56aad1198968183ed/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

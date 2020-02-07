@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/gerrit-trigger-plugin", 
+    "url-identifier": "g/jenkinsci/gerrit-trigger-plugin", 
+    "id": 3960138, 
+    "name": "jenkinsci/gerrit-trigger-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/gerrit-trigger-plugin/snapshot/4ccc4ae466d9e790f1bac543c54c80243ef91348/files/pom.xml#L294", 
+        "line": 294, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://gerrit.googlecode.com/svn/mavenrepo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

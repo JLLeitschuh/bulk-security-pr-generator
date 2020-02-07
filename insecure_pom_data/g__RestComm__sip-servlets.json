@@ -1,0 +1,410 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/RestComm/sip-servlets", 
+    "url-identifier": "g/RestComm/sip-servlets", 
+    "id": 13150009, 
+    "name": "RestComm/sip-servlets"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/docs/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/docs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/docs/pom.xml#L79", 
+        "line": 79, 
+        "value": "repository", 
+        "file": "/docs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://anonsvn.jboss.org/repos/repository.jboss.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/pom.xml#L536", 
+        "line": 536, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/pom.xml#L550", 
+        "line": 550, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://anonsvn.jboss.org/repos/repository.jboss.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-arquillian-testsuite/ProxyTest/pom.xml#L261", 
+        "line": 261, 
+        "value": "repository", 
+        "file": "/sip-servlets-arquillian-testsuite/ProxyTest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://telestax.artifactoryonline.com/telestax/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-arquillian-testsuite/ProxyTest/pom.xml#L274", 
+        "line": 274, 
+        "value": "repository", 
+        "file": "/sip-servlets-arquillian-testsuite/ProxyTest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://telestax.artifactoryonline.com/telestax/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/TeleMedicinePh1/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/TeleMedicinePh1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/alerting-app/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/alerting-app/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/call-blocking/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/call-blocking/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/call-forwarding/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/call-forwarding/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/call-forwarding-distributable/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/call-forwarding-distributable/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/chatserver/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/chatserver/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/click-to-call/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/click-to-call/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/click-to-call-servlet3/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/click-to-call-servlet3/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/click2call-distributable/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/click2call-distributable/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/custom-call-forwarding-distributable/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/custom-call-forwarding-distributable/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/diameter-openims/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/diameter-openims/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/facebook-c2c/pom.xml#L117", 
+        "line": 117, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/facebook-c2c/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/jruby-sips-demo/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/jruby-sips-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/jslee-sips-interop/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/jslee-sips-interop/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/location-service/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/location-service/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/location-service-distributable/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/location-service-distributable/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/media-jsr309-servlet/pom.xml#L106", 
+        "line": 106, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/media-jsr309-servlet/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/messaging-perf-test/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/messaging-perf-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/pom.xml#L100", 
+        "line": 100, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/presence-client-example/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/presence-client-example/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/pure-jruby-telco/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/pure-jruby-telco/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/shootist-sip-servlet/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/shootist-sip-servlet/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/shootist-sip-servlet-distributable/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/shootist-sip-servlet-distributable/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/shopping-demo-jsr309/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/shopping-demo-jsr309/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/simple-sip-servlet/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/simple-sip-servlet/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/sip-rtsp-gateway/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/sip-rtsp-gateway/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/speed-dial/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/speed-dial/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/uac-register/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/uac-register/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-examples/websocket-b2bua/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/sip-servlets-examples/websocket-b2bua/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/sip-servlets/snapshot/826943be00703eebe0c3135623367961c28ccffa/files/sip-servlets-test-suite/testsuite/pom.xml#L255", 
+        "line": 255, 
+        "value": "repository", 
+        "file": "/sip-servlets-test-suite/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://equalsverifier.googlecode.com/svn/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

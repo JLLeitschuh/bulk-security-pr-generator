@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-guice-jetty-exporter", 
+    "url-identifier": "g/OneBusAway/onebusaway-guice-jetty-exporter", 
+    "id": 1507612905979, 
+    "name": "OneBusAway/onebusaway-guice-jetty-exporter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-guice-jetty-exporter/snapshot/6656bccbfa2754c5dd40c7fa7e53afa2e5c5e863/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

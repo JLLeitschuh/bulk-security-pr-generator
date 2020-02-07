@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/devexperts/aprof", 
+    "url-identifier": "g/devexperts/aprof", 
+    "id": 1797210228, 
+    "name": "devexperts/aprof"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/devexperts/aprof/snapshot/abcf24a560fe5c35ae8bbaf194f9623ae3cbb8d5/files/pom.xml#L267", 
+        "line": 267, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/devexperts/Maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

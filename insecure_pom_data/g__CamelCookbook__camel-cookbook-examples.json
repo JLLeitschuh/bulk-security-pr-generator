@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/CamelCookbook/camel-cookbook-examples", 
+    "url-identifier": "g/CamelCookbook/camel-cookbook-examples", 
+    "id": 31230035, 
+    "name": "CamelCookbook/camel-cookbook-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CamelCookbook/camel-cookbook-examples/snapshot/acc0efcd7d5187f3c71d90491f670022753e6bdd/files/pom.xml#L654", 
+        "line": 654, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CamelCookbook/camel-cookbook-examples/snapshot/acc0efcd7d5187f3c71d90491f670022753e6bdd/files/pom.xml#L672", 
+        "line": 672, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

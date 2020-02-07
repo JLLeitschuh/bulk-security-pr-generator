@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/fedora-module-build-system-plugin", 
+    "url-identifier": "g/jenkinsci/fedora-module-build-system-plugin", 
+    "id": 1509239276001, 
+    "name": "jenkinsci/fedora-module-build-system-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/fedora-module-build-system-plugin/snapshot/58ef4300557bb2d02bb8c7c0dc519d6200b0b509/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/fedora-module-build-system-plugin/snapshot/58ef4300557bb2d02bb8c7c0dc519d6200b0b509/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

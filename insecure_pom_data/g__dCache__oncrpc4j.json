@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dCache/oncrpc4j", 
+    "url-identifier": "g/dCache/oncrpc4j", 
+    "id": 3960282, 
+    "name": "dCache/oncrpc4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dCache/oncrpc4j/snapshot/0b6eb7321c489e439d3f191c0ae95131a35d50fb/files/pom.xml#L297", 
+        "line": 297, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.dcache.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dCache/oncrpc4j/snapshot/0b6eb7321c489e439d3f191c0ae95131a35d50fb/files/pom.xml#L303", 
+        "line": 303, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.dcache.org/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

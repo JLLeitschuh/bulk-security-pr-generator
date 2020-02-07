@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/backend-list-pending-pull-requests", 
+    "url-identifier": "g/jenkinsci/backend-list-pending-pull-requests", 
+    "id": 1506691936167, 
+    "name": "jenkinsci/backend-list-pending-pull-requests"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-list-pending-pull-requests/snapshot/297cdced5bd4c9d8caa02b8b1db8508a50f724dd/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

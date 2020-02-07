@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/zvpdev/pvsstudio-maven-plugin", 
+    "url-identifier": "g/zvpdev/pvsstudio-maven-plugin", 
+    "id": 1509539996193, 
+    "name": "zvpdev/pvsstudio-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zvpdev/pvsstudio-maven-plugin/snapshot/f76be3f24e59aba3f8f4a7025a8b2a53705cadb3/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.10.23.30:8081/repository/maven-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zvpdev/pvsstudio-maven-plugin/snapshot/f76be3f24e59aba3f8f4a7025a8b2a53705cadb3/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.10.23.30:8081/repository/maven-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

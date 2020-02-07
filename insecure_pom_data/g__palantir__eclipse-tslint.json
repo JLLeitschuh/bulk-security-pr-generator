@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/palantir/eclipse-tslint", 
+    "url-identifier": "g/palantir/eclipse-tslint", 
+    "id": 1506575799804, 
+    "name": "palantir/eclipse-tslint"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/palantir/eclipse-tslint/snapshot/1695e184ac715a5bd8dd6b47e97241299cb81bce/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/kepler"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/palantir/eclipse-tslint/snapshot/1695e184ac715a5bd8dd6b47e97241299cb81bce/files/pom.xml#L196", 
+        "line": 196, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/4.3"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

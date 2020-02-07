@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/atdl4j/atdl4j", 
+    "url-identifier": "g/atdl4j/atdl4j", 
+    "id": 1507212296142, 
+    "name": "atdl4j/atdl4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/atdl4j/atdl4j/snapshot/1bc8b614bba047aeabca3f75cf551b83e83ae639/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

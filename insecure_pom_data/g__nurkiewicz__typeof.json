@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nurkiewicz/typeof", 
+    "url-identifier": "g/nurkiewicz/typeof", 
+    "id": 21860195, 
+    "name": "nurkiewicz/typeof"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nurkiewicz/typeof/snapshot/81e6568781810bf7b1aa36822ad3f4e3a2c97efa/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

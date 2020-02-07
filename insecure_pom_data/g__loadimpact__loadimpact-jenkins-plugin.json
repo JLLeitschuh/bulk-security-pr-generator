@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/loadimpact/loadimpact-jenkins-plugin", 
+    "url-identifier": "g/loadimpact/loadimpact-jenkins-plugin", 
+    "id": 1509227276157, 
+    "name": "loadimpact/loadimpact-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/loadimpact/loadimpact-jenkins-plugin/snapshot/fb7ad220147869a89307ef10d76347bb857dcf4c/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/loadimpact/loadimpact-jenkins-plugin/snapshot/fb7ad220147869a89307ef10d76347bb857dcf4c/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/loadimpact/loadimpact-sdk-java"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/loadimpact/loadimpact-jenkins-plugin/snapshot/fb7ad220147869a89307ef10d76347bb857dcf4c/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

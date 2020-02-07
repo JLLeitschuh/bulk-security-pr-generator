@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/omar-farajallah/HAFETraining", 
+    "url-identifier": "g/omar-farajallah/HAFETraining", 
+    "id": 1506579538856, 
+    "name": "omar-farajallah/HAFETraining"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/omar-farajallah/HAFETraining/snapshot/0dcee7fc5ba9e593fbd121e1a24b23d85db4fa15/files/cms/pom.xml#L338", 
+        "line": 338, 
+        "value": "repository", 
+        "file": "/cms/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://172.31.48.43:8081/nexus/content/repositories/aem-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/omar-farajallah/HAFETraining/snapshot/0dcee7fc5ba9e593fbd121e1a24b23d85db4fa15/files/cms/pom.xml#L345", 
+        "line": 345, 
+        "value": "snapshotRepository", 
+        "file": "/cms/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://172.31.48.43:8081/nexus/content/repositories/aem-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

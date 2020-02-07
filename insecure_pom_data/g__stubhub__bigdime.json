@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/stubhub/bigdime", 
+    "url-identifier": "g/stubhub/bigdime", 
+    "id": 1592326173, 
+    "name": "stubhub/bigdime"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/stubhub/bigdime/snapshot/fbf8ef50ce5c9b4efc1f155f1d2d35651df5e58e/files/pom.xml#L745", 
+        "line": 745, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/stubhub/bigdime/snapshot/fbf8ef50ce5c9b4efc1f155f1d2d35651df5e58e/files/pom.xml#L758", 
+        "line": 758, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/stubhub/bigdime/snapshot/fbf8ef50ce5c9b4efc1f155f1d2d35651df5e58e/files/pom.xml#L769", 
+        "line": 769, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

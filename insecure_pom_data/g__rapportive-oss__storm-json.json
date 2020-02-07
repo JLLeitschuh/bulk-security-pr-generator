@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rapportive-oss/storm-json", 
+    "url-identifier": "g/rapportive-oss/storm-json", 
+    "id": 61240044, 
+    "name": "rapportive-oss/storm-json"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rapportive-oss/storm-json/snapshot/ce99ca2c37cc1c7a28d16d5d0598ebc7a2a290f1/files/pom.xml#L7", 
+        "line": 7, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

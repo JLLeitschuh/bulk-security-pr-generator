@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/vert-x3/vertx-jca", 
+    "url-identifier": "g/vert-x3/vertx-jca", 
+    "id": 2135100328, 
+    "name": "vert-x3/vertx-jca"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vert-x3/vertx-jca/snapshot/4b03bef14ca3a6cc1b7677eae2d7df2b68e78a0a/files/rar/pom.xml#L136", 
+        "line": 136, 
+        "value": "repository", 
+        "file": "/rar/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vert-x3/vertx-jca/snapshot/4b03bef14ca3a6cc1b7677eae2d7df2b68e78a0a/files/rar/pom.xml#L146", 
+        "line": 146, 
+        "value": "repository", 
+        "file": "/rar/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jesperpedersen.github.com/fungal/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/0opslab/opslabJutil", 
+    "url-identifier": "g/0opslab/opslabJutil", 
+    "id": 32780043, 
+    "name": "0opslab/opslabJutil"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/0opslab/opslabJutil/snapshot/5b048bdc66d1af1031b607c4ba66ff6ae49e8947/files/pom.xml#L154", 
+        "line": 154, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/0opslab/opslabJutil/snapshot/5b048bdc66d1af1031b607c4ba66ff6ae49e8947/files/pom.xml#L166", 
+        "line": 166, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

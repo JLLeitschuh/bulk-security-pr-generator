@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dockstore/dockstore-cli", 
+    "url-identifier": "g/dockstore/dockstore-cli", 
+    "id": 1510158456028, 
+    "name": "dockstore/dockstore-cli"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dockstore/dockstore-cli/snapshot/c7aa2437b611bf8882cea508e8ee0ca69459e343/files/pom.xml#L102", 
+        "line": 102, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dockstore/dockstore-cli/snapshot/c7aa2437b611bf8882cea508e8ee0ca69459e343/files/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://sagebionetworks.artifactoryonline.com/sagebionetworks/libs-releases-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

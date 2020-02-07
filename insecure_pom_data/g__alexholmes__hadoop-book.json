@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/alexholmes/hadoop-book", 
+    "url-identifier": "g/alexholmes/hadoop-book", 
+    "id": 47560145, 
+    "name": "alexholmes/hadoop-book"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexholmes/hadoop-book/snapshot/24f18e9b8d7b8488abc2ddca7f9bfb21e8660c97/files/pom.xml#L211", 
+        "line": 211, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://alexholmes.github.com/hadoop-book-mvn-repo/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexholmes/hadoop-book/snapshot/24f18e9b8d7b8488abc2ddca7f9bfb21e8660c97/files/pom.xml#L251", 
+        "line": 251, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

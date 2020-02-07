@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pister/wint", 
+    "url-identifier": "g/pister/wint", 
+    "id": 1870148, 
+    "name": "pister/wint"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pister/wint/snapshot/85c5fe2efbace42e757c557b12230b47819484cb/files/maven-wint-plugin/pom.xml#L101", 
+        "line": 101, 
+        "value": "repository", 
+        "file": "/maven-wint-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://resp1.jiudengnile.com:9999/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pister/wint/snapshot/85c5fe2efbace42e757c557b12230b47819484cb/files/maven-wint-plugin/pom.xml#L106", 
+        "line": 106, 
+        "value": "snapshotRepository", 
+        "file": "/maven-wint-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://resp1.jiudengnile.com:9999/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

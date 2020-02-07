@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JWebUnit/jwebunit", 
+    "url-identifier": "g/JWebUnit/jwebunit", 
+    "id": 1506696608850, 
+    "name": "JWebUnit/jwebunit"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JWebUnit/jwebunit/snapshot/ef48a58f91fb8f3a3849d25d586a0531471cbda2/files/pom.xml#L605", 
+        "line": 605, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JWebUnit/jwebunit/snapshot/ef48a58f91fb8f3a3849d25d586a0531471cbda2/files/pom.xml#L610", 
+        "line": 610, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

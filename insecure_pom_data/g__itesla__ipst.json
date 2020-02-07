@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/itesla/ipst", 
+    "url-identifier": "g/itesla/ipst", 
+    "id": 1506706176340, 
+    "name": "itesla/ipst"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/itesla/ipst/snapshot/3482454bd23fa810f75ed9a0a279b05b17a6c920/files/histoDB/pom.xml#L261", 
+        "line": 261, 
+        "value": "repository", 
+        "file": "/histoDB/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/itesla/ipst/snapshot/3482454bd23fa810f75ed9a0a279b05b17a6c920/files/histoDB/pom.xml#L274", 
+        "line": 274, 
+        "value": "repository", 
+        "file": "/histoDB/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/itesla/ipst/snapshot/3482454bd23fa810f75ed9a0a279b05b17a6c920/files/histoDB/pom.xml#L285", 
+        "line": 285, 
+        "value": "repository", 
+        "file": "/histoDB/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/itesla/ipst/snapshot/3482454bd23fa810f75ed9a0a279b05b17a6c920/files/histoDB/pom.xml#L290", 
+        "line": 290, 
+        "value": "repository", 
+        "file": "/histoDB/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.pepite.be:8444/repository/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/itesla/ipst/snapshot/3482454bd23fa810f75ed9a0a279b05b17a6c920/files/iidm-ddb/iidm-ddb-ejb-remote-client-wildfly/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/iidm-ddb/iidm-ddb-ejb-remote-client-wildfly/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.ibiblio.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/itesla/ipst/snapshot/3482454bd23fa810f75ed9a0a279b05b17a6c920/files/iidm-ddb/iidm-ddb-web/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/iidm-ddb/iidm-ddb-web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

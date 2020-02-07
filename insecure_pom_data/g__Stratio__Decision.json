@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Stratio/Decision", 
+    "url-identifier": "g/Stratio/Decision", 
+    "id": 40520071, 
+    "name": "Stratio/Decision"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Stratio/Decision/snapshot/01ad437bc69a14c2f49cee8b766a06b38eddbcaf/files/siddhi/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/siddhi/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Stratio/Decision/snapshot/01ad437bc69a14c2f49cee8b766a06b38eddbcaf/files/siddhi/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/siddhi/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Stratio/Decision/snapshot/01ad437bc69a14c2f49cee8b766a06b38eddbcaf/files/siddhi/pom.xml#L45", 
+        "line": 45, 
+        "value": "pluginRepository", 
+        "file": "/siddhi/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Stratio/Decision/snapshot/01ad437bc69a14c2f49cee8b766a06b38eddbcaf/files/siddhi/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/siddhi/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-idea-plugin.googlecode.com/svn/maven-repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

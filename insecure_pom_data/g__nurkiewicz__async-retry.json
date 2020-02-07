@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nurkiewicz/async-retry", 
+    "url-identifier": "g/nurkiewicz/async-retry", 
+    "id": 23167089, 
+    "name": "nurkiewicz/async-retry"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nurkiewicz/async-retry/snapshot/ca4fd0d22b03dc5d7646bdb0178914cad220a637/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

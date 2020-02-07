@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hdiv/hdiv", 
+    "url-identifier": "g/hdiv/hdiv", 
+    "id": 2980280, 
+    "name": "hdiv/hdiv"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hdiv/hdiv/snapshot/82abab593e4aae50c854e0f27456b0fcad0bd066/files/pom.xml#L265", 
+        "line": 265, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.hdivsecurity.com:8081/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hdiv/hdiv/snapshot/82abab593e4aae50c854e0f27456b0fcad0bd066/files/pom.xml#L269", 
+        "line": 269, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.hdivsecurity.com:8081/nexus/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

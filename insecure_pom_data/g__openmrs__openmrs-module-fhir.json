@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-fhir", 
+    "url-identifier": "g/openmrs/openmrs-module-fhir", 
+    "id": 15494904, 
+    "name": "openmrs/openmrs-module-fhir"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-fhir/snapshot/45e01340c66eb0e9449652b2a266c3878549489e/files/pom.xml#L289", 
+        "line": 289, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-fhir/snapshot/45e01340c66eb0e9449652b2a266c3878549489e/files/pom.xml#L294", 
+        "line": 294, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-fhir/snapshot/45e01340c66eb0e9449652b2a266c3878549489e/files/pom.xml#L314", 
+        "line": 314, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/modules/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-fhir/snapshot/45e01340c66eb0e9449652b2a266c3878549489e/files/pom.xml#L319", 
+        "line": 319, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openmrs/openmrs-module-fhir/snapshot/45e01340c66eb0e9449652b2a266c3878549489e/files/pom.xml#L327", 
+        "line": 327, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

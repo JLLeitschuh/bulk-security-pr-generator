@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/USGS-CIDA/MyPubs", 
+    "url-identifier": "g/USGS-CIDA/MyPubs", 
+    "id": 1506740268487, 
+    "name": "USGS-CIDA/MyPubs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/MyPubs/snapshot/95a0a41653cc32520d633cb1678503df39e48859/files/pw-mypubs-ui/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pw-mypubs-ui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cida.usgs.gov/maven/cida-public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse/linuxtools", 
+    "url-identifier": "g/eclipse/linuxtools", 
+    "id": 1860019, 
+    "name": "eclipse/linuxtools"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/linuxtools/snapshot/ae2731de348aeb1a1141b2e0c2db905934944eba/files/pom.xml#L181", 
+        "line": 181, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/oxygen"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/linuxtools/snapshot/ae2731de348aeb1a1141b2e0c2db905934944eba/files/releng/apitools/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/releng/apitools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/mars"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

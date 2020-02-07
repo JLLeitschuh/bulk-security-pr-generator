@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/tajo", 
+    "url-identifier": "g/apache/tajo", 
+    "id": 1506229808049, 
+    "name": "apache/tajo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tajo/snapshot/e960434b43ca961762a311d75828c2e0cc400578/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo2.maven.org/maven2/org/eclipse/jetty/jetty-distribution/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tajo/snapshot/e960434b43ca961762a311d75828c2e0cc400578/files/tajo-common/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/tajo-common/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tajo/snapshot/e960434b43ca961762a311d75828c2e0cc400578/files/tajo-project/pom.xml#L392", 
+        "line": 392, 
+        "value": "repository", 
+        "file": "/tajo-project/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo2.maven.org/maven2/org/eclipse/jetty/jetty-distribution/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tajo/snapshot/e960434b43ca961762a311d75828c2e0cc400578/files/tajo-thirdparty/asm/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/tajo-thirdparty/asm/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

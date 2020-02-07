@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/deltaspike", 
+    "url-identifier": "g/apache/deltaspike", 
+    "id": 12030178, 
+    "name": "apache/deltaspike"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/deltaspike/snapshot/a8f62d6bd19ae2c6bd34d03536d481f13ceb4f99/files/deltaspike/cdictrl/impl-owb/pom.xml#L186", 
+        "line": 186, 
+        "value": "repository", 
+        "file": "/deltaspike/cdictrl/impl-owb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/deltaspike/snapshot/a8f62d6bd19ae2c6bd34d03536d481f13ceb4f99/files/deltaspike/parent/code/pom.xml#L385", 
+        "line": 385, 
+        "value": "repository", 
+        "file": "/deltaspike/parent/code/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/AnujaK/restfiddle", 
+    "url-identifier": "g/AnujaK/restfiddle", 
+    "id": 33815309, 
+    "name": "AnujaK/restfiddle"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AnujaK/restfiddle/snapshot/930e60d96a393bb7a67614f4ae432ff4dd9ae0e5/files/pom.xml#L169", 
+        "line": 169, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-release-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

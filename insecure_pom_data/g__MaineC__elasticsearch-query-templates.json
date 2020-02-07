@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/MaineC/elasticsearch-query-templates", 
+    "url-identifier": "g/MaineC/elasticsearch-query-templates", 
+    "id": 1506478621960, 
+    "name": "MaineC/elasticsearch-query-templates"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MaineC/elasticsearch-query-templates/snapshot/8bf2cac4ab053caa687ef0faaebd699cfd70bacc/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

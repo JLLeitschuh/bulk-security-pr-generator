@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mayconbordin/postgis-geojson", 
+    "url-identifier": "g/mayconbordin/postgis-geojson", 
+    "id": 1506691447461, 
+    "name": "mayconbordin/postgis-geojson"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mayconbordin/postgis-geojson/snapshot/4ad053afdcc17a69209a1d6c7efc0abe28e4edcd/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

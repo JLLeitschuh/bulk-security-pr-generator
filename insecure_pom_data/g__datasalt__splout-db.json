@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/datasalt/splout-db", 
+    "url-identifier": "g/datasalt/splout-db", 
+    "id": 53830726, 
+    "name": "datasalt/splout-db"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/datasalt/splout-db/snapshot/247cb55507f65269ec7406a584c984d4a1bfd3b3/files/splout-commons/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/splout-commons/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/datasalt/splout-db/snapshot/247cb55507f65269ec7406a584c984d4a1bfd3b3/files/splout-hadoop/pom.xml#L803", 
+        "line": 803, 
+        "value": "repository", 
+        "file": "/splout-hadoop/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/datasalt/splout-db/snapshot/247cb55507f65269ec7406a584c984d4a1bfd3b3/files/splout-redis/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/splout-redis/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/datasalt/splout-db/snapshot/247cb55507f65269ec7406a584c984d4a1bfd3b3/files/splout-server/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/splout-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

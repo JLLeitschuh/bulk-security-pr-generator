@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yasu-s/fxcop-runner-plugin", 
+    "url-identifier": "g/yasu-s/fxcop-runner-plugin", 
+    "id": 1509247256085, 
+    "name": "yasu-s/fxcop-runner-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yasu-s/fxcop-runner-plugin/snapshot/17d7bc56e1a5a506c915b0a78f599de53ab0266c/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yasu-s/fxcop-runner-plugin/snapshot/17d7bc56e1a5a506c915b0a78f599de53ab0266c/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

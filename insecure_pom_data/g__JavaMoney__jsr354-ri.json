@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JavaMoney/jsr354-ri", 
+    "url-identifier": "g/JavaMoney/jsr354-ri", 
+    "id": 1800137, 
+    "name": "JavaMoney/jsr354-ri"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JavaMoney/jsr354-ri/snapshot/0924c932228f444dd53154c123f568e4dc68fd8c/files/moneta/pom.xml#L74", 
+        "line": 74, 
+        "value": "repository", 
+        "file": "/moneta/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JavaMoney/jsr354-ri/snapshot/0924c932228f444dd53154c123f568e4dc68fd8c/files/moneta/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/moneta/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JavaMoney/jsr354-ri/snapshot/0924c932228f444dd53154c123f568e4dc68fd8c/files/moneta-core/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/moneta-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JavaMoney/jsr354-ri/snapshot/0924c932228f444dd53154c123f568e4dc68fd8c/files/moneta-core/pom.xml#L79", 
+        "line": 79, 
+        "value": "repository", 
+        "file": "/moneta-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JavaMoney/jsr354-ri/snapshot/0924c932228f444dd53154c123f568e4dc68fd8c/files/pom.xml#L115", 
+        "line": 115, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JavaMoney/jsr354-ri/snapshot/0924c932228f444dd53154c123f568e4dc68fd8c/files/pom.xml#L123", 
+        "line": 123, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

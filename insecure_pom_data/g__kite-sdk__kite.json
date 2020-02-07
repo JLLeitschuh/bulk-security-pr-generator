@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kite-sdk/kite", 
+    "url-identifier": "g/kite-sdk/kite", 
+    "id": 1870154, 
+    "name": "kite-sdk/kite"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kite-sdk/kite/snapshot/439151ae9c5b7ddcdc3fa0c5ba6ab1d6151335d2/files/kite-app-parent/cdh4/pom.xml#L96", 
+        "line": 96, 
+        "value": "repository", 
+        "file": "/kite-app-parent/cdh4/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kite-sdk/kite/snapshot/439151ae9c5b7ddcdc3fa0c5ba6ab1d6151335d2/files/kite-app-parent/cdh5/pom.xml#L98", 
+        "line": 98, 
+        "value": "repository", 
+        "file": "/kite-app-parent/cdh5/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kite-sdk/kite/snapshot/439151ae9c5b7ddcdc3fa0c5ba6ab1d6151335d2/files/pom.xml#L231", 
+        "line": 231, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

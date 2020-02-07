@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/downstream-buildview-plugin", 
+    "url-identifier": "g/jenkinsci/downstream-buildview-plugin", 
+    "id": 1506608639994, 
+    "name": "jenkinsci/downstream-buildview-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/downstream-buildview-plugin/snapshot/b0e9b9fe43abcf1339491438e4893537f233d078/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/downstream-buildview-plugin/snapshot/b0e9b9fe43abcf1339491438e4893537f233d078/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/stratosphere/stratosphere", 
+    "url-identifier": "g/stratosphere/stratosphere", 
+    "id": 25990064, 
+    "name": "stratosphere/stratosphere"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/stratosphere/stratosphere/snapshot/b031538da160c716e4878740624121ba5e25fb3b/files/stratosphere-quickstart/pom.xml#L46", 
+        "line": 46, 
+        "value": "snapshotRepository", 
+        "file": "/stratosphere-quickstart/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/stratosphere/stratosphere/snapshot/b031538da160c716e4878740624121ba5e25fb3b/files/stratosphere-quickstart/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/stratosphere-quickstart/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

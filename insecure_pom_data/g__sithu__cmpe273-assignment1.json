@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sithu/cmpe273-assignment1", 
+    "url-identifier": "g/sithu/cmpe273-assignment1", 
+    "id": 1506694726135, 
+    "name": "sithu/cmpe273-assignment1"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sithu/cmpe273-assignment1/snapshot/bc7c604f082bb6648f8be8503feb97622304f09c/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sithu/cmpe273-assignment1/snapshot/bc7c604f082bb6648f8be8503feb97622304f09c/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.codahale.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

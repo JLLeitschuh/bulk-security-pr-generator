@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/geronimo-xbean", 
+    "url-identifier": "g/apache/geronimo-xbean", 
+    "id": 1506234508093, 
+    "name": "apache/geronimo-xbean"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/geronimo-xbean/snapshot/965ff158fbd70fef45b5c223708c41e9a10ec2cb/files/xbean-bundleutils/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/xbean-bundleutils/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

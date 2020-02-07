@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/fschopp/mina-sshd", 
+    "url-identifier": "g/fschopp/mina-sshd", 
+    "id": 1509175386234, 
+    "name": "fschopp/mina-sshd"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fschopp/mina-sshd/snapshot/9fd87000296a4c353bed7692bcf4f79903ff5fe0/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

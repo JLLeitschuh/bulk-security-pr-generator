@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/balazstarint/codebeamer-result-trend-updater-plugin", 
+    "url-identifier": "g/balazstarint/codebeamer-result-trend-updater-plugin", 
+    "id": 1509229216342, 
+    "name": "balazstarint/codebeamer-result-trend-updater-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/balazstarint/codebeamer-result-trend-updater-plugin/snapshot/441d4fd140955838023fd2e11dcc5f138cfa78b2/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/balazstarint/codebeamer-result-trend-updater-plugin/snapshot/441d4fd140955838023fd2e11dcc5f138cfa78b2/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

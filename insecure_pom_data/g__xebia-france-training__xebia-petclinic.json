@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/xebia-france-training/xebia-petclinic", 
+    "url-identifier": "g/xebia-france-training/xebia-petclinic", 
+    "id": 1509089655984, 
+    "name": "xebia-france-training/xebia-petclinic"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xebia-france-training/xebia-petclinic/snapshot/1619313eb7ac4165a840ca4983bd326d67e10949/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xebia-tech-event.info:8081/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xebia-france-training/xebia-petclinic/snapshot/1619313eb7ac4165a840ca4983bd326d67e10949/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xebia-tech-event.info:8081/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xebia-france-training/xebia-petclinic/snapshot/1619313eb7ac4165a840ca4983bd326d67e10949/files/pom.xml#L286", 
+        "line": 286, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dexter.xebialabs.com/nexus/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

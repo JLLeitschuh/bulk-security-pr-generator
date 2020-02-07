@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jaeksoft/opensearchserver", 
+    "url-identifier": "g/jaeksoft/opensearchserver", 
+    "id": 25040046, 
+    "name": "jaeksoft/opensearchserver"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jaeksoft/opensearchserver/snapshot/e744c04365323bd18cf2e2b3d18504f549a61cb6/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://anonsvn.icesoft.org/repo/maven2/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/incubator-optiq-csv", 
+    "url-identifier": "g/apache/incubator-optiq-csv", 
+    "id": 1506240745985, 
+    "name": "apache/incubator-optiq-csv"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-optiq-csv/snapshot/e2f950eb9edcc3712e0707f371730c5b76aae08a/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-optiq-csv/snapshot/e2f950eb9edcc3712e0707f371730c5b76aae08a/files/pom.xml#L137", 
+        "line": 137, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.pentaho.org/artifactory/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-optiq-csv/snapshot/e2f950eb9edcc3712e0707f371730c5b76aae08a/files/pom.xml#L148", 
+        "line": 148, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

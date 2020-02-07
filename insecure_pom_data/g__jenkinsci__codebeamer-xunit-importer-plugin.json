@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/codebeamer-xunit-importer-plugin", 
+    "url-identifier": "g/jenkinsci/codebeamer-xunit-importer-plugin", 
+    "id": 1509247626140, 
+    "name": "jenkinsci/codebeamer-xunit-importer-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/codebeamer-xunit-importer-plugin/snapshot/fca0ba8f4597c0da88ce3f71a5e304f7eabaf5e0/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/codebeamer-xunit-importer-plugin/snapshot/fca0ba8f4597c0da88ce3f71a5e304f7eabaf5e0/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

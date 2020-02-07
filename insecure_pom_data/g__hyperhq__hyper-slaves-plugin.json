@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hyperhq/hyper-slaves-plugin", 
+    "url-identifier": "g/hyperhq/hyper-slaves-plugin", 
+    "id": 1509256695979, 
+    "name": "hyperhq/hyper-slaves-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hyperhq/hyper-slaves-plugin/snapshot/3324a0fb798b7efc7a2f3a4afcbfbc6c81f05938/files/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hyperhq/hyper-slaves-plugin/snapshot/3324a0fb798b7efc7a2f3a4afcbfbc6c81f05938/files/pom.xml#L84", 
+        "line": 84, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

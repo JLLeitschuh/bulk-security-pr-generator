@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/facebookarchive/linkbench", 
+    "url-identifier": "g/facebookarchive/linkbench", 
+    "id": 50080039, 
+    "name": "facebookarchive/linkbench"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/facebookarchive/linkbench/snapshot/b26236d5d8d8c6d1f8ff7766a7c51a71cdd8b21a/files/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/facebookarchive/linkbench/snapshot/b26236d5d8d8c6d1f8ff7766a7c51a71cdd8b21a/files/pom.xml#L131", 
+        "line": 131, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

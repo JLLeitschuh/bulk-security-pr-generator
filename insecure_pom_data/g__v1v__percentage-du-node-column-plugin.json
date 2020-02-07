@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/v1v/percentage-du-node-column-plugin", 
+    "url-identifier": "g/v1v/percentage-du-node-column-plugin", 
+    "id": 1509238986109, 
+    "name": "v1v/percentage-du-node-column-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/v1v/percentage-du-node-column-plugin/snapshot/bb672031618a592b3e0385632961e9b346b26081/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/v1v/percentage-du-node-column-plugin/snapshot/bb672031618a592b3e0385632961e9b346b26081/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/v1v/percentage-du-node-column-plugin/snapshot/bb672031618a592b3e0385632961e9b346b26081/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

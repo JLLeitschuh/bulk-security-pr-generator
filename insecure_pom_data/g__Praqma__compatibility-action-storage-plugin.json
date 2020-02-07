@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Praqma/compatibility-action-storage-plugin", 
+    "url-identifier": "g/Praqma/compatibility-action-storage-plugin", 
+    "id": 1506597049614, 
+    "name": "Praqma/compatibility-action-storage-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Praqma/compatibility-action-storage-plugin/snapshot/3444f25ea26d3a7346ca89bd933e755f0fa2a872/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Praqma/compatibility-action-storage-plugin/snapshot/3444f25ea26d3a7346ca89bd933e755f0fa2a872/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

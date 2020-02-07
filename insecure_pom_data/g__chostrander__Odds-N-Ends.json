@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/chostrander/Odds-N-Ends", 
+    "url-identifier": "g/chostrander/Odds-N-Ends", 
+    "id": 1509349316124, 
+    "name": "chostrander/Odds-N-Ends"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/chostrander/Odds-N-Ends/snapshot/26e2c425c27d7aa40b7175ffb8faf78ef074b49c/files/JSF2Demo/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/JSF2Demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

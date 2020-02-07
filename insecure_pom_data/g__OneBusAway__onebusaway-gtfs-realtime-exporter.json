@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-exporter", 
+    "url-identifier": "g/OneBusAway/onebusaway-gtfs-realtime-exporter", 
+    "id": 1507601006423, 
+    "name": "OneBusAway/onebusaway-gtfs-realtime-exporter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-exporter/snapshot/e67af1ed668438ed2357cba88a12ea17ab5f0208/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

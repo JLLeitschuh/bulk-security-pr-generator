@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opentraffic/traffic-engine", 
+    "url-identifier": "g/opentraffic/traffic-engine", 
+    "id": 1790650722, 
+    "name": "opentraffic/traffic-engine"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opentraffic/traffic-engine/snapshot/54d5cdfdde12529944a6f8c0faef4ceb7048adc6/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.conveyal.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opentraffic/traffic-engine/snapshot/54d5cdfdde12529944a6f8c0faef4ceb7048adc6/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yashin-luo/gitee-plugin", 
+    "url-identifier": "g/yashin-luo/gitee-plugin", 
+    "id": 1509054316065, 
+    "name": "yashin-luo/gitee-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yashin-luo/gitee-plugin/snapshot/adc75d092c590f4067c505ec1f51633919774c33/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yashin-luo/gitee-plugin/snapshot/adc75d092c590f4067c505ec1f51633919774c33/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yashin-luo/gitee-plugin/snapshot/adc75d092c590f4067c505ec1f51633919774c33/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yashin-luo/gitee-plugin/snapshot/adc75d092c590f4067c505ec1f51633919774c33/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/jgit/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yashin-luo/gitee-plugin/snapshot/adc75d092c590f4067c505ec1f51633919774c33/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

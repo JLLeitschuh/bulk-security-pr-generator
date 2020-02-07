@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/node-sharing-plugin", 
+    "url-identifier": "g/jenkinsci/node-sharing-plugin", 
+    "id": 1506597159070, 
+    "name": "jenkinsci/node-sharing-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/node-sharing-plugin/snapshot/1619a1ba8f7d8882aae02865bfee95df1c292339/files/pom.xml#L179", 
+        "line": 179, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/node-sharing-plugin/snapshot/1619a1ba8f7d8882aae02865bfee95df1c292339/files/pom.xml#L186", 
+        "line": 186, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

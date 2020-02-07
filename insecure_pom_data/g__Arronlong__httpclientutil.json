@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Arronlong/httpclientutil", 
+    "url-identifier": "g/Arronlong/httpclientutil", 
+    "id": 1793500330, 
+    "name": "Arronlong/httpclientutil"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Arronlong/httpclientutil/snapshot/a8d9447d21f91cbd7c4dc4a87086c85a39323ac5/files/pom.xml#L149", 
+        "line": 149, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://terracotta.org/download/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

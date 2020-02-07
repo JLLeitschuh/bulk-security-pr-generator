@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Bil372Project/372_071_Edulity", 
+    "url-identifier": "g/Bil372Project/372_071_Edulity", 
+    "id": 1510718321274, 
+    "name": "Bil372Project/372_071_Edulity"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Bil372Project/372_071_Edulity/snapshot/1bf5a4046a8e04155a3c4cd1959140ecdc7a53ae/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

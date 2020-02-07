@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ngageoint/mrgeo-geoserver-plugin", 
+    "url-identifier": "g/ngageoint/mrgeo-geoserver-plugin", 
+    "id": 1506599319531, 
+    "name": "ngageoint/mrgeo-geoserver-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ngageoint/mrgeo-geoserver-plugin/snapshot/085ebef112beaa70e320f39914c2404f8005da72/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ngageoint/mrgeo-geoserver-plugin/snapshot/085ebef112beaa70e320f39914c2404f8005da72/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ngageoint/mrgeo-geoserver-plugin/snapshot/085ebef112beaa70e320f39914c2404f8005da72/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ngageoint/mrgeo-geoserver-plugin/snapshot/085ebef112beaa70e320f39914c2404f8005da72/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mrgeo-maven.s3-website-us-east-1.amazonaws.com/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ngageoint/mrgeo-geoserver-plugin/snapshot/085ebef112beaa70e320f39914c2404f8005da72/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mrgeo-maven.s3-website-us-east-1.amazonaws.com/snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

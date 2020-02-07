@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cloudera/cm_ext", 
+    "url-identifier": "g/cloudera/cm_ext", 
+    "id": 62130048, 
+    "name": "cloudera/cm_ext"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cloudera/cm_ext/snapshot/78f6ca28cf45356299329733607d02ae48b22db0/files/cm-schema/pom.xml#L105", 
+        "line": 105, 
+        "value": "repository", 
+        "file": "/cm-schema/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins.cloudera.com:8081/artifactory/cdh-staging-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cloudera/cm_ext/snapshot/78f6ca28cf45356299329733607d02ae48b22db0/files/cm-schema/pom.xml#L110", 
+        "line": 110, 
+        "value": "snapshotRepository", 
+        "file": "/cm-schema/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins.cloudera.com:8081/artifactory/libs-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cloudera/cm_ext/snapshot/78f6ca28cf45356299329733607d02ae48b22db0/files/validator/pom.xml#L275", 
+        "line": 275, 
+        "value": "repository", 
+        "file": "/validator/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins.cloudera.com:8081/artifactory/cdh-staging-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cloudera/cm_ext/snapshot/78f6ca28cf45356299329733607d02ae48b22db0/files/validator/pom.xml#L280", 
+        "line": 280, 
+        "value": "snapshotRepository", 
+        "file": "/validator/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins.cloudera.com:8081/artifactory/libs-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

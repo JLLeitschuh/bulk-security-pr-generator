@@ -1,0 +1,190 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/svn2github/commons-vfs", 
+    "url-identifier": "g/svn2github/commons-vfs", 
+    "id": 1509233636060, 
+    "name": "svn2github/commons-vfs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/branches/POMRELEASE/pom.xml#L484", 
+        "line": 484, 
+        "value": "repository", 
+        "file": "/branches/POMRELEASE/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/branches/VFS-2.0/pom.xml#L472", 
+        "line": 472, 
+        "value": "repository", 
+        "file": "/branches/VFS-2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/branches/VFS-2.0/pom.xml#L480", 
+        "line": 480, 
+        "value": "repository", 
+        "file": "/branches/VFS-2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m1-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/branches/VFS281/pom.xml#L373", 
+        "line": 373, 
+        "value": "repository", 
+        "file": "/branches/VFS281/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/branches/VFS281/pom.xml#L381", 
+        "line": 381, 
+        "value": "repository", 
+        "file": "/branches/VFS281/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m1-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/branches/vfs-1-trunk/pom.xml#L151", 
+        "line": 151, 
+        "value": "repository", 
+        "file": "/branches/vfs-1-trunk/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/branches/vfs-1-trunk/pom.xml#L159", 
+        "line": 159, 
+        "value": "repository", 
+        "file": "/branches/vfs-1-trunk/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m1-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/tags/commons-vfs2-project-2.0/pom.xml#L374", 
+        "line": 374, 
+        "value": "repository", 
+        "file": "/tags/commons-vfs2-project-2.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/tags/preVFS2package/pom.xml#L347", 
+        "line": 347, 
+        "value": "repository", 
+        "file": "/tags/preVFS2package/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/tags/preVFS2package/pom.xml#L355", 
+        "line": 355, 
+        "value": "repository", 
+        "file": "/tags/preVFS2package/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m1-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/tags/vfs-1.0/pom.xml#L99", 
+        "line": 99, 
+        "value": "repository", 
+        "file": "/tags/vfs-1.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/tags/vfs-1.0/pom.xml#L107", 
+        "line": 107, 
+        "value": "repository", 
+        "file": "/tags/vfs-1.0/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m1-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/tags/vfs-1.0-RC/pom.xml#L99", 
+        "line": 99, 
+        "value": "repository", 
+        "file": "/tags/vfs-1.0-RC/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/tags/vfs-1.0-RC/pom.xml#L107", 
+        "line": 107, 
+        "value": "repository", 
+        "file": "/tags/vfs-1.0-RC/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m1-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/tags/vfs-1.0-RC8/pom.xml#L99", 
+        "line": 99, 
+        "value": "repository", 
+        "file": "/tags/vfs-1.0-RC8/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svn2github/commons-vfs/snapshot/69f48c4c0d4694596609a02bd302555e4ef33ae0/files/tags/vfs-1.0-RC8/pom.xml#L107", 
+        "line": 107, 
+        "value": "repository", 
+        "file": "/tags/vfs-1.0-RC8/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m1-snapshot-repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

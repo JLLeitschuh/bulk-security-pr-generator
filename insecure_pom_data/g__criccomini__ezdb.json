@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/criccomini/ezdb", 
+    "url-identifier": "g/criccomini/ezdb", 
+    "id": 1506685386669, 
+    "name": "criccomini/ezdb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/criccomini/ezdb/snapshot/dc255fcde0bd3c727d65b03082c0d57a26c33aac/files/pom.xml#L134", 
+        "line": 134, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/criccomini/ezdb/snapshot/dc255fcde0bd3c727d65b03082c0d57a26c33aac/files/pom.xml#L139", 
+        "line": 139, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/criccomini/ezdb/snapshot/dc255fcde0bd3c727d65b03082c0d57a26c33aac/files/pom.xml#L147", 
+        "line": 147, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/criccomini/ezdb/snapshot/dc255fcde0bd3c727d65b03082c0d57a26c33aac/files/pom.xml#L153", 
+        "line": 153, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

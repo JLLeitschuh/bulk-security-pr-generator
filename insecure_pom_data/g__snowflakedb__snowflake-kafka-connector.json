@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/snowflakedb/snowflake-kafka-connector", 
+    "url-identifier": "g/snowflakedb/snowflake-kafka-connector", 
+    "id": 1511112459700, 
+    "name": "snowflakedb/snowflake-kafka-connector"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/snowflakedb/snowflake-kafka-connector/snapshot/ed96e080499f142675cbf63a7a2832859ccd9ab3/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://packages.confluent.io/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

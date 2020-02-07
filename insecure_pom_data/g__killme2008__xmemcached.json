@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/killme2008/xmemcached", 
+    "url-identifier": "g/killme2008/xmemcached", 
+    "id": 1791520423, 
+    "name": "killme2008/xmemcached"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/killme2008/xmemcached/snapshot/0e5cf91a7207eac80a76b0c24106eec40a423d05/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/confluentinc/ksql", 
+    "url-identifier": "g/confluentinc/ksql", 
+    "id": 1509234856027, 
+    "name": "confluentinc/ksql"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/confluentinc/ksql/snapshot/7d4c8e1dffb5604b16c111ccb7205d529a8c982a/files/ksql-udf-quickstart/src/main/resources/archetype-resources/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/ksql-udf-quickstart/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://packages.confluent.io/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

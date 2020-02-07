@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/configurationslicing-plugin", 
+    "url-identifier": "g/jenkinsci/configurationslicing-plugin", 
+    "id": 1506626508235, 
+    "name": "jenkinsci/configurationslicing-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/configurationslicing-plugin/snapshot/330e53cda065cea38e11ec0b4dde862c17f4271d/files/pom.xml#L155", 
+        "line": 155, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/configurationslicing-plugin/snapshot/330e53cda065cea38e11ec0b4dde862c17f4271d/files/pom.xml#L162", 
+        "line": 162, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

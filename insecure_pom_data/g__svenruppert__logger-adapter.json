@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/svenruppert/logger-adapter", 
+    "url-identifier": "g/svenruppert/logger-adapter", 
+    "id": 1509415556072, 
+    "name": "svenruppert/logger-adapter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svenruppert/logger-adapter/snapshot/ad6fe9501dc7c2b2c631768b6cb67ab1569e0fb0/files/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.sven-ruppert.de/repository/maven-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svenruppert/logger-adapter/snapshot/ad6fe9501dc7c2b2c631768b6cb67ab1569e0fb0/files/pom.xml#L93", 
+        "line": 93, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.sven-ruppert.de/repository/maven-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svenruppert/logger-adapter/snapshot/ad6fe9501dc7c2b2c631768b6cb67ab1569e0fb0/files/pom.xml#L103", 
+        "line": 103, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.sven-ruppert.de/repository/maven-public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

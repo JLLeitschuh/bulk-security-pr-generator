@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OpenClinica/OpenClinica", 
+    "url-identifier": "g/OpenClinica/OpenClinica", 
+    "id": 2035370794, 
+    "name": "OpenClinica/OpenClinica"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenClinica/OpenClinica/snapshot/d7c74f1681202573b2b4ed719f7a6a8c1a31207f/files/pom.xml#L981", 
+        "line": 981, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenClinica/OpenClinica/snapshot/d7c74f1681202573b2b4ed719f7a6a8c1a31207f/files/pom.xml#L997", 
+        "line": 997, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenClinica/OpenClinica/snapshot/d7c74f1681202573b2b4ed719f7a6a8c1a31207f/files/pom.xml#L1011", 
+        "line": 1011, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.openclinica.com/artifactory/libs-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenClinica/OpenClinica/snapshot/d7c74f1681202573b2b4ed719f7a6a8c1a31207f/files/pom.xml#L1016", 
+        "line": 1016, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.openclinica.com/artifactory/libs-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

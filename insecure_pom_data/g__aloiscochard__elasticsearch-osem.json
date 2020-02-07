@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/aloiscochard/elasticsearch-osem", 
+    "url-identifier": "g/aloiscochard/elasticsearch-osem", 
+    "id": 1506467416142, 
+    "name": "aloiscochard/elasticsearch-osem"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aloiscochard/elasticsearch-osem/snapshot/f2eb19cd0b96241a082e1b9c9c7fdb1f4f0f503c/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

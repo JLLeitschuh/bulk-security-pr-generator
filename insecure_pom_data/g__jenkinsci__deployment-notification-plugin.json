@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/deployment-notification-plugin", 
+    "url-identifier": "g/jenkinsci/deployment-notification-plugin", 
+    "id": 1509084706713, 
+    "name": "jenkinsci/deployment-notification-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/deployment-notification-plugin/snapshot/93c07bfc47aad59f5a1e4314845f7fe408b03808/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/deployment-notification-plugin/snapshot/93c07bfc47aad59f5a1e4314845f7fe408b03808/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

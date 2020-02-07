@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Stratehm/stratum-proxy", 
+    "url-identifier": "g/Stratehm/stratum-proxy", 
+    "id": 1800280880, 
+    "name": "Stratehm/stratum-proxy"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Stratehm/stratum-proxy/snapshot/fd556477b430e0f50ca155b448be600f52416783/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.qmino.com/content/repositories/miredot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

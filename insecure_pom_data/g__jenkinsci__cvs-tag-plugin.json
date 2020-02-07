@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/cvs-tag-plugin", 
+    "url-identifier": "g/jenkinsci/cvs-tag-plugin", 
+    "id": 1509251156449, 
+    "name": "jenkinsci/cvs-tag-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/cvs-tag-plugin/snapshot/3e589022f79770403097400013b413860eeea89f/files/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/cvs-tag-plugin/snapshot/3e589022f79770403097400013b413860eeea89f/files/pom.xml#L89", 
+        "line": 89, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

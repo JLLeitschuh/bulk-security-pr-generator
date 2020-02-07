@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/flowdock/jenkins-flowdock-plugin", 
+    "url-identifier": "g/flowdock/jenkins-flowdock-plugin", 
+    "id": 1509075436174, 
+    "name": "flowdock/jenkins-flowdock-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/flowdock/jenkins-flowdock-plugin/snapshot/6319b6fb5937ed095b8152255e07a9edfb26b9ed/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/flowdock/jenkins-flowdock-plugin/snapshot/6319b6fb5937ed095b8152255e07a9edfb26b9ed/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

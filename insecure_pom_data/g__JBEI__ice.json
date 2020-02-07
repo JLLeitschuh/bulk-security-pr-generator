@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JBEI/ice", 
+    "url-identifier": "g/JBEI/ice", 
+    "id": 4950013, 
+    "name": "JBEI/ice"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JBEI/ice/snapshot/d0763921811ec0ef33881fccf336486320604784/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.biojava.org/download/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

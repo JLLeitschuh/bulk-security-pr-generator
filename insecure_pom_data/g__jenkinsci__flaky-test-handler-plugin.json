@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/flaky-test-handler-plugin", 
+    "url-identifier": "g/jenkinsci/flaky-test-handler-plugin", 
+    "id": 1509068836079, 
+    "name": "jenkinsci/flaky-test-handler-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/flaky-test-handler-plugin/snapshot/f074548f222af0feab5cefc610328f000f57c8a9/files/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

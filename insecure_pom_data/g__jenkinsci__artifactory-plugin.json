@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/artifactory-plugin", 
+    "url-identifier": "g/jenkinsci/artifactory-plugin", 
+    "id": 1506581620715, 
+    "name": "jenkinsci/artifactory-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/artifactory-plugin/snapshot/53e81e2cfde4b67a4782272c2edfa6bd42217534/files/pom.xml#L573", 
+        "line": 573, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/jfrog-dependencies"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/artifactory-plugin/snapshot/53e81e2cfde4b67a4782272c2edfa6bd42217534/files/pom.xml#L578", 
+        "line": 578, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/artifactory-plugin/snapshot/53e81e2cfde4b67a4782272c2edfa6bd42217534/files/pom.xml#L586", 
+        "line": 586, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/jfrog-dependencies"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/artifactory-plugin/snapshot/53e81e2cfde4b67a4782272c2edfa6bd42217534/files/pom.xml#L594", 
+        "line": 594, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/plugins-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/artifactory-plugin/snapshot/53e81e2cfde4b67a4782272c2edfa6bd42217534/files/pom.xml#L605", 
+        "line": 605, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

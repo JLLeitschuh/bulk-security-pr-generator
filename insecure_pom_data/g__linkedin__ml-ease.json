@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/linkedin/ml-ease", 
+    "url-identifier": "g/linkedin/ml-ease", 
+    "id": 38600058, 
+    "name": "linkedin/ml-ease"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/linkedin/ml-ease/snapshot/bbe91868f2f68594626297d528ef3097d738f3b9/files/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

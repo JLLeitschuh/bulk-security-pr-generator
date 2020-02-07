@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/quintona/storm-pattern", 
+    "url-identifier": "g/quintona/storm-pattern", 
+    "id": 39925906, 
+    "name": "quintona/storm-pattern"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quintona/storm-pattern/snapshot/e6a86fd859aba0499f63862bfb910e1a42daacae/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

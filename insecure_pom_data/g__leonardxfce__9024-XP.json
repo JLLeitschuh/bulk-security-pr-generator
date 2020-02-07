@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/leonardxfce/9024-XP", 
+    "url-identifier": "g/leonardxfce/9024-XP", 
+    "id": 1506546700466, 
+    "name": "leonardxfce/9024-XP"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/leonardxfce/9024-XP/snapshot/3f0b74109581523e103bd87395a0416739d5179a/files/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

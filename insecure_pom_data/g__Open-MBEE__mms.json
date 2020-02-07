@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Open-MBEE/mms", 
+    "url-identifier": "g/Open-MBEE/mms", 
+    "id": 1911660103, 
+    "name": "Open-MBEE/mms"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Open-MBEE/mms/snapshot/eb574fba4d8b49ef281acb75c58bc4668d653cc8/files/mms-ent/repo-amp/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/mms-ent/repo-amp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/plugins-release/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

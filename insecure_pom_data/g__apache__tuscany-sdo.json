@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/tuscany-sdo", 
+    "url-identifier": "g/apache/tuscany-sdo", 
+    "id": 1509052366358, 
+    "name": "apache/tuscany-sdo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tuscany-sdo/snapshot/68161467f8432dd09b9176b52052b070b00df0cb/files/impl/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/impl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tuscany-sdo/snapshot/68161467f8432dd09b9176b52052b070b00df0cb/files/java5tools/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/java5tools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/emf/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tuscany-sdo/snapshot/68161467f8432dd09b9176b52052b070b00df0cb/files/lib/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/lib/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tuscany-sdo/snapshot/68161467f8432dd09b9176b52052b070b00df0cb/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tuscany-sdo/snapshot/68161467f8432dd09b9176b52052b070b00df0cb/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ftp.ussg.iu.edu/eclipse/modeling/emf/emf/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tuscany-sdo/snapshot/68161467f8432dd09b9176b52052b070b00df0cb/files/sdo-api/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/sdo-api/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

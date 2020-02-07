@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/PramodhKumarM/DevOpsClassCodes-Copy", 
+    "url-identifier": "g/PramodhKumarM/DevOpsClassCodes-Copy", 
+    "id": 1510160566199, 
+    "name": "PramodhKumarM/DevOpsClassCodes-Copy"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PramodhKumarM/DevOpsClassCodes-Copy/snapshot/03b452aafa8d8d2a9288537b551ee8c8ac7c263d/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PramodhKumarM/DevOpsClassCodes-Copy/snapshot/03b452aafa8d8d2a9288537b551ee8c8ac7c263d/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/vaadin-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PramodhKumarM/DevOpsClassCodes-Copy/snapshot/03b452aafa8d8d2a9288537b551ee8c8ac7c263d/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/vaadin-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

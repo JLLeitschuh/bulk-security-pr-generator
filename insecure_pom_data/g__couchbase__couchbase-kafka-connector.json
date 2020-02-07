@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/couchbase/couchbase-kafka-connector", 
+    "url-identifier": "g/couchbase/couchbase-kafka-connector", 
+    "id": 45960016, 
+    "name": "couchbase/couchbase-kafka-connector"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/couchbase/couchbase-kafka-connector/snapshot/4d554c5e326becb40540094aaa5afd052254252d/files/samples/producer/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/samples/producer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://files.couchbase.com/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

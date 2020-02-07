@@ -1,0 +1,102 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sakaiproject/sakai", 
+    "url-identifier": "g/sakaiproject/sakai", 
+    "id": 40700020, 
+    "name": "sakaiproject/sakai"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sakaiproject/sakai/snapshot/f394b7365f1b8bfe2e4830dbc29c65020eedb0bc/files/feedback/pom.xml#L30", 
+        "line": 30, 
+        "value": "pluginRepository", 
+        "file": "/feedback/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mc-repo.googlecode.com/svn/maven2/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sakaiproject/sakai/snapshot/f394b7365f1b8bfe2e4830dbc29c65020eedb0bc/files/kernel/kernel-tim/pom.xml#L110", 
+        "line": 110, 
+        "value": "repository", 
+        "file": "/kernel/kernel-tim/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sakaiproject/sakai/snapshot/f394b7365f1b8bfe2e4830dbc29c65020eedb0bc/files/kernel/kernel-tim/pom.xml#L129", 
+        "line": 129, 
+        "value": "pluginRepository", 
+        "file": "/kernel/kernel-tim/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sakaiproject/sakai/snapshot/f394b7365f1b8bfe2e4830dbc29c65020eedb0bc/files/master/pom.xml#L278", 
+        "line": 278, 
+        "value": "repository", 
+        "file": "/master/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://source.sakaiproject.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sakaiproject/sakai/snapshot/f394b7365f1b8bfe2e4830dbc29c65020eedb0bc/files/master/pom.xml#L308", 
+        "line": 308, 
+        "value": "repository", 
+        "file": "/master/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://source.sakaiproject.org/maven2-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sakaiproject/sakai/snapshot/f394b7365f1b8bfe2e4830dbc29c65020eedb0bc/files/pack/pom.xml#L71", 
+        "line": 71, 
+        "value": "pluginRepository", 
+        "file": "/pack/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://source.sakaiproject.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sakaiproject/sakai/snapshot/f394b7365f1b8bfe2e4830dbc29c65020eedb0bc/files/pack/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/pack/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://source.sakaiproject.org/maven2-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sakaiproject/sakai/snapshot/f394b7365f1b8bfe2e4830dbc29c65020eedb0bc/files/pack/pom.xml#L96", 
+        "line": 96, 
+        "value": "repository", 
+        "file": "/pack/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://source.sakaiproject.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

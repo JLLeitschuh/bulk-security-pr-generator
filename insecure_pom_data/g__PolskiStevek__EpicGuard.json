@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/PolskiStevek/EpicGuard", 
+    "url-identifier": "g/PolskiStevek/EpicGuard", 
+    "id": 1511099011647, 
+    "name": "PolskiStevek/EpicGuard"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PolskiStevek/EpicGuard/snapshot/6e45af6f6f0ade486babc9800e8d82b1007a8a49/files/pom.xml#L96", 
+        "line": 96, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/nexus/repository/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

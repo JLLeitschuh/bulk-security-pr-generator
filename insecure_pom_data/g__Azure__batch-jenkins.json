@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Azure/batch-jenkins", 
+    "url-identifier": "g/Azure/batch-jenkins", 
+    "id": 1505767956035, 
+    "name": "Azure/batch-jenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Azure/batch-jenkins/snapshot/e37920549dd1bd58721f44e2e212ad2f5d8ff3a7/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Azure/batch-jenkins/snapshot/e37920549dd1bd58721f44e2e212ad2f5d8ff3a7/files/pom.xml#L95", 
+        "line": 95, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

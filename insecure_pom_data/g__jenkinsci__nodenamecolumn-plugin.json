@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/nodenamecolumn-plugin", 
+    "url-identifier": "g/jenkinsci/nodenamecolumn-plugin", 
+    "id": 1506622667993, 
+    "name": "jenkinsci/nodenamecolumn-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/nodenamecolumn-plugin/snapshot/8f8ea7cb72274a9a5d39679a9631bebe2627e1e0/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/nodenamecolumn-plugin/snapshot/8f8ea7cb72274a9a5d39679a9631bebe2627e1e0/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

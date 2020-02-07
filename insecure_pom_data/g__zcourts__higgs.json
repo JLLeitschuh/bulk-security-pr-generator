@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/zcourts/higgs", 
+    "url-identifier": "g/zcourts/higgs", 
+    "id": 7950042, 
+    "name": "zcourts/higgs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zcourts/higgs/snapshot/97affaaa6b076392b964052d50b0c172ba019f55/files/events/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/events/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.boundary.com/artifactory/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zcourts/higgs/snapshot/97affaaa6b076392b964052d50b0c172ba019f55/files/pom.xml#L254", 
+        "line": 254, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codehaus.org/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zcourts/higgs/snapshot/97affaaa6b076392b964052d50b0c172ba019f55/files/pom.xml#L266", 
+        "line": 266, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codehaus.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

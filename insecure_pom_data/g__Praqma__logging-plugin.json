@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Praqma/logging-plugin", 
+    "url-identifier": "g/Praqma/logging-plugin", 
+    "id": 1506599069188, 
+    "name": "Praqma/logging-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Praqma/logging-plugin/snapshot/64515512af6716ef2dcab62660bd5d6fa5969dee/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Praqma/logging-plugin/snapshot/64515512af6716ef2dcab62660bd5d6fa5969dee/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://code.praqma.net/repo/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Praqma/logging-plugin/snapshot/64515512af6716ef2dcab62660bd5d6fa5969dee/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/INRIA/spoon", 
+    "url-identifier": "g/INRIA/spoon", 
+    "id": 27670047, 
+    "name": "INRIA/spoon"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/INRIA/spoon/snapshot/9bd3605f80c08e4a75e8228e4b6898486e957f0f/files/spoon-pom/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/spoon-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.inria.fr/artifactory/spoon-public-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/INRIA/spoon/snapshot/9bd3605f80c08e4a75e8228e4b6898486e957f0f/files/spoon-pom/pom.xml#L76", 
+        "line": 76, 
+        "value": "snapshotRepository", 
+        "file": "/spoon-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.inria.fr/artifactory/spoon-public-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/INRIA/spoon/snapshot/9bd3605f80c08e4a75e8228e4b6898486e957f0f/files/spoon-visualisation/pom.xml#L237", 
+        "line": 237, 
+        "value": "repository", 
+        "file": "/spoon-visualisation/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.inria.fr/artifactory/malai-public-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/INRIA/spoon/snapshot/9bd3605f80c08e4a75e8228e4b6898486e957f0f/files/spoon-visualisation/pom.xml#L244", 
+        "line": 244, 
+        "value": "repository", 
+        "file": "/spoon-visualisation/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.inria.fr/artifactory/malai-public-release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

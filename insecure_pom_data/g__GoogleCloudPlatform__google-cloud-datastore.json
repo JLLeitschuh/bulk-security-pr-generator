@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/google-cloud-datastore", 
+    "url-identifier": "g/GoogleCloudPlatform/google-cloud-datastore", 
+    "id": 31550030, 
+    "name": "GoogleCloudPlatform/google-cloud-datastore"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/google-cloud-datastore/snapshot/62bea0a1ebf6b56a76c44971c8813c3cedb4402e/files/java/pom.xml#L215", 
+        "line": 215, 
+        "value": "snapshotRepository", 
+        "file": "/java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

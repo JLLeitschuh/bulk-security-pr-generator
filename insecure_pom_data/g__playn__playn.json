@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/playn/playn", 
+    "url-identifier": "g/playn/playn", 
+    "id": 27890014, 
+    "name": "playn/playn"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/playn/playn/snapshot/def613ce409d34e1fd151a744a30516a9b2077f7/files/java-swt/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/java-swt/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-eclipse.github.io/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

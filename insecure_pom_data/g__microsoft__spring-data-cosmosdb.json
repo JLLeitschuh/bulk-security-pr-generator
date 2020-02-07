@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/microsoft/spring-data-cosmosdb", 
+    "url-identifier": "g/microsoft/spring-data-cosmosdb", 
+    "id": 1506263157421, 
+    "name": "microsoft/spring-data-cosmosdb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/microsoft/spring-data-cosmosdb/snapshot/bea483036037a34679e0fb1ee7a0f1e85f3118b6/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

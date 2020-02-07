@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/BottegaIT/ddd-leaven-v2", 
+    "url-identifier": "g/BottegaIT/ddd-leaven-v2", 
+    "id": 33300150, 
+    "name": "BottegaIT/ddd-leaven-v2"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BottegaIT/ddd-leaven-v2/snapshot/f3f7f8ed856a938802d72eed785ffe3495c238c4/files/pom.xml#L147", 
+        "line": 147, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone "
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

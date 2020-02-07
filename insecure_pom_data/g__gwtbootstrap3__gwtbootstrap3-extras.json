@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/gwtbootstrap3/gwtbootstrap3-extras", 
+    "url-identifier": "g/gwtbootstrap3/gwtbootstrap3-extras", 
+    "id": 6910116, 
+    "name": "gwtbootstrap3/gwtbootstrap3-extras"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gwtbootstrap3/gwtbootstrap3-extras/snapshot/5589224e764470ebdfd5c09c28c068e53de2870b/files/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

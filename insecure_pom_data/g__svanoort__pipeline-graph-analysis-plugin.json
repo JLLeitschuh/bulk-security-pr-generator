@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/svanoort/pipeline-graph-analysis-plugin", 
+    "url-identifier": "g/svanoort/pipeline-graph-analysis-plugin", 
+    "id": 1506579749643, 
+    "name": "svanoort/pipeline-graph-analysis-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svanoort/pipeline-graph-analysis-plugin/snapshot/c7e318a9f83eccda766b85a7e9485667debf8619/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/svanoort/pipeline-graph-analysis-plugin/snapshot/c7e318a9f83eccda766b85a7e9485667debf8619/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

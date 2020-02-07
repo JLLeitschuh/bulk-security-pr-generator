@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/junoyoon/simpleupdatesiterepo", 
+    "url-identifier": "g/junoyoon/simpleupdatesiterepo", 
+    "id": 1506591539622, 
+    "name": "junoyoon/simpleupdatesiterepo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/junoyoon/simpleupdatesiterepo/snapshot/c16242a1a7a52d0d497995ed3bf5603f0bfce495/files/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/junoyoon/simpleupdatesiterepo/snapshot/c16242a1a7a52d0d497995ed3bf5603f0bfce495/files/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

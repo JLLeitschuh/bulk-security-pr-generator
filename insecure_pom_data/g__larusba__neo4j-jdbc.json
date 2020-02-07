@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/larusba/neo4j-jdbc", 
+    "url-identifier": "g/larusba/neo4j-jdbc", 
+    "id": 51570123, 
+    "name": "larusba/neo4j-jdbc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/larusba/neo4j-jdbc/snapshot/9490d714e11d3ed226eab6c12ddd19c7d60c316e/files/pom.xml#L463", 
+        "line": 463, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

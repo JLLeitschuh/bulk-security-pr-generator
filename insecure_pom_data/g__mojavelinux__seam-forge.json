@@ -1,0 +1,102 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mojavelinux/seam-forge", 
+    "url-identifier": "g/mojavelinux/seam-forge", 
+    "id": 1509069719602, 
+    "name": "mojavelinux/seam-forge"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojavelinux/seam-forge/snapshot/9f93974dd07c1bbbc15a193cab40ace97f30acb9/files/project-model/src/test/resources/test-pom/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/project-model/src/test/resources/test-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ocpsoft.com/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojavelinux/seam-forge/snapshot/9f93974dd07c1bbbc15a193cab40ace97f30acb9/files/project-model/src/test/resources/test-pom/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/project-model/src/test/resources/test-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojavelinux/seam-forge/snapshot/9f93974dd07c1bbbc15a193cab40ace97f30acb9/files/project-model/src/test/resources/test-pom/pom.xml#L92", 
+        "line": 92, 
+        "value": "repository", 
+        "file": "/project-model/src/test/resources/test-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojavelinux/seam-forge/snapshot/9f93974dd07c1bbbc15a193cab40ace97f30acb9/files/project-model-tests/src/test/resources/test-pom/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/project-model-tests/src/test/resources/test-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ocpsoft.com/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojavelinux/seam-forge/snapshot/9f93974dd07c1bbbc15a193cab40ace97f30acb9/files/project-model-tests/src/test/resources/test-pom/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/project-model-tests/src/test/resources/test-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojavelinux/seam-forge/snapshot/9f93974dd07c1bbbc15a193cab40ace97f30acb9/files/project-model-tests/src/test/resources/test-pom/pom.xml#L97", 
+        "line": 97, 
+        "value": "repository", 
+        "file": "/project-model-tests/src/test/resources/test-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojavelinux/seam-forge/snapshot/9f93974dd07c1bbbc15a193cab40ace97f30acb9/files/scaffold-plugin/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/scaffold-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojavelinux/seam-forge/snapshot/9f93974dd07c1bbbc15a193cab40ace97f30acb9/files/shell/pom.xml#L148", 
+        "line": 148, 
+        "value": "repository", 
+        "file": "/shell/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

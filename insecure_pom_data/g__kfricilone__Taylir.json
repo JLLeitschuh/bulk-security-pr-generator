@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kfricilone/Taylir", 
+    "url-identifier": "g/kfricilone/Taylir", 
+    "id": 1509865326399, 
+    "name": "kfricilone/Taylir"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kfricilone/Taylir/snapshot/7c32e4873bd02d1a38445ad0f9eef416e552ddfb/files/pom.xml#L126", 
+        "line": 126, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kfricilone/Taylir/snapshot/7c32e4873bd02d1a38445ad0f9eef416e552ddfb/files/pom.xml#L138", 
+        "line": 138, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

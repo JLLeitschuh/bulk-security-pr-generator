@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pentaho/pdi-sdk-plugins", 
+    "url-identifier": "g/pentaho/pdi-sdk-plugins", 
+    "id": 1506708286640, 
+    "name": "pentaho/pdi-sdk-plugins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pentaho/pdi-sdk-plugins/snapshot/c739032470d76c0a9cbd3c7d1c56045fe48b6344/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.pentaho.org/content/groups/omni/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

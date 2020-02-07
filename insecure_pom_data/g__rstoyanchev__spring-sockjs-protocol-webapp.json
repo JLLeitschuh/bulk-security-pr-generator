@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rstoyanchev/spring-sockjs-protocol-webapp", 
+    "url-identifier": "g/rstoyanchev/spring-sockjs-protocol-webapp", 
+    "id": 1506720167773, 
+    "name": "rstoyanchev/spring-sockjs-protocol-webapp"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rstoyanchev/spring-sockjs-protocol-webapp/snapshot/a5d01c3503f97feb40276352a82da62df131a477/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rstoyanchev/spring-sockjs-protocol-webapp/snapshot/a5d01c3503f97feb40276352a82da62df131a477/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/libs-milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

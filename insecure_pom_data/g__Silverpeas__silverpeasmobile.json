@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Silverpeas/silverpeasmobile", 
+    "url-identifier": "g/Silverpeas/silverpeasmobile", 
+    "id": 1506206896779, 
+    "name": "Silverpeas/silverpeasmobile"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Silverpeas/silverpeasmobile/snapshot/7ed0ed66e3523152db99f36f6fe70e961323eb31/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.silverpeas.org/nexus/content/groups/silverpeas"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

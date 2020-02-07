@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jsubercaze/simhashdb", 
+    "url-identifier": "g/jsubercaze/simhashdb", 
+    "id": 1507196826198, 
+    "name": "jsubercaze/simhashdb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsubercaze/simhashdb/snapshot/fef17543a54e8e6e6212c5cd18e0daa13e8190e9/files/simhash-knn/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/simhash-knn/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.20.0.55:8081/artifactory/satin-public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsubercaze/simhashdb/snapshot/fef17543a54e8e6e6212c5cd18e0daa13e8190e9/files/simhash-knn/pom.xml#L19", 
+        "line": 19, 
+        "value": "snapshotRepository", 
+        "file": "/simhash-knn/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.20.0.55:8081/artifactory/satin-public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

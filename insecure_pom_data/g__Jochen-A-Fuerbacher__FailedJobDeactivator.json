@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Jochen-A-Fuerbacher/FailedJobDeactivator", 
+    "url-identifier": "g/Jochen-A-Fuerbacher/FailedJobDeactivator", 
+    "id": 1506585479856, 
+    "name": "Jochen-A-Fuerbacher/FailedJobDeactivator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Jochen-A-Fuerbacher/FailedJobDeactivator/snapshot/545367e783312e824af16dec833316c095e9b414/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Jochen-A-Fuerbacher/FailedJobDeactivator/snapshot/545367e783312e824af16dec833316c095e9b414/files/pom.xml#L68", 
+        "line": 68, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/searchisko/searchisko", 
+    "url-identifier": "g/searchisko/searchisko", 
+    "id": 1506720137357, 
+    "name": "searchisko/searchisko"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/searchisko/searchisko/snapshot/b13f1b5a07ff29d7c77e88675fa86c45d10e63f4/files/pom.xml#L350", 
+        "line": 350, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.repository.redhat.com/techpreview/all"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/searchisko/searchisko/snapshot/b13f1b5a07ff29d7c77e88675fa86c45d10e63f4/files/pom.xml#L397", 
+        "line": 397, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.repository.redhat.com/techpreview/all"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/openrdf/sesame", 
+    "url-identifier": "b/openrdf/sesame", 
+    "id": 1278781696, 
+    "name": "openrdf/sesame"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/openrdf/sesame/snapshot/38161609f7ec8b742dcf968d425ec0d8853a44e1/files/pom.xml#L691", 
+        "line": 691, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

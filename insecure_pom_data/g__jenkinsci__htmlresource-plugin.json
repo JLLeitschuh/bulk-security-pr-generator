@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/htmlresource-plugin", 
+    "url-identifier": "g/jenkinsci/htmlresource-plugin", 
+    "id": 1506608542289, 
+    "name": "jenkinsci/htmlresource-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/htmlresource-plugin/snapshot/b72bc1e030d63ffeb6a7b896e59f942432c225a8/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/htmlresource-plugin/snapshot/b72bc1e030d63ffeb6a7b896e59f942432c225a8/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/htmlresource-plugin/snapshot/b72bc1e030d63ffeb6a7b896e59f942432c225a8/files/pom.xml#L127", 
+        "line": 127, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/htmlresource-plugin/snapshot/b72bc1e030d63ffeb6a7b896e59f942432c225a8/files/pom.xml#L131", 
+        "line": 131, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

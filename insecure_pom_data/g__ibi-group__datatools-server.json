@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ibi-group/datatools-server", 
+    "url-identifier": "g/ibi-group/datatools-server", 
+    "id": 1507610496023, 
+    "name": "ibi-group/datatools-server"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ibi-group/datatools-server/snapshot/bbf3c9b32c843d372b25c20db499292406913a93/files/pom.xml#L170", 
+        "line": 170, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

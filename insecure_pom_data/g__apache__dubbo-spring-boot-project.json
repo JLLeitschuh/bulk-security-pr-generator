@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/dubbo-spring-boot-project", 
+    "url-identifier": "g/apache/dubbo-spring-boot-project", 
+    "id": 1506250646045, 
+    "name": "apache/dubbo-spring-boot-project"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-spring-boot-project/snapshot/31ca29b8a9bfa2941c1f9900b153ab790f343e36/files/dubbo-spring-boot-parent/pom.xml#L125", 
+        "line": 125, 
+        "value": "repository", 
+        "file": "/dubbo-spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-spring-boot-project/snapshot/31ca29b8a9bfa2941c1f9900b153ab790f343e36/files/dubbo-spring-boot-parent/pom.xml#L133", 
+        "line": 133, 
+        "value": "repository", 
+        "file": "/dubbo-spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-spring-boot-project/snapshot/31ca29b8a9bfa2941c1f9900b153ab790f343e36/files/dubbo-spring-boot-parent/pom.xml#L159", 
+        "line": 159, 
+        "value": "pluginRepository", 
+        "file": "/dubbo-spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-spring-boot-project/snapshot/31ca29b8a9bfa2941c1f9900b153ab790f343e36/files/dubbo-spring-boot-parent/pom.xml#L167", 
+        "line": 167, 
+        "value": "pluginRepository", 
+        "file": "/dubbo-spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

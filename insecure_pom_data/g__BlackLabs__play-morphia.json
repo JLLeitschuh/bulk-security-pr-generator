@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/BlackLabs/play-morphia", 
+    "url-identifier": "g/BlackLabs/play-morphia", 
+    "id": 32470024, 
+    "name": "BlackLabs/play-morphia"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BlackLabs/play-morphia/snapshot/5bae62a14ccf771704b3e4d0f096a539980d9c15/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-play-plugin.googlecode.com/svn/mavenrepo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BlackLabs/play-morphia/snapshot/5bae62a14ccf771704b3e4d0f096a539980d9c15/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-play-plugin.googlecode.com/svn/mavenrepo/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

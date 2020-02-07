@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hbaseinaction/gis", 
+    "url-identifier": "g/hbaseinaction/gis", 
+    "id": 1506749666412, 
+    "name": "hbaseinaction/gis"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hbaseinaction/gis/snapshot/3778b890d8a805633ab523f59e1d5c5b54e6ed72/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

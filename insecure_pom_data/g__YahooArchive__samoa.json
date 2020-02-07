@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/YahooArchive/samoa", 
+    "url-identifier": "g/YahooArchive/samoa", 
+    "id": 36930051, 
+    "name": "YahooArchive/samoa"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/YahooArchive/samoa/snapshot/1e63a56ffeecd74aee828cf76315cc1586117da3/files/samoa-storm/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/samoa-storm/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

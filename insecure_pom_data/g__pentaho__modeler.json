@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pentaho/modeler", 
+    "url-identifier": "g/pentaho/modeler", 
+    "id": 1506683666622, 
+    "name": "pentaho/modeler"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pentaho/modeler/snapshot/bb4155ea96df5a0fc53861eb09e6dcfc4de62534/files/pom.xml#L290", 
+        "line": 290, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.pentaho.org/content/groups/omni/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

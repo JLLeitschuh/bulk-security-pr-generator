@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ioos/sos-injector", 
+    "url-identifier": "g/ioos/sos-injector", 
+    "id": 1506725352464, 
+    "name": "ioos/sos-injector"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ioos/sos-injector/snapshot/3c7101f9481f265bd15ec96980f9cc6bab72b73b/files/pom.xml#L173", 
+        "line": 173, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.axiomalaska.com/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ioos/sos-injector/snapshot/3c7101f9481f265bd15ec96980f9cc6bab72b73b/files/pom.xml#L180", 
+        "line": 180, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

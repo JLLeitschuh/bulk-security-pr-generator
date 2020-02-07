@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/david-schuler/javalanche", 
+    "url-identifier": "g/david-schuler/javalanche", 
+    "id": 1506706687626, 
+    "name": "david-schuler/javalanche"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/david-schuler/javalanche/snapshot/76cdbc45216382078eade442eb1266b16d3e8337/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://titania.fs.uni-saarland.de/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/david-schuler/javalanche/snapshot/76cdbc45216382078eade442eb1266b16d3e8337/files/pom.xml#L467", 
+        "line": 467, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://titania.fs.uni-saarland.de/nexus/content/repositories/stchair/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

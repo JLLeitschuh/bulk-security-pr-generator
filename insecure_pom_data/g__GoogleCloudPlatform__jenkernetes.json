@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/jenkernetes", 
+    "url-identifier": "g/GoogleCloudPlatform/jenkernetes", 
+    "id": 1506122276931, 
+    "name": "GoogleCloudPlatform/jenkernetes"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/jenkernetes/snapshot/2519e3e455837d50e689ffc84163b9b359afa9f8/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/jenkernetes/snapshot/2519e3e455837d50e689ffc84163b9b359afa9f8/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

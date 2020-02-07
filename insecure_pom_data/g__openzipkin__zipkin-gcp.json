@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openzipkin/zipkin-gcp", 
+    "url-identifier": "g/openzipkin/zipkin-gcp", 
+    "id": 1506709483161, 
+    "name": "openzipkin/zipkin-gcp"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openzipkin/zipkin-gcp/snapshot/b78ee06d5a4ce0e45eb78a852f05f44eac489db1/files/pom.xml#L114", 
+        "line": 114, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

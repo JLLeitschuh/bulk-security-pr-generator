@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openanalytics/shinyproxy", 
+    "url-identifier": "g/openanalytics/shinyproxy", 
+    "id": 1508694156053, 
+    "name": "openanalytics/shinyproxy"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openanalytics/shinyproxy/snapshot/71eaeb1bf90202cb7c21a090ad68faf9fa0a9bf6/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.openanalytics.eu/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openanalytics/shinyproxy/snapshot/71eaeb1bf90202cb7c21a090ad68faf9fa0a9bf6/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.openanalytics.eu/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openanalytics/shinyproxy/snapshot/71eaeb1bf90202cb7c21a090ad68faf9fa0a9bf6/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.openanalytics.eu/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openanalytics/shinyproxy/snapshot/71eaeb1bf90202cb7c21a090ad68faf9fa0a9bf6/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.openanalytics.eu/nexus/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

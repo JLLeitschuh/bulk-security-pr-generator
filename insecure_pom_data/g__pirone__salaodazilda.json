@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pirone/salaodazilda", 
+    "url-identifier": "g/pirone/salaodazilda", 
+    "id": 1506522186358, 
+    "name": "pirone/salaodazilda"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pirone/salaodazilda/snapshot/8dba77c8a11d6ed1271bec69d001a4624be42097/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

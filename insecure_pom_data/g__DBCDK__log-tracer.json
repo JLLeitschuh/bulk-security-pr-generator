@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/DBCDK/log-tracer", 
+    "url-identifier": "g/DBCDK/log-tracer", 
+    "id": 1505900157519, 
+    "name": "DBCDK/log-tracer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DBCDK/log-tracer/snapshot/bc72106e7d134921e70d6c155c0fa2a6a239a54e/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.dbc.dk/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

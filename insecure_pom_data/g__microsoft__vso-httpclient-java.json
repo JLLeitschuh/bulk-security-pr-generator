@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/microsoft/vso-httpclient-java", 
+    "url-identifier": "g/microsoft/vso-httpclient-java", 
+    "id": 1506263128904, 
+    "name": "microsoft/vso-httpclient-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/microsoft/vso-httpclient-java/snapshot/78a4b6ad799cdcc9f98ed766bb60ddb4e0c92639/files/pom.xml#L169", 
+        "line": 169, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://artifacts.eastus.cloudapp.azure.com:8081/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/microsoft/vso-httpclient-java/snapshot/78a4b6ad799cdcc9f98ed766bb60ddb4e0c92639/files/pom.xml#L175", 
+        "line": 175, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://artifacts.eastus.cloudapp.azure.com:8081/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

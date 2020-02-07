@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/heremaps/buildrotator-plugin", 
+    "url-identifier": "g/heremaps/buildrotator-plugin", 
+    "id": 1506605129237, 
+    "name": "heremaps/buildrotator-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/heremaps/buildrotator-plugin/snapshot/09e0e6f50cd2f8e179af065b418cc02bf85a3739/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/heremaps/buildrotator-plugin/snapshot/09e0e6f50cd2f8e179af065b418cc02bf85a3739/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/gallio-plugin", 
+    "url-identifier": "g/jenkinsci/gallio-plugin", 
+    "id": 1506606780876, 
+    "name": "jenkinsci/gallio-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/gallio-plugin/snapshot/3081622a9e59bc82c71e45d91d14ff35d59f472f/files/pom.xml#L154", 
+        "line": 154, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/gallio-plugin/snapshot/3081622a9e59bc82c71e45d91d14ff35d59f472f/files/pom.xml#L161", 
+        "line": 161, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

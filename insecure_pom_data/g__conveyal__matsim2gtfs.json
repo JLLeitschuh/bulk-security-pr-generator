@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/conveyal/matsim2gtfs", 
+    "url-identifier": "g/conveyal/matsim2gtfs", 
+    "id": 1507589136081, 
+    "name": "conveyal/matsim2gtfs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/conveyal/matsim2gtfs/snapshot/a8bca42e46d46c483190e01880c1f2e0a5e3ab8e/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.conveyal.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/conveyal/matsim2gtfs/snapshot/a8bca42e46d46c483190e01880c1f2e0a5e3ab8e/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/matsim/matsim"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

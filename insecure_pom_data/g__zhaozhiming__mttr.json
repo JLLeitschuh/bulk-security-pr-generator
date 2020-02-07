@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/zhaozhiming/mttr", 
+    "url-identifier": "g/zhaozhiming/mttr", 
+    "id": 1506604970469, 
+    "name": "zhaozhiming/mttr"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhaozhiming/mttr/snapshot/ce9b6b4fd5a77d45825fb1bca916fcd92c033f56/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhaozhiming/mttr/snapshot/ce9b6b4fd5a77d45825fb1bca916fcd92c033f56/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

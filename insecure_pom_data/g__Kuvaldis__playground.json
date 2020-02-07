@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Kuvaldis/playground", 
+    "url-identifier": "g/Kuvaldis/playground", 
+    "id": 1505765456390, 
+    "name": "Kuvaldis/playground"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Kuvaldis/playground/snapshot/cd9f119b9c47c6c4987219e98822c9315bd041c8/files/maven-modules/citrus/citrus-test/pom.xml#L123", 
+        "line": 123, 
+        "value": "repository", 
+        "file": "/maven-modules/citrus/citrus-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://labs.consol.de/maven/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Kuvaldis/playground/snapshot/cd9f119b9c47c6c4987219e98822c9315bd041c8/files/maven-modules/citrus/citrus-test/pom.xml#L132", 
+        "line": 132, 
+        "value": "repository", 
+        "file": "/maven-modules/citrus/citrus-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://labs.consol.de/maven/snapshots-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Kuvaldis/playground/snapshot/cd9f119b9c47c6c4987219e98822c9315bd041c8/files/maven-modules/citrus/citrus-test/pom.xml#L146", 
+        "line": 146, 
+        "value": "pluginRepository", 
+        "file": "/maven-modules/citrus/citrus-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Kuvaldis/playground/snapshot/cd9f119b9c47c6c4987219e98822c9315bd041c8/files/maven-modules/citrus/citrus-test/pom.xml#L158", 
+        "line": 158, 
+        "value": "pluginRepository", 
+        "file": "/maven-modules/citrus/citrus-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://labs.consol.de/maven/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Kuvaldis/playground/snapshot/cd9f119b9c47c6c4987219e98822c9315bd041c8/files/maven-modules/citrus/citrus-test/pom.xml#L167", 
+        "line": 167, 
+        "value": "pluginRepository", 
+        "file": "/maven-modules/citrus/citrus-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://labs.consol.de/maven/snapshots-repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-alexa", 
+    "url-identifier": "g/OneBusAway/onebusaway-alexa", 
+    "id": 1507611065974, 
+    "name": "OneBusAway/onebusaway-alexa"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-alexa/snapshot/cda4c53ed0fec8b78d3b13fb00508647186b0f92/files/pom.xml#L186", 
+        "line": 186, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

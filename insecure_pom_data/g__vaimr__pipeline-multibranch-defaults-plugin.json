@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/vaimr/pipeline-multibranch-defaults-plugin", 
+    "url-identifier": "g/vaimr/pipeline-multibranch-defaults-plugin", 
+    "id": 1506669766091, 
+    "name": "vaimr/pipeline-multibranch-defaults-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vaimr/pipeline-multibranch-defaults-plugin/snapshot/c3a7a0350fde9e5be7d7a6fd37d204af31b0f686/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vaimr/pipeline-multibranch-defaults-plugin/snapshot/c3a7a0350fde9e5be7d7a6fd37d204af31b0f686/files/pom.xml#L68", 
+        "line": 68, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

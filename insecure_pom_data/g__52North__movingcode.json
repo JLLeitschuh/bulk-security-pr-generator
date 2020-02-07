@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/movingcode", 
+    "url-identifier": "g/52North/movingcode", 
+    "id": 1506732651307, 
+    "name": "52North/movingcode"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/movingcode/snapshot/d474101736a5c6521c83e3a699a4343b18ee11fa/files/mc-runtime/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/mc-runtime/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/movingcode/snapshot/d474101736a5c6521c83e3a699a4343b18ee11fa/files/mc-schema/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/mc-schema/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/movingcode/snapshot/d474101736a5c6521c83e3a699a4343b18ee11fa/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/movingcode/snapshot/d474101736a5c6521c83e3a699a4343b18ee11fa/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

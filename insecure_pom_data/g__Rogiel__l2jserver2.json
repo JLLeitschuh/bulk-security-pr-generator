@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Rogiel/l2jserver2", 
+    "url-identifier": "g/Rogiel/l2jserver2", 
+    "id": 1508215948035, 
+    "name": "Rogiel/l2jserver2"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Rogiel/l2jserver2/snapshot/8607930485a73c98ee1719ce47bd355884a09d2a/files/pom.xml#L223", 
+        "line": 223, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

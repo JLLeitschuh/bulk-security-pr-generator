@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jdye64/garcon", 
+    "url-identifier": "g/jdye64/garcon", 
+    "id": 1506575607815, 
+    "name": "jdye64/garcon"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jdye64/garcon/snapshot/950dbf1736c81fc845f92847fa2f3872a8f72093/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jdye64/garcon/snapshot/950dbf1736c81fc845f92847fa2f3872a8f72093/files/reportingtasks/nifi/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/reportingtasks/nifi/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

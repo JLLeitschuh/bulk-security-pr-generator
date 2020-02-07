@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/adobe/eventhub-akka-connector", 
+    "url-identifier": "g/adobe/eventhub-akka-connector", 
+    "id": 1506266218913, 
+    "name": "adobe/eventhub-akka-connector"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adobe/eventhub-akka-connector/snapshot/a2a446968e846b5378b0bfaed2171868323823ec/files/pom.xml#L75", 
+        "line": 75, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.typesafe.com/typesafe/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

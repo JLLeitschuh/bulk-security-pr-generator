@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/swagger-api/swagger-codegen", 
+    "url-identifier": "g/swagger-api/swagger-codegen", 
+    "id": 12070014, 
+    "name": "swagger-api/swagger-codegen"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/swagger-api/swagger-codegen/snapshot/1adce542bc812e3e8848be7b1587cc8c662c7718/files/samples/client/petstore/scala/pom.xml#L11", 
+        "line": 11, 
+        "value": "pluginRepository", 
+        "file": "/samples/client/petstore/scala/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-mongodb-plugin.googlecode.com/svn/maven/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/swagger-api/swagger-codegen/snapshot/1adce542bc812e3e8848be7b1587cc8c662c7718/files/samples/client/petstore-security-test/scala/pom.xml#L11", 
+        "line": 11, 
+        "value": "pluginRepository", 
+        "file": "/samples/client/petstore-security-test/scala/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-mongodb-plugin.googlecode.com/svn/maven/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

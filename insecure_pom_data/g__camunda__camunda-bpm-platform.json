@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/camunda/camunda-bpm-platform", 
+    "url-identifier": "g/camunda/camunda-bpm-platform", 
+    "id": 1506714516067, 
+    "name": "camunda/camunda-bpm-platform"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camunda/camunda-bpm-platform/snapshot/344a9e6ccf9938c375f39a3d206b4665720a9fd8/files/parent/pom.xml#L620", 
+        "line": 620, 
+        "value": "repository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

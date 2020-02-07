@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/archived-artifact-url-viewer-plugin", 
+    "url-identifier": "g/jenkinsci/archived-artifact-url-viewer-plugin", 
+    "id": 1506598909185, 
+    "name": "jenkinsci/archived-artifact-url-viewer-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/archived-artifact-url-viewer-plugin/snapshot/4c1d74245e68eba4a53efffe543ad2c278cfb406/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/archived-artifact-url-viewer-plugin/snapshot/4c1d74245e68eba4a53efffe543ad2c278cfb406/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/archived-artifact-url-viewer-plugin/snapshot/4c1d74245e68eba4a53efffe543ad2c278cfb406/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pentaho/pentaho-platform", 
+    "url-identifier": "g/pentaho/pentaho-platform", 
+    "id": 1505887526081, 
+    "name": "pentaho/pentaho-platform"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pentaho/pentaho-platform/snapshot/fac74e94ab16eae51b0db185b8ff02c4c8b9f9c3/files/pom.xml#L373", 
+        "line": 373, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.pentaho.org/content/groups/omni/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

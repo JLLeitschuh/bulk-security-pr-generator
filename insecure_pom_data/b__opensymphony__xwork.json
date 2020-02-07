@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/opensymphony/xwork", 
+    "url-identifier": "b/opensymphony/xwork", 
+    "id": 1509222876139, 
+    "name": "opensymphony/xwork"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/opensymphony/xwork/snapshot/04921d6267742cbc120f186811b20867de37e635/files/pom.xml#L664", 
+        "line": 664, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.maven.codehaus.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/opensymphony/xwork/snapshot/04921d6267742cbc120f186811b20867de37e635/files/pom.xml#L677", 
+        "line": 677, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

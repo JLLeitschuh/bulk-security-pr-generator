@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Fruzenshtein/security-spr", 
+    "url-identifier": "g/Fruzenshtein/security-spr", 
+    "id": 43580128, 
+    "name": "Fruzenshtein/security-spr"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Fruzenshtein/security-spr/snapshot/0067de9a8139ede99b78c0ce4a7bd7f692cc1537/files/pom.xml#L127", 
+        "line": 127, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

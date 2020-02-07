@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/console-column-plugin", 
+    "url-identifier": "g/jenkinsci/console-column-plugin", 
+    "id": 1506593550800, 
+    "name": "jenkinsci/console-column-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/console-column-plugin/snapshot/e1bf24152e0f91338bbd30d9146c083f48ee36e0/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/console-column-plugin/snapshot/e1bf24152e0f91338bbd30d9146c083f48ee36e0/files/pom.xml#L79", 
+        "line": 79, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/console-column-plugin/snapshot/e1bf24152e0f91338bbd30d9146c083f48ee36e0/files/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

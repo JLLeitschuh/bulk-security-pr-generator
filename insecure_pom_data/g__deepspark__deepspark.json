@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/deepspark/deepspark", 
+    "url-identifier": "g/deepspark/deepspark", 
+    "id": 1802253895, 
+    "name": "deepspark/deepspark"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/deepspark/deepspark/snapshot/658cf54213e698a4e26159d108643b8b39119417/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/nexus/content/groups/public-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

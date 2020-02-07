@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/javatuples/javatuples", 
+    "url-identifier": "g/javatuples/javatuples", 
+    "id": 38600067, 
+    "name": "javatuples/javatuples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/javatuples/javatuples/snapshot/a9328397d41b7789cdccd08ddca07446810ed9b1/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/javatuples/javatuples/snapshot/a9328397d41b7789cdccd08ddca07446810ed9b1/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

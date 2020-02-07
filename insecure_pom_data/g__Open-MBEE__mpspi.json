@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Open-MBEE/mpspi", 
+    "url-identifier": "g/Open-MBEE/mpspi", 
+    "id": 1509857626060, 
+    "name": "Open-MBEE/mpspi"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Open-MBEE/mpspi/snapshot/1a5eaff87bf5071a105a4dbd401c5743aa76b6e9/files/org.openmbee.mpspi.p2/pom.xml#L103", 
+        "line": 103, 
+        "value": "repository", 
+        "file": "/org.openmbee.mpspi.p2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/2018-12"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Open-MBEE/mpspi/snapshot/1a5eaff87bf5071a105a4dbd401c5743aa76b6e9/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/2018-12"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

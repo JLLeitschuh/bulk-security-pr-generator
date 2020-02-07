@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tburch/jsonblob", 
+    "url-identifier": "g/tburch/jsonblob", 
+    "id": 1792730815, 
+    "name": "tburch/jsonblob"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tburch/jsonblob/snapshot/9426e53bd5bf15077d314855eaf46264c0bc4102/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

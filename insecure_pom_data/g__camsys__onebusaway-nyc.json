@@ -1,0 +1,245 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc", 
+    "url-identifier": "g/camsys/onebusaway-nyc", 
+    "id": 1507603236002, 
+    "name": "camsys/onebusaway-nyc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/jgoogleanalyticstracker/pom.xml#L138", 
+        "line": 138, 
+        "value": "repository", 
+        "file": "/jgoogleanalyticstracker/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/jgoogleanalyticstracker/pom.xml#L143", 
+        "line": 143, 
+        "value": "snapshotRepository", 
+        "file": "/jgoogleanalyticstracker/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/onebusaway-nyc-acta-webapp/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/onebusaway-nyc-acta-webapp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.xwiki.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/onebusaway-nyc-admin-webapp/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/onebusaway-nyc-admin-webapp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.xwiki.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/onebusaway-nyc-gtfsrt/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/onebusaway-nyc-gtfsrt/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.xwiki.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/onebusaway-nyc-gtfsrt-webapp/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/onebusaway-nyc-gtfsrt-webapp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.xwiki.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/onebusaway-nyc-sms-webapp/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/onebusaway-nyc-sms-webapp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://files.couchbase.com/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/onebusaway-nyc-tdm-util/modules/maven-head/resources/play-parent/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/onebusaway-nyc-tdm-util/modules/maven-head/resources/play-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.infin-it.fr/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/onebusaway-nyc-tdm-util/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/onebusaway-nyc-tdm-util/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn2.camsys.com/archiva/repository/internal/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/onebusaway-nyc-tdm-util/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/onebusaway-nyc-tdm-util/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://caucho.com/m2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/onebusaway-nyc-tdm-util/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/onebusaway-nyc-tdm-util/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.iscpif.fr/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/onebusaway-nyc-webapp/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/onebusaway-nyc-webapp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.xwiki.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://build.staging.obanyc.com/archiva/repository/internal/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://build.staging.obanyc.com/archiva/repository/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://build.staging.obanyc.com/archiva/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/pom.xml#L103", 
+        "line": 103, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn2.camsys.com/archiva/repository/internal/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/pom.xml#L136", 
+        "line": 136, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/pom.xml#L146", 
+        "line": 146, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/pom.xml#L159", 
+        "line": 159, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://build.staging.obanyc.com/archiva/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/pom.xml#L184", 
+        "line": 184, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://build.staging.obanyc.com/archiva/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/camsys/onebusaway-nyc/snapshot/600e14c0194fc78058d105c56ce6dcf87a2f347f/files/pom.xml#L188", 
+        "line": 188, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://build.staging.obanyc.com/archiva/repository/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

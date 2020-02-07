@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hpsa/hp-operations-orchestration-automation-execution-plugin", 
+    "url-identifier": "g/hpsa/hp-operations-orchestration-automation-execution-plugin", 
+    "id": 1506599328758, 
+    "name": "hpsa/hp-operations-orchestration-automation-execution-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hpsa/hp-operations-orchestration-automation-execution-plugin/snapshot/87f9baee45a8fe2ca2612d25c667f75b072bf76d/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hpsa/hp-operations-orchestration-automation-execution-plugin/snapshot/87f9baee45a8fe2ca2612d25c667f75b072bf76d/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hpsa/hp-operations-orchestration-automation-execution-plugin/snapshot/87f9baee45a8fe2ca2612d25c667f75b072bf76d/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

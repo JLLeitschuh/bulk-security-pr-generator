@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/robovm/robovm", 
+    "url-identifier": "g/robovm/robovm", 
+    "id": 41760031, 
+    "name": "robovm/robovm"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robovm/robovm/snapshot/9d51f1543464359dfd8a01ff5ebe2c72842283a1/files/pom.xml#L181", 
+        "line": 181, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robovm/robovm/snapshot/9d51f1543464359dfd8a01ff5ebe2c72842283a1/files/pom.xml#L186", 
+        "line": 186, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

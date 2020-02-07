@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/appengine-tck", 
+    "url-identifier": "g/GoogleCloudPlatform/appengine-tck", 
+    "id": 57220150, 
+    "name": "GoogleCloudPlatform/appengine-tck"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GoogleCloudPlatform/appengine-tck/snapshot/c22aaf2ae023e8eec6b16da1972b911f1a8c6ac2/files/pom.xml#L291", 
+        "line": 291, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/all"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

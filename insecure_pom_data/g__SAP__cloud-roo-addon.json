@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SAP/cloud-roo-addon", 
+    "url-identifier": "g/SAP/cloud-roo-addon", 
+    "id": 1506262056157, 
+    "name": "SAP/cloud-roo-addon"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SAP/cloud-roo-addon/snapshot/508371846f39b6708c823685e287ed2fbd0673ba/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://spring-roo-repository.springsource.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SAP/cloud-roo-addon/snapshot/508371846f39b6708c823685e287ed2fbd0673ba/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://spring-roo-repository.springsource.org/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

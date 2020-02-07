@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/smallnest/Jax-RS-Performance-Comparison", 
+    "url-identifier": "g/smallnest/Jax-RS-Performance-Comparison", 
+    "id": 1795411600, 
+    "name": "smallnest/Jax-RS-Performance-Comparison"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/smallnest/Jax-RS-Performance-Comparison/snapshot/a2fa6e382e7a9e79067f18bdce99dd72560dca76/files/armeria/pom.xml#L36", 
+        "line": 36, 
+        "value": "pluginRepository", 
+        "file": "/armeria/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.davidtrott.com/repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/salyh/elasticsearch-security-plugin", 
+    "url-identifier": "g/salyh/elasticsearch-security-plugin", 
+    "id": 54000007, 
+    "name": "salyh/elasticsearch-security-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/salyh/elasticsearch-security-plugin/snapshot/03aa32b81554173bad30facfd12ad2f158e2dfcc/files/pom.xml#L374", 
+        "line": 374, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/salyh/elasticsearch-security-plugin/snapshot/03aa32b81554173bad30facfd12ad2f158e2dfcc/files/pom.xml#L381", 
+        "line": 381, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jspresso.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

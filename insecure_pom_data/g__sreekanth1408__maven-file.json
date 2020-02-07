@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sreekanth1408/maven-file", 
+    "url-identifier": "g/sreekanth1408/maven-file", 
+    "id": 1509228946047, 
+    "name": "sreekanth1408/maven-file"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sreekanth1408/maven-file/snapshot/02ac2b1c685028df22a21e9be593c151d3991a4b/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://13.126.234.61:8081/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sreekanth1408/maven-file/snapshot/02ac2b1c685028df22a21e9be593c151d3991a4b/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://13.126.234.61:8081/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

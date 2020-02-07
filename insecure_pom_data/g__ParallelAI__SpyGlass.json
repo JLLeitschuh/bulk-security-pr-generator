@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ParallelAI/SpyGlass", 
+    "url-identifier": "g/ParallelAI/SpyGlass", 
+    "id": 52736535, 
+    "name": "ParallelAI/SpyGlass"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ParallelAI/SpyGlass/snapshot/5b646df502f4c4793c27efc7ab2e2d636d7823a9/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ParallelAI/SpyGlass/snapshot/5b646df502f4c4793c27efc7ab2e2d636d7823a9/files/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ParallelAI/SpyGlass/snapshot/5b646df502f4c4793c27efc7ab2e2d636d7823a9/files/src/main/resources/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/src/main/resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

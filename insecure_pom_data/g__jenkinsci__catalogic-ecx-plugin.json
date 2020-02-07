@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/catalogic-ecx-plugin", 
+    "url-identifier": "g/jenkinsci/catalogic-ecx-plugin", 
+    "id": 1509231186261, 
+    "name": "jenkinsci/catalogic-ecx-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/catalogic-ecx-plugin/snapshot/7ec6d815f5a8f4de6cd6f161c7d21f10231d7740/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/catalogic-ecx-plugin/snapshot/7ec6d815f5a8f4de6cd6f161c7d21f10231d7740/files/pom.xml#L75", 
+        "line": 75, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

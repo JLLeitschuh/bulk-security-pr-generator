@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opentracing-contrib/java-spanmanager", 
+    "url-identifier": "g/opentracing-contrib/java-spanmanager", 
+    "id": 1507654676077, 
+    "name": "opentracing-contrib/java-spanmanager"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opentracing-contrib/java-spanmanager/snapshot/a906482274bac28b3e3c0e0ad12dd923bd06130e/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

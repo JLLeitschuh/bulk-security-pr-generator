@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jiwhiz/JiwhizBlogWeb", 
+    "url-identifier": "g/jiwhiz/JiwhizBlogWeb", 
+    "id": 57310088, 
+    "name": "jiwhiz/JiwhizBlogWeb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jiwhiz/JiwhizBlogWeb/snapshot/e7a89b228d1feeb84cc447f4ef6f90b3c5e920be/files/pom.xml#L101", 
+        "line": 101, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jiwhiz/JiwhizBlogWeb/snapshot/e7a89b228d1feeb84cc447f4ef6f90b3c5e920be/files/pom.xml#L106", 
+        "line": 106, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jiwhiz/JiwhizBlogWeb/snapshot/e7a89b228d1feeb84cc447f4ef6f90b3c5e920be/files/pom.xml#L117", 
+        "line": 117, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jiwhiz/JiwhizBlogWeb/snapshot/e7a89b228d1feeb84cc447f4ef6f90b3c5e920be/files/pom.xml#L125", 
+        "line": 125, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jiwhiz/JiwhizBlogWeb/snapshot/e7a89b228d1feeb84cc447f4ef6f90b3c5e920be/files/pom.xml#L133", 
+        "line": 133, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jiwhiz/JiwhizBlogWeb/snapshot/e7a89b228d1feeb84cc447f4ef6f90b3c5e920be/files/pom.xml#L141", 
+        "line": 141, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/wps-client-lib", 
+    "url-identifier": "g/52North/wps-client-lib", 
+    "id": 1506717591527, 
+    "name": "52North/wps-client-lib"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/wps-client-lib/snapshot/0303d78a8c1f4086da234dba0d39e784f6395259/files/pom.xml#L305", 
+        "line": 305, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/DaisyDiff/DaisyDiff", 
+    "url-identifier": "g/DaisyDiff/DaisyDiff", 
+    "id": 1506692929026, 
+    "name": "DaisyDiff/DaisyDiff"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DaisyDiff/DaisyDiff/snapshot/b975042bdf41c8eaa940f3deb0c57582a72df243/files/pom.xml#L242", 
+        "line": 242, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuxeo.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DaisyDiff/DaisyDiff/snapshot/b975042bdf41c8eaa940f3deb0c57582a72df243/files/pom.xml#L252", 
+        "line": 252, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuxeo.org/nexus/content/groups/public-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DaisyDiff/DaisyDiff/snapshot/b975042bdf41c8eaa940f3deb0c57582a72df243/files/pom.xml#L265", 
+        "line": 265, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuxeo.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DaisyDiff/DaisyDiff/snapshot/b975042bdf41c8eaa940f3deb0c57582a72df243/files/pom.xml#L276", 
+        "line": 276, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuxeo.org/nexus/content/groups/public-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

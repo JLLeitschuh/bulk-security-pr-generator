@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/adrianmilne/esper-demo-nuclear", 
+    "url-identifier": "g/adrianmilne/esper-demo-nuclear", 
+    "id": 51010051, 
+    "name": "adrianmilne/esper-demo-nuclear"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adrianmilne/esper-demo-nuclear/snapshot/8146a9387dadc1d8158dc5334fa80c6509c4b830/files/pom.xml#L116", 
+        "line": 116, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adrianmilne/esper-demo-nuclear/snapshot/8146a9387dadc1d8158dc5334fa80c6509c4b830/files/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adrianmilne/esper-demo-nuclear/snapshot/8146a9387dadc1d8158dc5334fa80c6509c4b830/files/pom.xml#L132", 
+        "line": 132, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adrianmilne/esper-demo-nuclear/snapshot/8146a9387dadc1d8158dc5334fa80c6509c4b830/files/pom.xml#L137", 
+        "line": 137, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

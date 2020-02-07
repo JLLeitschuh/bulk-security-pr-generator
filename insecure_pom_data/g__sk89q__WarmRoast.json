@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sk89q/WarmRoast", 
+    "url-identifier": "g/sk89q/WarmRoast", 
+    "id": 1796201581, 
+    "name": "sk89q/WarmRoast"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sk89q/WarmRoast/snapshot/1ed7ba4ba3da107a05c2ef1b98b5273dd7035fd4/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/artifactory/libs-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sk89q/WarmRoast/snapshot/1ed7ba4ba3da107a05c2ef1b98b5273dd7035fd4/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/artifactory/libs-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

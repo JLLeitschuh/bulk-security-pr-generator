@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/snazzy79/concurrent-login-plugin", 
+    "url-identifier": "g/snazzy79/concurrent-login-plugin", 
+    "id": 1509216466075, 
+    "name": "snazzy79/concurrent-login-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/snazzy79/concurrent-login-plugin/snapshot/85887bfcce4c769f1ddad1ab876b84b6b65bdce5/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/snazzy79/concurrent-login-plugin/snapshot/85887bfcce4c769f1ddad1ab876b84b6b65bdce5/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/openconnect-plugin", 
+    "url-identifier": "g/jenkinsci/openconnect-plugin", 
+    "id": 1509202436661, 
+    "name": "jenkinsci/openconnect-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/openconnect-plugin/snapshot/de01af0342f2aeb636972c7cdd0b7d9c38cbdaaa/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/openconnect-plugin/snapshot/de01af0342f2aeb636972c7cdd0b7d9c38cbdaaa/files/pom.xml#L79", 
+        "line": 79, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

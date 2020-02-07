@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SonarSource/sonar-xml", 
+    "url-identifier": "g/SonarSource/sonar-xml", 
+    "id": 1506708676788, 
+    "name": "SonarSource/sonar-xml"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SonarSource/sonar-xml/snapshot/777ae8c69c9249e9ae5e4c064e073d69f2935cf9/files/its/sources/projects/sonar-java/its/plugin/projects/struts-1.3.9-lite/pom.xml#L266", 
+        "line": 266, 
+        "value": "repository", 
+        "file": "/its/sources/projects/sonar-java/its/plugin/projects/struts-1.3.9-lite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/maven-snapshot-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

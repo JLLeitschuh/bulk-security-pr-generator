@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/githubeyaneu/eyan_helper", 
+    "url-identifier": "g/githubeyaneu/eyan_helper", 
+    "id": 1506579638353, 
+    "name": "githubeyaneu/eyan_helper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/githubeyaneu/eyan_helper/snapshot/8bfb2ec0929a7c7f62b85ee9741909a13fb2cbf4/files/pom.xml#L99", 
+        "line": 99, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/githubeyaneu/eyan_helper/snapshot/8bfb2ec0929a7c7f62b85ee9741909a13fb2cbf4/files/pom.xml#L106", 
+        "line": 106, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.artima.com/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/githubeyaneu/eyan_helper/snapshot/8bfb2ec0929a7c7f62b85ee9741909a13fb2cbf4/files/pom.xml#L113", 
+        "line": 113, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://4thline.org/m2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/githubeyaneu/eyan_helper/snapshot/8bfb2ec0929a7c7f62b85ee9741909a13fb2cbf4/files/pom.xml#L122", 
+        "line": 122, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

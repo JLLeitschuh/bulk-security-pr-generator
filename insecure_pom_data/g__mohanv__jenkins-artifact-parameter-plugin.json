@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mohanv/jenkins-artifact-parameter-plugin", 
+    "url-identifier": "g/mohanv/jenkins-artifact-parameter-plugin", 
+    "id": 1509155356274, 
+    "name": "mohanv/jenkins-artifact-parameter-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mohanv/jenkins-artifact-parameter-plugin/snapshot/6c256f391266d83b198223bbe10affbe52ac9e65/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mohanv/jenkins-artifact-parameter-plugin/snapshot/6c256f391266d83b198223bbe10affbe52ac9e65/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

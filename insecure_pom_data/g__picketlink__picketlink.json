@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/picketlink/picketlink", 
+    "url-identifier": "g/picketlink/picketlink", 
+    "id": 35970127, 
+    "name": "picketlink/picketlink"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/picketlink/picketlink/snapshot/e424332de80a0de5e527683b7675c80809b496ab/files/pom.xml#L478", 
+        "line": 478, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/picketlink/picketlink/snapshot/e424332de80a0de5e527683b7675c80809b496ab/files/pom.xml#L492", 
+        "line": 492, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/picketlink/picketlink/snapshot/e424332de80a0de5e527683b7675c80809b496ab/files/pom.xml#L501", 
+        "line": 501, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.jboss.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

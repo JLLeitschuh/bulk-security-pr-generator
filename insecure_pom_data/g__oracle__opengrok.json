@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/oracle/opengrok", 
+    "url-identifier": "g/oracle/opengrok", 
+    "id": 20900009, 
+    "name": "oracle/opengrok"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/oracle/opengrok/snapshot/c4fbd232113388fcb659656f47b2a6c781480f0b/files/opengrok-web/pom.xml#L268", 
+        "line": 268, 
+        "value": "pluginRepository", 
+        "file": "/opengrok-web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

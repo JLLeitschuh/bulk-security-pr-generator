@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/ilmila/j2eescan", 
+    "url-identifier": "b/ilmila/j2eescan", 
+    "id": 1284490083, 
+    "name": "ilmila/j2eescan"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/ilmila/j2eescan/snapshot/10493caa0377362c7d6ab8e83485f2f99add3409/files/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://commons.apache.org/collections/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

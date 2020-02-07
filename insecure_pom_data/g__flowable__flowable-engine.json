@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/flowable/flowable-engine", 
+    "url-identifier": "g/flowable/flowable-engine", 
+    "id": 1926240178, 
+    "name": "flowable/flowable-engine"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/flowable/flowable-engine/snapshot/bb87503fe5230a4b5fc14fa26230e7d439ec65c8/files/docs/public-api/tools/flowable-rest-asciidoc/pom.xml#L35", 
+        "line": 35, 
+        "value": "pluginRepository", 
+        "file": "/docs/public-api/tools/flowable-rest-asciidoc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/flowable/flowable-engine/snapshot/bb87503fe5230a4b5fc14fa26230e7d439ec65c8/files/docs/public-api/tools/flowable-rest-asciidoc/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/docs/public-api/tools/flowable-rest-asciidoc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/flowable/flowable-engine/snapshot/bb87503fe5230a4b5fc14fa26230e7d439ec65c8/files/modules/flowable-mule/pom.xml#L289", 
+        "line": 289, 
+        "value": "repository", 
+        "file": "/modules/flowable-mule/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mulesoft.org/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/flowable/flowable-engine/snapshot/bb87503fe5230a4b5fc14fa26230e7d439ec65c8/files/qa/dbclean/pom.xml#L52", 
+        "line": 52, 
+        "value": "pluginRepository", 
+        "file": "/qa/dbclean/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/BoraAksoy/continuum-jenkins-plugin", 
+    "url-identifier": "g/BoraAksoy/continuum-jenkins-plugin", 
+    "id": 1509056545980, 
+    "name": "BoraAksoy/continuum-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BoraAksoy/continuum-jenkins-plugin/snapshot/03ca3794d48fc2cad0800893beaf9f463262d4c3/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

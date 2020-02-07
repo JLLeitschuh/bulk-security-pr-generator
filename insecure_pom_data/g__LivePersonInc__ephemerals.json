@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/LivePersonInc/ephemerals", 
+    "url-identifier": "g/LivePersonInc/ephemerals", 
+    "id": 1506705628947, 
+    "name": "LivePersonInc/ephemerals"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LivePersonInc/ephemerals/snapshot/1fbdd0504a117ea2ef4a3df6a8d34a726213d8d5/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

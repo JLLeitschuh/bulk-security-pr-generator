@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/shasts/jsf-twitter-bootstrap", 
+    "url-identifier": "g/shasts/jsf-twitter-bootstrap", 
+    "id": 1506671856990, 
+    "name": "shasts/jsf-twitter-bootstrap"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/shasts/jsf-twitter-bootstrap/snapshot/daf2fd08cad079ca934d6bfe9bea7ae8f9ddc7b0/files/jsf-bootstrap/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/jsf-bootstrap/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

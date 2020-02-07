@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/robo-code/robocode", 
+    "url-identifier": "g/robo-code/robocode", 
+    "id": 47960006, 
+    "name": "robo-code/robocode"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robo-code/robocode/snapshot/4191e00b1ad7a881785d1c1aa51d336409d6eb54/files/plugins/dotnet/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/plugins/dotnet/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://github.com/jni4net/jni4net.github.io/tree/master/mvnrepo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robo-code/robocode/snapshot/4191e00b1ad7a881785d1c1aa51d336409d6eb54/files/plugins/dotnet/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/plugins/dotnet/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.aduna-software.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

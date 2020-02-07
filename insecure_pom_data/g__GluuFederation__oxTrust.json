@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/GluuFederation/oxTrust", 
+    "url-identifier": "g/GluuFederation/oxTrust", 
+    "id": 10020012, 
+    "name": "GluuFederation/oxTrust"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GluuFederation/oxTrust/snapshot/672692edad73422955792c766f29a92947e051e6/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GluuFederation/oxTrust/snapshot/672692edad73422955792c766f29a92947e051e6/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ox.gluu.org/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GluuFederation/oxTrust/snapshot/672692edad73422955792c766f29a92947e051e6/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo2.maven.org/maven2/org/bouncycastle"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GluuFederation/oxTrust/snapshot/672692edad73422955792c766f29a92947e051e6/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

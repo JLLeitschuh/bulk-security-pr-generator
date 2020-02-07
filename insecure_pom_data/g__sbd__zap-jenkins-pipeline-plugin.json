@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sbd/zap-jenkins-pipeline-plugin", 
+    "url-identifier": "g/sbd/zap-jenkins-pipeline-plugin", 
+    "id": 1506553947601, 
+    "name": "sbd/zap-jenkins-pipeline-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sbd/zap-jenkins-pipeline-plugin/snapshot/25b4dd19ab21c5957a9035ddc4564a7d88a69698/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sbd/zap-jenkins-pipeline-plugin/snapshot/25b4dd19ab21c5957a9035ddc4564a7d88a69698/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

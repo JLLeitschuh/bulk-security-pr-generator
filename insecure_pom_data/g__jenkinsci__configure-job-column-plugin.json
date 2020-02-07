@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/configure-job-column-plugin", 
+    "url-identifier": "g/jenkinsci/configure-job-column-plugin", 
+    "id": 1506593409320, 
+    "name": "jenkinsci/configure-job-column-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/configure-job-column-plugin/snapshot/0b7e1cf9ee6e9a14d8aa27ed8797665b62c3379b/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/configure-job-column-plugin/snapshot/0b7e1cf9ee6e9a14d8aa27ed8797665b62c3379b/files/pom.xml#L78", 
+        "line": 78, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/configure-job-column-plugin/snapshot/0b7e1cf9ee6e9a14d8aa27ed8797665b62c3379b/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

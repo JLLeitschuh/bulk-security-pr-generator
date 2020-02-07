@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/RIPE-NCC/whois", 
+    "url-identifier": "g/RIPE-NCC/whois", 
+    "id": 2031680502, 
+    "name": "RIPE-NCC/whois"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RIPE-NCC/whois/snapshot/4d25fada0c9caa2f4bc4ffe3ba332de26410606d/files/pom.xml#L103", 
+        "line": 103, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.ripe.net/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RIPE-NCC/whois/snapshot/4d25fada0c9caa2f4bc4ffe3ba332de26410606d/files/pom.xml#L107", 
+        "line": 107, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.ripe.net/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

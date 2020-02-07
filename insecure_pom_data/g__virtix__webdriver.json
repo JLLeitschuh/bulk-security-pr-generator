@@ -1,0 +1,168 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/virtix/webdriver", 
+    "url-identifier": "g/virtix/webdriver", 
+    "id": 1506687529317, 
+    "name": "virtix/webdriver"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/common/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/common/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/common/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/common/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/firefox/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/firefox/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/firefox/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/firefox/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/htmlunit/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/htmlunit/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/htmlunit/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/htmlunit/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/jobbie/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/jobbie/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/jobbie/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/jobbie/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/pom.xml#L111", 
+        "line": 111, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/safari/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/safari/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/safari/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/safari/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/support/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/support/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/virtix/webdriver/snapshot/68b60147482f9a0fa646de364246bcbdf7702413/files/support/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/support/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.openqa.org/repository/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

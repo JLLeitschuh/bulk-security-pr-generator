@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/alexo/wro4j", 
+    "url-identifier": "g/alexo/wro4j", 
+    "id": 94651565, 
+    "name": "alexo/wro4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexo/wro4j/snapshot/fc01998ca18c010af9048cb41958d019a039fa6b/files/wro4j-examples/wro4j-demo/pom.xml#L196", 
+        "line": 196, 
+        "value": "repository", 
+        "file": "/wro4j-examples/wro4j-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scriptengines.googlecode.com/svn/m2-repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexo/wro4j/snapshot/fc01998ca18c010af9048cb41958d019a039fa6b/files/wro4j-examples/wro4j-demo/pom.xml#L200", 
+        "line": 200, 
+        "value": "repository", 
+        "file": "/wro4j-examples/wro4j-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.mvnsearch.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexo/wro4j/snapshot/fc01998ca18c010af9048cb41958d019a039fa6b/files/wro4j-examples/wro4j-demo/pom.xml#L204", 
+        "line": 204, 
+        "value": "repository", 
+        "file": "/wro4j-examples/wro4j-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexo/wro4j/snapshot/fc01998ca18c010af9048cb41958d019a039fa6b/files/wro4j-examples/wro4j-demo/pom.xml#L208", 
+        "line": 208, 
+        "value": "repository", 
+        "file": "/wro4j-examples/wro4j-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-gae-plugin.googlecode.com/svn/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexo/wro4j/snapshot/fc01998ca18c010af9048cb41958d019a039fa6b/files/wro4j-examples/wro4j-demo/pom.xml#L214", 
+        "line": 214, 
+        "value": "pluginRepository", 
+        "file": "/wro4j-examples/wro4j-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexo/wro4j/snapshot/fc01998ca18c010af9048cb41958d019a039fa6b/files/wro4j-examples/wro4j-demo/pom.xml#L218", 
+        "line": 218, 
+        "value": "pluginRepository", 
+        "file": "/wro4j-examples/wro4j-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-gae-plugin.googlecode.com/svn/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexo/wro4j/snapshot/fc01998ca18c010af9048cb41958d019a039fa6b/files/wro4j-examples/wro4j-demo/pom.xml#L222", 
+        "line": 222, 
+        "value": "pluginRepository", 
+        "file": "/wro4j-examples/wro4j-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.mvnsearch.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/theborakompanioni/thymeleaf-extras-shiro", 
+    "url-identifier": "g/theborakompanioni/thymeleaf-extras-shiro", 
+    "id": 1795454500, 
+    "name": "theborakompanioni/thymeleaf-extras-shiro"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/theborakompanioni/thymeleaf-extras-shiro/snapshot/933c4ab9188623ca24f681cdc6b6cdf4ab8bb8a0/files/pom.xml#L210", 
+        "line": 210, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

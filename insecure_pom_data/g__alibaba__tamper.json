@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/alibaba/tamper", 
+    "url-identifier": "g/alibaba/tamper", 
+    "id": 62380023, 
+    "name": "alibaba/tamper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alibaba/tamper/snapshot/d0af7bf6200f85db7b94553b33a4890729a1b017/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alibaba/tamper/snapshot/d0af7bf6200f85db7b94553b33a4890729a1b017/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://code.alibabatech.com/mvn/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

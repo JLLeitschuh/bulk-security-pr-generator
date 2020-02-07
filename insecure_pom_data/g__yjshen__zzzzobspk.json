@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yjshen/zzzzobspk", 
+    "url-identifier": "g/yjshen/zzzzobspk", 
+    "id": 1511234301885, 
+    "name": "yjshen/zzzzobspk"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yjshen/zzzzobspk/snapshot/0be59c1a33790859960e985260bd9d754b205b99/files/dev/audit-release/blank_maven_build/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/dev/audit-release/blank_maven_build/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spray.cc"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yjshen/zzzzobspk/snapshot/0be59c1a33790859960e985260bd9d754b205b99/files/dev/audit-release/maven_app_core/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/dev/audit-release/maven_app_core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spray.cc"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yjshen/zzzzobspk/snapshot/0be59c1a33790859960e985260bd9d754b205b99/files/pom.xml#L242", 
+        "line": 242, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mapr.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

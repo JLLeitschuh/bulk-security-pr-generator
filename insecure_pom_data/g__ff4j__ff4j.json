@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ff4j/ff4j", 
+    "url-identifier": "g/ff4j/ff4j", 
+    "id": 18770030, 
+    "name": "ff4j/ff4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ff4j/ff4j/snapshot/566849fdc54fd422ea296fe879b127f6bf12ca21/files/ff4j-store-ehcache/pom.xml#L193", 
+        "line": 193, 
+        "value": "repository", 
+        "file": "/ff4j-store-ehcache/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ff4j/ff4j/snapshot/566849fdc54fd422ea296fe879b127f6bf12ca21/files/ff4j-store-ehcache/pom.xml#L203", 
+        "line": 203, 
+        "value": "repository", 
+        "file": "/ff4j-store-ehcache/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ff4j/ff4j/snapshot/566849fdc54fd422ea296fe879b127f6bf12ca21/files/ff4j-store-ehcache/pom.xml#L215", 
+        "line": 215, 
+        "value": "pluginRepository", 
+        "file": "/ff4j-store-ehcache/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ff4j/ff4j/snapshot/566849fdc54fd422ea296fe879b127f6bf12ca21/files/ff4j-store-ehcache/pom.xml#L225", 
+        "line": 225, 
+        "value": "pluginRepository", 
+        "file": "/ff4j-store-ehcache/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ff4j/ff4j/snapshot/566849fdc54fd422ea296fe879b127f6bf12ca21/files/ff4j-store-neo4j/pom.xml#L150", 
+        "line": 150, 
+        "value": "repository", 
+        "file": "/ff4j-store-neo4j/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/groups/everything"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ff4j/ff4j/snapshot/566849fdc54fd422ea296fe879b127f6bf12ca21/files/ff4j-store-neo4j/pom.xml#L154", 
+        "line": 154, 
+        "value": "repository", 
+        "file": "/ff4j-store-neo4j/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ff4j/ff4j/snapshot/566849fdc54fd422ea296fe879b127f6bf12ca21/files/pom.xml#L929", 
+        "line": 929, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvnplugins.fusesource.org/repo/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

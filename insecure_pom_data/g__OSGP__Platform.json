@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OSGP/Platform", 
+    "url-identifier": "g/OSGP/Platform", 
+    "id": 1968030062, 
+    "name": "OSGP/Platform"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OSGP/Platform/snapshot/fc2043bc7052a3bde4a2a383bf45d7b24c3bf0da/files/Shared/parent-shared/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/Shared/parent-shared/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OSGP/Platform/snapshot/fc2043bc7052a3bde4a2a383bf45d7b24c3bf0da/files/parent-platform/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/parent-platform/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

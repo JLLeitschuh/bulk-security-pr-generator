@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bols-blue/deploygate-plugin", 
+    "url-identifier": "g/bols-blue/deploygate-plugin", 
+    "id": 1506604960714, 
+    "name": "bols-blue/deploygate-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bols-blue/deploygate-plugin/snapshot/c0bb32ab8d89ef1b372c94cab6190efe151c0946/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bols-blue/deploygate-plugin/snapshot/c0bb32ab8d89ef1b372c94cab6190efe151c0946/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

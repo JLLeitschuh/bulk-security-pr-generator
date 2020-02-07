@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/IQSS/dataverse", 
+    "url-identifier": "g/IQSS/dataverse", 
+    "id": 2970123, 
+    "name": "IQSS/dataverse"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IQSS/dataverse/snapshot/a756398dd262fb36aef61bac1839fac1f15cf607/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IQSS/dataverse/snapshot/a756398dd262fb36aef61bac1839fac1f15cf607/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.dataone.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

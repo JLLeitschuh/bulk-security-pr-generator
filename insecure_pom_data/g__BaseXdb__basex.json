@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/BaseXdb/basex", 
+    "url-identifier": "g/BaseXdb/basex", 
+    "id": 44930003, 
+    "name": "BaseXdb/basex"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BaseXdb/basex/snapshot/ef2e2c42bdd5249ae22dd1c7b20299e971b30140/files/pom.xml#L237", 
+        "line": 237, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://files.basex.org/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

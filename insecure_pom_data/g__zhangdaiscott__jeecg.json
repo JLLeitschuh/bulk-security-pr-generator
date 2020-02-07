@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/zhangdaiscott/jeecg", 
+    "url-identifier": "g/zhangdaiscott/jeecg", 
+    "id": 114736093, 
+    "name": "zhangdaiscott/jeecg"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhangdaiscott/jeecg/snapshot/dfd3fa8ee431efaf3e8f83ca16d94c184898c1ec/files/pom.xml#L111", 
+        "line": 111, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhangdaiscott/jeecg/snapshot/dfd3fa8ee431efaf3e8f83ca16d94c184898c1ec/files/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jeewx.com/nexus/content/repositories/jeecg"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zhangdaiscott/jeecg/snapshot/dfd3fa8ee431efaf3e8f83ca16d94c184898c1ec/files/pom.xml#L127", 
+        "line": 127, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jeewx.com/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/vzueva/lyambdas", 
+    "url-identifier": "b/vzueva/lyambdas", 
+    "id": 1289732667, 
+    "name": "vzueva/lyambdas"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/vzueva/lyambdas/snapshot/199893ee3a0420f043658324b8258e6404e547cb/files/Lyambdas/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/Lyambdas/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/net/java/dev/jogl/jogl-windows-i586/1.1.1-rc6/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

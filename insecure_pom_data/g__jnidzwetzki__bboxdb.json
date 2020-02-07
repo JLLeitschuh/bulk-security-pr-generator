@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jnidzwetzki/bboxdb", 
+    "url-identifier": "g/jnidzwetzki/bboxdb", 
+    "id": 1506710187172, 
+    "name": "jnidzwetzki/bboxdb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jnidzwetzki/bboxdb/snapshot/9ea32aa15b771442fa9ddbfec61236f739c393fb/files/bboxdb-experiments/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/bboxdb-experiments/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jnidzwetzki/bboxdb/snapshot/9ea32aa15b771442fa9ddbfec61236f739c393fb/files/bboxdb-network-proxy/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/bboxdb-network-proxy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jnidzwetzki/bboxdb/snapshot/9ea32aa15b771442fa9ddbfec61236f739c393fb/files/bboxdb-tools/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/bboxdb-tools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

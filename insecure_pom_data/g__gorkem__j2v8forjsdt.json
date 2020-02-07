@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/gorkem/j2v8forjsdt", 
+    "url-identifier": "g/gorkem/j2v8forjsdt", 
+    "id": 1506700637554, 
+    "name": "gorkem/j2v8forjsdt"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gorkem/j2v8forjsdt/snapshot/1e514e6e9580918dafc1d6bb5953b6a6cad95fe6/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

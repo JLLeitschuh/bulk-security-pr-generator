@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/AKSW/RDFUnit", 
+    "url-identifier": "g/AKSW/RDFUnit", 
+    "id": 27150006, 
+    "name": "AKSW/RDFUnit"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AKSW/RDFUnit/snapshot/4603c2fed2559966dc9eda995fa8d05535f50a45/files/rdfunit-webdemo/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/rdfunit-webdemo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AKSW/RDFUnit/snapshot/4603c2fed2559966dc9eda995fa8d05535f50a45/files/rdfunit-webdemo/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/rdfunit-webdemo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/vaadin-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AKSW/RDFUnit/snapshot/4603c2fed2559966dc9eda995fa8d05535f50a45/files/rdfunit-webdemo/pom.xml#L34", 
+        "line": 34, 
+        "value": "pluginRepository", 
+        "file": "/rdfunit-webdemo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/vaadin-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

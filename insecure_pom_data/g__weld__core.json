@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/weld/core", 
+    "url-identifier": "g/weld/core", 
+    "id": 46220045, 
+    "name": "weld/core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/weld/core/snapshot/8bdfd94004c1d593df7b4ecdab193eba16cdccb7/files/docs/reference/pom.xml#L195", 
+        "line": 195, 
+        "value": "pluginRepository", 
+        "file": "/docs/reference/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/weld/core/snapshot/8bdfd94004c1d593df7b4ecdab193eba16cdccb7/files/examples/pom.xml#L446", 
+        "line": 446, 
+        "value": "repository", 
+        "file": "/examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/weld/core/snapshot/8bdfd94004c1d593df7b4ecdab193eba16cdccb7/files/examples/pom.xml#L462", 
+        "line": 462, 
+        "value": "pluginRepository", 
+        "file": "/examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

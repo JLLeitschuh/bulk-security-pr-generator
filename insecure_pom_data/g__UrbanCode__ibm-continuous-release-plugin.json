@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/UrbanCode/ibm-continuous-release-plugin", 
+    "url-identifier": "g/UrbanCode/ibm-continuous-release-plugin", 
+    "id": 1509214506080, 
+    "name": "UrbanCode/ibm-continuous-release-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/UrbanCode/ibm-continuous-release-plugin/snapshot/a834e2c2e5830f0c461547955fda8052b510d99b/files/pom.xml#L112", 
+        "line": 112, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/UrbanCode/ibm-continuous-release-plugin/snapshot/a834e2c2e5830f0c461547955fda8052b510d99b/files/pom.xml#L123", 
+        "line": 123, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

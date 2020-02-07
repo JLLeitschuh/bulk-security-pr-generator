@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/geoserver/geoserver", 
+    "url-identifier": "g/geoserver/geoserver", 
+    "id": 1505909746847, 
+    "name": "geoserver/geoserver"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geoserver/geoserver/snapshot/6c71552c6b4b194fdafd38e21df9693d05297909/files/src/community/geogig/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/src/community/geogig/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geoserver/geoserver/snapshot/6c71552c6b4b194fdafd38e21df9693d05297909/files/src/community/geomesa/pom.xml#L172", 
+        "line": 172, 
+        "value": "repository", 
+        "file": "/src/community/geomesa/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geoserver/geoserver/snapshot/6c71552c6b4b194fdafd38e21df9693d05297909/files/src/community/taskmanager/core/bin/pom.xml#L148", 
+        "line": 148, 
+        "value": "repository", 
+        "file": "/src/community/taskmanager/core/bin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geoserver/geoserver/snapshot/6c71552c6b4b194fdafd38e21df9693d05297909/files/src/community/wps-sextante/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/src/community/wps-sextante/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geoserver/geoserver/snapshot/6c71552c6b4b194fdafd38e21df9693d05297909/files/src/maven/pom.xml#L46", 
+        "line": 46, 
+        "value": "pluginRepository", 
+        "file": "/src/maven/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.mortbay.org/maven2/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geoserver/geoserver/snapshot/6c71552c6b4b194fdafd38e21df9693d05297909/files/src/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/src/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geoserver/geoserver/snapshot/6c71552c6b4b194fdafd38e21df9693d05297909/files/src/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/src/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geo-solutions.it/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

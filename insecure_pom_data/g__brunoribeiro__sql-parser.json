@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/brunoribeiro/sql-parser", 
+    "url-identifier": "g/brunoribeiro/sql-parser", 
+    "id": 1506677706398, 
+    "name": "brunoribeiro/sql-parser"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brunoribeiro/sql-parser/snapshot/a67cf454a028d794d7c802c3736f16669f09b33a/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://akiban.artifactoryonline.com/akiban/libs-snapshots-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brunoribeiro/sql-parser/snapshot/a67cf454a028d794d7c802c3736f16669f09b33a/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://akiban.artifactoryonline.com/akiban/libs-releases-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brunoribeiro/sql-parser/snapshot/a67cf454a028d794d7c802c3736f16669f09b33a/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://akiban.artifactoryonline.com/akiban/libs-releases-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brunoribeiro/sql-parser/snapshot/a67cf454a028d794d7c802c3736f16669f09b33a/files/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://akiban.artifactoryonline.com/akiban/libs-snapshots-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

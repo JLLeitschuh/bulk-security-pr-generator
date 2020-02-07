@@ -1,0 +1,102 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/siddhi-io/siddhi", 
+    "url-identifier": "g/siddhi-io/siddhi", 
+    "id": 4970009, 
+    "name": "siddhi-io/siddhi"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/siddhi-io/siddhi/snapshot/03309eb9a87e497dba787dcc7562898e6e3dd9cb/files/pom.xml#L841", 
+        "line": 841, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/siddhi-io/siddhi/snapshot/03309eb9a87e497dba787dcc7562898e6e3dd9cb/files/pom.xml#L851", 
+        "line": 851, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/siddhi-io/siddhi/snapshot/03309eb9a87e497dba787dcc7562898e6e3dd9cb/files/pom.xml#L861", 
+        "line": 861, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/siddhi-io/siddhi/snapshot/03309eb9a87e497dba787dcc7562898e6e3dd9cb/files/pom.xml#L891", 
+        "line": 891, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/siddhi-io/siddhi/snapshot/03309eb9a87e497dba787dcc7562898e6e3dd9cb/files/pom.xml#L901", 
+        "line": 901, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/siddhi-io/siddhi/snapshot/03309eb9a87e497dba787dcc7562898e6e3dd9cb/files/pom.xml#L913", 
+        "line": 913, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/siddhi-io/siddhi/snapshot/03309eb9a87e497dba787dcc7562898e6e3dd9cb/files/pom.xml#L926", 
+        "line": 926, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/siddhi-io/siddhi/snapshot/03309eb9a87e497dba787dcc7562898e6e3dd9cb/files/pom.xml#L931", 
+        "line": 931, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

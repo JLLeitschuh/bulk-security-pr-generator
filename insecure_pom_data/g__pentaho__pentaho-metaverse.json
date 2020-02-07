@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pentaho/pentaho-metaverse", 
+    "url-identifier": "g/pentaho/pentaho-metaverse", 
+    "id": 1509096716112, 
+    "name": "pentaho/pentaho-metaverse"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pentaho/pentaho-metaverse/snapshot/7602f11e85722018b3d82122d2c9e2072bd80914/files/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.pentaho.org/content/groups/omni/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

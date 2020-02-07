@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jtransc/jtransc", 
+    "url-identifier": "g/jtransc/jtransc", 
+    "id": 1797000535, 
+    "name": "jtransc/jtransc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jtransc/jtransc/snapshot/8dc4fafa10e52391018266376ace9af2b795d3f1/files/jtransc-maven-plugin/example/pom.xml#L70", 
+        "line": 70, 
+        "value": "pluginRepository", 
+        "file": "/jtransc-maven-plugin/example/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jtransc/jtransc/snapshot/8dc4fafa10e52391018266376ace9af2b795d3f1/files/jtransc-maven-plugin/resources/META-INF/maven/com.jtransc/jtransc-maven-plugin/pom.xml#L141", 
+        "line": 141, 
+        "value": "snapshotRepository", 
+        "file": "/jtransc-maven-plugin/resources/META-INF/maven/com.jtransc/jtransc-maven-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jtransc/jtransc/snapshot/8dc4fafa10e52391018266376ace9af2b795d3f1/files/jtransc-maven-plugin/resources/META-INF/maven/com.jtransc/jtransc-maven-plugin/pom.xml#L252", 
+        "line": 252, 
+        "value": "pluginRepository", 
+        "file": "/jtransc-maven-plugin/resources/META-INF/maven/com.jtransc/jtransc-maven-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

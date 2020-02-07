@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/maven-info-plugin", 
+    "url-identifier": "g/jenkinsci/maven-info-plugin", 
+    "id": 1506577679403, 
+    "name": "jenkinsci/maven-info-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/maven-info-plugin/snapshot/8d15d9cdb3fedc5ebd3d3e3ace6d65f5b01ea920/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/maven-info-plugin/snapshot/8d15d9cdb3fedc5ebd3d3e3ace6d65f5b01ea920/files/pom.xml#L92", 
+        "line": 92, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

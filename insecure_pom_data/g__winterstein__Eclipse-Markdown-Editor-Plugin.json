@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/winterstein/Eclipse-Markdown-Editor-Plugin", 
+    "url-identifier": "g/winterstein/Eclipse-Markdown-Editor-Plugin", 
+    "id": 49570003, 
+    "name": "winterstein/Eclipse-Markdown-Editor-Plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/winterstein/Eclipse-Markdown-Editor-Plugin/snapshot/274ef3abb0caee7359635aa9442efe79fa53635b/files/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/kepler"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

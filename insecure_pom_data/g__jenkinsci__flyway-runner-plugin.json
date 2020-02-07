@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/flyway-runner-plugin", 
+    "url-identifier": "g/jenkinsci/flyway-runner-plugin", 
+    "id": 1506610259807, 
+    "name": "jenkinsci/flyway-runner-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/flyway-runner-plugin/snapshot/e3820cd0c65870eba81378d2e51eb7ea7d1cfe60/files/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/flyway-runner-plugin/snapshot/e3820cd0c65870eba81378d2e51eb7ea7d1cfe60/files/pom.xml#L101", 
+        "line": 101, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

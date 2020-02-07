@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Atmosphere/atmosphere-extensions", 
+    "url-identifier": "g/Atmosphere/atmosphere-extensions", 
+    "id": 53830732, 
+    "name": "Atmosphere/atmosphere-extensions"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Atmosphere/atmosphere-extensions/snapshot/0182bed006e6e604fcd4aa0ef681f3b36e704151/files/pom.xml#L357", 
+        "line": 357, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Atmosphere/atmosphere-extensions/snapshot/0182bed006e6e604fcd4aa0ef681f3b36e704151/files/pom.xml#L361", 
+        "line": 361, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Atmosphere/atmosphere-extensions/snapshot/0182bed006e6e604fcd4aa0ef681f3b36e704151/files/pom.xml#L374", 
+        "line": 374, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Atmosphere/atmosphere-extensions/snapshot/0182bed006e6e604fcd4aa0ef681f3b36e704151/files/pom.xml#L379", 
+        "line": 379, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/office-365-connector-plugin", 
+    "url-identifier": "g/jenkinsci/office-365-connector-plugin", 
+    "id": 1509224966110, 
+    "name": "jenkinsci/office-365-connector-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/office-365-connector-plugin/snapshot/30d9c720d5b4bde15c2f5bc772342ca30a256b05/files/pom.xml#L214", 
+        "line": 214, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/office-365-connector-plugin/snapshot/30d9c720d5b4bde15c2f5bc772342ca30a256b05/files/pom.xml#L221", 
+        "line": 221, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

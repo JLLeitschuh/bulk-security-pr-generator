@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/robotframework/SwingLibrary", 
+    "url-identifier": "g/robotframework/SwingLibrary", 
+    "id": 1506696406522, 
+    "name": "robotframework/SwingLibrary"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robotframework/SwingLibrary/snapshot/93910f9d60be281916e9fd2713c97efec9f5df50/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.laughingpanda.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

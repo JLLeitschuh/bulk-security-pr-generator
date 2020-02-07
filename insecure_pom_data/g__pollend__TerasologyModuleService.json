@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pollend/TerasologyModuleService", 
+    "url-identifier": "g/pollend/TerasologyModuleService", 
+    "id": 1506589308087, 
+    "name": "pollend/TerasologyModuleService"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pollend/TerasologyModuleService/snapshot/19df7a7a18cc288af396e8ff20624fcdad07cd87/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

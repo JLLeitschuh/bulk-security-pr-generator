@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Spirent/Spirent-iTest-Jenkins-Plugin", 
+    "url-identifier": "g/Spirent/Spirent-iTest-Jenkins-Plugin", 
+    "id": 1506640318743, 
+    "name": "Spirent/Spirent-iTest-Jenkins-Plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Spirent/Spirent-iTest-Jenkins-Plugin/snapshot/49904b24d56be5cae2ce5e20d58db7f2b2dca2d1/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Spirent/Spirent-iTest-Jenkins-Plugin/snapshot/49904b24d56be5cae2ce5e20d58db7f2b2dca2d1/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

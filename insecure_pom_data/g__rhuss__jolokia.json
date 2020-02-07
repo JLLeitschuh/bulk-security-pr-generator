@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rhuss/jolokia", 
+    "url-identifier": "g/rhuss/jolokia", 
+    "id": 970020, 
+    "name": "rhuss/jolokia"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rhuss/jolokia/snapshot/c0e5aa6551a947989b84eb1cb7e6dd56b5a2db9a/files/agent/osgi/pom.xml#L156", 
+        "line": 156, 
+        "value": "pluginRepository", 
+        "file": "/agent/osgi/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.ops4j.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rhuss/jolokia/snapshot/c0e5aa6551a947989b84eb1cb7e6dd56b5a2db9a/files/agent/osgi-bundle/pom.xml#L162", 
+        "line": 162, 
+        "value": "pluginRepository", 
+        "file": "/agent/osgi-bundle/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.ops4j.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rhuss/jolokia/snapshot/c0e5aa6551a947989b84eb1cb7e6dd56b5a2db9a/files/client/javascript/pom.xml#L70", 
+        "line": 70, 
+        "value": "pluginRepository", 
+        "file": "/client/javascript/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rhuss/jolokia/snapshot/c0e5aa6551a947989b84eb1cb7e6dd56b5a2db9a/files/client/javascript/test-app/pom.xml#L115", 
+        "line": 115, 
+        "value": "pluginRepository", 
+        "file": "/client/javascript/test-app/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rhuss/jolokia/snapshot/c0e5aa6551a947989b84eb1cb7e6dd56b5a2db9a/files/tools/roo-addon/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/tools/roo-addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://spring-roo-repository.springsource.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rhuss/jolokia/snapshot/c0e5aa6551a947989b84eb1cb7e6dd56b5a2db9a/files/tools/roo-addon/pom.xml#L47", 
+        "line": 47, 
+        "value": "pluginRepository", 
+        "file": "/tools/roo-addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://spring-roo-repository.springsource.org/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Core", 
+    "url-identifier": "g/Multiverse/Multiverse-Core", 
+    "id": 1780397, 
+    "name": "Multiverse/Multiverse-Core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Core/snapshot/a117fa94f2c0fc714a5e5c12cc74a1b32c4a0ea3/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Core/snapshot/a117fa94f2c0fc714a5e5c12cc74a1b32c4a0ea3/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Core/snapshot/a117fa94f2c0fc714a5e5c12cc74a1b32c4a0ea3/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.elmakers.com/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Core/snapshot/a117fa94f2c0fc714a5e5c12cc74a1b32c4a0ea3/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://doodleproject.sourceforge.net/maven2/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Core/snapshot/a117fa94f2c0fc714a5e5c12cc74a1b32c4a0ea3/files/pom.xml#L354", 
+        "line": 354, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/content/repositories/multiverse"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Multiverse/Multiverse-Core/snapshot/a117fa94f2c0fc714a5e5c12cc74a1b32c4a0ea3/files/pom.xml#L358", 
+        "line": 358, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.onarandombox.com/content/repositories/multiverse-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

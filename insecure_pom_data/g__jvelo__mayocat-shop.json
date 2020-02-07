@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jvelo/mayocat-shop", 
+    "url-identifier": "g/jvelo/mayocat-shop", 
+    "id": 26220154, 
+    "name": "jvelo/mayocat-shop"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jvelo/mayocat-shop/snapshot/440ef57639a0e8648f1af789a31a125799697e64/files/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jvelo/mayocat-shop/snapshot/440ef57639a0e8648f1af789a31a125799697e64/files/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jvelo/mayocat-shop/snapshot/440ef57639a0e8648f1af789a31a125799697e64/files/pom.xml#L99", 
+        "line": 99, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository-mayocat.forge.cloudbees.com/release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jvelo/mayocat-shop/snapshot/440ef57639a0e8648f1af789a31a125799697e64/files/pom.xml#L104", 
+        "line": 104, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository-mayocat.forge.cloudbees.com/snapshot/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

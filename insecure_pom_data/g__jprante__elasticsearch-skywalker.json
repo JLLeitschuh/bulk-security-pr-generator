@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jprante/elasticsearch-skywalker", 
+    "url-identifier": "g/jprante/elasticsearch-skywalker", 
+    "id": 53010027, 
+    "name": "jprante/elasticsearch-skywalker"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jprante/elasticsearch-skywalker/snapshot/46cff47532b0f25a0fec5888f7be57e57f794229/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/jprante/elasticsearch-plugins"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

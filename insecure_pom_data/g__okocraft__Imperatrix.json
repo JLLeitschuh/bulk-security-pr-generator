@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/okocraft/Imperatrix", 
+    "url-identifier": "g/okocraft/Imperatrix", 
+    "id": 1507683456240, 
+    "name": "okocraft/Imperatrix"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/okocraft/Imperatrix/snapshot/05458f347f4185770e5c353b2dfb68bae6098497/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.extendedclip.com/content/repositories/placeholderapi/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/enil/gitlab-api-plugin", 
+    "url-identifier": "g/enil/gitlab-api-plugin", 
+    "id": 1506595679791, 
+    "name": "enil/gitlab-api-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/enil/gitlab-api-plugin/snapshot/fddead7f7ec05be930ccbf85e32875695fa3fa22/files/gitlab-api-plugin/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/gitlab-api-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/enil/gitlab-api-plugin/snapshot/fddead7f7ec05be930ccbf85e32875695fa3fa22/files/gitlab-api-plugin/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/gitlab-api-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/enil/gitlab-api-plugin/snapshot/fddead7f7ec05be930ccbf85e32875695fa3fa22/files/gitlab-api-plugin/pom.xml#L71", 
+        "line": 71, 
+        "value": "pluginRepository", 
+        "file": "/gitlab-api-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/enil/gitlab-api-plugin/snapshot/fddead7f7ec05be930ccbf85e32875695fa3fa22/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

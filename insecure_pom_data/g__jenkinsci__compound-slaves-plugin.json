@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/compound-slaves-plugin", 
+    "url-identifier": "g/jenkinsci/compound-slaves-plugin", 
+    "id": 1506589309863, 
+    "name": "jenkinsci/compound-slaves-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/compound-slaves-plugin/snapshot/0dd583d31316542f6d32228dc5ae66d8935eb1e0/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/compound-slaves-plugin/snapshot/0dd583d31316542f6d32228dc5ae66d8935eb1e0/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

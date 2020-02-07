@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tomtom-international/openlr", 
+    "url-identifier": "g/tomtom-international/openlr", 
+    "id": 1511192823506, 
+    "name": "tomtom-international/openlr"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomtom-international/openlr/snapshot/36a1023cf5ea91de90fee398ac0d4bd5e4de960b/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomtom-international/openlr/snapshot/36a1023cf5ea91de90fee398ac0d4bd5e4de960b/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.opengeo.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

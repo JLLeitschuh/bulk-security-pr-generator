@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/empire-db", 
+    "url-identifier": "g/apache/empire-db", 
+    "id": 1790284, 
+    "name": "apache/empire-db"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/empire-db/snapshot/86d62de09bcc0f71f2aab481eec5ea07f612be9c/files/empire-db-eclipse-codegen/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/empire-db-eclipse-codegen/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/luna"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/empire-db/snapshot/86d62de09bcc0f71f2aab481eec5ea07f612be9c/files/empire-db-examples/empire-db-example-spring/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/empire-db-examples/empire-db-example-spring/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://s3.amazonaws.com/maven.springframework.org/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/node-iterator-api-plugin", 
+    "url-identifier": "g/jenkinsci/node-iterator-api-plugin", 
+    "id": 1506591220131, 
+    "name": "jenkinsci/node-iterator-api-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/node-iterator-api-plugin/snapshot/6ccd04d1c17d64fbb38c19f05772b02bcd7716f1/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/node-iterator-api-plugin/snapshot/6ccd04d1c17d64fbb38c19f05772b02bcd7716f1/files/pom.xml#L75", 
+        "line": 75, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

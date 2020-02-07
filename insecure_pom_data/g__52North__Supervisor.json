@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/Supervisor", 
+    "url-identifier": "g/52North/Supervisor", 
+    "id": 1506705590894, 
+    "name": "52North/Supervisor"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/Supervisor/snapshot/9668db5660ddc2c7b10746c2c8e965060c2c9750/files/pom.xml#L455", 
+        "line": 455, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/Supervisor/snapshot/9668db5660ddc2c7b10746c2c8e965060c2c9750/files/pom.xml#L466", 
+        "line": 466, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/Supervisor/snapshot/9668db5660ddc2c7b10746c2c8e965060c2c9750/files/pom.xml#L477", 
+        "line": 477, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

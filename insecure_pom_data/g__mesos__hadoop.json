@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mesos/hadoop", 
+    "url-identifier": "g/mesos/hadoop", 
+    "id": 48630108, 
+    "name": "mesos/hadoop"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mesos/hadoop/snapshot/45e76d44624508d871fbf4785904c02ad4b3a287/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

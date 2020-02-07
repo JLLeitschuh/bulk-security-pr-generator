@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ljader/redmine-mylyn-plugin", 
+    "url-identifier": "g/ljader/redmine-mylyn-plugin", 
+    "id": 54580041, 
+    "name": "ljader/redmine-mylyn-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ljader/redmine-mylyn-plugin/snapshot/ffda0c6dcd662c17fdb33a0d11a9f8c2a94f62b7/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/${platform-version-name}"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ljader/redmine-mylyn-plugin/snapshot/ffda0c6dcd662c17fdb33a0d11a9f8c2a94f62b7/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/mylyn/releases/latest"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ljader/redmine-mylyn-plugin/snapshot/ffda0c6dcd662c17fdb33a0d11a9f8c2a94f62b7/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/downloads/drops/R20160520211859/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ljader/redmine-mylyn-plugin/snapshot/ffda0c6dcd662c17fdb33a0d11a9f8c2a94f62b7/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/ajdt/46/dev/update"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kevinburke/doony", 
+    "url-identifier": "g/kevinburke/doony", 
+    "id": 119517926, 
+    "name": "kevinburke/doony"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kevinburke/doony/snapshot/68dfe61d921dc1d35df7142f7c442a898143e49b/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kevinburke/doony/snapshot/68dfe61d921dc1d35df7142f7c442a898143e49b/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

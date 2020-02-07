@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Sargemck/JDK_Parameter_Choice", 
+    "url-identifier": "g/Sargemck/JDK_Parameter_Choice", 
+    "id": 1506597059782, 
+    "name": "Sargemck/JDK_Parameter_Choice"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Sargemck/JDK_Parameter_Choice/snapshot/9ca3c6d7c1378ce8f1ac6281cccf154629bb94c6/files/pom.xml#L118", 
+        "line": 118, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Sargemck/JDK_Parameter_Choice/snapshot/9ca3c6d7c1378ce8f1ac6281cccf154629bb94c6/files/pom.xml#L125", 
+        "line": 125, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

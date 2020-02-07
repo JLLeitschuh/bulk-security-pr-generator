@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Mach5/supersonic", 
+    "url-identifier": "g/Mach5/supersonic", 
+    "id": 44080027, 
+    "name": "Mach5/supersonic"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Mach5/supersonic/snapshot/e61e68d02e3815783df6aba2c7d57228d642817e/files/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Mach5/supersonic/snapshot/e61e68d02e3815783df6aba2c7d57228d642817e/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Mach5/supersonic/snapshot/e61e68d02e3815783df6aba2c7d57228d642817e/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Mach5/supersonic/snapshot/e61e68d02e3815783df6aba2c7d57228d642817e/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ooo-maven.googlecode.com/hg/repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

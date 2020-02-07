@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yahoo/sherlock", 
+    "url-identifier": "g/yahoo/sherlock", 
+    "id": 1506698306154, 
+    "name": "yahoo/sherlock"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/sherlock/snapshot/d6deb9f780b9768c1ba5dc8af8e2a860a2a350b2/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/sherlock/snapshot/d6deb9f780b9768c1ba5dc8af8e2a860a2a350b2/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://yahoo.bintray.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

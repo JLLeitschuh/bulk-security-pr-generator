@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sockeqwe/Vaadin-MVP-Lite", 
+    "url-identifier": "g/sockeqwe/Vaadin-MVP-Lite", 
+    "id": 67070052, 
+    "name": "sockeqwe/Vaadin-MVP-Lite"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sockeqwe/Vaadin-MVP-Lite/snapshot/0c74f436087c41d60a555f89445267101d0ce4d3/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

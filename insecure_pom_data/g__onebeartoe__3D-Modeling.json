@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/onebeartoe/3D-Modeling", 
+    "url-identifier": "g/onebeartoe/3D-Modeling", 
+    "id": 1505969106003, 
+    "name": "onebeartoe/3D-Modeling"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/onebeartoe/3D-Modeling/snapshot/40832af092f605fe14cf87d86d6c00a127529d5c/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://onebeartoe.org/maven/2/repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

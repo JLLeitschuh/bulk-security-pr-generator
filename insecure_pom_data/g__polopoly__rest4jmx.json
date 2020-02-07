@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/polopoly/rest4jmx", 
+    "url-identifier": "g/polopoly/rest4jmx", 
+    "id": 1506517478140, 
+    "name": "polopoly/rest4jmx"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/polopoly/rest4jmx/snapshot/33733a7d6677423e3350443cf042ad58b717ef45/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.polopoly.com/nexus/content/repositories/polopoly-product"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/polopoly/rest4jmx/snapshot/33733a7d6677423e3350443cf042ad58b717ef45/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

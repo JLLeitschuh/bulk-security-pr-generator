@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/CONNECT-Solution/CONNECT", 
+    "url-identifier": "g/CONNECT-Solution/CONNECT", 
+    "id": 1505900296262, 
+    "name": "CONNECT-Solution/CONNECT"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CONNECT-Solution/CONNECT/snapshot/82e469bf7bae667975b3299ec50dd0d68c1069e5/files/Product/Production/Adapters/General/CONNECTAdminGUI/pom.xml#L305", 
+        "line": 305, 
+        "value": "repository", 
+        "file": "/Product/Production/Adapters/General/CONNECTAdminGUI/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CONNECT-Solution/CONNECT/snapshot/82e469bf7bae667975b3299ec50dd0d68c1069e5/files/Product/SoapUI_Test/pom.xml#L264", 
+        "line": 264, 
+        "value": "pluginRepository", 
+        "file": "/Product/SoapUI_Test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.soapui.org/repository/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CONNECT-Solution/CONNECT/snapshot/82e469bf7bae667975b3299ec50dd0d68c1069e5/files/Product/pom.xml#L1173", 
+        "line": 1173, 
+        "value": "repository", 
+        "file": "/Product/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

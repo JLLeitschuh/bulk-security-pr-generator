@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/bahir-flink", 
+    "url-identifier": "g/apache/bahir-flink", 
+    "id": 1505781496733, 
+    "name": "apache/bahir-flink"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/bahir-flink/snapshot/753fcf5dde5d524f4a944460978c4781b59e72b6/files/flink-library-siddhi/pom.xml#L107", 
+        "line": 107, 
+        "value": "repository", 
+        "file": "/flink-library-siddhi/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

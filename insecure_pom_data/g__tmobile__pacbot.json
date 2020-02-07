@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tmobile/pacbot", 
+    "url-identifier": "g/tmobile/pacbot", 
+    "id": 1506696256812, 
+    "name": "tmobile/pacbot"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tmobile/pacbot/snapshot/11bb377460ff0b08cebb22dea14c94dc20081745/files/api/pacman-api-asset/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/api/pacman-api-asset/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://redshift-maven-repository.s3-website-us-east-1.amazonaws.com/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

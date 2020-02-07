@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/agoncal/agoncal-application-petstore-ee7", 
+    "url-identifier": "g/agoncal/agoncal-application-petstore-ee7", 
+    "id": 1509214146972, 
+    "name": "agoncal/agoncal-application-petstore-ee7"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/agoncal/agoncal-application-petstore-ee7/snapshot/1d19f5a824a2d74e236c9073865996e2fc1d568c/files/pom.xml#L333", 
+        "line": 333, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

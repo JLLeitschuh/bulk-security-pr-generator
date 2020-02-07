@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jbosstools/jbosstools-maven-plugins", 
+    "url-identifier": "g/jbosstools/jbosstools-maven-plugins", 
+    "id": 1509244756277, 
+    "name": "jbosstools/jbosstools-maven-plugins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jbosstools/jbosstools-maven-plugins/snapshot/d6e50b85531369605a24922f4af1597a9f0951c7/files/tycho-plugins/pom.xml#L224", 
+        "line": 224, 
+        "value": "repository", 
+        "file": "/tycho-plugins/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.repository.redhat.com/ga/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

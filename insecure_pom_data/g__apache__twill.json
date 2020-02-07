@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/twill", 
+    "url-identifier": "g/apache/twill", 
+    "id": 1506250965986, 
+    "name": "apache/twill"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/twill/snapshot/a724bdbe206b78f718909b3137ca33c16257865e/files/pom.xml#L529", 
+        "line": 529, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mapr.com/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

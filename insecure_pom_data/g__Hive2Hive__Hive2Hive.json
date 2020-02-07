@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Hive2Hive/Hive2Hive", 
+    "url-identifier": "g/Hive2Hive/Hive2Hive", 
+    "id": 42920004, 
+    "name": "Hive2Hive/Hive2Hive"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Hive2Hive/Hive2Hive/snapshot/0d52fffb91ede0734e1cfc746bbc0041e89ca06b/files/org.hive2hive.client/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/org.hive2hive.client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://tomp2p.net/dev/mvn/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Hive2Hive/Hive2Hive/snapshot/0d52fffb91ede0734e1cfc746bbc0041e89ca06b/files/org.hive2hive.core/pom.xml#L75", 
+        "line": 75, 
+        "value": "repository", 
+        "file": "/org.hive2hive.core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://tomp2p.net/dev/mvn/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

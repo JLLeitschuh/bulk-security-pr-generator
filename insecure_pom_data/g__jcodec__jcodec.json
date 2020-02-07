@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jcodec/jcodec", 
+    "url-identifier": "g/jcodec/jcodec", 
+    "id": 45390054, 
+    "name": "jcodec/jcodec"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jcodec/jcodec/snapshot/8fbb98da3fe620ef4182597a77528c9877c5ec5f/files/jplayer/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/jplayer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://google-gson.googlecode.com/svn/mavenrepo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jcodec/jcodec/snapshot/8fbb98da3fe620ef4182597a77528c9877c5ec5f/files/samples/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/samples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://google-gson.googlecode.com/svn/mavenrepo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jcodec/jcodec/snapshot/8fbb98da3fe620ef4182597a77528c9877c5ec5f/files/streaming/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/streaming/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://google-gson.googlecode.com/svn/mavenrepo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

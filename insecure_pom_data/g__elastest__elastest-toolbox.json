@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/elastest/elastest-toolbox", 
+    "url-identifier": "g/elastest/elastest-toolbox", 
+    "id": 1505902088498, 
+    "name": "elastest/elastest-toolbox"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elastest/elastest-toolbox/snapshot/9be0a37c668c6b7484cb78cbd1759079a27ee997/files/eim/e2e-test/pom.xml#L189", 
+        "line": 189, 
+        "value": "repository", 
+        "file": "/eim/e2e-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elastest/elastest-toolbox/snapshot/9be0a37c668c6b7484cb78cbd1759079a27ee997/files/etm/e2e-test/pom.xml#L150", 
+        "line": 150, 
+        "value": "repository", 
+        "file": "/etm/e2e-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

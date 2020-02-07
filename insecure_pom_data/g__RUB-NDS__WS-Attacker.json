@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/RUB-NDS/WS-Attacker", 
+    "url-identifier": "g/RUB-NDS/WS-Attacker", 
+    "id": 43800059, 
+    "name": "RUB-NDS/WS-Attacker"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RUB-NDS/WS-Attacker/snapshot/8cad5a35f909b3b69f083588bced92030667fba9/files/framework/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/framework/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.soapui.org/repository/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RUB-NDS/WS-Attacker/snapshot/8cad5a35f909b3b69f083588bced92030667fba9/files/libs/SoapHttpClient/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/libs/SoapHttpClient/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.soapui.org/repository/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RUB-NDS/WS-Attacker/snapshot/8cad5a35f909b3b69f083588bced92030667fba9/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mc-repo.googlecode.com/svn/maven2/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

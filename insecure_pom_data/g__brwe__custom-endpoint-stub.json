@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/brwe/custom-endpoint-stub", 
+    "url-identifier": "g/brwe/custom-endpoint-stub", 
+    "id": 1506683627798, 
+    "name": "brwe/custom-endpoint-stub"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brwe/custom-endpoint-stub/snapshot/caa84ca7c6ec77163f2cb0de8f96004b676c5342/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brwe/custom-endpoint-stub/snapshot/caa84ca7c6ec77163f2cb0de8f96004b676c5342/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

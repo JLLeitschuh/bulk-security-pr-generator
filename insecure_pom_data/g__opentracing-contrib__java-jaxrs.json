@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opentracing-contrib/java-jaxrs", 
+    "url-identifier": "g/opentracing-contrib/java-jaxrs", 
+    "id": 1507673906231, 
+    "name": "opentracing-contrib/java-jaxrs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opentracing-contrib/java-jaxrs/snapshot/ac36f0ffc3a4a9197d3952d3bee83bf2ec696b67/files/pom.xml#L118", 
+        "line": 118, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

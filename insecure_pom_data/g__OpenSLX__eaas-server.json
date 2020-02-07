@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OpenSLX/eaas-server", 
+    "url-identifier": "g/OpenSLX/eaas-server", 
+    "id": 1510978662834, 
+    "name": "OpenSLX/eaas-server"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenSLX/eaas-server/snapshot/875ee9da2064027c2884aa6d2cf5bd1a52f23803/files/src/metadata-oaipmh/eaas-xoai/pom.xml#L87", 
+        "line": 87, 
+        "value": "repository", 
+        "file": "/src/metadata-oaipmh/eaas-xoai/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenSLX/eaas-server/snapshot/875ee9da2064027c2884aa6d2cf5bd1a52f23803/files/src/pom.xml#L226", 
+        "line": 226, 
+        "value": "repository", 
+        "file": "/src/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://eaas.uni-freiburg.de/maven-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

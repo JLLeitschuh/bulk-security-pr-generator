@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/ca-service-virtualization-plugin", 
+    "url-identifier": "g/jenkinsci/ca-service-virtualization-plugin", 
+    "id": 1509248726035, 
+    "name": "jenkinsci/ca-service-virtualization-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ca-service-virtualization-plugin/snapshot/b953e4a495574cd0f4be4fcc6f32326316b6fcd9/files/pom.xml#L227", 
+        "line": 227, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://isl-dsdc.ca.com/artifactory/maven-release-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

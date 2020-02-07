@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cerner/beadledom", 
+    "url-identifier": "g/cerner/beadledom", 
+    "id": 1765641052, 
+    "name": "cerner/beadledom"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cerner/beadledom/snapshot/bae3538280793fe74169c9c7e14b335e2542fdb6/files/pom.xml#L1014", 
+        "line": 1014, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.typesafe.com/typesafe/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cerner/beadledom/snapshot/bae3538280793fe74169c9c7e14b335e2542fdb6/files/pom.xml#L1019", 
+        "line": 1019, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oauth.googlecode.com/svn/code/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

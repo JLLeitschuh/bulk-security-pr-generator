@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/datanucleus/datanucleus-core", 
+    "url-identifier": "g/datanucleus/datanucleus-core", 
+    "id": 14110065, 
+    "name": "datanucleus/datanucleus-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/datanucleus/datanucleus-core/snapshot/81d27df99d64dfb2fddd7648e67d3748e411fa3e/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

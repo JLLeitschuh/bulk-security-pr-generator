@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/nodepool-agents-plugin", 
+    "url-identifier": "g/jenkinsci/nodepool-agents-plugin", 
+    "id": 1506591681230, 
+    "name": "jenkinsci/nodepool-agents-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/nodepool-agents-plugin/snapshot/781be1c06de3917e55e67c66b0befbb74a62cdce/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

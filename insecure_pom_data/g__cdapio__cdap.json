@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cdapio/cdap", 
+    "url-identifier": "g/cdapio/cdap", 
+    "id": 25140018, 
+    "name": "cdapio/cdap"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cdapio/cdap/snapshot/74da54bbf849298653c0848810e71fb0064e318f/files/cdap-app-templates/cdap-program-report/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/cdap-app-templates/cdap-program-report/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

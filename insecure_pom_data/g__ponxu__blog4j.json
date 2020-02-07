@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ponxu/blog4j", 
+    "url-identifier": "g/ponxu/blog4j", 
+    "id": 1793992016, 
+    "name": "ponxu/blog4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ponxu/blog4j/snapshot/f792a783c3b154dc89105ea6f53822a6f4c5756a/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

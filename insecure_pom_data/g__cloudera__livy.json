@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cloudera/livy", 
+    "url-identifier": "g/cloudera/livy", 
+    "id": 12100005, 
+    "name": "cloudera/livy"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cloudera/livy/snapshot/989d9b11bbd3a4385031fae45e2207f12e1a5850/files/pom.xml#L164", 
+        "line": 164, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

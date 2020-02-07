@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-wiki-integration", 
+    "url-identifier": "g/OneBusAway/onebusaway-wiki-integration", 
+    "id": 1507581826043, 
+    "name": "OneBusAway/onebusaway-wiki-integration"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-wiki-integration/snapshot/044e7a7e5fe8ea4d1ff6ebf05efdec44e56bc91b/files/onebusaway-wiki-integration-xwiki/onebusaway-wiki-integration-xwiki-urlnotification-plugin/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/onebusaway-wiki-integration-xwiki/onebusaway-wiki-integration-xwiki-urlnotification-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-wiki-integration/snapshot/044e7a7e5fe8ea4d1ff6ebf05efdec44e56bc91b/files/onebusaway-wiki-integration-xwiki/onebusaway-wiki-integration-xwiki-urlnotification-plugin/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/onebusaway-wiki-integration-xwiki/onebusaway-wiki-integration-xwiki-urlnotification-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-wiki-integration/snapshot/044e7a7e5fe8ea4d1ff6ebf05efdec44e56bc91b/files/onebusaway-wiki-integration-xwiki/onebusaway-wiki-integration-xwiki-urlnotification-plugin/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/onebusaway-wiki-integration-xwiki/onebusaway-wiki-integration-xwiki-urlnotification-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.xwiki.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-wiki-integration/snapshot/044e7a7e5fe8ea4d1ff6ebf05efdec44e56bc91b/files/onebusaway-wiki-integration-xwiki/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/onebusaway-wiki-integration-xwiki/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-wiki-integration/snapshot/044e7a7e5fe8ea4d1ff6ebf05efdec44e56bc91b/files/onebusaway-wiki-integration-xwiki/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/onebusaway-wiki-integration-xwiki/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.xwiki.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-wiki-integration/snapshot/044e7a7e5fe8ea4d1ff6ebf05efdec44e56bc91b/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://developer.onebusaway.org/maven/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-wiki-integration/snapshot/044e7a7e5fe8ea4d1ff6ebf05efdec44e56bc91b/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://developer.onebusaway.org/maven/snapshot-repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

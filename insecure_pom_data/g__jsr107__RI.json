@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jsr107/RI", 
+    "url-identifier": "g/jsr107/RI", 
+    "id": 62120054, 
+    "name": "jsr107/RI"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsr107/RI/snapshot/68176d74f9f645fdd54e871475bb9abf1be93c16/files/pom.xml#L217", 
+        "line": 217, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsr107/RI/snapshot/68176d74f9f645fdd54e871475bb9abf1be93c16/files/pom.xml#L222", 
+        "line": 222, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/sourceforge-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

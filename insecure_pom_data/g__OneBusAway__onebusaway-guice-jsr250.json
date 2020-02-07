@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-guice-jsr250", 
+    "url-identifier": "g/OneBusAway/onebusaway-guice-jsr250", 
+    "id": 1507581816032, 
+    "name": "OneBusAway/onebusaway-guice-jsr250"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-guice-jsr250/snapshot/6db7d2a7f3ac7f4ea6a9571ca92cc61338c2589a/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lejon/T-SNE-Java", 
+    "url-identifier": "g/lejon/T-SNE-Java", 
+    "id": 1797149899, 
+    "name": "lejon/T-SNE-Java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lejon/T-SNE-Java/snapshot/d25d45e075ddbece4cab3b7b4d913ff00fd211a7/files/tsne-demos/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/tsne-demos/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/cardillo/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

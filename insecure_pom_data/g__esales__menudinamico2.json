@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/esales/menudinamico2", 
+    "url-identifier": "g/esales/menudinamico2", 
+    "id": 1510604687378, 
+    "name": "esales/menudinamico2"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/esales/menudinamico2/snapshot/9520dab02be8774ce5c70cc0506b97a5c342c1d2/files/pom.xml#L157", 
+        "line": 157, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/esales/menudinamico2/snapshot/9520dab02be8774ce5c70cc0506b97a5c342c1d2/files/target/m2e-wtp/web-resources/META-INF/maven/com.mycompany/menudinamico2/pom.xml#L157", 
+        "line": 157, 
+        "value": "repository", 
+        "file": "/target/m2e-wtp/web-resources/META-INF/maven/com.mycompany/menudinamico2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

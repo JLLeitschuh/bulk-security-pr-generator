@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkins-infra/ircbot", 
+    "url-identifier": "g/jenkins-infra/ircbot", 
+    "id": 10320094, 
+    "name": "jenkins-infra/ircbot"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkins-infra/ircbot/snapshot/989d3241b580f2b3c4f173bbaa37dfdb3dc78376/files/pom.xml#L145", 
+        "line": 145, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

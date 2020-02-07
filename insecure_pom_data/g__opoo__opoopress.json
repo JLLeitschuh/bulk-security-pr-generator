@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opoo/opoopress", 
+    "url-identifier": "g/opoo/opoopress", 
+    "id": 54950090, 
+    "name": "opoo/opoopress"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opoo/opoopress/snapshot/025596e117043e0f1a7c6f0c6b50f9b09f371782/files/maven-archetypes/site/src/main/resources/archetype-resources/pom.xml#L189", 
+        "line": 189, 
+        "value": "repository", 
+        "file": "/maven-archetypes/site/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.opoopress.com/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opoo/opoopress/snapshot/025596e117043e0f1a7c6f0c6b50f9b09f371782/files/maven-archetypes/site/src/main/resources/archetype-resources/pom.xml#L203", 
+        "line": 203, 
+        "value": "pluginRepository", 
+        "file": "/maven-archetypes/site/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.opoopress.com/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opoo/opoopress/snapshot/025596e117043e0f1a7c6f0c6b50f9b09f371782/files/maven-archetypes/site-blank/src/main/resources/archetype-resources/pom.xml#L191", 
+        "line": 191, 
+        "value": "repository", 
+        "file": "/maven-archetypes/site-blank/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.opoopress.com/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opoo/opoopress/snapshot/025596e117043e0f1a7c6f0c6b50f9b09f371782/files/maven-archetypes/site-blank/src/main/resources/archetype-resources/pom.xml#L205", 
+        "line": 205, 
+        "value": "pluginRepository", 
+        "file": "/maven-archetypes/site-blank/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.opoopress.com/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

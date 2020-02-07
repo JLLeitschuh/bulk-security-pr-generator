@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/external-resource-dispatcher-plugin", 
+    "url-identifier": "g/jenkinsci/external-resource-dispatcher-plugin", 
+    "id": 1506610488860, 
+    "name": "jenkinsci/external-resource-dispatcher-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/external-resource-dispatcher-plugin/snapshot/04400c6983c30e79c8f83033eaeaa2c7f45fc4d4/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/external-resource-dispatcher-plugin/snapshot/04400c6983c30e79c8f83033eaeaa2c7f45fc4d4/files/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jsonrpc4j.googlecode.com/svn/maven/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/external-resource-dispatcher-plugin/snapshot/04400c6983c30e79c8f83033eaeaa2c7f45fc4d4/files/pom.xml#L153", 
+        "line": 153, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/external-resource-dispatcher-plugin/snapshot/04400c6983c30e79c8f83033eaeaa2c7f45fc4d4/files/pom.xml#L222", 
+        "line": 222, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

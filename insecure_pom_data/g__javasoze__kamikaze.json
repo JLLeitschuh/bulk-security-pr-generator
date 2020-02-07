@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/javasoze/kamikaze", 
+    "url-identifier": "g/javasoze/kamikaze", 
+    "id": 1506763166087, 
+    "name": "javasoze/kamikaze"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/javasoze/kamikaze/snapshot/0ee9165ca3f38f17af1a594988817a26dc7c6116/files/pom.xml#L127", 
+        "line": 127, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

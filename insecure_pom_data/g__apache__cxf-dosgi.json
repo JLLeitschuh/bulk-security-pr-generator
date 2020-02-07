@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/cxf-dosgi", 
+    "url-identifier": "g/apache/cxf-dosgi", 
+    "id": 1506241907391, 
+    "name": "apache/cxf-dosgi"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/cxf-dosgi/snapshot/0f42bdc565e6a09befce0ddca0cb6a90f74022b4/files/parent/pom.xml#L338", 
+        "line": 338, 
+        "value": "repository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/content/groups/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/cxf-dosgi/snapshot/0f42bdc565e6a09befce0ddca0cb6a90f74022b4/files/parent/pom.xml#L352", 
+        "line": 352, 
+        "value": "pluginRepository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/content/groups/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

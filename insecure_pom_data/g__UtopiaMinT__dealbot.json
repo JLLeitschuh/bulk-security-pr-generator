@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/UtopiaMinT/dealbot", 
+    "url-identifier": "g/UtopiaMinT/dealbot", 
+    "id": 1511112438352, 
+    "name": "UtopiaMinT/dealbot"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/UtopiaMinT/dealbot/snapshot/49a9a44a316e8b0d6ce3e9a868c63a1d101886d8/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://xuggle.googlecode.com/svn/trunk/repo/share/java/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/scopely/SplunkJavaLogging", 
+    "url-identifier": "g/scopely/SplunkJavaLogging", 
+    "id": 1506579639452, 
+    "name": "scopely/SplunkJavaLogging"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/scopely/SplunkJavaLogging/snapshot/257d22ec1dda8dbaa4ec2b516a3de16c5604fcc4/files/pom.xml#L92", 
+        "line": 92, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://splunk.artifactoryonline.com/splunk/ext-releases-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

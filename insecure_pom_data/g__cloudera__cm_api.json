@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cloudera/cm_api", 
+    "url-identifier": "g/cloudera/cm_api", 
+    "id": 33990031, 
+    "name": "cloudera/cm_api"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cloudera/cm_api/snapshot/351f75b2efe11d55e1d1a24357d70819767676b4/files/java/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins.cloudera.com:8081/artifactory/cdh-staging-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cloudera/cm_api/snapshot/351f75b2efe11d55e1d1a24357d70819767676b4/files/java/pom.xml#L27", 
+        "line": 27, 
+        "value": "snapshotRepository", 
+        "file": "/java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins.cloudera.com:8081/artifactory/libs-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

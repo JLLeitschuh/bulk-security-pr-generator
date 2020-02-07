@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/NLPchina/elasticsearch-analysis-ansj", 
+    "url-identifier": "g/NLPchina/elasticsearch-analysis-ansj", 
+    "id": 25530063, 
+    "name": "NLPchina/elasticsearch-analysis-ansj"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/NLPchina/elasticsearch-analysis-ansj/snapshot/8433eac61246c6a2b5bf8dbc7cced6f4e7436787/files/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nlpcn.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

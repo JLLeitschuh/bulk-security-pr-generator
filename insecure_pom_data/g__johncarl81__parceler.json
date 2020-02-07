@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/johncarl81/parceler", 
+    "url-identifier": "g/johncarl81/parceler", 
+    "id": 38600044, 
+    "name": "johncarl81/parceler"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/johncarl81/parceler/snapshot/69e32211234626e172fd7f07dfa878e6ae675f7e/files/examples/gradle/pom.xml#L19", 
+        "line": 19, 
+        "value": "pluginRepository", 
+        "file": "/examples/gradle/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/RohanNagar/thunder", 
+    "url-identifier": "g/RohanNagar/thunder", 
+    "id": 1506480064691, 
+    "name": "RohanNagar/thunder"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RohanNagar/thunder/snapshot/1b606a0c6eb01d112f86044f277ff0ebb2cc889b/files/pom.xml#L75", 
+        "line": 75, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

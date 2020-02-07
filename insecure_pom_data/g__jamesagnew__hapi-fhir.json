@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jamesagnew/hapi-fhir", 
+    "url-identifier": "g/jamesagnew/hapi-fhir", 
+    "id": 2037450412, 
+    "name": "jamesagnew/hapi-fhir"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jamesagnew/hapi-fhir/snapshot/e1c1795aacca775361a18c9bc3522f38ca3e5b3e/files/pom.xml#L1518", 
+        "line": 1518, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://central.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

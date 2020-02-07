@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ITEA3-Measure/MeasureAgent", 
+    "url-identifier": "g/ITEA3-Measure/MeasureAgent", 
+    "id": 1996820380, 
+    "name": "ITEA3-Measure/MeasureAgent"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ITEA3-Measure/MeasureAgent/snapshot/dca694d7943289070435faf4e7dd54caf0ffcb01/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.modelio.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

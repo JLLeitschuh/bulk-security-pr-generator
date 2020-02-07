@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tomdz/sphinx-maven", 
+    "url-identifier": "g/tomdz/sphinx-maven", 
+    "id": 1506708276730, 
+    "name": "tomdz/sphinx-maven"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomdz/sphinx-maven/snapshot/06a9d90326b35eb03bf7f798135a55b19fbb32b5/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomdz/sphinx-maven/snapshot/06a9d90326b35eb03bf7f798135a55b19fbb32b5/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

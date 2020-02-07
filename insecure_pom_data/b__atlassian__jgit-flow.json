@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/atlassian/jgit-flow", 
+    "url-identifier": "b/atlassian/jgit-flow", 
+    "id": 1315180020, 
+    "name": "atlassian/jgit-flow"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/atlassian/jgit-flow/snapshot/7b7608fa76ade9977816f3007310feb26593d30f/files/jgitflow-maven-plugin/src/test/resources/projects/rewrite-for-hotfix/basic-pom-namespace/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/jgitflow-maven-plugin/src/test/resources/projects/rewrite-for-hotfix/basic-pom-namespace/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/atlassian/jgit-flow/snapshot/7b7608fa76ade9977816f3007310feb26593d30f/files/jgitflow-maven-plugin/src/test/resources/projects/rewrite-for-release/basic-pom-namespace/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/jgitflow-maven-plugin/src/test/resources/projects/rewrite-for-release/basic-pom-namespace/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/atlassian/jgit-flow/snapshot/7b7608fa76ade9977816f3007310feb26593d30f/files/pom.xml#L337", 
+        "line": 337, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/atlassian/jgit-flow/snapshot/7b7608fa76ade9977816f3007310feb26593d30f/files/pom.xml#L363", 
+        "line": 363, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

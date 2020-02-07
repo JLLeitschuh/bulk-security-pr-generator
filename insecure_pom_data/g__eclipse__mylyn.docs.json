@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse/mylyn.docs", 
+    "url-identifier": "g/eclipse/mylyn.docs", 
+    "id": 28602223, 
+    "name": "eclipse/mylyn.docs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/mylyn.docs/snapshot/9997976e8a4445e3f65cd1809211c42d985a1d42/files/docs/pom.xml#L103", 
+        "line": 103, 
+        "value": "repository", 
+        "file": "/docs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/cbi/updates/license/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/mylyn.docs/snapshot/9997976e8a4445e3f65cd1809211c42d985a1d42/files/epub/core/repository/pom.xml#L149", 
+        "line": 149, 
+        "value": "pluginRepository", 
+        "file": "/epub/core/repository/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/mylyn.docs/snapshot/9997976e8a4445e3f65cd1809211c42d985a1d42/files/wikitext/core/repository/pom.xml#L141", 
+        "line": 141, 
+        "value": "pluginRepository", 
+        "file": "/wikitext/core/repository/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

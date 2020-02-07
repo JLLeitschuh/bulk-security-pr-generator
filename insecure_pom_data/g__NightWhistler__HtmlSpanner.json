@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/NightWhistler/HtmlSpanner", 
+    "url-identifier": "g/NightWhistler/HtmlSpanner", 
+    "id": 2031570293, 
+    "name": "NightWhistler/HtmlSpanner"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/NightWhistler/HtmlSpanner/snapshot/6209eb6584d53de1f91d612488a01ac815b440e9/files/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.pageturner-reader.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

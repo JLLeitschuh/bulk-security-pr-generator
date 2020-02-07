@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/asciidoctor/asciidoctor-maven-plugin", 
+    "url-identifier": "g/asciidoctor/asciidoctor-maven-plugin", 
+    "id": 27590021, 
+    "name": "asciidoctor/asciidoctor-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/asciidoctor/asciidoctor-maven-plugin/snapshot/deebe60b54f00d5765dfe0b48d0c3cb9870d84fd/files/pom.xml#L423", 
+        "line": 423, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/lordofthejars/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

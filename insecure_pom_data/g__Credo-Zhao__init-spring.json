@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Credo-Zhao/init-spring", 
+    "url-identifier": "g/Credo-Zhao/init-spring", 
+    "id": 1797090323, 
+    "name": "Credo-Zhao/init-spring"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Credo-Zhao/init-spring/snapshot/d01acf0fc6fa046db7e7af9efa3a331611808276/files/spring-init/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/spring-init/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://amateras.sourceforge.jp/mvn/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Credo-Zhao/init-spring/snapshot/d01acf0fc6fa046db7e7af9efa3a331611808276/files/spring-init/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/spring-init/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

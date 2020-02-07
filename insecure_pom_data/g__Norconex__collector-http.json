@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Norconex/collector-http", 
+    "url-identifier": "g/Norconex/collector-http", 
+    "id": 1794625769, 
+    "name": "Norconex/collector-http"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Norconex/collector-http/snapshot/d7a1c1b6ab80932461d8dbc79758d1e39f9edd0d/files/norconex-collector-http/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/norconex-collector-http/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

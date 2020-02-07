@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/adamcin/crx-content-package-deployer", 
+    "url-identifier": "g/adamcin/crx-content-package-deployer", 
+    "id": 1509074826151, 
+    "name": "adamcin/crx-content-package-deployer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adamcin/crx-content-package-deployer/snapshot/282d1cd8accd3694c45a040591c83e0f3df06ace/files/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adamcin/crx-content-package-deployer/snapshot/282d1cd8accd3694c45a040591c83e0f3df06ace/files/pom.xml#L75", 
+        "line": 75, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ojbc/main", 
+    "url-identifier": "g/ojbc/main", 
+    "id": 1820132, 
+    "name": "ojbc/main"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ojbc/main/snapshot/c44e4f767d0bfdb56285bfb706a22f428fbba211/files/shared/ojb-policy-decision-point-service/pom.xml#L288", 
+        "line": 288, 
+        "value": "repository", 
+        "file": "/shared/ojb-policy-decision-point-service/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

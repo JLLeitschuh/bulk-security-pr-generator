@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/etsy/jenkins-master-project", 
+    "url-identifier": "g/etsy/jenkins-master-project", 
+    "id": 1509202296245, 
+    "name": "etsy/jenkins-master-project"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/etsy/jenkins-master-project/snapshot/4e61492efcdda6bd42b9f45cd0d0a91eff9c78c3/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/etsy/jenkins-master-project/snapshot/4e61492efcdda6bd42b9f45cd0d0a91eff9c78c3/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

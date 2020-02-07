@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ikedam/authorize-project", 
+    "url-identifier": "g/ikedam/authorize-project", 
+    "id": 1506591230510, 
+    "name": "ikedam/authorize-project"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ikedam/authorize-project/snapshot/e66456603cc70d27a67f3080a9cb5af23637cfdb/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ikedam/authorize-project/snapshot/e66456603cc70d27a67f3080a9cb5af23637cfdb/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/senseidb/zoie", 
+    "url-identifier": "g/senseidb/zoie", 
+    "id": 50100017, 
+    "name": "senseidb/zoie"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/senseidb/zoie/snapshot/d76cd4a7e11a0fe83f368b6838b150925457c159/files/zoie-jms/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/zoie-jms/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/senseidb/zoie/snapshot/d76cd4a7e11a0fe83f368b6838b150925457c159/files/zoie-parent/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/zoie-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/senseidb/zoie/snapshot/d76cd4a7e11a0fe83f368b6838b150925457c159/files/zoie-perf/pom.xml#L113", 
+        "line": 113, 
+        "value": "repository", 
+        "file": "/zoie-perf/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.codahale.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

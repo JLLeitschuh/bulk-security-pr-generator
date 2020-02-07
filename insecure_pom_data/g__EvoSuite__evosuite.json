@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/EvoSuite/evosuite", 
+    "url-identifier": "g/EvoSuite/evosuite", 
+    "id": 7870272, 
+    "name": "EvoSuite/evosuite"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EvoSuite/evosuite/snapshot/a3147f2f52be2f26838a522c85d8d494708b0b39/files/plugins/eclipse/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/plugins/eclipse/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/photon"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EvoSuite/evosuite/snapshot/a3147f2f52be2f26838a522c85d8d494708b0b39/files/plugins/jenkins/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/plugins/jenkins/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EvoSuite/evosuite/snapshot/a3147f2f52be2f26838a522c85d8d494708b0b39/files/plugins/jenkins/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/plugins/jenkins/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.evosuite.org/m2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EvoSuite/evosuite/snapshot/a3147f2f52be2f26838a522c85d8d494708b0b39/files/plugins/jenkins/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/plugins/jenkins/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EvoSuite/evosuite/snapshot/a3147f2f52be2f26838a522c85d8d494708b0b39/files/plugins/jenkins/pom.xml#L44", 
+        "line": 44, 
+        "value": "pluginRepository", 
+        "file": "/plugins/jenkins/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.evosuite.org/m2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

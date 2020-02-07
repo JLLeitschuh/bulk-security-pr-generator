@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/teamed/qulice", 
+    "url-identifier": "g/teamed/qulice", 
+    "id": 4920014, 
+    "name": "teamed/qulice"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/teamed/qulice/snapshot/6ef20ace5b99f2ce7a55eeac052e4fb0342c1f15/files/qulice-gradle-plugin/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/qulice-gradle-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/libs-release-remote/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

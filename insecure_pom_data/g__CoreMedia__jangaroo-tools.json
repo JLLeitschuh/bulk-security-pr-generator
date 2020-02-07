@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/CoreMedia/jangaroo-tools", 
+    "url-identifier": "g/CoreMedia/jangaroo-tools", 
+    "id": 19100170, 
+    "name": "CoreMedia/jangaroo-tools"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CoreMedia/jangaroo-tools/snapshot/8ba8d1af02cbbb193b2b8b699af14c02cb996557/files/jangaroo-parent/pom.xml#L519", 
+        "line": 519, 
+        "value": "repository", 
+        "file": "/jangaroo-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CoreMedia/jangaroo-tools/snapshot/8ba8d1af02cbbb193b2b8b699af14c02cb996557/files/jangaroo-parent/pom.xml#L528", 
+        "line": 528, 
+        "value": "pluginRepository", 
+        "file": "/jangaroo-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CoreMedia/jangaroo-tools/snapshot/8ba8d1af02cbbb193b2b8b699af14c02cb996557/files/joodoc/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/joodoc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://woschod.coremedia.com/share-3rdp"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

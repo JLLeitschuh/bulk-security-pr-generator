@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/juddi", 
+    "url-identifier": "g/apache/juddi", 
+    "id": 1506242366605, 
+    "name": "apache/juddi"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/juddi/snapshot/ced953aadcbeb56da3c5e0de9ab9aec0cf82a335/files/pom.xml#L843", 
+        "line": 843, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hmsonline/storm-elastic-search", 
+    "url-identifier": "g/hmsonline/storm-elastic-search", 
+    "id": 34920161, 
+    "name": "hmsonline/storm-elastic-search"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hmsonline/storm-elastic-search/snapshot/d6c80b708f0e28be90bb38c45ae062d221a7140f/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hmsonline/storm-elastic-search/snapshot/d6c80b708f0e28be90bb38c45ae062d221a7140f/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

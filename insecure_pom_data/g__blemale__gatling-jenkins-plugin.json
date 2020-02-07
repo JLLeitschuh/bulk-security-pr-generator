@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/blemale/gatling-jenkins-plugin", 
+    "url-identifier": "g/blemale/gatling-jenkins-plugin", 
+    "id": 1509246776318, 
+    "name": "blemale/gatling-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/blemale/gatling-jenkins-plugin/snapshot/01216170af57446783c17d799f91f70085301244/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/blemale/gatling-jenkins-plugin/snapshot/01216170af57446783c17d799f91f70085301244/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/PolskiStevek/ZenGuard", 
+    "url-identifier": "g/PolskiStevek/ZenGuard", 
+    "id": 1511067397888, 
+    "name": "PolskiStevek/ZenGuard"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PolskiStevek/ZenGuard/snapshot/70c7bcfcb81f77dca8b00c5ba4c18a62024a7de6/files/ZenGuard-v1/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/ZenGuard-v1/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.codemc.org/repository/maven-public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

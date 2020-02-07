@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/xwiki/xwiki-clover-maven", 
+    "url-identifier": "g/xwiki/xwiki-clover-maven", 
+    "id": 1510223617297, 
+    "name": "xwiki/xwiki-clover-maven"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xwiki/xwiki-clover-maven/snapshot/5c9b65a6f5cfaf6e65647675de408b3091f4e410/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xwiki.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xwiki/xwiki-clover-maven/snapshot/5c9b65a6f5cfaf6e65647675de408b3091f4e410/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xwiki.org/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ace-han/coordinator", 
+    "url-identifier": "g/ace-han/coordinator", 
+    "id": 1506593318927, 
+    "name": "ace-han/coordinator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ace-han/coordinator/snapshot/a32dc7a92330003eed92182d7c20b5623228bc87/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ace-han/coordinator/snapshot/a32dc7a92330003eed92182d7c20b5623228bc87/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

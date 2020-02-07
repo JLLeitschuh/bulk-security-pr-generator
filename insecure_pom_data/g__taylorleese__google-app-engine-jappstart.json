@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/taylorleese/google-app-engine-jappstart", 
+    "url-identifier": "g/taylorleese/google-app-engine-jappstart", 
+    "id": 66130078, 
+    "name": "taylorleese/google-app-engine-jappstart"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/taylorleese/google-app-engine-jappstart/snapshot/7cb753fe8b22261247b10840192ce0b9202a5745/files/pom.xml#L96", 
+        "line": 96, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/github-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/janinko/ghprb", 
+    "url-identifier": "g/janinko/ghprb", 
+    "id": 32300026, 
+    "name": "janinko/ghprb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janinko/ghprb/snapshot/c30d198db5fb08ef6dfd1ac8c5222810ba89469f/files/pom.xml#L178", 
+        "line": 178, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janinko/ghprb/snapshot/c30d198db5fb08ef6dfd1ac8c5222810ba89469f/files/pom.xml#L182", 
+        "line": 182, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/jgit/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janinko/ghprb/snapshot/c30d198db5fb08ef6dfd1ac8c5222810ba89469f/files/pom.xml#L190", 
+        "line": 190, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/janinko/ghprb/snapshot/c30d198db5fb08ef6dfd1ac8c5222810ba89469f/files/pom.xml#L197", 
+        "line": 197, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

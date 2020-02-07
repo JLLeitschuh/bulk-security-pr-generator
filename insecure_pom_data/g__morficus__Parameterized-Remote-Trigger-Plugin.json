@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/morficus/Parameterized-Remote-Trigger-Plugin", 
+    "url-identifier": "g/morficus/Parameterized-Remote-Trigger-Plugin", 
+    "id": 1509208356615, 
+    "name": "morficus/Parameterized-Remote-Trigger-Plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/morficus/Parameterized-Remote-Trigger-Plugin/snapshot/cb50951bb1a9a418efca2137cdc4ae8b6af80075/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/morficus/Parameterized-Remote-Trigger-Plugin/snapshot/cb50951bb1a9a418efca2137cdc4ae8b6af80075/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

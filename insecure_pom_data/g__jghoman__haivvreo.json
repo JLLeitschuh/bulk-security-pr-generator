@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jghoman/haivvreo", 
+    "url-identifier": "g/jghoman/haivvreo", 
+    "id": 1506776306793, 
+    "name": "jghoman/haivvreo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jghoman/haivvreo/snapshot/26d203cc8002b2eb3c5a0d32ea8bb525240dc046/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jghoman/haivvreo/snapshot/26d203cc8002b2eb3c5a0d32ea8bb525240dc046/files/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jghoman/haivvreo/snapshot/26d203cc8002b2eb3c5a0d32ea8bb525240dc046/files/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jghoman/haivvreo/snapshot/26d203cc8002b2eb3c5a0d32ea8bb525240dc046/files/pom.xml#L102", 
+        "line": 102, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

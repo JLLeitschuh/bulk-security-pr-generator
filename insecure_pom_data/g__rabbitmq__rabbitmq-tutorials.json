@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rabbitmq/rabbitmq-tutorials", 
+    "url-identifier": "g/rabbitmq/rabbitmq-tutorials", 
+    "id": 1506176326983, 
+    "name": "rabbitmq/rabbitmq-tutorials"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rabbitmq/rabbitmq-tutorials/snapshot/215aa61a9d95cdb6968693d88b055482354c1b1f/files/soapui/pom.xml#L12", 
+        "line": 12, 
+        "value": "pluginRepository", 
+        "file": "/soapui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://smartbearsoftware.com/repository/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

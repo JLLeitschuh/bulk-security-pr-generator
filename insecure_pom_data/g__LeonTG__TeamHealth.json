@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/LeonTG/TeamHealth", 
+    "url-identifier": "g/LeonTG/TeamHealth", 
+    "id": 1506198576272, 
+    "name": "LeonTG/TeamHealth"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LeonTG/TeamHealth/snapshot/6abb3c3586974a30a4dd537102655b9bbad92920/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

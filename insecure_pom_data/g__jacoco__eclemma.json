@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jacoco/eclemma", 
+    "url-identifier": "g/jacoco/eclemma", 
+    "id": 16841300, 
+    "name": "jacoco/eclemma"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jacoco/eclemma/snapshot/bc60c7710de7757548c4cc38212a28353c9a11c8/files/com.mountainminds.eclemma.build/pom.xml#L336", 
+        "line": 336, 
+        "value": "repository", 
+        "file": "/com.mountainminds.eclemma.build/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/downloads/drops/R20110523182458/repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

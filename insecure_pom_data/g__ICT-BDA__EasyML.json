@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ICT-BDA/EasyML", 
+    "url-identifier": "g/ICT-BDA/EasyML", 
+    "id": 1506174066943, 
+    "name": "ICT-BDA/EasyML"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ICT-BDA/EasyML/snapshot/6aeb8b7f8e0d2d933a1170d2d1f30fe5f16380ae/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/plugins-release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ICT-BDA/EasyML/snapshot/6aeb8b7f8e0d2d933a1170d2d1f30fe5f16380ae/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/internetarchive/heritrix3", 
+    "url-identifier": "g/internetarchive/heritrix3", 
+    "id": 10020067, 
+    "name": "internetarchive/heritrix3"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/internetarchive/heritrix3/snapshot/0a70e3d0fcb316dd2a97bd85474ec4d6a7263d0d/files/commons/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/commons/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/internetarchive/heritrix3/snapshot/0a70e3d0fcb316dd2a97bd85474ec4d6a7263d0d/files/engine/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/engine/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/internetarchive/heritrix3/snapshot/0a70e3d0fcb316dd2a97bd85474ec4d6a7263d0d/files/pom.xml#L92", 
+        "line": 92, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://builds.archive.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/internetarchive/heritrix3/snapshot/0a70e3d0fcb316dd2a97bd85474ec4d6a7263d0d/files/pom.xml#L99", 
+        "line": 99, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://builds.archive.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

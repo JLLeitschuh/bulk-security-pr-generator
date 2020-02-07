@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opengeospatial/geoapi", 
+    "url-identifier": "g/opengeospatial/geoapi", 
+    "id": 7870159, 
+    "name": "opengeospatial/geoapi"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opengeospatial/geoapi/snapshot/aed76d68f98f620bf6e120eed8bb47f62229f546/files/geoapi-openoffice/pom.xml#L123", 
+        "line": 123, 
+        "value": "pluginRepository", 
+        "file": "/geoapi-openoffice/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geotoolkit.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

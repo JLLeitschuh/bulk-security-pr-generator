@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/linkedpipes/etl", 
+    "url-identifier": "g/linkedpipes/etl", 
+    "id": 1506727966350, 
+    "name": "linkedpipes/etl"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/linkedpipes/etl/snapshot/b0bdd1ef077656ce07dd785e405ac0aee3853fc5/files/plugin-libraries/geotools/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/plugin-libraries/geotools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/linkedpipes/etl/snapshot/b0bdd1ef077656ce07dd785e405ac0aee3853fc5/files/plugin-libraries/geotools/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/plugin-libraries/geotools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geomajas.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/linkedpipes/etl/snapshot/b0bdd1ef077656ce07dd785e405ac0aee3853fc5/files/plugins/t-geoTools/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/plugins/t-geoTools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/linkedpipes/etl/snapshot/b0bdd1ef077656ce07dd785e405ac0aee3853fc5/files/plugins/t-geoTools/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/plugins/t-geoTools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geomajas.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

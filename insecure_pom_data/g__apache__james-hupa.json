@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/james-hupa", 
+    "url-identifier": "g/apache/james-hupa", 
+    "id": 1506235507603, 
+    "name": "apache/james-hupa"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/james-hupa/snapshot/56398a3db59c0bd5a44fa5bbb1f24e45002c1d5a/files/pom.xml#L336", 
+        "line": 336, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/james-hupa/snapshot/56398a3db59c0bd5a44fa5bbb1f24e45002c1d5a/files/pom.xml#L340", 
+        "line": 340, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/james-hupa/snapshot/56398a3db59c0bd5a44fa5bbb1f24e45002c1d5a/files/pom.xml#L344", 
+        "line": 344, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

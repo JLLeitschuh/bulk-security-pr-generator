@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/fluorumlabs/url-parameter-mapping", 
+    "url-identifier": "g/fluorumlabs/url-parameter-mapping", 
+    "id": 1509466866442, 
+    "name": "fluorumlabs/url-parameter-mapping"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fluorumlabs/url-parameter-mapping/snapshot/a5c09853bb4c4573b72522b1c0262fa52d10fb0e/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fluorumlabs/url-parameter-mapping/snapshot/a5c09853bb4c4573b72522b1c0262fa52d10fb0e/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

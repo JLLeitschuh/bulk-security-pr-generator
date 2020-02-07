@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/spring-by-example/spring-by-example", 
+    "url-identifier": "g/spring-by-example/spring-by-example", 
+    "id": 1506669786186, 
+    "name": "spring-by-example/spring-by-example"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-by-example/spring-by-example/snapshot/7de02e75afc39fe229e70a99703923299dc19bdb/files/proto-pom/pom.xml#L1018", 
+        "line": 1018, 
+        "value": "repository", 
+        "file": "/proto-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.springbyexample.org/maven/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-by-example/spring-by-example/snapshot/7de02e75afc39fe229e70a99703923299dc19bdb/files/proto-pom/pom.xml#L1024", 
+        "line": 1024, 
+        "value": "repository", 
+        "file": "/proto-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-by-example/spring-by-example/snapshot/7de02e75afc39fe229e70a99703923299dc19bdb/files/proto-pom/pom.xml#L1029", 
+        "line": 1029, 
+        "value": "repository", 
+        "file": "/proto-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

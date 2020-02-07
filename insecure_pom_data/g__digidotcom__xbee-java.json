@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/digidotcom/xbee-java", 
+    "url-identifier": "g/digidotcom/xbee-java", 
+    "id": 1789915016, 
+    "name": "digidotcom/xbee-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/digidotcom/xbee-java/snapshot/d3edc148cb18064b538f5abd624769656747f0c0/files/pom.xml#L365", 
+        "line": 365, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ftp1.digi.com/support/m-repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

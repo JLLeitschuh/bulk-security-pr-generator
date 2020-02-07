@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/LiveRamp/hank", 
+    "url-identifier": "g/LiveRamp/hank", 
+    "id": 6800053, 
+    "name": "LiveRamp/hank"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LiveRamp/hank/snapshot/413ebdf418d59865100b10ea84c11ae4b82d89b3/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LiveRamp/hank/snapshot/413ebdf418d59865100b10ea84c11ae4b82d89b3/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

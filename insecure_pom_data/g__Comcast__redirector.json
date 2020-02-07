@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Comcast/redirector", 
+    "url-identifier": "g/Comcast/redirector", 
+    "id": 1506595227827, 
+    "name": "Comcast/redirector"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Comcast/redirector/snapshot/d82e99c4ef806d9717e3de944aed1b19151de8dc/files/service/redirector-gateway/pom.xml#L283", 
+        "line": 283, 
+        "value": "repository", 
+        "file": "/service/redirector-gateway/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ftp.cica.es/mirrors/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Comcast/redirector/snapshot/d82e99c4ef806d9717e3de944aed1b19151de8dc/files/service/redirector-gateway/pom.xml#L288", 
+        "line": 288, 
+        "value": "repository", 
+        "file": "/service/redirector-gateway/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Comcast/redirector/snapshot/d82e99c4ef806d9717e3de944aed1b19151de8dc/files/service/redirector-gateway/pom.xml#L293", 
+        "line": 293, 
+        "value": "repository", 
+        "file": "/service/redirector-gateway/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Comcast/redirector/snapshot/d82e99c4ef806d9717e3de944aed1b19151de8dc/files/service/redirector-gateway/pom.xml#L298", 
+        "line": 298, 
+        "value": "repository", 
+        "file": "/service/redirector-gateway/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Comcast/redirector/snapshot/d82e99c4ef806d9717e3de944aed1b19151de8dc/files/service/redirector-gateway/pom.xml#L303", 
+        "line": 303, 
+        "value": "repository", 
+        "file": "/service/redirector-gateway/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

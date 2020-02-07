@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/enioka/jqm", 
+    "url-identifier": "g/enioka/jqm", 
+    "id": 1506583738820, 
+    "name": "enioka/jqm"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/enioka/jqm/snapshot/41fa52ecaddb52495c731f37f4ce04effa768288/files/jqm-all/jqm-jsfsample/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/jqm-all/jqm-jsfsample/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/enioka/jqm/snapshot/41fa52ecaddb52495c731f37f4ce04effa768288/files/jqm-all/jqm-wstst/pom.xml#L135", 
+        "line": 135, 
+        "value": "repository", 
+        "file": "/jqm-all/jqm-wstst/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository-saucelabs.forge.cloudbees.com/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

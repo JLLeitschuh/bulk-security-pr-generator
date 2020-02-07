@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ProjectKorra/ProjectKorra", 
+    "url-identifier": "g/ProjectKorra/ProjectKorra", 
+    "id": 1506707766113, 
+    "name": "ProjectKorra/ProjectKorra"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ProjectKorra/ProjectKorra/snapshot/2e49d25ed9c8fc35dac05f2ba6b19e60516cdcb1/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ProjectKorra/ProjectKorra/snapshot/2e49d25ed9c8fc35dac05f2ba6b19e60516cdcb1/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.aikar.co/nexus/content/groups/aikar/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ProjectKorra/ProjectKorra/snapshot/2e49d25ed9c8fc35dac05f2ba6b19e60516cdcb1/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.extendedclip.com/content/repositories/placeholderapi/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

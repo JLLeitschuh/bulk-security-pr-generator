@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/chompi/openrtb2x", 
+    "url-identifier": "g/chompi/openrtb2x", 
+    "id": 11090044, 
+    "name": "chompi/openrtb2x"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/chompi/openrtb2x/snapshot/e1b97b422b296346f01cce57380afa4488e17064/files/supply-side/ssp-core/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/supply-side/ssp-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/chompi/openrtb2x/snapshot/e1b97b422b296346f01cce57380afa4488e17064/files/supply-side/ssp-core/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/supply-side/ssp-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/1"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

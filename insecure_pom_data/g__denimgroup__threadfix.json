@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/denimgroup/threadfix", 
+    "url-identifier": "g/denimgroup/threadfix", 
+    "id": 20800594, 
+    "name": "denimgroup/threadfix"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/denimgroup/threadfix/snapshot/47c486d2135f62961f87999db93738b7da304270/files/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/denimgroup/threadfix/snapshot/47c486d2135f62961f87999db93738b7da304270/files/threadfix-ide-plugin/eclipse/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/threadfix-ide-plugin/eclipse/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/kepler"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/denimgroup/threadfix/snapshot/47c486d2135f62961f87999db93738b7da304270/files/threadfix-scanner-plugin/zaproxy/pom.xml#L116", 
+        "line": 116, 
+        "value": "repository", 
+        "file": "/threadfix-scanner-plugin/zaproxy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

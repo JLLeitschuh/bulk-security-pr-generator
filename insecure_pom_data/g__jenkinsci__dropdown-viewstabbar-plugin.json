@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/dropdown-viewstabbar-plugin", 
+    "url-identifier": "g/jenkinsci/dropdown-viewstabbar-plugin", 
+    "id": 1509186579182, 
+    "name": "jenkinsci/dropdown-viewstabbar-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/dropdown-viewstabbar-plugin/snapshot/5ae20047ab912572eb2479eb0fff1206e896f5a9/files/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/dropdown-viewstabbar-plugin/snapshot/5ae20047ab912572eb2479eb0fff1206e896f5a9/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

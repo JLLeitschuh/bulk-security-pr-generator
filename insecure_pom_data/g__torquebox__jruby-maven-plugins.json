@@ -1,0 +1,520 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins", 
+    "url-identifier": "g/torquebox/jruby-maven-plugins", 
+    "id": 1506694626845, 
+    "name": "torquebox/jruby-maven-plugins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/bundler-maven-plugin/src/it/bundler-pom/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/bundler-maven-plugin/src/it/bundler-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/cucumber-maven-plugin/src/it/cucumber-failure/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/cucumber-maven-plugin/src/it/cucumber-failure/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/cucumber-maven-plugin/src/it/cucumber-failure-19/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/cucumber-maven-plugin/src/it/cucumber-failure-19/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/cucumber-maven-plugin/src/it/cucumber-pom/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/cucumber-maven-plugin/src/it/cucumber-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/cucumber-maven-plugin/src/it/cucumber-somewhere/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/cucumber-maven-plugin/src/it/cucumber-somewhere/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/cucumber-maven-plugin/src/it/cucumber-summary-report/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/cucumber-maven-plugin/src/it/cucumber-summary-report/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-assembly-descriptors/src/it/assemble-project-with-gems/application/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/gem-assembly-descriptors/src/it/assemble-project-with-gems/application/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-assembly-descriptors/src/it/assemble-project-with-gems/ruby-world/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/gem-assembly-descriptors/src/it/assemble-project-with-gems/ruby-world/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-assembly-descriptors/src/it/assemble-project-without-gems/application/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/gem-assembly-descriptors/src/it/assemble-project-without-gems/application/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-assembly-descriptors/src/it/assemble-project-without-gems/ruby-world/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/gem-assembly-descriptors/src/it/assemble-project-without-gems/ruby-world/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-maven-plugin/src/it/exec-file/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/gem-maven-plugin/src/it/exec-file/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-maven-plugin/src/it/execute-compass-with-gems-from-plugin/pom.xml#L8", 
+        "line": 8, 
+        "value": "pluginRepository", 
+        "file": "/gem-maven-plugin/src/it/execute-compass-with-gems-from-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-maven-plugin/src/it/gem-sets/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/gem-maven-plugin/src/it/gem-sets/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-maven-plugin/src/it/gems-with-compile-test-and-provided-scope/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/gem-maven-plugin/src/it/gems-with-compile-test-and-provided-scope/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-maven-plugin/src/it/include-rubygems-in-resources/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/gem-maven-plugin/src/it/include-rubygems-in-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-maven-plugin/src/it/include-rubygems-in-test-resources/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/gem-maven-plugin/src/it/include-rubygems-in-test-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-maven-plugin/src/it/include-rubygems-in-test-resources-failure/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/gem-maven-plugin/src/it/include-rubygems-in-test-resources-failure/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-maven-plugin/src/it/initialize/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/gem-maven-plugin/src/it/initialize/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/gem-maven-plugin/src/it/jars-lock/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/gem-maven-plugin/src/it/jars-lock/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/minitest-maven-plugin/src/it/minispec-with-jar-dependencies/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/minitest-maven-plugin/src/it/minispec-with-jar-dependencies/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/minitest-maven-plugin/src/it/minitest-failure/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/minitest-maven-plugin/src/it/minitest-failure/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/minitest-maven-plugin/src/it/minitest-failure-19/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/minitest-maven-plugin/src/it/minitest-failure-19/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/minitest-maven-plugin/src/it/minitest-pom-210/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/minitest-maven-plugin/src/it/minitest-pom-210/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/minitest-maven-plugin/src/it/minitest-pom-508/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/minitest-maven-plugin/src/it/minitest-pom-508/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/minitest-maven-plugin/src/it/minitest-somewhere/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/minitest-maven-plugin/src/it/minitest-somewhere/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/minitest-maven-plugin/src/it/minitest-summary-report/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/minitest-maven-plugin/src/it/minitest-summary-report/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rake-maven-plugin/src/it/rake-file/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/rake-maven-plugin/src/it/rake-file/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rake-maven-plugin/src/it/rake-somewhere/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/rake-maven-plugin/src/it/rake-somewhere/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rake-maven-plugin/src/it/rake-tasks/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/rake-maven-plugin/src/it/rake-tasks/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/rspec-20-156/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/rspec-20-156/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/rspec-21_20-156/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/rspec-21_20-156/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/rspec-3.x/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/rspec-3.x/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/rspec-failure/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/rspec-failure/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/rspec-failure-18and19-156_161/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/rspec-failure-18and19-156_161/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/rspec-failure-19/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/rspec-failure-19/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/rspec-path/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/rspec-path/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/rspec-pom/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/rspec-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/rspec-somewhere/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/rspec-somewhere/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/rspec-summary-report/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/rspec-summary-report/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/rspec-with-jar-dependencies/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/rspec-with-jar-dependencies/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/with-custom-specs-path/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/with-custom-specs-path/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/with-error-in-before/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/with-error-in-before/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/with-java-classes/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/with-java-classes/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/rspec-maven-plugin/src/it/without-specs-path/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/rspec-maven-plugin/src/it/without-specs-path/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/ruby-tools/pom.xml#L194", 
+        "line": 194, 
+        "value": "repository", 
+        "file": "/ruby-tools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/torquebox/jruby-maven-plugins/snapshot/1f9c2bf5f18fc832df259a09baf9958779ba6a9d/files/runit-maven-plugin/src/it/runit-with-jar-dependencies/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/runit-maven-plugin/src/it/runit-with-jar-dependencies/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/toyzhou/phm", 
+    "url-identifier": "g/toyzhou/phm", 
+    "id": 1507212346066, 
+    "name": "toyzhou/phm"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/toyzhou/phm/snapshot/8af7db2487bbc9fad545459a6a359702b36d2718/files/phmis/bin/pom.xml#L293", 
+        "line": 293, 
+        "value": "repository", 
+        "file": "/phmis/bin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/toyzhou/phm/snapshot/8af7db2487bbc9fad545459a6a359702b36d2718/files/phmis/bin/pom.xml#L300", 
+        "line": 300, 
+        "value": "repository", 
+        "file": "/phmis/bin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/toyzhou/phm/snapshot/8af7db2487bbc9fad545459a6a359702b36d2718/files/phmis/bin/pom.xml#L307", 
+        "line": 307, 
+        "value": "repository", 
+        "file": "/phmis/bin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.com/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/toyzhou/phm/snapshot/8af7db2487bbc9fad545459a6a359702b36d2718/files/phmis/bin/pom.xml#L387", 
+        "line": 387, 
+        "value": "pluginRepository", 
+        "file": "/phmis/bin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/toyzhou/phm/snapshot/8af7db2487bbc9fad545459a6a359702b36d2718/files/phmis/bin/pom.xml#L391", 
+        "line": 391, 
+        "value": "pluginRepository", 
+        "file": "/phmis/bin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/toyzhou/phm/snapshot/8af7db2487bbc9fad545459a6a359702b36d2718/files/phmis/pom.xml#L379", 
+        "line": 379, 
+        "value": "repository", 
+        "file": "/phmis/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/toyzhou/phm/snapshot/8af7db2487bbc9fad545459a6a359702b36d2718/files/phmis/pom.xml#L386", 
+        "line": 386, 
+        "value": "repository", 
+        "file": "/phmis/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/toyzhou/phm/snapshot/8af7db2487bbc9fad545459a6a359702b36d2718/files/phmis/pom.xml#L455", 
+        "line": 455, 
+        "value": "pluginRepository", 
+        "file": "/phmis/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/toyzhou/phm/snapshot/8af7db2487bbc9fad545459a6a359702b36d2718/files/phmis/pom.xml#L459", 
+        "line": 459, 
+        "value": "pluginRepository", 
+        "file": "/phmis/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

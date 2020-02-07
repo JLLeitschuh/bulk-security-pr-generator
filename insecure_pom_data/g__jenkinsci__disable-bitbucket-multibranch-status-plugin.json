@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/disable-bitbucket-multibranch-status-plugin", 
+    "url-identifier": "g/jenkinsci/disable-bitbucket-multibranch-status-plugin", 
+    "id": 1509226836189, 
+    "name": "jenkinsci/disable-bitbucket-multibranch-status-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/disable-bitbucket-multibranch-status-plugin/snapshot/435e56987ec93f8b8da1cb7dac4d7755d79ef06e/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/disable-bitbucket-multibranch-status-plugin/snapshot/435e56987ec93f8b8da1cb7dac4d7755d79ef06e/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

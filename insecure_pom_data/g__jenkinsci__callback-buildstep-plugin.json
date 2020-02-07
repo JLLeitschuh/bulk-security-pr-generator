@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/callback-buildstep-plugin", 
+    "url-identifier": "g/jenkinsci/callback-buildstep-plugin", 
+    "id": 1506612279532, 
+    "name": "jenkinsci/callback-buildstep-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/callback-buildstep-plugin/snapshot/f7baeaefbf606a98eba98a19355d1dd494483be8/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/callback-buildstep-plugin/snapshot/f7baeaefbf606a98eba98a19355d1dd494483be8/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

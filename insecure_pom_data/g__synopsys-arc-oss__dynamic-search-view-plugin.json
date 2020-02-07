@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/synopsys-arc-oss/dynamic-search-view-plugin", 
+    "url-identifier": "g/synopsys-arc-oss/dynamic-search-view-plugin", 
+    "id": 1509044486090, 
+    "name": "synopsys-arc-oss/dynamic-search-view-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/synopsys-arc-oss/dynamic-search-view-plugin/snapshot/e993c6f086180ddf21bb4d0ced252fbea4ebc101/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/synopsys-arc-oss/dynamic-search-view-plugin/snapshot/e993c6f086180ddf21bb4d0ced252fbea4ebc101/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

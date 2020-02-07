@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/maven-jmod-plugin", 
+    "url-identifier": "g/apache/maven-jmod-plugin", 
+    "id": 1506243716214, 
+    "name": "apache/maven-jmod-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-jmod-plugin/snapshot/f489ce11f43bdef4c203dc88786d5dd58421139e/files/src/it/mjmod-8-generate-jmod-in-other-project/pom.xml#L63", 
+        "line": 63, 
+        "value": "pluginRepository", 
+        "file": "/src/it/mjmod-8-generate-jmod-in-other-project/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/square/cascading2-protobufs", 
+    "url-identifier": "g/square/cascading2-protobufs", 
+    "id": 1511101997101, 
+    "name": "square/cascading2-protobufs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/square/cascading2-protobufs/snapshot/524fd920bb19b451f076c4fdd310dfbe707fa08d/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

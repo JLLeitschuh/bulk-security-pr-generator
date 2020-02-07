@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/elasticjob/elastic-job-lite", 
+    "url-identifier": "g/elasticjob/elastic-job-lite", 
+    "id": 3970045, 
+    "name": "elasticjob/elastic-job-lite"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/elasticjob/elastic-job-lite/snapshot/7fb526c7769e45c48c457b600abea9535b64b1d5/files/pom.xml#L591", 
+        "line": 591, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://terracotta.org/download/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

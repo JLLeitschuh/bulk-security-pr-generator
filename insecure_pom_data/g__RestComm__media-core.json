@@ -1,0 +1,146 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/RestComm/media-core", 
+    "url-identifier": "g/RestComm/media-core", 
+    "id": 1800121494, 
+    "name": "RestComm/media-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/client/jsr-309/driver/pom.xml#L198", 
+        "line": 198, 
+        "value": "repository", 
+        "file": "/client/jsr-309/driver/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/client/jsr-309/driver/pom.xml#L212", 
+        "line": 212, 
+        "value": "repository", 
+        "file": "/client/jsr-309/driver/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/repositories/deprecated"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/client/jsr-309/driver/pom.xml#L220", 
+        "line": 220, 
+        "value": "pluginRepository", 
+        "file": "/client/jsr-309/driver/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/client/mgcp/driver/pom.xml#L205", 
+        "line": 205, 
+        "value": "repository", 
+        "file": "/client/mgcp/driver/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/client/mgcp/driver/pom.xml#L213", 
+        "line": 213, 
+        "value": "repository", 
+        "file": "/client/mgcp/driver/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/client/mgcp/driver/pom.xml#L221", 
+        "line": 221, 
+        "value": "repository", 
+        "file": "/client/mgcp/driver/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.jboss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/client/mgcp/tck/pom.xml#L148", 
+        "line": 148, 
+        "value": "repository", 
+        "file": "/client/mgcp/tck/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/client/mgcp/tck/pom.xml#L156", 
+        "line": 156, 
+        "value": "repository", 
+        "file": "/client/mgcp/tck/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.jboss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/pcap/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pcap/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/hadoop-pcap/hadoop-pcap"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/pom.xml#L352", 
+        "line": 352, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/pom.xml#L367", 
+        "line": 367, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/repositories/deprecated"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/media-core/snapshot/cbb200eb00de621030f59f42392ff068b84c9104/files/pom.xml#L375", 
+        "line": 375, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

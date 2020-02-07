@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kralq/distinguishable-gray-balls-plugin", 
+    "url-identifier": "g/kralq/distinguishable-gray-balls-plugin", 
+    "id": 1509050426036, 
+    "name": "kralq/distinguishable-gray-balls-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kralq/distinguishable-gray-balls-plugin/snapshot/6846a2d9e4f6c0939fe7357df5c62e72bbe42aed/files/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kralq/distinguishable-gray-balls-plugin/snapshot/6846a2d9e4f6c0939fe7357df5c62e72bbe42aed/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

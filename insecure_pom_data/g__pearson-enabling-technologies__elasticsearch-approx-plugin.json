@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pearson-enabling-technologies/elasticsearch-approx-plugin", 
+    "url-identifier": "g/pearson-enabling-technologies/elasticsearch-approx-plugin", 
+    "id": 66130068, 
+    "name": "pearson-enabling-technologies/elasticsearch-approx-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pearson-enabling-technologies/elasticsearch-approx-plugin/snapshot/0eab180a04737e9b41a9dcfb6f7554467fea3ce3/files/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

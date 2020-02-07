@@ -1,0 +1,234 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jplag/jplag", 
+    "url-identifier": "g/jplag/jplag", 
+    "id": 45540086, 
+    "name": "jplag/jplag"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/jplag/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.adminTool/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/jplag.adminTool/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.atujplag/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/jplag.atujplag/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.frontend-utils/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/jplag.frontend-utils/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.frontend.chars/pom.xml#L7", 
+        "line": 7, 
+        "value": "repository", 
+        "file": "/jplag.frontend.chars/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.frontend.cpp/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/jplag.frontend.cpp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.frontend.csharp-1.2/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/jplag.frontend.csharp-1.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.frontend.java-1.1exp/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/jplag.frontend.java-1.1exp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.frontend.java-1.2/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/jplag.frontend.java-1.2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.frontend.java-1.5/pom.xml#L7", 
+        "line": 7, 
+        "value": "repository", 
+        "file": "/jplag.frontend.java-1.5/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.frontend.java-1.7/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/jplag.frontend.java-1.7/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.frontend.python-3/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/jplag.frontend.python-3/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.frontend.text/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/jplag.frontend.text/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.homepage/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/jplag.homepage/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.parent/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/jplag.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.parent/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/jplag.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.parent/pom.xml#L68", 
+        "line": 68, 
+        "value": "snapshotRepository", 
+        "file": "/jplag.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.utils/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/jplag.utils/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.webService/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/jplag.webService/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jplag/jplag/snapshot/b0b3847c56d75e5daba29e7fe3f51e0448792715/files/jplag.wsClient/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/jplag.wsClient/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bob.ipd.kit.edu/nexus/content/repositories/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

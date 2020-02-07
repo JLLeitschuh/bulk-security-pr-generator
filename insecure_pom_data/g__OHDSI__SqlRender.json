@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OHDSI/SqlRender", 
+    "url-identifier": "g/OHDSI/SqlRender", 
+    "id": 1508104906188, 
+    "name": "OHDSI/SqlRender"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OHDSI/SqlRender/snapshot/cef27776ae515eb5e15d1b42695352c4d3b3fa57/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.ohdsi.org:8085/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OHDSI/SqlRender/snapshot/cef27776ae515eb5e15d1b42695352c4d3b3fa57/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.ohdsi.org:8085/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OHDSI/SqlRender/snapshot/cef27776ae515eb5e15d1b42695352c4d3b3fa57/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2/ "
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OHDSI/SqlRender/snapshot/cef27776ae515eb5e15d1b42695352c4d3b3fa57/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.ohdsi.org:8085/nexus/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

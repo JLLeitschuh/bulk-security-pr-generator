@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dice-group/gerbil", 
+    "url-identifier": "g/dice-group/gerbil", 
+    "id": 14710039, 
+    "name": "dice-group/gerbil"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dice-group/gerbil/snapshot/3f8cbce5c8e41c1cd7860818a333649988faa44e/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/repository/internal"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dice-group/gerbil/snapshot/3f8cbce5c8e41c1cd7860818a333649988faa44e/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/repository/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

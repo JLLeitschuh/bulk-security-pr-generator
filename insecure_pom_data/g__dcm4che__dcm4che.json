@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dcm4che/dcm4che", 
+    "url-identifier": "g/dcm4che/dcm4che", 
+    "id": 7860331, 
+    "name": "dcm4che/dcm4che"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dcm4che/dcm4che/snapshot/707b3d7b345fbaed90785e2bf015026e8c05c9e7/files/pom.xml#L209", 
+        "line": 209, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.dcm4che.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dcm4che/dcm4che/snapshot/707b3d7b345fbaed90785e2bf015026e8c05c9e7/files/pom.xml#L218", 
+        "line": 218, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

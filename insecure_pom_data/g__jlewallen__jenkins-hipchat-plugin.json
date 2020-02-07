@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jlewallen/jenkins-hipchat-plugin", 
+    "url-identifier": "g/jlewallen/jenkins-hipchat-plugin", 
+    "id": 1509223856510, 
+    "name": "jlewallen/jenkins-hipchat-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jlewallen/jenkins-hipchat-plugin/snapshot/03e95ceb27c0f364ac0bf7099af40142addce0bf/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jlewallen/jenkins-hipchat-plugin/snapshot/03e95ceb27c0f364ac0bf7099af40142addce0bf/files/pom.xml#L97", 
+        "line": 97, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jlewallen/jenkins-hipchat-plugin/snapshot/03e95ceb27c0f364ac0bf7099af40142addce0bf/files/pom.xml#L104", 
+        "line": 104, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

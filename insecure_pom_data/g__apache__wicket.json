@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/wicket", 
+    "url-identifier": "g/apache/wicket", 
+    "id": 4860318, 
+    "name": "apache/wicket"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/wicket/snapshot/78368ffedb276bc16402cb01bfc7ea16f0f31cc4/files/testing/wicket-arquillian/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/testing/wicket-arquillian/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

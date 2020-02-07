@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/uber-common/jvm-profiler", 
+    "url-identifier": "g/uber-common/jvm-profiler", 
+    "id": 1506786106051, 
+    "name": "uber-common/jvm-profiler"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/uber-common/jvm-profiler/snapshot/dba9fc40258db71d6c4af8179dc0355f9b7fb515/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

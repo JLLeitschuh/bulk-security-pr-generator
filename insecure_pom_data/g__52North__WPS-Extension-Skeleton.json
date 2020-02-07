@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/WPS-Extension-Skeleton", 
+    "url-identifier": "g/52North/WPS-Extension-Skeleton", 
+    "id": 1506715280983, 
+    "name": "52North/WPS-Extension-Skeleton"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/WPS-Extension-Skeleton/snapshot/c2ae9ad04b67f98085a57827c2f1eae177aff3bc/files/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opentracing/opentracing-java", 
+    "url-identifier": "g/opentracing/opentracing-java", 
+    "id": 1506696476321, 
+    "name": "opentracing/opentracing-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opentracing/opentracing-java/snapshot/748c32bf0505163d271f6dc82a5c42b0f4262290/files/pom.xml#L107", 
+        "line": 107, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

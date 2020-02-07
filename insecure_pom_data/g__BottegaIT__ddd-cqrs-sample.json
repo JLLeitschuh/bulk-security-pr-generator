@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/BottegaIT/ddd-cqrs-sample", 
+    "url-identifier": "g/BottegaIT/ddd-cqrs-sample", 
+    "id": 48070037, 
+    "name": "BottegaIT/ddd-cqrs-sample"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BottegaIT/ddd-cqrs-sample/snapshot/c21c3fa22b3222c4c42bc2d19154ba3ea81a45ce/files/pom.xml#L169", 
+        "line": 169, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone "
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

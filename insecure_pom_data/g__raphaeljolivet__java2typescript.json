@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/raphaeljolivet/java2typescript", 
+    "url-identifier": "g/raphaeljolivet/java2typescript", 
+    "id": 60200061, 
+    "name": "raphaeljolivet/java2typescript"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/raphaeljolivet/java2typescript/snapshot/5c0a40274bafd6b6f1f788d86f6a302d5e401d31/files/sample-web-app/pom.xml#L123", 
+        "line": 123, 
+        "value": "repository", 
+        "file": "/sample-web-app/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/raphaeljolivet/java2typescript/snapshot/5c0a40274bafd6b6f1f788d86f6a302d5e401d31/files/sample-web-app-client/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/sample-web-app-client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/raphaeljolivet/java2typescript/snapshot/5c0a40274bafd6b6f1f788d86f6a302d5e401d31/files/sample-web-app-server/pom.xml#L117", 
+        "line": 117, 
+        "value": "repository", 
+        "file": "/sample-web-app-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

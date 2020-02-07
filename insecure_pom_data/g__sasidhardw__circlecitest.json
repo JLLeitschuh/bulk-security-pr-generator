@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sasidhardw/circlecitest", 
+    "url-identifier": "g/sasidhardw/circlecitest", 
+    "id": 1506704046478, 
+    "name": "sasidhardw/circlecitest"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sasidhardw/circlecitest/snapshot/57a7774da80d12c332aa901e59a9588392efa04f/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://34.217.174.36:8081/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sasidhardw/circlecitest/snapshot/57a7774da80d12c332aa901e59a9588392efa04f/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://34.217.174.36:8081/nexus/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

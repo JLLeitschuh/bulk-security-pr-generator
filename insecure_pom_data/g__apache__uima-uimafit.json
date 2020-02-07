@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/uima-uimafit", 
+    "url-identifier": "g/apache/uima-uimafit", 
+    "id": 1509260756257, 
+    "name": "apache/uima-uimafit"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/uima-uimafit/snapshot/ab538f3905b142b8be87fb0f2cadc862bad315ae/files/uimafit-parent/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/uimafit-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/uima-uimafit/snapshot/ab538f3905b142b8be87fb0f2cadc862bad315ae/files/uimafit-parent/pom.xml#L61", 
+        "line": 61, 
+        "value": "pluginRepository", 
+        "file": "/uimafit-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

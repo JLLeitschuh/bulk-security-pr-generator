@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/buildflow-extensions-plugin", 
+    "url-identifier": "g/jenkinsci/buildflow-extensions-plugin", 
+    "id": 1509226726268, 
+    "name": "jenkinsci/buildflow-extensions-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/buildflow-extensions-plugin/snapshot/30d232641b113bf6f137955ca27ae25308b8b228/files/pom.xml#L127", 
+        "line": 127, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/buildflow-extensions-plugin/snapshot/30d232641b113bf6f137955ca27ae25308b8b228/files/pom.xml#L136", 
+        "line": 136, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

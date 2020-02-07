@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/series-hibernate", 
+    "url-identifier": "g/52North/series-hibernate", 
+    "id": 1506705452525, 
+    "name": "52North/series-hibernate"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/series-hibernate/snapshot/6ccc7feceaa4b7b035e063b4d55a0efeb17c17fb/files/pom.xml#L555", 
+        "line": 555, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/series-hibernate/snapshot/6ccc7feceaa4b7b035e063b4d55a0efeb17c17fb/files/pom.xml#L566", 
+        "line": 566, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/series-hibernate/snapshot/6ccc7feceaa4b7b035e063b4d55a0efeb17c17fb/files/pom.xml#L579", 
+        "line": 579, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

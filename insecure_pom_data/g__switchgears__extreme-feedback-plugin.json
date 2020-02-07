@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/switchgears/extreme-feedback-plugin", 
+    "url-identifier": "g/switchgears/extreme-feedback-plugin", 
+    "id": 1506597309505, 
+    "name": "switchgears/extreme-feedback-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/switchgears/extreme-feedback-plugin/snapshot/50650b15c3eff8e506d287df501515461e10e8e0/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/switchgears/extreme-feedback-plugin/snapshot/50650b15c3eff8e506d287df501515461e10e8e0/files/pom.xml#L87", 
+        "line": 87, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

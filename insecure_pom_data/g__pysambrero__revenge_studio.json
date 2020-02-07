@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pysambrero/revenge_studio", 
+    "url-identifier": "g/pysambrero/revenge_studio", 
+    "id": 1507336746080, 
+    "name": "pysambrero/revenge_studio"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pysambrero/revenge_studio/snapshot/90d38eaf12b7d3ab3b91417c716f65c0f97ca33a/files/pom.xml#L86", 
+        "line": 86, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

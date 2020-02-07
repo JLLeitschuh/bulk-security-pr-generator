@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/GistLabs/mechanize", 
+    "url-identifier": "g/GistLabs/mechanize", 
+    "id": 42580061, 
+    "name": "GistLabs/mechanize"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GistLabs/mechanize/snapshot/3d435d52b67ceee32ab7b5f8c781efc81317c662/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GistLabs/mechanize/snapshot/3d435d52b67ceee32ab7b5f8c781efc81317c662/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

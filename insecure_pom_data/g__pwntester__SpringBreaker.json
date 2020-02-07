@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pwntester/SpringBreaker", 
+    "url-identifier": "g/pwntester/SpringBreaker", 
+    "id": 1509293896041, 
+    "name": "pwntester/SpringBreaker"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pwntester/SpringBreaker/snapshot/e4a14421711b4e5499e48710b0ef139a867fb47c/files/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

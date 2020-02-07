@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/SensorPlanningService", 
+    "url-identifier": "g/52North/SensorPlanningService", 
+    "id": 1506740278168, 
+    "name": "52North/SensorPlanningService"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SensorPlanningService/snapshot/ee54a227c6957648d7b2d35801b7a0464ca7a005/files/pom.xml#L480", 
+        "line": 480, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SensorPlanningService/snapshot/ee54a227c6957648d7b2d35801b7a0464ca7a005/files/pom.xml#L485", 
+        "line": 485, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SensorPlanningService/snapshot/ee54a227c6957648d7b2d35801b7a0464ca7a005/files/pom.xml#L496", 
+        "line": 496, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse-ee4j/security-examples", 
+    "url-identifier": "g/eclipse-ee4j/security-examples", 
+    "id": 1506509501153, 
+    "name": "eclipse-ee4j/security-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/security-examples/snapshot/1598ad436d9cc22b6cefa42bc5bf571c9ca9bfc0/files/roles-allowed-and-runas/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/roles-allowed-and-runas/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

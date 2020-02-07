@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jsievers/tycho-demo", 
+    "url-identifier": "g/jsievers/tycho-demo", 
+    "id": 59840058, 
+    "name": "jsievers/tycho-demo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsievers/tycho-demo/snapshot/46359402956cbb1a7ec08122e2bc2c901d6878b8/files/exercises/Exercise_02_Add_Test_Fragment/tychodemo.parent/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/exercises/Exercise_02_Add_Test_Fragment/tychodemo.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/4.4milestones"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsievers/tycho-demo/snapshot/46359402956cbb1a7ec08122e2bc2c901d6878b8/files/exercises/Exercise_03_Add_Feature/tychodemo.parent/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/exercises/Exercise_03_Add_Feature/tychodemo.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/4.4milestones"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsievers/tycho-demo/snapshot/46359402956cbb1a7ec08122e2bc2c901d6878b8/files/exercises/Exercise_04_Add_P2_Repository/tychodemo.parent/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/exercises/Exercise_04_Add_P2_Repository/tychodemo.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/4.4milestones"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsievers/tycho-demo/snapshot/46359402956cbb1a7ec08122e2bc2c901d6878b8/files/exercises/Exercise_05_Add_Product/tychodemo.parent/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/exercises/Exercise_05_Add_Product/tychodemo.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/4.4milestones"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsievers/tycho-demo/snapshot/46359402956cbb1a7ec08122e2bc2c901d6878b8/files/exercises/Exercise_05_Solution/tychodemo.parent/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/exercises/Exercise_05_Solution/tychodemo.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/4.4milestones"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsievers/tycho-demo/snapshot/46359402956cbb1a7ec08122e2bc2c901d6878b8/files/tychodemo.parent/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/tychodemo.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/indigo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsievers/tycho-demo/snapshot/46359402956cbb1a7ec08122e2bc2c901d6878b8/files/tychodemo.parent/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/tychodemo.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/technology/swtbot/helios/dev-build/update-site/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

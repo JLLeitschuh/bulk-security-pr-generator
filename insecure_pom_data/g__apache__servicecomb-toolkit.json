@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/servicecomb-toolkit", 
+    "url-identifier": "g/apache/servicecomb-toolkit", 
+    "id": 1511089308280, 
+    "name": "apache/servicecomb-toolkit"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/servicecomb-toolkit/snapshot/4c3dd7dc9930ebf2699e55683c11622d9e28aaed/files/docgen/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/docgen/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

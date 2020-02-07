@@ -1,0 +1,102 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/asterixds/activiti", 
+    "url-identifier": "g/asterixds/activiti", 
+    "id": 1510568643870, 
+    "name": "asterixds/activiti"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/asterixds/activiti/snapshot/77183590dc7447764447afea8a56b5253561d399/files/modules/activiti-common-rest/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/modules/activiti-common-rest/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/asterixds/activiti/snapshot/77183590dc7447764447afea8a56b5253561d399/files/modules/activiti-explorer/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/modules/activiti-explorer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/asterixds/activiti/snapshot/77183590dc7447764447afea8a56b5253561d399/files/modules/activiti-modeler/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/modules/activiti-modeler/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/asterixds/activiti/snapshot/77183590dc7447764447afea8a56b5253561d399/files/modules/activiti-spring-boot/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/modules/activiti-spring-boot/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/asterixds/activiti/snapshot/77183590dc7447764447afea8a56b5253561d399/files/modules/activiti-spring-boot/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/modules/activiti-spring-boot/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/asterixds/activiti/snapshot/77183590dc7447764447afea8a56b5253561d399/files/modules/activiti-spring-boot/pom.xml#L45", 
+        "line": 45, 
+        "value": "pluginRepository", 
+        "file": "/modules/activiti-spring-boot/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/asterixds/activiti/snapshot/77183590dc7447764447afea8a56b5253561d399/files/modules/activiti-spring-boot/pom.xml#L53", 
+        "line": 53, 
+        "value": "pluginRepository", 
+        "file": "/modules/activiti-spring-boot/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/asterixds/activiti/snapshot/77183590dc7447764447afea8a56b5253561d399/files/modules/activiti-webapp-explorer2/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/modules/activiti-webapp-explorer2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

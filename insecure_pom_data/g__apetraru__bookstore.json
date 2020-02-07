@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apetraru/bookstore", 
+    "url-identifier": "g/apetraru/bookstore", 
+    "id": 1507974736048, 
+    "name": "apetraru/bookstore"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apetraru/bookstore/snapshot/cf3fff07f664d98a10ca92952202ad9513ce578b/files/pom.xml#L270", 
+        "line": 270, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

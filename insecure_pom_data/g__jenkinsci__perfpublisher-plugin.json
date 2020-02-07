@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/perfpublisher-plugin", 
+    "url-identifier": "g/jenkinsci/perfpublisher-plugin", 
+    "id": 1509246696934, 
+    "name": "jenkinsci/perfpublisher-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/perfpublisher-plugin/snapshot/a28d0f208d4188234dcc8f29659ada7f651e28c0/files/pom.xml#L157", 
+        "line": 157, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/perfpublisher-plugin/snapshot/a28d0f208d4188234dcc8f29659ada7f651e28c0/files/pom.xml#L164", 
+        "line": 164, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

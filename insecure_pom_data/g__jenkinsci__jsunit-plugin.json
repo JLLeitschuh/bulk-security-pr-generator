@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/jsunit-plugin", 
+    "url-identifier": "g/jenkinsci/jsunit-plugin", 
+    "id": 1506607139867, 
+    "name": "jenkinsci/jsunit-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/jsunit-plugin/snapshot/cfe1f04ad043cf9bd3decd8d48819a98acd99caf/files/pom.xml#L153", 
+        "line": 153, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/jsunit-plugin/snapshot/cfe1f04ad043cf9bd3decd8d48819a98acd99caf/files/pom.xml#L160", 
+        "line": 160, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

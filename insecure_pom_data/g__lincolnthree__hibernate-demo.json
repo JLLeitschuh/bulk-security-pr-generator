@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lincolnthree/hibernate-demo", 
+    "url-identifier": "g/lincolnthree/hibernate-demo", 
+    "id": 1506675836926, 
+    "name": "lincolnthree/hibernate-demo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lincolnthree/hibernate-demo/snapshot/cfa3b25fac5b0e4f7db7198d160c03cef2114449/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

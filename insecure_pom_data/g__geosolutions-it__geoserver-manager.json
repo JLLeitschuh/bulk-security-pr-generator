@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/geosolutions-it/geoserver-manager", 
+    "url-identifier": "g/geosolutions-it/geoserver-manager", 
+    "id": 1509218364073, 
+    "name": "geosolutions-it/geoserver-manager"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geosolutions-it/geoserver-manager/snapshot/ae8d64a0b132a6d41dc9e48c1e25e9a1bb3ed73c/files/pom.xml#L127", 
+        "line": 127, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geosolutions-it/geoserver-manager/snapshot/ae8d64a0b132a6d41dc9e48c1e25e9a1bb3ed73c/files/pom.xml#L136", 
+        "line": 136, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geosolutions-it/geoserver-manager/snapshot/ae8d64a0b132a6d41dc9e48c1e25e9a1bb3ed73c/files/pom.xml#L145", 
+        "line": 145, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geo-solutions.it/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/geosolutions-it/geoserver-manager/snapshot/ae8d64a0b132a6d41dc9e48c1e25e9a1bb3ed73c/files/pom.xml#L160", 
+        "line": 160, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository ftp://maven.geo-solutions.it/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

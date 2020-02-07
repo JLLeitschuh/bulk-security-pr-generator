@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jeremylong/DependencyCheck", 
+    "url-identifier": "g/jeremylong/DependencyCheck", 
+    "id": 2113680806, 
+    "name": "jeremylong/DependencyCheck"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jeremylong/DependencyCheck/snapshot/532540286162ad0cd031819159d15ace945083d8/files/maven/src/it/1751-use-child-repositories/1751-child-one/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/maven/src/it/1751-use-child-repositories/1751-child-one/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://packages.confluent.io/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

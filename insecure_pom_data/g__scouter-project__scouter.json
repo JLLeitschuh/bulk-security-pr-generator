@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/scouter-project/scouter", 
+    "url-identifier": "g/scouter-project/scouter", 
+    "id": 1506502516595, 
+    "name": "scouter-project/scouter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/scouter-project/scouter/snapshot/399fd3649a4b68a6625c2ee7865c05e949d27ac0/files/scouter.client.build/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/scouter.client.build/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/2018-09/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

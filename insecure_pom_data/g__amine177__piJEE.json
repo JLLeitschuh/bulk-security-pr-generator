@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/amine177/piJEE", 
+    "url-identifier": "g/amine177/piJEE", 
+    "id": 1507726516069, 
+    "name": "amine177/piJEE"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amine177/piJEE/snapshot/54e2b36100a97e66ffe7fdfc689daeb74e5c42fd/files/piJEE/piJEE-web/pom.xml#L176", 
+        "line": 176, 
+        "value": "repository", 
+        "file": "/piJEE/piJEE-web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

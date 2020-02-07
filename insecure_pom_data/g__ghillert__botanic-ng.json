@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ghillert/botanic-ng", 
+    "url-identifier": "g/ghillert/botanic-ng", 
+    "id": 1796520434, 
+    "name": "ghillert/botanic-ng"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ghillert/botanic-ng/snapshot/c88766cf444423cf99a40c833d24e9dad356e66b/files/pom.xml#L118", 
+        "line": 118, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

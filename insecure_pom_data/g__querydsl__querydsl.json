@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/querydsl/querydsl", 
+    "url-identifier": "g/querydsl/querydsl", 
+    "id": 51020050, 
+    "name": "querydsl/querydsl"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/querydsl/querydsl/snapshot/6e96339abba7e760cbe5beb406f30ab4ac7046da/files/pom.xml#L513", 
+        "line": 513, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.querydsl.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/querydsl/querydsl/snapshot/6e96339abba7e760cbe5beb406f30ab4ac7046da/files/pom.xml#L520", 
+        "line": 520, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/querydsl/querydsl/snapshot/6e96339abba7e760cbe5beb406f30ab4ac7046da/files/pom.xml#L524", 
+        "line": 524, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/querydsl/querydsl/snapshot/6e96339abba7e760cbe5beb406f30ab4ac7046da/files/querydsl-apt/pom.xml#L223", 
+        "line": 223, 
+        "value": "repository", 
+        "file": "/querydsl-apt/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://spring-roo-repository.springsource.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/querydsl/querydsl/snapshot/6e96339abba7e760cbe5beb406f30ab4ac7046da/files/querydsl-jdo/pom.xml#L279", 
+        "line": 279, 
+        "value": "repository", 
+        "file": "/querydsl-jdo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/querydsl/querydsl/snapshot/6e96339abba7e760cbe5beb406f30ab4ac7046da/files/querydsl-jdo/pom.xml#L286", 
+        "line": 286, 
+        "value": "pluginRepository", 
+        "file": "/querydsl-jdo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Alfresco/alfresco-sdk", 
+    "url-identifier": "g/Alfresco/alfresco-sdk", 
+    "id": 25990073, 
+    "name": "Alfresco/alfresco-sdk"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Alfresco/alfresco-sdk/snapshot/6ad3b97ca6b7f107eb93870822bc387b03ab0ae0/files/plugins/alfresco-maven-plugin/pom.xml#L162", 
+        "line": 162, 
+        "value": "repository", 
+        "file": "/plugins/alfresco-maven-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

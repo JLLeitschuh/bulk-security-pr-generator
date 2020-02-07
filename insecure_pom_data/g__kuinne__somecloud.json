@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kuinne/somecloud", 
+    "url-identifier": "g/kuinne/somecloud", 
+    "id": 1507202896006, 
+    "name": "kuinne/somecloud"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kuinne/somecloud/snapshot/a384b369d69260a90768eafda9d75536ee470850/files/pom.xml#L337", 
+        "line": 337, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvnrepository.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

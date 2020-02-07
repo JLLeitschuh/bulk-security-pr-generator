@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/enviroCar/enviroCar-server", 
+    "url-identifier": "g/enviroCar/enviroCar-server", 
+    "id": 1506739999938, 
+    "name": "enviroCar/enviroCar-server"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/enviroCar/enviroCar-server/snapshot/c4b77340cf94b541d9318a2c326513d650b1fecf/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/enviroCar/enviroCar-server/snapshot/c4b77340cf94b541d9318a2c326513d650b1fecf/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/enviroCar/enviroCar-server/snapshot/c4b77340cf94b541d9318a2c326513d650b1fecf/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

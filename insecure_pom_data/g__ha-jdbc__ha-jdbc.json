@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ha-jdbc/ha-jdbc", 
+    "url-identifier": "g/ha-jdbc/ha-jdbc", 
+    "id": 57860090, 
+    "name": "ha-jdbc/ha-jdbc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ha-jdbc/ha-jdbc/snapshot/fa33dd15b8933547cf6d4094e1c8f57b598eb4f5/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ha-jdbc/ha-jdbc/snapshot/fa33dd15b8933547cf6d4094e1c8f57b598eb4f5/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ha-jdbc/ha-jdbc/snapshot/fa33dd15b8933547cf6d4094e1c8f57b598eb4f5/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ha-jdbc/ha-jdbc/snapshot/fa33dd15b8933547cf6d4094e1c8f57b598eb4f5/files/state/bdb/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/state/bdb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/everwatchsolutions/bullpen", 
+    "url-identifier": "g/everwatchsolutions/bullpen", 
+    "id": 1506612341118, 
+    "name": "everwatchsolutions/bullpen"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/everwatchsolutions/bullpen/snapshot/4c7d56251915c6b3c282b1449f31b20754b91974/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ec2-107-21-105-62.compute-1.amazonaws.com:8081/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/everwatchsolutions/bullpen/snapshot/4c7d56251915c6b3c282b1449f31b20754b91974/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ec2-107-21-105-62.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

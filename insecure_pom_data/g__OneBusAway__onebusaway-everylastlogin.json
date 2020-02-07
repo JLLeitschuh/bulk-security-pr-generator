@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-everylastlogin", 
+    "url-identifier": "g/OneBusAway/onebusaway-everylastlogin", 
+    "id": 1507605335981, 
+    "name": "OneBusAway/onebusaway-everylastlogin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-everylastlogin/snapshot/1e32c6ccaf42e95493b2f7b44bc2ed2a66f2051f/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://developer.onebusaway.org/maven/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-everylastlogin/snapshot/1e32c6ccaf42e95493b2f7b44bc2ed2a66f2051f/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://developer.onebusaway.org/maven/snapshot-repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

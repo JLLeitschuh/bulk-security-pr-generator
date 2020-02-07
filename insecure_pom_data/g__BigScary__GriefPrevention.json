@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/BigScary/GriefPrevention", 
+    "url-identifier": "g/BigScary/GriefPrevention", 
+    "id": 1795691758, 
+    "name": "BigScary/GriefPrevention"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BigScary/GriefPrevention/snapshot/ec3d69ad4e09dbb3275dfb762aa84258007e625b/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BigScary/GriefPrevention/snapshot/ec3d69ad4e09dbb3275dfb762aa84258007e625b/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

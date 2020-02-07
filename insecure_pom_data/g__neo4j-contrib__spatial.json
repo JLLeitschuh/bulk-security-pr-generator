@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/neo4j-contrib/spatial", 
+    "url-identifier": "g/neo4j-contrib/spatial", 
+    "id": 33160136, 
+    "name": "neo4j-contrib/spatial"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/neo4j-contrib/spatial/snapshot/c8a936d97771646b131815c5303cfafa0ef8f908/files/pom.xml#L472", 
+        "line": 472, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/neo4j-contrib/spatial/snapshot/c8a936d97771646b131815c5303cfafa0ef8f908/files/pom.xml#L482", 
+        "line": 482, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/neo4j-contrib/spatial/snapshot/c8a936d97771646b131815c5303cfafa0ef8f908/files/pom.xml#L490", 
+        "line": 490, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/neo4j-contrib/spatial/snapshot/c8a936d97771646b131815c5303cfafa0ef8f908/files/pom.xml#L501", 
+        "line": 501, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hyperhq/hyper-build-step-plugin", 
+    "url-identifier": "g/hyperhq/hyper-build-step-plugin", 
+    "id": 1506593239990, 
+    "name": "hyperhq/hyper-build-step-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hyperhq/hyper-build-step-plugin/snapshot/4675b8e362f771802d9aa1662a03addabc73c3a5/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hyperhq/hyper-build-step-plugin/snapshot/4675b8e362f771802d9aa1662a03addabc73c3a5/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

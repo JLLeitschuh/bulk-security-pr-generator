@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/alexholmes/hdfs-file-slurper", 
+    "url-identifier": "g/alexholmes/hdfs-file-slurper", 
+    "id": 49780032, 
+    "name": "alexholmes/hdfs-file-slurper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexholmes/hdfs-file-slurper/snapshot/ff4be739eb97ae1750478e62f736bcd60cd9df54/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

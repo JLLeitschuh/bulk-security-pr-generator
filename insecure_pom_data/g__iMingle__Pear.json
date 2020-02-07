@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/iMingle/Pear", 
+    "url-identifier": "g/iMingle/Pear", 
+    "id": 1505880686311, 
+    "name": "iMingle/Pear"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/iMingle/Pear/snapshot/97b51da05a0c5d66a1ecd3b4e6649a7097778496/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/iMingle/Pear/snapshot/97b51da05a0c5d66a1ecd3b4e6649a7097778496/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/iMingle/Pear/snapshot/97b51da05a0c5d66a1ecd3b4e6649a7097778496/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/iMingle/Pear/snapshot/97b51da05a0c5d66a1ecd3b4e6649a7097778496/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

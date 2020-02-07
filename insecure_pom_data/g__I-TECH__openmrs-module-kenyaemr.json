@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/I-TECH/openmrs-module-kenyaemr", 
+    "url-identifier": "g/I-TECH/openmrs-module-kenyaemr", 
+    "id": 13140022, 
+    "name": "I-TECH/openmrs-module-kenyaemr"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/I-TECH/openmrs-module-kenyaemr/snapshot/bc461dc68a3c35c2c89901b2243b0e1a88aa7072/files/pom.xml#L299", 
+        "line": 299, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/I-TECH/openmrs-module-kenyaemr/snapshot/bc461dc68a3c35c2c89901b2243b0e1a88aa7072/files/pom.xml#L307", 
+        "line": 307, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/I-TECH/openmrs-module-kenyaemr/snapshot/bc461dc68a3c35c2c89901b2243b0e1a88aa7072/files/pom.xml#L318", 
+        "line": 318, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/modules/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/I-TECH/openmrs-module-kenyaemr/snapshot/bc461dc68a3c35c2c89901b2243b0e1a88aa7072/files/pom.xml#L323", 
+        "line": 323, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

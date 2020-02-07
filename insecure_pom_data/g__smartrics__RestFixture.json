@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/smartrics/RestFixture", 
+    "url-identifier": "g/smartrics/RestFixture", 
+    "id": 1800055, 
+    "name": "smartrics/RestFixture"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/smartrics/RestFixture/snapshot/b24cfa857dc77e1b6dc7168bb7fdb9e72c9f1182/files/pom.xml#L214", 
+        "line": 214, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

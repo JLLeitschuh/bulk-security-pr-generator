@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/twitter-archive/bookkeeper", 
+    "url-identifier": "g/twitter-archive/bookkeeper", 
+    "id": 1506261287339, 
+    "name": "twitter-archive/bookkeeper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/twitter-archive/bookkeeper/snapshot/064f34b237e9aa064ad2aafb45eba989f7070e5b/files/bookkeeper-stats-providers/twitter-ostrich-provider/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/bookkeeper-stats-providers/twitter-ostrich-provider/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/twitter-archive/bookkeeper/snapshot/064f34b237e9aa064ad2aafb45eba989f7070e5b/files/bookkeeper-stats-providers/twitter-science-provider/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/bookkeeper-stats-providers/twitter-science-provider/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

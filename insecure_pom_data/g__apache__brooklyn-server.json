@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/brooklyn-server", 
+    "url-identifier": "g/apache/brooklyn-server", 
+    "id": 13040064, 
+    "name": "apache/brooklyn-server"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/brooklyn-server/snapshot/5186626b2dbf5de2fcf0ee42ac027588aad74b7e/files/karaf/pom.xml#L163", 
+        "line": 163, 
+        "value": "repository", 
+        "file": "/karaf/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

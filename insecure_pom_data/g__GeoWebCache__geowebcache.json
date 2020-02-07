@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/GeoWebCache/geowebcache", 
+    "url-identifier": "g/GeoWebCache/geowebcache", 
+    "id": 1796501690, 
+    "name": "GeoWebCache/geowebcache"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GeoWebCache/geowebcache/snapshot/d4571123c43839c7e0217c3677b960baa0b3a358/files/geowebcache/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/geowebcache/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

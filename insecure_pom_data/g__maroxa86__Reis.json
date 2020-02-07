@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/maroxa86/Reis", 
+    "url-identifier": "g/maroxa86/Reis", 
+    "id": 1508033936174, 
+    "name": "maroxa86/Reis"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/maroxa86/Reis/snapshot/645999ae52e98a2fdfc9859e2f2f73d9301942e6/files/reis/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/reis/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

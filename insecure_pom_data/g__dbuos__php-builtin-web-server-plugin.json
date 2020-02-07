@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dbuos/php-builtin-web-server-plugin", 
+    "url-identifier": "g/dbuos/php-builtin-web-server-plugin", 
+    "id": 1509222906186, 
+    "name": "dbuos/php-builtin-web-server-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dbuos/php-builtin-web-server-plugin/snapshot/09d2e59075f02565ec43e6b371b4f76e25a2b9cf/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dbuos/php-builtin-web-server-plugin/snapshot/09d2e59075f02565ec43e6b371b4f76e25a2b9cf/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

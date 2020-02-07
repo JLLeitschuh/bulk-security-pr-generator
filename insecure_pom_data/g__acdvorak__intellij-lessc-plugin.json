@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/acdvorak/intellij-lessc-plugin", 
+    "url-identifier": "g/acdvorak/intellij-lessc-plugin", 
+    "id": 1790650937, 
+    "name": "acdvorak/intellij-lessc-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/acdvorak/intellij-lessc-plugin/snapshot/5f55a78e9c809bf73477ff9b65f5d7e76eab7b8b/files/asual-lesscss-engine/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/asual-lesscss-engine/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.asual.com/maven/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/acdvorak/intellij-lessc-plugin/snapshot/5f55a78e9c809bf73477ff9b65f5d7e76eab7b8b/files/asual-lesscss-engine/pom.xml#L45", 
+        "line": 45, 
+        "value": "snapshotRepository", 
+        "file": "/asual-lesscss-engine/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.asual.com/maven/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

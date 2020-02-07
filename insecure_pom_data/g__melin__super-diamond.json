@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/melin/super-diamond", 
+    "url-identifier": "g/melin/super-diamond", 
+    "id": 34730028, 
+    "name": "melin/super-diamond"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/melin/super-diamond/snapshot/0ac9af8d038b74de0198b0c9bcdd7b8f3ab14360/files/super-diamond-client/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/super-diamond-client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.iflytek.com:8081/nexus/content/repositories/edu-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/melin/super-diamond/snapshot/0ac9af8d038b74de0198b0c9bcdd7b8f3ab14360/files/super-diamond-client/pom.xml#L67", 
+        "line": 67, 
+        "value": "snapshotRepository", 
+        "file": "/super-diamond-client/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.iflytek.com:8081/nexus/content/repositories/edu-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

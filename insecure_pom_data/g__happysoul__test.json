@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/happysoul/test", 
+    "url-identifier": "g/happysoul/test", 
+    "id": 1507210376030, 
+    "name": "happysoul/test"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/happysoul/test/snapshot/55dcecfe08019ef53d2b23116a0dad97ca711a8b/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/happysoul/test/snapshot/55dcecfe08019ef53d2b23116a0dad97ca711a8b/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

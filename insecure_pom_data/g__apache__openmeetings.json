@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/openmeetings", 
+    "url-identifier": "g/apache/openmeetings", 
+    "id": 1506248166051, 
+    "name": "apache/openmeetings"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/openmeetings/snapshot/0d64e14ce9dcedaf4ff233de09e66ce39133ec53/files/pom.xml#L380", 
+        "line": 380, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

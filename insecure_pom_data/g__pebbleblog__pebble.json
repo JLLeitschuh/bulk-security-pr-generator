@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pebbleblog/pebble", 
+    "url-identifier": "g/pebbleblog/pebble", 
+    "id": 60280071, 
+    "name": "pebbleblog/pebble"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pebbleblog/pebble/snapshot/a2c87a37cc2da377142e9ae11b8f061b7fb0038c/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pebbleblog/pebble/snapshot/a2c87a37cc2da377142e9ae11b8f061b7fb0038c/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/odrotbohm/spring-restbucks", 
+    "url-identifier": "g/odrotbohm/spring-restbucks", 
+    "id": 1509225326060, 
+    "name": "odrotbohm/spring-restbucks"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/odrotbohm/spring-restbucks/snapshot/9b0763c6e69a8dd90f770f3790471b9e1a8bcd7f/files/server/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/odrotbohm/spring-restbucks/snapshot/9b0763c6e69a8dd90f770f3790471b9e1a8bcd7f/files/server/pom.xml#L129", 
+        "line": 129, 
+        "value": "pluginRepository", 
+        "file": "/server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

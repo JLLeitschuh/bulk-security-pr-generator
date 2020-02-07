@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jingwei/krati", 
+    "url-identifier": "g/jingwei/krati", 
+    "id": 16630131, 
+    "name": "jingwei/krati"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jingwei/krati/snapshot/cc74468343ee99f859fecae42fbc6da94d8f0f69/files/pom.xml#L137", 
+        "line": 137, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jingwei/krati/snapshot/cc74468343ee99f859fecae42fbc6da94d8f0f69/files/pom.xml#L146", 
+        "line": 146, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

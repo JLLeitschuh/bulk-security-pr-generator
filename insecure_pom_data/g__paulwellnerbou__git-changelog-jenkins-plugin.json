@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/paulwellnerbou/git-changelog-jenkins-plugin", 
+    "url-identifier": "g/paulwellnerbou/git-changelog-jenkins-plugin", 
+    "id": 1506622629272, 
+    "name": "paulwellnerbou/git-changelog-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/paulwellnerbou/git-changelog-jenkins-plugin/snapshot/c56a7a01fbe23d02bd3b7444e0e47c1c96645b67/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/paulwellnerbou/git-changelog-jenkins-plugin/snapshot/c56a7a01fbe23d02bd3b7444e0e47c1c96645b67/files/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/paulwellnerbou/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/paulwellnerbou/git-changelog-jenkins-plugin/snapshot/c56a7a01fbe23d02bd3b7444e0e47c1c96645b67/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

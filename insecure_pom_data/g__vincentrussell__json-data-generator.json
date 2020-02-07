@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/vincentrussell/json-data-generator", 
+    "url-identifier": "g/vincentrussell/json-data-generator", 
+    "id": 1506595239897, 
+    "name": "vincentrussell/json-data-generator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vincentrussell/json-data-generator/snapshot/2a83b7570e739637215ed261695c319434076b1f/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vincentrussell/json-data-generator/snapshot/2a83b7570e739637215ed261695c319434076b1f/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

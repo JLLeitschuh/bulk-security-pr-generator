@@ -1,0 +1,102 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/WPS", 
+    "url-identifier": "g/52North/WPS", 
+    "id": 1506715341518, 
+    "name": "52North/WPS"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/WPS/snapshot/e07e82b492903f3e11c364fe7b447894c62a13ca/files/52n-wps-ags/52n-wps-ags-workspace/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/52n-wps-ags/52n-wps-ags-workspace/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/WPS/snapshot/e07e82b492903f3e11c364fe7b447894c62a13ca/files/52n-wps-grass/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/52n-wps-grass/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/WPS/snapshot/e07e82b492903f3e11c364fe7b447894c62a13ca/files/52n-wps-io/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/52n-wps-io/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/WPS/snapshot/e07e82b492903f3e11c364fe7b447894c62a13ca/files/52n-wps-io-geotools/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/52n-wps-io-geotools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/WPS/snapshot/e07e82b492903f3e11c364fe7b447894c62a13ca/files/52n-wps-io-impl/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/52n-wps-io-impl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/WPS/snapshot/e07e82b492903f3e11c364fe7b447894c62a13ca/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/WPS/snapshot/e07e82b492903f3e11c364fe7b447894c62a13ca/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/WPS/snapshot/e07e82b492903f3e11c364fe7b447894c62a13ca/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/octanner/kafka-logs-jenkins", 
+    "url-identifier": "g/octanner/kafka-logs-jenkins", 
+    "id": 1506593550736, 
+    "name": "octanner/kafka-logs-jenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/octanner/kafka-logs-jenkins/snapshot/4b21006c5c15c6ade0a01c46843218068b3c52ee/files/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/octanner/kafka-logs-jenkins/snapshot/4b21006c5c15c6ade0a01c46843218068b3c52ee/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

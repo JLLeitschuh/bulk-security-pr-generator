@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Talend/components", 
+    "url-identifier": "g/Talend/components", 
+    "id": 1506696906087, 
+    "name": "Talend/components"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Talend/components/snapshot/4e02d2df36ab8a913a714a64d587b33411f5b3ae/files/components/components-marklogic/components-marklogic-runtime/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/components/components-marklogic/components-marklogic-runtime/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://developer.marklogic.com/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Talend/components/snapshot/4e02d2df36ab8a913a714a64d587b33411f5b3ae/files/components/components-marklogic/components-marklogic-runtime/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/components/components-marklogic/components-marklogic-runtime/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mapr.com/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Talend/components/snapshot/4e02d2df36ab8a913a714a64d587b33411f5b3ae/files/services/components-maven-repo/pom.xml#L147", 
+        "line": 147, 
+        "value": "repository", 
+        "file": "/services/components-maven-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mapr.com/nexus/content/groups/mapr-public/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Talend/components/snapshot/4e02d2df36ab8a913a714a64d587b33411f5b3ae/files/services/components-maven-repo/pom.xml#L151", 
+        "line": 151, 
+        "value": "repository", 
+        "file": "/services/components-maven-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://redshift-maven-repository.s3-website-us-east-1.amazonaws.com/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

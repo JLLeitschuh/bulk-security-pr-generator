@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Mobisocial/EasyNFC", 
+    "url-identifier": "g/Mobisocial/EasyNFC", 
+    "id": 44470180, 
+    "name": "Mobisocial/EasyNFC"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Mobisocial/EasyNFC/snapshot/4e38d8eb3a9bc9cda6df2f4f10417064461ad4d9/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mobisocial.stanford.edu:8081/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Mobisocial/EasyNFC/snapshot/4e38d8eb3a9bc9cda6df2f4f10417064461ad4d9/files/pom.xml#L86", 
+        "line": 86, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mobisocial.stanford.edu:8081/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

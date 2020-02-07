@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mesosphere/RENDLER", 
+    "url-identifier": "g/mesosphere/RENDLER", 
+    "id": 148028244, 
+    "name": "mesosphere/RENDLER"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mesosphere/RENDLER/snapshot/667f896ee26f921bf2826c484a45be65d1b04c8f/files/java/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://downloads.mesosphere.io/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

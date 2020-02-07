@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/fernandogodoy/projeto-java", 
+    "url-identifier": "g/fernandogodoy/projeto-java", 
+    "id": 1511134793069, 
+    "name": "fernandogodoy/projeto-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fernandogodoy/projeto-java/snapshot/e8db033db11ec067be1246be513f0681a3a20dd7/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

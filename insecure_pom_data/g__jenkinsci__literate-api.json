@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/literate-api", 
+    "url-identifier": "g/jenkinsci/literate-api", 
+    "id": 1506669776014, 
+    "name": "jenkinsci/literate-api"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/literate-api/snapshot/155a35b91661b584d6f59634e92e4af74df7df2a/files/pom.xml#L79", 
+        "line": 79, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/literate-api/snapshot/155a35b91661b584d6f59634e92e4af74df7df2a/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

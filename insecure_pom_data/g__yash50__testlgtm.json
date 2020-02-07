@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yash50/testlgtm", 
+    "url-identifier": "g/yash50/testlgtm", 
+    "id": 1510720878087, 
+    "name": "yash50/testlgtm"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yash50/testlgtm/snapshot/b2d3865490eb85f99b7a059e7d40b9195b864084/files/plugins/pom.xml#L309", 
+        "line": 309, 
+        "value": "repository", 
+        "file": "/plugins/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yash50/testlgtm/snapshot/b2d3865490eb85f99b7a059e7d40b9195b864084/files/plugins/pom.xml#L322", 
+        "line": 322, 
+        "value": "pluginRepository", 
+        "file": "/plugins/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yash50/testlgtm/snapshot/b2d3865490eb85f99b7a059e7d40b9195b864084/files/plugins/pom.xml#L339", 
+        "line": 339, 
+        "value": "snapshotRepository", 
+        "file": "/plugins/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yash50/testlgtm/snapshot/b2d3865490eb85f99b7a059e7d40b9195b864084/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yash50/testlgtm/snapshot/b2d3865490eb85f99b7a059e7d40b9195b864084/files/pom.xml#L105", 
+        "line": 105, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yash50/testlgtm/snapshot/b2d3865490eb85f99b7a059e7d40b9195b864084/files/pom.xml#L117", 
+        "line": 117, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

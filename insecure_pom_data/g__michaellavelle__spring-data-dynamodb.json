@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/michaellavelle/spring-data-dynamodb", 
+    "url-identifier": "g/michaellavelle/spring-data-dynamodb", 
+    "id": 30640093, 
+    "name": "michaellavelle/spring-data-dynamodb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/michaellavelle/spring-data-dynamodb/snapshot/7c2a797cf6f52fab947a5b48c7b62f4e667ab6f0/files/pom.xml#L238", 
+        "line": 238, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/libs-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/michaellavelle/spring-data-dynamodb/snapshot/7c2a797cf6f52fab947a5b48c7b62f4e667ab6f0/files/pom.xml#L245", 
+        "line": 245, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse/deeplearning4j-examples", 
+    "url-identifier": "g/eclipse/deeplearning4j-examples", 
+    "id": 910046, 
+    "name": "eclipse/deeplearning4j-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/deeplearning4j-examples/snapshot/468cb5f067623bbd6e8f351b5dc565058fb1625e/files/dl4j-cuda-specific-examples/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/dl4j-cuda-specific-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/deeplearning4j-examples/snapshot/468cb5f067623bbd6e8f351b5dc565058fb1625e/files/dl4j-examples/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/dl4j-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/deeplearning4j-examples/snapshot/468cb5f067623bbd6e8f351b5dc565058fb1625e/files/rl4j-examples/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/rl4j-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

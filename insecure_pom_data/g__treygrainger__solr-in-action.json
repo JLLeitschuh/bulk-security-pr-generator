@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/treygrainger/solr-in-action", 
+    "url-identifier": "g/treygrainger/solr-in-action", 
+    "id": 48190095, 
+    "name": "treygrainger/solr-in-action"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/treygrainger/solr-in-action/snapshot/3c1c05cb6a35164c244e43297bf5c697207279e6/files/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

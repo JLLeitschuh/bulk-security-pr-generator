@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/paulkrause88/subversion4cloudforge", 
+    "url-identifier": "g/paulkrause88/subversion4cloudforge", 
+    "id": 1506628646908, 
+    "name": "paulkrause88/subversion4cloudforge"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/paulkrause88/subversion4cloudforge/snapshot/bd9e46509ef26c9ea4617893d91cd04aafe30595/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/paulkrause88/subversion4cloudforge/snapshot/bd9e46509ef26c9ea4617893d91cd04aafe30595/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

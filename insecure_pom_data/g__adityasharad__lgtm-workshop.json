@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/adityasharad/lgtm-workshop", 
+    "url-identifier": "g/adityasharad/lgtm-workshop", 
+    "id": 1505973796020, 
+    "name": "adityasharad/lgtm-workshop"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adityasharad/lgtm-workshop/snapshot/1d7ad622b78437a1a681cc9210bc2602654a662f/files/src/activemq/activemq-mqtt/pom.xml#L317", 
+        "line": 317, 
+        "value": "repository", 
+        "file": "/src/activemq/activemq-mqtt/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/plugins-release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

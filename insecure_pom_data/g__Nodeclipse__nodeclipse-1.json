@@ -1,0 +1,311 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1", 
+    "url-identifier": "g/Nodeclipse/nodeclipse-1", 
+    "id": 49770030, 
+    "name": "Nodeclipse/nodeclipse-1"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://github.eclipsesource.com/jshint-eclipse/updates/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dadacoalition.org/yedit"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.nodeclipse.org/git/addon/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.nodeclipse.org/updates/markdown/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/satyagraha/generic/1.9.3/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://basti1302.github.com/startexplorer/update/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://eclipse-icons-editor.eclipselabs.org.codespot.com/git/site/org.eclipse_icons.editor.site/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jeeeyul.github.io/update/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L93", 
+        "line": 93, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.jumperz.net/update/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L123", 
+        "line": 123, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.mihai-nita.net/eclipse"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L128", 
+        "line": 128, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://eclipse.schedenig.name"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L133", 
+        "line": 133, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nodeclipse.github.io/updates/editbox-0.70.0/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L145", 
+        "line": 145, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://emmet.io/eclipse/updates/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L157", 
+        "line": 157, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nodeclipse.github.io/updates/zipeditor/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L165", 
+        "line": 165, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jdt.spelling.s3-website-us-east-1.amazonaws.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L174", 
+        "line": 174, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/ajermakovics/InstaSearch/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L179", 
+        "line": 179, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://eclipse-glance.googlecode.com/svn/site/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L191", 
+        "line": 191, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://eclipse-color-theme.github.com/update"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L196", 
+        "line": 196, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://eclipse.jeeeyul.net/update/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L209", 
+        "line": 209, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/nodeclipse/CoffeeScriptEditor/0.4.0-201403250304/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L217", 
+        "line": 217, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://eclipserunnerplugin.googlecode.com/svn/trunk/EclipseRunnerSite"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L222", 
+        "line": 222, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://puremvcnotificationviewer.googlecode.com/svn/trunk/PracticallyMacroGoogleUpdateSite"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L227", 
+        "line": 227, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://sandipchitaleseclipseplugins.googlecode.com/svn/trunk/SelectionExplorerUpdateSite"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L232", 
+        "line": 232, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://sandipchitaleseclipseplugins.googlecode.com/svn/trunk/OpenClosedProjectsFeatureUpdateSite/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site/pom.xml#L247", 
+        "line": 247, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/nodeclipse/nodeclipse/0.15/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/org.nodeclipse.site.test/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/org.nodeclipse.site.test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://culmat.github.io/eExplorer/updatesite/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Nodeclipse/nodeclipse-1/snapshot/9ace658cf1d140c46d95d2f25ed22ea45c7a852c/files/pom.xml#L171", 
+        "line": 171, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/kepler"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

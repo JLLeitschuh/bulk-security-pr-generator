@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/airsonic/airsonic", 
+    "url-identifier": "g/airsonic/airsonic", 
+    "id": 1506753526904, 
+    "name": "airsonic/airsonic"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/airsonic/airsonic/snapshot/f730be922b90a5042685aa73c08c830a54035ff0/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://4thline.org/m2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

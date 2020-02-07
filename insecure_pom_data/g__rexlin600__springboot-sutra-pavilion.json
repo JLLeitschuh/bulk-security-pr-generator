@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rexlin600/springboot-sutra-pavilion", 
+    "url-identifier": "g/rexlin600/springboot-sutra-pavilion", 
+    "id": 1511126858976, 
+    "name": "rexlin600/springboot-sutra-pavilion"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rexlin600/springboot-sutra-pavilion/snapshot/0418b18b5e87a067ff56cba60a27bb1b3b5831c8/files/spring-boot-admin/spring-boot-admin-server/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/spring-boot-admin/spring-boot-admin-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rexlin600/springboot-sutra-pavilion/snapshot/0418b18b5e87a067ff56cba60a27bb1b3b5831c8/files/spring-boot-admin/spring-boot-admin-server/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/spring-boot-admin/spring-boot-admin-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rexlin600/springboot-sutra-pavilion/snapshot/0418b18b5e87a067ff56cba60a27bb1b3b5831c8/files/spring-boot-admin-discovery/spring-boot-admin-server-discovery/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/spring-boot-admin-discovery/spring-boot-admin-server-discovery/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rexlin600/springboot-sutra-pavilion/snapshot/0418b18b5e87a067ff56cba60a27bb1b3b5831c8/files/spring-boot-admin-discovery/spring-boot-admin-server-discovery/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/spring-boot-admin-discovery/spring-boot-admin-server-discovery/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/alphagov/datagovuk_reference", 
+    "url-identifier": "g/alphagov/datagovuk_reference", 
+    "id": 1506485306147, 
+    "name": "alphagov/datagovuk_reference"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alphagov/datagovuk_reference/snapshot/3070092fff616327f29a54227f0a66a9b8a0e5c3/files/IntervalServer/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/IntervalServer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alphagov/datagovuk_reference/snapshot/3070092fff616327f29a54227f0a66a9b8a0e5c3/files/IntervalServer/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/IntervalServer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/1"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alphagov/datagovuk_reference/snapshot/3070092fff616327f29a54227f0a66a9b8a0e5c3/files/IntervalServer/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/IntervalServer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.epimorphics.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alphagov/datagovuk_reference/snapshot/3070092fff616327f29a54227f0a66a9b8a0e5c3/files/IntervalServer/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/IntervalServer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/blueocean-maven-plugin", 
+    "url-identifier": "g/jenkinsci/blueocean-maven-plugin", 
+    "id": 1509192576535, 
+    "name": "jenkinsci/blueocean-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/blueocean-maven-plugin/snapshot/756eb5cc446bb64d4ac87bed8148796036aabd20/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/blueocean-maven-plugin/snapshot/756eb5cc446bb64d4ac87bed8148796036aabd20/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

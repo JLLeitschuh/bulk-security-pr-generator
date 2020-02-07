@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/DigitalMediaServer/DigitalMediaServer", 
+    "url-identifier": "g/DigitalMediaServer/DigitalMediaServer", 
+    "id": 1506728573985, 
+    "name": "DigitalMediaServer/DigitalMediaServer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DigitalMediaServer/DigitalMediaServer/snapshot/006152d140297736895c348a614082cc65526ce0/files/pom.xml#L128", 
+        "line": 128, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://4thline.org/m2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

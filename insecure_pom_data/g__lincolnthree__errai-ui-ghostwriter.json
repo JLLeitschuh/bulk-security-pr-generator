@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lincolnthree/errai-ui-ghostwriter", 
+    "url-identifier": "g/lincolnthree/errai-ui-ghostwriter", 
+    "id": 1506704286724, 
+    "name": "lincolnthree/errai-ui-ghostwriter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lincolnthree/errai-ui-ghostwriter/snapshot/4f01fce033609e58eb040545f62ab7d95d220f31/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

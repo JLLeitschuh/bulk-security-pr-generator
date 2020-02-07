@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/laszlomiklosik/jenkins-jira-issue-updater", 
+    "url-identifier": "g/laszlomiklosik/jenkins-jira-issue-updater", 
+    "id": 1509235586077, 
+    "name": "laszlomiklosik/jenkins-jira-issue-updater"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/laszlomiklosik/jenkins-jira-issue-updater/snapshot/d21f3487c026cb95a3cf66ececbe5d72fd867cb3/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/laszlomiklosik/jenkins-jira-issue-updater/snapshot/d21f3487c026cb95a3cf66ececbe5d72fd867cb3/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

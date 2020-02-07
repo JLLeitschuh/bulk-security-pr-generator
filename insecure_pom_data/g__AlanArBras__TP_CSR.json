@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/AlanArBras/TP_CSR", 
+    "url-identifier": "g/AlanArBras/TP_CSR", 
+    "id": 1506608477717, 
+    "name": "AlanArBras/TP_CSR"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AlanArBras/TP_CSR/snapshot/0360ae5db032275888524f9eae840da4091df695/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

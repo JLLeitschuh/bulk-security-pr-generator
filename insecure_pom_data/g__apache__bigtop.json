@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/bigtop", 
+    "url-identifier": "g/apache/bigtop", 
+    "id": 12030062, 
+    "name": "apache/bigtop"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/bigtop/snapshot/f6ca2a4333498628cbeedad0747fe4d9c5592c94/files/bigtop-tests/test-artifacts/spark/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/bigtop-tests/test-artifacts/spark/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.akka.io/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/bigtop/snapshot/f6ca2a4333498628cbeedad0747fe4d9c5592c94/files/bigtop-tests/test-execution/smokes/spark/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/bigtop-tests/test-execution/smokes/spark/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.akka.io/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/bigtop/snapshot/f6ca2a4333498628cbeedad0747fe4d9c5592c94/files/bigtop-tests/test-execution/smokes/spark/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/bigtop-tests/test-execution/smokes/spark/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spray.cc/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

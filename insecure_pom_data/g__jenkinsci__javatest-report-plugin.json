@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/javatest-report-plugin", 
+    "url-identifier": "g/jenkinsci/javatest-report-plugin", 
+    "id": 1509233476153, 
+    "name": "jenkinsci/javatest-report-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/javatest-report-plugin/snapshot/a0b6afe6d1fc41a22fe6d9e0093d10376540cadc/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/javatest-report-plugin/snapshot/a0b6afe6d1fc41a22fe6d9e0093d10376540cadc/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

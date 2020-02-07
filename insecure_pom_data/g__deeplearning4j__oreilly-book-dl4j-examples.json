@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/deeplearning4j/oreilly-book-dl4j-examples", 
+    "url-identifier": "g/deeplearning4j/oreilly-book-dl4j-examples", 
+    "id": 1506753496339, 
+    "name": "deeplearning4j/oreilly-book-dl4j-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/deeplearning4j/oreilly-book-dl4j-examples/snapshot/12d5ef3a9d5a7eef4600c9ab819158060c3765d2/files/dl4j-cuda-specific-examples/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/dl4j-cuda-specific-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/deeplearning4j/oreilly-book-dl4j-examples/snapshot/12d5ef3a9d5a7eef4600c9ab819158060c3765d2/files/dl4j-examples/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/dl4j-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/deeplearning4j/oreilly-book-dl4j-examples/snapshot/12d5ef3a9d5a7eef4600c9ab819158060c3765d2/files/rl4j-examples/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/rl4j-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

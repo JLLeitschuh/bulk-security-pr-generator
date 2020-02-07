@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nroduit/Weasis", 
+    "url-identifier": "g/nroduit/Weasis", 
+    "id": 3980099, 
+    "name": "nroduit/Weasis"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nroduit/Weasis/snapshot/7278548e9fd720dfe21f66af58cdbbf053500df4/files/weasis-dicom/weasis-dicom-codec/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/weasis-dicom/weasis-dicom-codec/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.dcm4che.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

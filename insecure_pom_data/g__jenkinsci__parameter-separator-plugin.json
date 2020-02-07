@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/parameter-separator-plugin", 
+    "url-identifier": "g/jenkinsci/parameter-separator-plugin", 
+    "id": 1506601309976, 
+    "name": "jenkinsci/parameter-separator-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/parameter-separator-plugin/snapshot/40b597555c0b409a5ff2d565460b7d17b6399498/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

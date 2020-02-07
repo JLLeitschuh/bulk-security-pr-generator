@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/SES", 
+    "url-identifier": "g/52North/SES", 
+    "id": 1506744546456, 
+    "name": "52North/SES"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SES/snapshot/d03e6814ef53837d64dc7f43c1732289138b2684/files/pom.xml#L156", 
+        "line": 156, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SES/snapshot/d03e6814ef53837d64dc7f43c1732289138b2684/files/pom.xml#L167", 
+        "line": 167, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SES/snapshot/d03e6814ef53837d64dc7f43c1732289138b2684/files/pom.xml#L178", 
+        "line": 178, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.opengeo.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SES/snapshot/d03e6814ef53837d64dc7f43c1732289138b2684/files/pom.xml#L192", 
+        "line": 192, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mc-repo.googlecode.com/svn/maven2/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SES/snapshot/d03e6814ef53837d64dc7f43c1732289138b2684/files/pom.xml#L203", 
+        "line": 203, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

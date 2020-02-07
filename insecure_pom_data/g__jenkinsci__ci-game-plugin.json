@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/ci-game-plugin", 
+    "url-identifier": "g/jenkinsci/ci-game-plugin", 
+    "id": 1509080866012, 
+    "name": "jenkinsci/ci-game-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ci-game-plugin/snapshot/f7c43c0343edb5cdbcb005bda8a5d4831ea687c9/files/pom.xml#L188", 
+        "line": 188, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/ci-game-plugin/snapshot/f7c43c0343edb5cdbcb005bda8a5d4831ea687c9/files/pom.xml#L195", 
+        "line": 195, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

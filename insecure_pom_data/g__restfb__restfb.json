@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/restfb/restfb", 
+    "url-identifier": "g/restfb/restfb", 
+    "id": 40400037, 
+    "name": "restfb/restfb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/restfb/restfb/snapshot/e673516889eb03be88eefd4a3a126810b6c42644/files/pom.xml#L306", 
+        "line": 306, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

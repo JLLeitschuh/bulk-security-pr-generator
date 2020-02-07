@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jghoman/finagle-java-example", 
+    "url-identifier": "g/jghoman/finagle-java-example", 
+    "id": 63230070, 
+    "name": "jghoman/finagle-java-example"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jghoman/finagle-java-example/snapshot/96b5b2520388b6141513b6f96ece29d026cebdb0/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jghoman/finagle-java-example/snapshot/96b5b2520388b6141513b6f96ece29d026cebdb0/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jghoman/finagle-java-example/snapshot/96b5b2520388b6141513b6f96ece29d026cebdb0/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvnrepository.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

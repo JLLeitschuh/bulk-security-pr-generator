@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/unitsofmeasurement/uom-se", 
+    "url-identifier": "g/unitsofmeasurement/uom-se", 
+    "id": 27081359, 
+    "name": "unitsofmeasurement/uom-se"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/unitsofmeasurement/uom-se/snapshot/d6bf4a0eb41d904ee765cc2c7002d7b66ec72b55/files/pom.xml#L390", 
+        "line": 390, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/unitsofmeasurement/uom-se/snapshot/d6bf4a0eb41d904ee765cc2c7002d7b66ec72b55/files/pom.xml#L395", 
+        "line": 395, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/unitsofmeasurement/uom-se/snapshot/d6bf4a0eb41d904ee765cc2c7002d7b66ec72b55/files/pom.xml#L403", 
+        "line": 403, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/unitsofmeasurement/uom-se/snapshot/d6bf4a0eb41d904ee765cc2c7002d7b66ec72b55/files/pom.xml#L464", 
+        "line": 464, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

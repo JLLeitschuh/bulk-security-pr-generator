@@ -1,0 +1,190 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wso2-attic/product-esb", 
+    "url-identifier": "g/wso2-attic/product-esb", 
+    "id": 4980067, 
+    "name": "wso2-attic/product-esb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/modules/integration/service-samples/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/modules/integration/service-samples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/modules/integration/service-samples/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/modules/integration/service-samples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/modules/integration/service-samples/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/modules/integration/service-samples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/modules/integration/service-samples/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/modules/integration/service-samples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/modules/samples/integration-scenarios/starbucks_sample/StarbucksServicePlatform/artifacts/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/modules/samples/integration-scenarios/starbucks_sample/StarbucksServicePlatform/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/modules/samples/integration-scenarios/starbucks_sample/StarbucksServicePlatform/artifacts/pom.xml#L33", 
+        "line": 33, 
+        "value": "pluginRepository", 
+        "file": "/modules/samples/integration-scenarios/starbucks_sample/StarbucksServicePlatform/artifacts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/modules/samples/integration-scenarios/starbucks_sample/StarbucksServicePlatform/builder/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/modules/samples/integration-scenarios/starbucks_sample/StarbucksServicePlatform/builder/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/modules/samples/integration-scenarios/starbucks_sample/StarbucksServicePlatform/builder/pom.xml#L22", 
+        "line": 22, 
+        "value": "pluginRepository", 
+        "file": "/modules/samples/integration-scenarios/starbucks_sample/StarbucksServicePlatform/builder/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/pom.xml#L1211", 
+        "line": 1211, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/pom.xml#L1221", 
+        "line": 1221, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/pom.xml#L1233", 
+        "line": 1233, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/pom.xml#L1245", 
+        "line": 1245, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/pom.xml#L1255", 
+        "line": 1255, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/pom.xml#L1265", 
+        "line": 1265, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/pom.xml#L1279", 
+        "line": 1279, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2-attic/product-esb/snapshot/f85d4862e3d87b0a5a8e71e84b307132068865b8/files/pom.xml#L1284", 
+        "line": 1284, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/metamodel", 
+    "url-identifier": "g/apache/metamodel", 
+    "id": 13000154, 
+    "name": "apache/metamodel"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/metamodel/snapshot/e52f4415d29fe6496f532bf037284faa3c4b02ee/files/pom.xml#L191", 
+        "line": 191, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

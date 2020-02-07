@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/thinkgem/jeesite", 
+    "url-identifier": "g/thinkgem/jeesite", 
+    "id": 123030493, 
+    "name": "thinkgem/jeesite"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/thinkgem/jeesite/snapshot/575db7ae8787900de3d6bde8cc4e55d3b0960876/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/thinkgem/jeesite/snapshot/575db7ae8787900de3d6bde8cc4e55d3b0960876/files/pom.xml#L74", 
+        "line": 74, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/geronimo-genesis", 
+    "url-identifier": "g/apache/geronimo-genesis", 
+    "id": 1506231137018, 
+    "name": "apache/geronimo-genesis"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/geronimo-genesis/snapshot/ad10f2e80bdf0c9a566088016f0aec3b3b0827cd/files/genesis-default-flava/pom.xml#L346", 
+        "line": 346, 
+        "value": "pluginRepository", 
+        "file": "/genesis-default-flava/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mc-repo.googlecode.com/svn/maven2/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

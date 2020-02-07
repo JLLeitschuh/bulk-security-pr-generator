@@ -1,0 +1,245 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse", 
+    "url-identifier": "g/cfeclipse/cfeclipse", 
+    "id": 62450003, 
+    "name": "cfeclipse/cfeclipse"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update/pom.xml#L27", 
+        "line": 27, 
+        "value": "pluginRepository", 
+        "file": "/org.cfeclipse.cfml.update/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/photon/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cflint/update"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cflint/update-dev"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cfparser/update"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cfparser/update-dev"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update/pom.xml#L87", 
+        "line": 87, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/update${site.suffix}"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update-dev/pom.xml#L28", 
+        "line": 28, 
+        "value": "pluginRepository", 
+        "file": "/org.cfeclipse.cfml.update-dev/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update-dev/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update-dev/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/photon/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update-dev/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update-dev/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cflint/update"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update-dev/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update-dev/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cflint/update-dev"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update-dev/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update-dev/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cfparser/update"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update-dev/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update-dev/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cfparser/update-dev"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/org.cfeclipse.cfml.update-dev/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/org.cfeclipse.cfml.update-dev/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/update${site.suffix}"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/photon/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cfparser/update"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cfparser/update-dev"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cflint/update"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://cfeclipse.org/cflint/update-dev"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/ecf/3.11.0/site.p2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cfeclipse/cfeclipse/snapshot/2aa94a34e742e331e320ac3c0d7d3cfbd6238035/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/mylyn/releases/latest"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

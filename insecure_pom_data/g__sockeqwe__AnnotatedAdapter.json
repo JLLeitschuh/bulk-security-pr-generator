@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sockeqwe/AnnotatedAdapter", 
+    "url-identifier": "g/sockeqwe/AnnotatedAdapter", 
+    "id": 44650073, 
+    "name": "sockeqwe/AnnotatedAdapter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sockeqwe/AnnotatedAdapter/snapshot/70dd3e4a6ff731be3e4e5751e376485263b31efa/files/pom.xml#L107", 
+        "line": 107, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://autoincrement-versions-maven-plugin.googlecode.com/svn/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

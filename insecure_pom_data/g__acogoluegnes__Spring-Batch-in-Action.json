@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/acogoluegnes/Spring-Batch-in-Action", 
+    "url-identifier": "g/acogoluegnes/Spring-Batch-in-Action", 
+    "id": 1508115046070, 
+    "name": "acogoluegnes/Spring-Batch-in-Action"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/acogoluegnes/Spring-Batch-in-Action/snapshot/29affc66fd56db2247d785c22cbd48f3a63efc8e/files/sbia/pom.xml#L212", 
+        "line": 212, 
+        "value": "repository", 
+        "file": "/sbia/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/acogoluegnes/Spring-Batch-in-Action/snapshot/29affc66fd56db2247d785c22cbd48f3a63efc8e/files/sbia/pom.xml#L218", 
+        "line": 218, 
+        "value": "repository", 
+        "file": "/sbia/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/acogoluegnes/Spring-Batch-in-Action/snapshot/29affc66fd56db2247d785c22cbd48f3a63efc8e/files/sbia/pom.xml#L224", 
+        "line": 224, 
+        "value": "repository", 
+        "file": "/sbia/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

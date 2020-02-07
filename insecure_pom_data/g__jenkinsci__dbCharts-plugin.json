@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/dbCharts-plugin", 
+    "url-identifier": "g/jenkinsci/dbCharts-plugin", 
+    "id": 1506680166470, 
+    "name": "jenkinsci/dbCharts-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/dbCharts-plugin/snapshot/2b2a255dbf143d999fd195826f3877f3c8ca60fb/files/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/dbCharts-plugin/snapshot/2b2a255dbf143d999fd195826f3877f3c8ca60fb/files/pom.xml#L93", 
+        "line": 93, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

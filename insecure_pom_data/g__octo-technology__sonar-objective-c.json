@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/octo-technology/sonar-objective-c", 
+    "url-identifier": "g/octo-technology/sonar-objective-c", 
+    "id": 35970071, 
+    "name": "octo-technology/sonar-objective-c"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/octo-technology/sonar-objective-c/snapshot/d7c2d17b0ae515d2d1e77bfcdc1e17766cff585e/files/pom.xml#L6", 
+        "line": 6, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.sonarsource.org/content/repositories/sonar"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/octo-technology/sonar-objective-c/snapshot/d7c2d17b0ae515d2d1e77bfcdc1e17766cff585e/files/pom.xml#L13", 
+        "line": 13, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.sonarsource.org/content/repositories/sonar"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

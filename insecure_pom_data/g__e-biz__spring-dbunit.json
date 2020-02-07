@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/e-biz/spring-dbunit", 
+    "url-identifier": "g/e-biz/spring-dbunit", 
+    "id": 14020029, 
+    "name": "e-biz/spring-dbunit"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/e-biz/spring-dbunit/snapshot/c51354f48cc7925aa4b57bdc42d5295e4277ee4f/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.excilys.com/content/repositories/thirdparty"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

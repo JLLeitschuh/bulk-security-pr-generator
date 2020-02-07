@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jprante/elasticsearch-plugin-deploy", 
+    "url-identifier": "g/jprante/elasticsearch-plugin-deploy", 
+    "id": 1506714127434, 
+    "name": "jprante/elasticsearch-plugin-deploy"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jprante/elasticsearch-plugin-deploy/snapshot/1fdb9009fe561d08d8d72dd34b1a1ed62b9684c3/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://xbib.org/repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

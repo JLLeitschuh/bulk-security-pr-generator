@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SAP/cloud-language-servers-container", 
+    "url-identifier": "g/SAP/cloud-language-servers-container", 
+    "id": 1506262866329, 
+    "name": "SAP/cloud-language-servers-container"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SAP/cloud-language-servers-container/snapshot/b8637b0d636aec73765a2e34f605b10ea3b1dd26/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.wdf.sap.corp:8081/nexus/content/repositories/deploy.snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

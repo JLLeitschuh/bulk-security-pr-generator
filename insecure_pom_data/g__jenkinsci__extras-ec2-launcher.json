@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/extras-ec2-launcher", 
+    "url-identifier": "g/jenkinsci/extras-ec2-launcher", 
+    "id": 1506614998361, 
+    "name": "jenkinsci/extras-ec2-launcher"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/extras-ec2-launcher/snapshot/16155d72921b2f4a12b5878ebb45f54b1fd20e11/files/pom.xml#L139", 
+        "line": 139, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jets3t.s3.amazonaws.com/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

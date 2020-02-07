@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/microsoft/deep-space", 
+    "url-identifier": "g/microsoft/deep-space", 
+    "id": 1506032386447, 
+    "name": "microsoft/deep-space"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/microsoft/deep-space/snapshot/58a30bcea7e08458dbffd5e146af8a0edb0491e0/files/DeepSpace.UAT/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/DeepSpace.UAT/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

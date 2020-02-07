@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/pipeline-maven-plugin", 
+    "url-identifier": "g/jenkinsci/pipeline-maven-plugin", 
+    "id": 1509238716044, 
+    "name": "jenkinsci/pipeline-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/pipeline-maven-plugin/snapshot/3c128fb525b6395b2255c10e4edaf045902c142a/files/jenkins-plugin/src/test/resources/org/jenkinsci/plugins/pipeline/maven/test/test_maven_projects/maven_nbm_base_project/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/jenkins-plugin/src/test/resources/org/jenkinsci/plugins/pipeline/maven/test/test_maven_projects/maven_nbm_base_project/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/nexus/content/groups/netbeans"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/pipeline-maven-plugin/snapshot/3c128fb525b6395b2255c10e4edaf045902c142a/files/jenkins-plugin/src/test/resources/org/jenkinsci/plugins/pipeline/maven/test/test_maven_projects/maven_nbm_dependency_project/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/jenkins-plugin/src/test/resources/org/jenkinsci/plugins/pipeline/maven/test/test_maven_projects/maven_nbm_dependency_project/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/nexus/content/groups/netbeans"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

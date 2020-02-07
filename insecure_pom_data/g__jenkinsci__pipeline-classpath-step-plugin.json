@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/pipeline-classpath-step-plugin", 
+    "url-identifier": "g/jenkinsci/pipeline-classpath-step-plugin", 
+    "id": 1506589259646, 
+    "name": "jenkinsci/pipeline-classpath-step-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/pipeline-classpath-step-plugin/snapshot/8ea0d170c689abb3d60da45740a6f3dd02a4b7c4/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/pipeline-classpath-step-plugin/snapshot/8ea0d170c689abb3d60da45740a6f3dd02a4b7c4/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

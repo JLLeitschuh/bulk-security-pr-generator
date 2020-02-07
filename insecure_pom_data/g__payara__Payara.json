@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/payara/Payara", 
+    "url-identifier": "g/payara/Payara", 
+    "id": 1506530526337, 
+    "name": "payara/Payara"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/payara/Payara/snapshot/4eb199bad11750195c11f3f23f73ec7a9af709ff/files/appserver/persistence/cmp/ejb-mapping/pom.xml#L109", 
+        "line": 109, 
+        "value": "repository", 
+        "file": "/appserver/persistence/cmp/ejb-mapping/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/payara/Payara/snapshot/4eb199bad11750195c11f3f23f73ec7a9af709ff/files/appserver/persistence/cmp/enhancer/pom.xml#L96", 
+        "line": 96, 
+        "value": "repository", 
+        "file": "/appserver/persistence/cmp/enhancer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/payara/Payara/snapshot/4eb199bad11750195c11f3f23f73ec7a9af709ff/files/appserver/persistence/cmp/generator-database/pom.xml#L105", 
+        "line": 105, 
+        "value": "repository", 
+        "file": "/appserver/persistence/cmp/generator-database/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/payara/Payara/snapshot/4eb199bad11750195c11f3f23f73ec7a9af709ff/files/appserver/persistence/cmp/support-ejb/pom.xml#L160", 
+        "line": 160, 
+        "value": "repository", 
+        "file": "/appserver/persistence/cmp/support-ejb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

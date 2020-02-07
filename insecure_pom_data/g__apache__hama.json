@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/hama", 
+    "url-identifier": "g/apache/hama", 
+    "id": 1511092540568, 
+    "name": "apache/hama"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/hama/snapshot/582b761d8015d5731266fec3f34337ea42d1238e/files/pom.xml#L108", 
+        "line": 108, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.apache.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

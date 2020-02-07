@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apparao2017/mvnrepo", 
+    "url-identifier": "g/apparao2017/mvnrepo", 
+    "id": 1505965196193, 
+    "name": "apparao2017/mvnrepo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apparao2017/mvnrepo/snapshot/7ae885a886a816bee3e09b330937b155bf80c73e/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.128.0.9:8081/repository/maven-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apparao2017/mvnrepo/snapshot/7ae885a886a816bee3e09b330937b155bf80c73e/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.128.0.9:8081/repository/maven-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

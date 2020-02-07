@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/weamylady2/iOS_remote", 
+    "url-identifier": "g/weamylady2/iOS_remote", 
+    "id": 1507535825998, 
+    "name": "weamylady2/iOS_remote"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/weamylady2/iOS_remote/snapshot/29133b1111873633106aea19bfb03b202c9ab6b9/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

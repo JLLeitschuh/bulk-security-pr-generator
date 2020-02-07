@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SpoonLabs/coming", 
+    "url-identifier": "g/SpoonLabs/coming", 
+    "id": 1510228686722, 
+    "name": "SpoonLabs/coming"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SpoonLabs/coming/snapshot/1b27b281c48ad453bfd3117166ae154201cfc436/files/pom.xml#L172", 
+        "line": 172, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://spoon.gforge.inria.fr/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SpoonLabs/coming/snapshot/1b27b281c48ad453bfd3117166ae154201cfc436/files/pom.xml#L176", 
+        "line": 176, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://spoon.gforge.inria.fr/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SpoonLabs/coming/snapshot/1b27b281c48ad453bfd3117166ae154201cfc436/files/pom.xml#L182", 
+        "line": 182, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://sachaproject.gforge.inria.fr/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SpoonLabs/coming/snapshot/1b27b281c48ad453bfd3117166ae154201cfc436/files/pom.xml#L188", 
+        "line": 188, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://sachaproject.gforge.inria.fr/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SpoonLabs/coming/snapshot/1b27b281c48ad453bfd3117166ae154201cfc436/files/pom.xml#L207", 
+        "line": 207, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.inria.fr/artifactory/spoon-public-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/w3c/omn", 
+    "url-identifier": "g/w3c/omn", 
+    "id": 910083, 
+    "name": "w3c/omn"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/w3c/omn/snapshot/6e967f45bf10cc4fe30e8eeb5f0f2648b08e088e/files/omnlib/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/omnlib/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.opendaylight.org/content/repositories/opendaylight.release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/w3c/omn/snapshot/6e967f45bf10cc4fe30e8eeb5f0f2648b08e088e/files/omnlib/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/omnlib/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.opendaylight.org/content/repositories/opendaylight.snapshot/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/w3c/omn/snapshot/6e967f45bf10cc4fe30e8eeb5f0f2648b08e088e/files/omnlib/pom.xml#L30", 
+        "line": 30, 
+        "value": "pluginRepository", 
+        "file": "/omnlib/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.opendaylight.org/content/repositories/opendaylight.release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/w3c/omn/snapshot/6e967f45bf10cc4fe30e8eeb5f0f2648b08e088e/files/omnlib/pom.xml#L35", 
+        "line": 35, 
+        "value": "pluginRepository", 
+        "file": "/omnlib/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.opendaylight.org/content/repositories/opendaylight.snapshot/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

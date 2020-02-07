@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/feixiao/DesignPattern", 
+    "url-identifier": "g/feixiao/DesignPattern", 
+    "id": 1506196756437, 
+    "name": "feixiao/DesignPattern"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/feixiao/DesignPattern/snapshot/160b51564062371f63c1e0e3edc84d36750533c1/files/Java/naked-objects/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/Java/naked-objects/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository-estatio.forge.cloudbees.com/snapshot/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

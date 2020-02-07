@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/alphagov/pay-connector", 
+    "url-identifier": "g/alphagov/pay-connector", 
+    "id": 2104050695, 
+    "name": "alphagov/pay-connector"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alphagov/pay-connector/snapshot/598a857e154168b13e649f22b9045b3b0c5863a7/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/gov-uk-notify/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

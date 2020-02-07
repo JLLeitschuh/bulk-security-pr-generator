@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/anything-goes-formatter-plugin", 
+    "url-identifier": "g/jenkinsci/anything-goes-formatter-plugin", 
+    "id": 1506583758851, 
+    "name": "jenkinsci/anything-goes-formatter-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/anything-goes-formatter-plugin/snapshot/f3c864d8d8095fcfadf029af3e328fe89bbe0b3b/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/anything-goes-formatter-plugin/snapshot/f3c864d8d8095fcfadf029af3e328fe89bbe0b3b/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

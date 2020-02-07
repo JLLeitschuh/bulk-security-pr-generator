@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JodaOrg/joda-time-jsptags", 
+    "url-identifier": "g/JodaOrg/joda-time-jsptags", 
+    "id": 1510580126241, 
+    "name": "JodaOrg/joda-time-jsptags"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JodaOrg/joda-time-jsptags/snapshot/8bcea7addd650d6de3c8cc35621351a001f69be4/files/pom.xml#L418", 
+        "line": 418, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JodaOrg/joda-time-jsptags/snapshot/8bcea7addd650d6de3c8cc35621351a001f69be4/files/pom.xml#L424", 
+        "line": 424, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/joda-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

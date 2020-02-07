@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Transitime/core", 
+    "url-identifier": "g/Transitime/core", 
+    "id": 1506492491801, 
+    "name": "Transitime/core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Transitime/core/snapshot/400c6ac9adba7c0af12abf1ca3aab008a735c84a/files/transitime/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/transitime/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/kevinlee/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Transitime/core/snapshot/400c6ac9adba7c0af12abf1ca3aab008a735c84a/files/transitime/pom.xml#L27", 
+        "line": 27, 
+        "value": "pluginRepository", 
+        "file": "/transitime/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://onejar-maven-plugin.googlecode.com/svn/mavenrepo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

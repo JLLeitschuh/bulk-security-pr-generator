@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lbovet/jminix", 
+    "url-identifier": "g/lbovet/jminix", 
+    "id": 1794383631, 
+    "name": "lbovet/jminix"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lbovet/jminix/snapshot/f621c15cfb46f606cd7b61090421f1721f559ce1/files/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

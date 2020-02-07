@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/LightGuard/HolyCannoli-mongo", 
+    "url-identifier": "g/LightGuard/HolyCannoli-mongo", 
+    "id": 1509086815987, 
+    "name": "LightGuard/HolyCannoli-mongo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LightGuard/HolyCannoli-mongo/snapshot/a99a8fcaf98cd91899fbe64edda0276eac52dc9c/files/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.repository.redhat.com/techpreview/all"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LightGuard/HolyCannoli-mongo/snapshot/a99a8fcaf98cd91899fbe64edda0276eac52dc9c/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.repository.redhat.com/techpreview/all"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

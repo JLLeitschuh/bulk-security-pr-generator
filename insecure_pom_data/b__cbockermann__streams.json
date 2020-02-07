@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/cbockermann/streams", 
+    "url-identifier": "b/cbockermann/streams", 
+    "id": 1281420059, 
+    "name": "cbockermann/streams"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/cbockermann/streams/snapshot/48e3f080965b9404f803712f105dcc1340e20edb/files/site-skin/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/site-skin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://secure.jwall.org/maven/repository/jwall"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/cbockermann/streams/snapshot/48e3f080965b9404f803712f105dcc1340e20edb/files/site-skin/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/site-skin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://secure.jwall.org/maven/repository/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

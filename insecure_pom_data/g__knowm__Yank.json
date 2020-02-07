@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/knowm/Yank", 
+    "url-identifier": "g/knowm/Yank", 
+    "id": 24610061, 
+    "name": "knowm/Yank"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/knowm/Yank/snapshot/a6e4c0dc667d10886d6579e9c949a2d8d160eec7/files/pom.xml#L100", 
+        "line": 100, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/knowm/Yank/snapshot/a6e4c0dc667d10886d6579e9c949a2d8d160eec7/files/pom.xml#L105", 
+        "line": 105, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

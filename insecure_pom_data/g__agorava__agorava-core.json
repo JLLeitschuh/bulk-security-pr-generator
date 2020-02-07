@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/agorava/agorava-core", 
+    "url-identifier": "g/agorava/agorava-core", 
+    "id": 45970045, 
+    "name": "agorava/agorava-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/agorava/agorava-core/snapshot/6ecdcadcb5bb64a80c72cf52887a6c67f8036e1e/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/agorava/agorava-core/snapshot/6ecdcadcb5bb64a80c72cf52887a6c67f8036e1e/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/agorava/agorava-core/snapshot/6ecdcadcb5bb64a80c72cf52887a6c67f8036e1e/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

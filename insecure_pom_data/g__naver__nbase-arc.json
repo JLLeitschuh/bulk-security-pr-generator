@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/naver/nbase-arc", 
+    "url-identifier": "g/naver/nbase-arc", 
+    "id": 1509229686587, 
+    "name": "naver/nbase-arc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/naver/nbase-arc/snapshot/d05c0c7a05ef0f0cc27223647a6d8417b8a42af2/files/confmaster/pom.xml#L280", 
+        "line": 280, 
+        "value": "repository", 
+        "file": "/confmaster/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-milestone/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

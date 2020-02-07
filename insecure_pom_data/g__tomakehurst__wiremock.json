@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tomakehurst/wiremock", 
+    "url-identifier": "g/tomakehurst/wiremock", 
+    "id": 43430042, 
+    "name": "tomakehurst/wiremock"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tomakehurst/wiremock/snapshot/5e5eb78238fbad33280bf40d91b2fe116b34e543/files/testlogging/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/testlogging/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://version99.qos.ch/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

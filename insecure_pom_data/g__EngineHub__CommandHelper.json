@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/EngineHub/CommandHelper", 
+    "url-identifier": "g/EngineHub/CommandHelper", 
+    "id": 13020003, 
+    "name": "EngineHub/CommandHelper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EngineHub/CommandHelper/snapshot/6c9f7b0f0b8dfe7b544aaeadc1be63ebad06fd5e/files/pom.xml#L138", 
+        "line": 138, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EngineHub/CommandHelper/snapshot/6c9f7b0f0b8dfe7b544aaeadc1be63ebad06fd5e/files/pom.xml#L389", 
+        "line": 389, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/artifactory/libs-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EngineHub/CommandHelper/snapshot/6c9f7b0f0b8dfe7b544aaeadc1be63ebad06fd5e/files/pom.xml#L393", 
+        "line": 393, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/artifactory/libs-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/aktivecortex/aktivecortex", 
+    "url-identifier": "b/aktivecortex/aktivecortex", 
+    "id": 1305810072, 
+    "name": "aktivecortex/aktivecortex"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/aktivecortex/aktivecortex/snapshot/ef169e54cb931bfbc6de3d3c924b47b693a47a28/files/AktiveCortex/pom.xml#L349", 
+        "line": 349, 
+        "value": "snapshotRepository", 
+        "file": "/AktiveCortex/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/aktivecortex/aktivecortex/snapshot/ef169e54cb931bfbc6de3d3c924b47b693a47a28/files/AktiveCortex/pom.xml#L354", 
+        "line": 354, 
+        "value": "repository", 
+        "file": "/AktiveCortex/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

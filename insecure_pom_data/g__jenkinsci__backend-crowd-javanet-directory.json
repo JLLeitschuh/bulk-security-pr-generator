@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/backend-crowd-javanet-directory", 
+    "url-identifier": "g/jenkinsci/backend-crowd-javanet-directory", 
+    "id": 1506581712283, 
+    "name": "jenkinsci/backend-crowd-javanet-directory"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-crowd-javanet-directory/snapshot/62a7132fdd6300131265b79bdcc3e42dcdf07701/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.glassfish.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-crowd-javanet-directory/snapshot/62a7132fdd6300131265b79bdcc3e42dcdf07701/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.atlassian.com/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backend-crowd-javanet-directory/snapshot/62a7132fdd6300131265b79bdcc3e42dcdf07701/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.atlassian.com/svn/public/contrib/repository/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

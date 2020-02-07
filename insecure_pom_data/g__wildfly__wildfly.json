@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wildfly/wildfly", 
+    "url-identifier": "g/wildfly/wildfly", 
+    "id": 1980860243, 
+    "name": "wildfly/wildfly"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wildfly/wildfly/snapshot/c04b66eb4dd4825e5ec3099b71ef66982a318906/files/pom.xml#L6223", 
+        "line": 6223, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wildfly/wildfly/snapshot/c04b66eb4dd4825e5ec3099b71ef66982a318906/files/pom.xml#L6240", 
+        "line": 6240, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wildfly/wildfly/snapshot/c04b66eb4dd4825e5ec3099b71ef66982a318906/files/testsuite/pom.xml#L666", 
+        "line": 666, 
+        "value": "repository", 
+        "file": "/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.qa.jboss.com:8081/nexus/content/repositories/thirdparty"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

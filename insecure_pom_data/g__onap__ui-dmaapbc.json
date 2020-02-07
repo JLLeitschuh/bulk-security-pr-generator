@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/onap/ui-dmaapbc", 
+    "url-identifier": "g/onap/ui-dmaapbc", 
+    "id": 1506480065089, 
+    "name": "onap/ui-dmaapbc"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/onap/ui-dmaapbc/snapshot/0f62dc715900a65c63ab29326de7871d89dc7173/files/dcae_dmaapbc_webapp/dbca-os/pom.xml#L235", 
+        "line": 235, 
+        "value": "pluginRepository", 
+        "file": "/dcae_dmaapbc_webapp/dbca-os/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/onap/ui-dmaapbc/snapshot/0f62dc715900a65c63ab29326de7871d89dc7173/files/dcae_dmaapbc_webapp/dbca-os/pom.xml#L241", 
+        "line": 241, 
+        "value": "pluginRepository", 
+        "file": "/dcae_dmaapbc_webapp/dbca-os/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

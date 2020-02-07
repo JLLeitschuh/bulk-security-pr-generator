@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/google/gson", 
+    "url-identifier": "g/google/gson", 
+    "id": 10080019, 
+    "name": "google/gson"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/google/gson/snapshot/b5128037efbc8a55c6a3abce698528be49a8d60b/files/proto/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/proto/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://google-gson.googlecode.com/svn/mavenrepo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

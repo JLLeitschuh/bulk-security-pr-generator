@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/matschaffer/corundum", 
+    "url-identifier": "g/matschaffer/corundum", 
+    "id": 1506700548140, 
+    "name": "matschaffer/corundum"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/matschaffer/corundum/snapshot/0c168156ccf44c99a6fc03f6013d8443bf3935b2/files/testapp/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/testapp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://code.cimians.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/maths22/ftc-scoring", 
+    "url-identifier": "g/maths22/ftc-scoring", 
+    "id": 1506723443295, 
+    "name": "maths22/ftc-scoring"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/maths22/ftc-scoring/snapshot/daa87435dd33de76e308638ab65adef6d0f398d0/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jumpmind.com/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

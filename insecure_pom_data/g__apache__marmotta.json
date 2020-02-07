@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/marmotta", 
+    "url-identifier": "g/apache/marmotta", 
+    "id": 1506244056527, 
+    "name": "apache/marmotta"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/marmotta/snapshot/3104d2a9a4b6f2dcb2723549f4151002471e3582/files/platform/backends/marmotta-backend-bigdata/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/platform/backends/marmotta-backend-bigdata/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.systap.com/maven/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/gephi/gephi", 
+    "url-identifier": "g/gephi/gephi", 
+    "id": 48300011, 
+    "name": "gephi/gephi"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gephi/gephi/snapshot/f1cbf377eaaf8a50b7a35507aad3ea4f0449f79c/files/modules/VisualizationImpl/pom.xml#L186", 
+        "line": 186, 
+        "value": "repository", 
+        "file": "/modules/VisualizationImpl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.jogamp.org/deployment/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gephi/gephi/snapshot/f1cbf377eaaf8a50b7a35507aad3ea4f0449f79c/files/pom.xml#L259", 
+        "line": 259, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/nexus/content/groups/netbeans/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

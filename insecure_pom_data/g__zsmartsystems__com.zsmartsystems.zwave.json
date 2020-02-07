@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/zsmartsystems/com.zsmartsystems.zwave", 
+    "url-identifier": "g/zsmartsystems/com.zsmartsystems.zwave", 
+    "id": 1509895510661, 
+    "name": "zsmartsystems/com.zsmartsystems.zwave"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/zsmartsystems/com.zsmartsystems.zwave/snapshot/7dd901332e3c2bb06c2a9c3138cbefcfec37e14a/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/zsmartsystems"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

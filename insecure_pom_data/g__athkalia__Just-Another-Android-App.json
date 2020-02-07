@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/athkalia/Just-Another-Android-App", 
+    "url-identifier": "g/athkalia/Just-Another-Android-App", 
+    "id": 1974691876, 
+    "name": "athkalia/Just-Another-Android-App"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/athkalia/Just-Another-Android-App/snapshot/faac0f22392ea83a209851848208153657c825d2/files/.teamcity/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/.teamcity/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.jetbrains.com/teamcity-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/athkalia/Just-Another-Android-App/snapshot/faac0f22392ea83a209851848208153657c825d2/files/.teamcity/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/.teamcity/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://104.237.3.218:8111/app/dsl-plugins-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/athkalia/Just-Another-Android-App/snapshot/faac0f22392ea83a209851848208153657c825d2/files/.teamcity/pom.xml#L33", 
+        "line": 33, 
+        "value": "pluginRepository", 
+        "file": "/.teamcity/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.jetbrains.com/teamcity-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

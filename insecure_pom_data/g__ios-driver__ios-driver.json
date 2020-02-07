@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ios-driver/ios-driver", 
+    "url-identifier": "g/ios-driver/ios-driver", 
+    "id": 2031920219, 
+    "name": "ios-driver/ios-driver"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ios-driver/ios-driver/snapshot/24040ff5a5da57634a957f39e41f5bcbda46920b/files/libimobiledevice-wrapper/pom.xml#L74", 
+        "line": 74, 
+        "value": "repository", 
+        "file": "/libimobiledevice-wrapper/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

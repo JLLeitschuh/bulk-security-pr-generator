@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/muminc/spring-rest-example", 
+    "url-identifier": "g/muminc/spring-rest-example", 
+    "id": 1506767116140, 
+    "name": "muminc/spring-rest-example"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/muminc/spring-rest-example/snapshot/fad0c09976030dd0ccd7596504c52e9c6f19179e/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

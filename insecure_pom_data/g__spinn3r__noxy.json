@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/spinn3r/noxy", 
+    "url-identifier": "g/spinn3r/noxy", 
+    "id": 1506691806071, 
+    "name": "spinn3r/noxy"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spinn3r/noxy/snapshot/8e7078a30c87031d7c9c0c5cc0786d0f3dd6a4ea/files/pom.xml#L112", 
+        "line": 112, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://public.maven.spinn3r.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

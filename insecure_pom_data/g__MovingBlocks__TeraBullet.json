@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/MovingBlocks/TeraBullet", 
+    "url-identifier": "g/MovingBlocks/TeraBullet", 
+    "id": 1506646047320, 
+    "name": "MovingBlocks/TeraBullet"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MovingBlocks/TeraBullet/snapshot/744e5c010e933a4f8c0ffa4959ec453913d629c3/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://artifactory.movingblocks.net/artifactory/libs-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MovingBlocks/TeraBullet/snapshot/744e5c010e933a4f8c0ffa4959ec453913d629c3/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://artifactory.movingblocks.net/artifactory/libs-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

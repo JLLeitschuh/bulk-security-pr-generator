@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-configuration-doclet", 
+    "url-identifier": "g/OneBusAway/onebusaway-configuration-doclet", 
+    "id": 1507593545985, 
+    "name": "OneBusAway/onebusaway-configuration-doclet"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-configuration-doclet/snapshot/f31e48548fe95b5bb82f8f201ccdc7e28dc53d31/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

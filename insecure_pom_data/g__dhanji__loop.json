@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dhanji/loop", 
+    "url-identifier": "g/dhanji/loop", 
+    "id": 30501994, 
+    "name": "dhanji/loop"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dhanji/loop/snapshot/87f6a5033fcedaeae25a9871140d1ce13b5fd586/files/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

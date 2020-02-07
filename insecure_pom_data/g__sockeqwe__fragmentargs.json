@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sockeqwe/fragmentargs", 
+    "url-identifier": "g/sockeqwe/fragmentargs", 
+    "id": 2950069, 
+    "name": "sockeqwe/fragmentargs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sockeqwe/fragmentargs/snapshot/ae14389c8cd72d8cceef39259aa455b86dcc4ef0/files/pom.xml#L278", 
+        "line": 278, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sockeqwe/fragmentargs/snapshot/ae14389c8cd72d8cceef39259aa455b86dcc4ef0/files/pom.xml#L292", 
+        "line": 292, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse/eclipse-collections", 
+    "url-identifier": "g/eclipse/eclipse-collections", 
+    "id": 1506206156338, 
+    "name": "eclipse/eclipse-collections"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/eclipse-collections/snapshot/275dc7b26bd4b14b659538fb2621afe63bec7e03/files/p2-feature/pom.xml#L177", 
+        "line": 177, 
+        "value": "repository", 
+        "file": "/p2-feature/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/cbi/updates/license/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

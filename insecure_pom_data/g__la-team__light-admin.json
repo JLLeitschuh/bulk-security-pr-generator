@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/la-team/light-admin", 
+    "url-identifier": "g/la-team/light-admin", 
+    "id": 31310266, 
+    "name": "la-team/light-admin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/la-team/light-admin/snapshot/243f130b73d10ecf58ab92d38a9c1f3c01b56b17/files/lightadmin-core/pom.xml#L494", 
+        "line": 494, 
+        "value": "snapshotRepository", 
+        "file": "/lightadmin-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://lightadmin.org/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/la-team/light-admin/snapshot/243f130b73d10ecf58ab92d38a9c1f3c01b56b17/files/lightadmin-core/pom.xml#L499", 
+        "line": 499, 
+        "value": "repository", 
+        "file": "/lightadmin-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://lightadmin.org/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/la-team/light-admin/snapshot/243f130b73d10ecf58ab92d38a9c1f3c01b56b17/files/lightadmin-sandbox/pom.xml#L173", 
+        "line": 173, 
+        "value": "repository", 
+        "file": "/lightadmin-sandbox/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://lightadmin.org/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/la-team/light-admin/snapshot/243f130b73d10ecf58ab92d38a9c1f3c01b56b17/files/lightadmin-sandbox/pom.xml#L181", 
+        "line": 181, 
+        "value": "repository", 
+        "file": "/lightadmin-sandbox/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://lightadmin.org/nexus/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bearyinnovative/jenkins-bearychat-plugin", 
+    "url-identifier": "g/bearyinnovative/jenkins-bearychat-plugin", 
+    "id": 1509214126278, 
+    "name": "bearyinnovative/jenkins-bearychat-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bearyinnovative/jenkins-bearychat-plugin/snapshot/0f92766bcabe23fd525855dbf3d0575cf5d64b3e/files/pom.xml#L169", 
+        "line": 169, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bearyinnovative/jenkins-bearychat-plugin/snapshot/0f92766bcabe23fd525855dbf3d0575cf5d64b3e/files/pom.xml#L176", 
+        "line": 176, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/MilkBowl/Vault", 
+    "url-identifier": "g/MilkBowl/Vault", 
+    "id": 31225096, 
+    "name": "MilkBowl/Vault"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MilkBowl/Vault/snapshot/89a154eeb76186b11ca586b7a2661012cf8f8a58/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MilkBowl/Vault/snapshot/89a154eeb76186b11ca586b7a2661012cf8f8a58/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MilkBowl/Vault/snapshot/89a154eeb76186b11ca586b7a2661012cf8f8a58/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MilkBowl/Vault/snapshot/89a154eeb76186b11ca586b7a2661012cf8f8a58/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.escapecraft.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

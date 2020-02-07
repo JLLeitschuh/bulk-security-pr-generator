@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Netflix-Skunkworks/dynaslave-plugin", 
+    "url-identifier": "g/Netflix-Skunkworks/dynaslave-plugin", 
+    "id": 1506605229218, 
+    "name": "Netflix-Skunkworks/dynaslave-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Netflix-Skunkworks/dynaslave-plugin/snapshot/5bebd1091ac7663bbf0e1d1e803f8015ca470a1a/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Netflix-Skunkworks/dynaslave-plugin/snapshot/5bebd1091ac7663bbf0e1d1e803f8015ca470a1a/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

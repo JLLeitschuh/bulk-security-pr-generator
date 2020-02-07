@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/onap/clamp", 
+    "url-identifier": "g/onap/clamp", 
+    "id": 1506451845955, 
+    "name": "onap/clamp"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/onap/clamp/snapshot/786aafce7815521fef37b0bb795d38ac5bce4b01/files/pom.xml#L215", 
+        "line": 215, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/onap/clamp/snapshot/786aafce7815521fef37b0bb795d38ac5bce4b01/files/pom.xml#L232", 
+        "line": 232, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

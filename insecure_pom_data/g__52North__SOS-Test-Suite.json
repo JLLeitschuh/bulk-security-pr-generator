@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/SOS-Test-Suite", 
+    "url-identifier": "g/52North/SOS-Test-Suite", 
+    "id": 1506711832655, 
+    "name": "52North/SOS-Test-Suite"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS-Test-Suite/snapshot/de9f03ca1fc1f6a3f3635e3e88b78d91ee660859/files/pom.xml#L391", 
+        "line": 391, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/SOS-Test-Suite/snapshot/de9f03ca1fc1f6a3f3635e3e88b78d91ee660859/files/pom.xml#L402", 
+        "line": 402, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

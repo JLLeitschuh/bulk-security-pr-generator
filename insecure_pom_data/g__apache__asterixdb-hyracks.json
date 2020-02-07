@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/asterixdb-hyracks", 
+    "url-identifier": "g/apache/asterixdb-hyracks", 
+    "id": 1506253076000, 
+    "name": "apache/asterixdb-hyracks"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/asterixdb-hyracks/snapshot/bcb4475cb2b72d6b6e6474f255a59087d1715eef/files/hyracks/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/hyracks/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/asterixdb-hyracks/snapshot/bcb4475cb2b72d6b6e6474f255a59087d1715eef/files/hyracks/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/hyracks/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://obelix.ics.uci.edu/nexus/content/groups/hyracks-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/asterixdb-hyracks/snapshot/bcb4475cb2b72d6b6e6474f255a59087d1715eef/files/hyracks/pom.xml#L101", 
+        "line": 101, 
+        "value": "pluginRepository", 
+        "file": "/hyracks/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://obelix.ics.uci.edu/nexus/content/groups/hyracks-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/asterixdb-hyracks/snapshot/bcb4475cb2b72d6b6e6474f255a59087d1715eef/files/pom.xml#L399", 
+        "line": 399, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/asterixdb-hyracks/snapshot/bcb4475cb2b72d6b6e6474f255a59087d1715eef/files/pom.xml#L403", 
+        "line": 403, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://obelix.ics.uci.edu/nexus/content/groups/hyracks-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/asterixdb-hyracks/snapshot/bcb4475cb2b72d6b6e6474f255a59087d1715eef/files/pom.xml#L414", 
+        "line": 414, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://obelix.ics.uci.edu/nexus/content/groups/hyracks-public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

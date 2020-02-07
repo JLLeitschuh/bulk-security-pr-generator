@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/medcl/elasticsearch-analysis-stconvert", 
+    "url-identifier": "g/medcl/elasticsearch-analysis-stconvert", 
+    "id": 14120007, 
+    "name": "medcl/elasticsearch-analysis-stconvert"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/medcl/elasticsearch-analysis-stconvert/snapshot/c4c176c5ce66276c66608d6d38214a5325edfdf2/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jexp/batch-import", 
+    "url-identifier": "g/jexp/batch-import", 
+    "id": 47970002, 
+    "name": "jexp/batch-import"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jexp/batch-import/snapshot/cc3f4f238ddd4b02dd191d97e5fc536041f3828f/files/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/oodt", 
+    "url-identifier": "g/apache/oodt", 
+    "id": 1506235877676, 
+    "name": "apache/oodt"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/oodt/snapshot/6eb7dc7911353ca0a234827279505a3d71220487/files/mvn/archetypes/radix/src/main/resources/archetype-resources/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/mvn/archetypes/radix/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/oodt/snapshot/6eb7dc7911353ca0a234827279505a3d71220487/files/mvn/archetypes/radix/src/main/resources/archetype-resources/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/mvn/archetypes/radix/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

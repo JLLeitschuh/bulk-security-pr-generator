@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ThreeTen/threetenbp-extra", 
+    "url-identifier": "g/ThreeTen/threetenbp-extra", 
+    "id": 1510560616340, 
+    "name": "ThreeTen/threetenbp-extra"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ThreeTen/threetenbp-extra/snapshot/7a070f5ac6358e5f53fcea0b0ee40213763ebce1/files/pom.xml#L262", 
+        "line": 262, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ThreeTen/threetenbp-extra/snapshot/7a070f5ac6358e5f53fcea0b0ee40213763ebce1/files/pom.xml#L268", 
+        "line": 268, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/threeten-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

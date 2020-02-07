@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/brianfrankcooper/YCSB", 
+    "url-identifier": "g/brianfrankcooper/YCSB", 
+    "id": 1509224995987, 
+    "name": "brianfrankcooper/YCSB"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brianfrankcooper/YCSB/snapshot/036fb2d922cf0e0846f03e5cfbe7c3354b6487ab/files/cassandra/pom.xml#L97", 
+        "line": 97, 
+        "value": "repository", 
+        "file": "/cassandra/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brianfrankcooper/YCSB/snapshot/036fb2d922cf0e0846f03e5cfbe7c3354b6487ab/files/hypertable/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/hypertable/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brianfrankcooper/YCSB/snapshot/036fb2d922cf0e0846f03e5cfbe7c3354b6487ab/files/maprdb/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/maprdb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mapr.com/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brianfrankcooper/YCSB/snapshot/036fb2d922cf0e0846f03e5cfbe7c3354b6487ab/files/maprjsondb/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/maprjsondb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mapr.com/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/brianfrankcooper/YCSB/snapshot/036fb2d922cf0e0846f03e5cfbe7c3354b6487ab/files/mongodb/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/mongodb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.allanbank.com/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

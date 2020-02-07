@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kurtraschke/wmata-gtfsrealtime", 
+    "url-identifier": "g/kurtraschke/wmata-gtfsrealtime", 
+    "id": 1507601396012, 
+    "name": "kurtraschke/wmata-gtfsrealtime"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kurtraschke/wmata-gtfsrealtime/snapshot/e6334ab1423e66a319bc0227edbed5d28f274586/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

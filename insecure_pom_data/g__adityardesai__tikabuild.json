@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/adityardesai/tikabuild", 
+    "url-identifier": "g/adityardesai/tikabuild", 
+    "id": 1507199036065, 
+    "name": "adityardesai/tikabuild"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adityardesai/tikabuild/snapshot/46b25254d97024887bc26ce6ee210fedfd8f5fd9/files/tika/tika-server/pom.xml#L36", 
+        "line": 36, 
+        "value": "pluginRepository", 
+        "file": "/tika/tika-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.qmino.com/content/repositories/miredot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

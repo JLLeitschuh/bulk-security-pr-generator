@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jprante/elasticsearch-gatherer", 
+    "url-identifier": "g/jprante/elasticsearch-gatherer", 
+    "id": 1802140625, 
+    "name": "jprante/elasticsearch-gatherer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jprante/elasticsearch-gatherer/snapshot/5c65dc51cbe0c1efb7682bafb1577eed4a55e907/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/jprante/elasticsearch-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jprante/elasticsearch-gatherer/snapshot/5c65dc51cbe0c1efb7682bafb1577eed4a55e907/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://github.com/xbib/maven-repo/raw/master/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jprante/elasticsearch-gatherer/snapshot/5c65dc51cbe0c1efb7682bafb1577eed4a55e907/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://github.com/xbib/maven-repo/raw/master/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

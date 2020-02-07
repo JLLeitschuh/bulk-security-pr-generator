@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ifnul/ums-backend", 
+    "url-identifier": "g/ifnul/ums-backend", 
+    "id": 1925561, 
+    "name": "ifnul/ums-backend"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ifnul/ums-backend/snapshot/cd054eb4043c7a17c8bfa77e20dab3b77111289d/files/is-lnu-rest-api/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/is-lnu-rest-api/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

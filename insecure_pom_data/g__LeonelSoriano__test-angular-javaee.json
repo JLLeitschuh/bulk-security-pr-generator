@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/LeonelSoriano/test-angular-javaee", 
+    "url-identifier": "g/LeonelSoriano/test-angular-javaee", 
+    "id": 1509172188706, 
+    "name": "LeonelSoriano/test-angular-javaee"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/LeonelSoriano/test-angular-javaee/snapshot/3362dec4dc159d6a9727b59bdda9a8e24f1dfd7c/files/TestJersey2/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/TestJersey2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

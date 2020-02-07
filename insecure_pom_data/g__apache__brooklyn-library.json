@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/brooklyn-library", 
+    "url-identifier": "g/apache/brooklyn-library", 
+    "id": 1506248286075, 
+    "name": "apache/brooklyn-library"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/brooklyn-library/snapshot/36af93a010acb1bf78dd59c3c5a41f6e9862540a/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/brooklyn-library/snapshot/36af93a010acb1bf78dd59c3c5a41f6e9862540a/files/software/messaging/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/software/messaging/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

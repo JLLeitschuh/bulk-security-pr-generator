@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/deepshiftlabs/nerrvana-plugin-for-jenkins-ci", 
+    "url-identifier": "g/deepshiftlabs/nerrvana-plugin-for-jenkins-ci", 
+    "id": 1506626450129, 
+    "name": "deepshiftlabs/nerrvana-plugin-for-jenkins-ci"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/deepshiftlabs/nerrvana-plugin-for-jenkins-ci/snapshot/e5b41ce2ef71c9d2f4e124365f52cab1c6b35fe7/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/deepshiftlabs/nerrvana-plugin-for-jenkins-ci/snapshot/e5b41ce2ef71c9d2f4e124365f52cab1c6b35fe7/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/deepshiftlabs/nerrvana-plugin-for-jenkins-ci/snapshot/e5b41ce2ef71c9d2f4e124365f52cab1c6b35fe7/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

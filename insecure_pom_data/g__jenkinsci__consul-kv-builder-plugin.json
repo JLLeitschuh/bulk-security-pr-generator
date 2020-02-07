@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/consul-kv-builder-plugin", 
+    "url-identifier": "g/jenkinsci/consul-kv-builder-plugin", 
+    "id": 1509210318500, 
+    "name": "jenkinsci/consul-kv-builder-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/consul-kv-builder-plugin/snapshot/b5a7dd5f3ca1ff2980c427efa22dd2bc19005031/files/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/consul-kv-builder-plugin/snapshot/b5a7dd5f3ca1ff2980c427efa22dd2bc19005031/files/pom.xml#L74", 
+        "line": 74, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

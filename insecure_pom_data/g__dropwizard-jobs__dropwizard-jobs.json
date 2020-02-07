@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dropwizard-jobs/dropwizard-jobs", 
+    "url-identifier": "g/dropwizard-jobs/dropwizard-jobs", 
+    "id": 34730047, 
+    "name": "dropwizard-jobs/dropwizard-jobs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dropwizard-jobs/dropwizard-jobs/snapshot/14389bb61b295b9e304f64444d35e1cd2d471a9a/files/pom.xml#L87", 
+        "line": 87, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dropwizard-jobs/dropwizard-jobs/snapshot/14389bb61b295b9e304f64444d35e1cd2d471a9a/files/pom.xml#L101", 
+        "line": 101, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

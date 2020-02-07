@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/create-and-run-job-trigger-plugin", 
+    "url-identifier": "g/jenkinsci/create-and-run-job-trigger-plugin", 
+    "id": 1506616787947, 
+    "name": "jenkinsci/create-and-run-job-trigger-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/create-and-run-job-trigger-plugin/snapshot/e555c653ff4c6b6976fef113f1dd61ae2b2d54e1/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/create-and-run-job-trigger-plugin/snapshot/e555c653ff4c6b6976fef113f1dd61ae2b2d54e1/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

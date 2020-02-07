@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/sauce-ondemand-plugin", 
+    "url-identifier": "g/jenkinsci/sauce-ondemand-plugin", 
+    "id": 9990102, 
+    "name": "jenkinsci/sauce-ondemand-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/sauce-ondemand-plugin/snapshot/9c2514d51d4478b8c40de74c1c735e9dde2171ae/files/pom.xml#L295", 
+        "line": 295, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/sauce-ondemand-plugin/snapshot/9c2514d51d4478b8c40de74c1c735e9dde2171ae/files/pom.xml#L299", 
+        "line": 299, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/sauce-ondemand-plugin/snapshot/9c2514d51d4478b8c40de74c1c735e9dde2171ae/files/pom.xml#L315", 
+        "line": 315, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/drewr/elasticsearch-clojure-repl", 
+    "url-identifier": "g/drewr/elasticsearch-clojure-repl", 
+    "id": 1506720387093, 
+    "name": "drewr/elasticsearch-clojure-repl"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/drewr/elasticsearch-clojure-repl/snapshot/30bc7619a05b545bf9aec1b29dedf97217311bd6/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

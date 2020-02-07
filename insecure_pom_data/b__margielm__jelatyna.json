@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/b/margielm/jelatyna", 
+    "url-identifier": "b/margielm/jelatyna", 
+    "id": 1283130351, 
+    "name": "margielm/jelatyna"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/b/margielm/jelatyna/snapshot/4dedb31a2a39e9c3e60913e5257817591efced1c/files/pom.xml#L758", 
+        "line": 758, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/b/margielm/jelatyna/snapshot/4dedb31a2a39e9c3e60913e5257817591efced1c/files/pom.xml#L769", 
+        "line": 769, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

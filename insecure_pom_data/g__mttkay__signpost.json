@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mttkay/signpost", 
+    "url-identifier": "g/mttkay/signpost", 
+    "id": 57820075, 
+    "name": "mttkay/signpost"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mttkay/signpost/snapshot/23ebe9d2b4a55ad1fa7418b9e97be9d283c7abdb/files/pom.xml#L114", 
+        "line": 114, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mttkay/signpost/snapshot/23ebe9d2b4a55ad1fa7418b9e97be9d283c7abdb/files/pom.xml#L119", 
+        "line": 119, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/signpost-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

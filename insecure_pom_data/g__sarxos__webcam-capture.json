@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sarxos/webcam-capture", 
+    "url-identifier": "g/sarxos/webcam-capture", 
+    "id": 6890014, 
+    "name": "sarxos/webcam-capture"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sarxos/webcam-capture/snapshot/721c98305d235c815ef04b7698c68db69d294f31/files/webcam-capture-addons/webcam-capture-addon-swt/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/webcam-capture-addons/webcam-capture-addon-swt/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-eclipse.github.io/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sarxos/webcam-capture/snapshot/721c98305d235c815ef04b7698c68db69d294f31/files/webcam-capture-examples/webcam-capture-live-streaming/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/webcam-capture-examples/webcam-capture-live-streaming/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.dcm4che.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sarxos/webcam-capture/snapshot/721c98305d235c815ef04b7698c68db69d294f31/files/webcam-capture-examples/webcam-capture-swt-awt/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/webcam-capture-examples/webcam-capture-swt-awt/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven-eclipse.github.io/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sarxos/webcam-capture/snapshot/721c98305d235c815ef04b7698c68db69d294f31/files/webcam-capture-examples/webcam-capture-video-recording/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/webcam-capture-examples/webcam-capture-video-recording/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.dcm4che.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

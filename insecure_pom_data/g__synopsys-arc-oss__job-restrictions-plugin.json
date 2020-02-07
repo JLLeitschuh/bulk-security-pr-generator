@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/synopsys-arc-oss/job-restrictions-plugin", 
+    "url-identifier": "g/synopsys-arc-oss/job-restrictions-plugin", 
+    "id": 1509198456918, 
+    "name": "synopsys-arc-oss/job-restrictions-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/synopsys-arc-oss/job-restrictions-plugin/snapshot/04c415d448006955e5c30dbcdd7ff9729706edec/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/synopsys-arc-oss/job-restrictions-plugin/snapshot/04c415d448006955e5c30dbcdd7ff9729706edec/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

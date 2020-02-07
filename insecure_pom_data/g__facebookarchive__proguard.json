@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/facebookarchive/proguard", 
+    "url-identifier": "g/facebookarchive/proguard", 
+    "id": 1506500506350, 
+    "name": "facebookarchive/proguard"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/facebookarchive/proguard/snapshot/1d82ad6c29347843386ff85f638d8c03581ec6e3/files/buildscripts/maven/gradle/pom.xml#L92", 
+        "line": 92, 
+        "value": "repository", 
+        "file": "/buildscripts/maven/gradle/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.gradle.org/gradle/libs-releases-local/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

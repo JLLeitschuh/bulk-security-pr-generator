@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/omnifaces/optimusfaces", 
+    "url-identifier": "g/omnifaces/optimusfaces", 
+    "id": 1506513117712, 
+    "name": "omnifaces/optimusfaces"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/omnifaces/optimusfaces/snapshot/7770366b4e326b702dbbc6ac4ccf9886c5c6d33f/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/DPOH-VAR/PowerNBT", 
+    "url-identifier": "g/DPOH-VAR/PowerNBT", 
+    "id": 17090047, 
+    "name": "DPOH-VAR/PowerNBT"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DPOH-VAR/PowerNBT/snapshot/12f322e8b0ab880d6a006f63124ee9a052e0c87c/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.varscript.ru/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DPOH-VAR/PowerNBT/snapshot/12f322e8b0ab880d6a006f63124ee9a052e0c87c/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.varscript.ru/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

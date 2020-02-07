@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/tapestry3", 
+    "url-identifier": "g/apache/tapestry3", 
+    "id": 1506243136972, 
+    "name": "apache/tapestry3"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tapestry3/snapshot/d3fd670d421f626ba644fa7e6271b93647bb3638/files/pom.xml#L254", 
+        "line": 254, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tapestry3/snapshot/d3fd670d421f626ba644fa7e6271b93647bb3638/files/pom.xml#L261", 
+        "line": 261, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tapestry3/snapshot/d3fd670d421f626ba644fa7e6271b93647bb3638/files/pom.xml#L271", 
+        "line": 271, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

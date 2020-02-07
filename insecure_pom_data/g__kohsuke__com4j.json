@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kohsuke/com4j", 
+    "url-identifier": "g/kohsuke/com4j", 
+    "id": 1506205486484, 
+    "name": "kohsuke/com4j"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kohsuke/com4j/snapshot/2b70c9294f1cca448b9a706cbe333b4c17db03d9/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kohsuke/com4j/snapshot/2b70c9294f1cca448b9a706cbe333b4c17db03d9/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kohsuke/com4j/snapshot/2b70c9294f1cca448b9a706cbe333b4c17db03d9/files/typelibs/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/typelibs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kohsuke/com4j/snapshot/2b70c9294f1cca448b9a706cbe333b4c17db03d9/files/typelibs/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/typelibs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/1/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

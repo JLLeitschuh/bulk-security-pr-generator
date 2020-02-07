@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/menacher/nerdronix", 
+    "url-identifier": "g/menacher/nerdronix", 
+    "id": 33720030, 
+    "name": "menacher/nerdronix"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/menacher/nerdronix/snapshot/36177f316433462ef111e6138b001a88eb6f0dd7/files/storm-chronicle/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/storm-chronicle/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

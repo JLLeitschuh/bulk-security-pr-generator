@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/DataSystemsLab/GeoSpark", 
+    "url-identifier": "g/DataSystemsLab/GeoSpark", 
+    "id": 20120042, 
+    "name": "DataSystemsLab/GeoSpark"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DataSystemsLab/GeoSpark/snapshot/fa7a1b72bdb1cccf2195fbc7abfd591cf2736d73/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DataSystemsLab/GeoSpark/snapshot/fa7a1b72bdb1cccf2195fbc7abfd591cf2736d73/files/pom.xml#L96", 
+        "line": 96, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

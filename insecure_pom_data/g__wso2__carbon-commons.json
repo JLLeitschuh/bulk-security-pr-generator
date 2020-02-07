@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wso2/carbon-commons", 
+    "url-identifier": "g/wso2/carbon-commons", 
+    "id": 1506763388524, 
+    "name": "wso2/carbon-commons"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-commons/snapshot/3999d3c74854a5772a7fcb70fc2f4d71036e143a/files/components/caching-invalidator/org.wso2.carbon.caching.invalidator/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/components/caching-invalidator/org.wso2.carbon.caching.invalidator/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-commons/snapshot/3999d3c74854a5772a7fcb70fc2f4d71036e143a/files/pom.xml#L1639", 
+        "line": 1639, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-commons/snapshot/3999d3c74854a5772a7fcb70fc2f4d71036e143a/files/pom.xml#L1650", 
+        "line": 1650, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-commons/snapshot/3999d3c74854a5772a7fcb70fc2f4d71036e143a/files/pom.xml#L1662", 
+        "line": 1662, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-commons/snapshot/3999d3c74854a5772a7fcb70fc2f4d71036e143a/files/pom.xml#L1940", 
+        "line": 1940, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-commons/snapshot/3999d3c74854a5772a7fcb70fc2f4d71036e143a/files/pom.xml#L1951", 
+        "line": 1951, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-commons/snapshot/3999d3c74854a5772a7fcb70fc2f4d71036e143a/files/pom.xml#L1962", 
+        "line": 1962, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

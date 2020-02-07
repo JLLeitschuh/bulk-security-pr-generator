@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/MyCoRe-Org/mir", 
+    "url-identifier": "g/MyCoRe-Org/mir", 
+    "id": 1510828680667, 
+    "name": "MyCoRe-Org/mir"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/MyCoRe-Org/mir/snapshot/c6c9fe5e1d2fbd925ee6bcf30387b63229ba5105/files/pom.xml#L206", 
+        "line": 206, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.bibsonomy.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

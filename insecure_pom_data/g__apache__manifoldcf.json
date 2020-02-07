@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/manifoldcf", 
+    "url-identifier": "g/apache/manifoldcf", 
+    "id": 12090007, 
+    "name": "apache/manifoldcf"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/manifoldcf/snapshot/b908d00f6e3d194f8cc1ac98bf4f32b8f01ac790/files/connectors/mongodb/pom.xml#L388", 
+        "line": 388, 
+        "value": "repository", 
+        "file": "/connectors/mongodb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/manifoldcf/snapshot/b908d00f6e3d194f8cc1ac98bf4f32b8f01ac790/files/connectors/nuxeo/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/connectors/nuxeo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuxeo.com/nexus/content/repositories/public-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/manifoldcf/snapshot/b908d00f6e3d194f8cc1ac98bf4f32b8f01ac790/files/connectors/nuxeo/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/connectors/nuxeo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.nuxeo.com/nexus/content/repositories/public-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/osluocra/PlantPlaces", 
+    "url-identifier": "g/osluocra/PlantPlaces", 
+    "id": 1505878456413, 
+    "name": "osluocra/PlantPlaces"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/osluocra/PlantPlaces/snapshot/0f66d111c384108a8c1d39365a74ca26e164b701/files/PlantPlaces/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/PlantPlaces/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

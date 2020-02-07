@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli", 
+    "url-identifier": "g/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli", 
+    "id": 1507591586009, 
+    "name": "OneBusAway/onebusaway-gtfs-realtime-from-siri-cli"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/snapshot/ccbe7aa60878345b6eb4289505743f458cc9556d/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/simplicityitself/Mongo-Tomcat-Sessions", 
+    "url-identifier": "g/simplicityitself/Mongo-Tomcat-Sessions", 
+    "id": 55370100, 
+    "name": "simplicityitself/Mongo-Tomcat-Sessions"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/simplicityitself/Mongo-Tomcat-Sessions/snapshot/b0ee83cc7a995ba5b6dab4974d53b4ce52c614b0/files/pom.xml#L193", 
+        "line": 193, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://wordrak.github.com/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

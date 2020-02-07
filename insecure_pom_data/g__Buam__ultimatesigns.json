@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Buam/ultimatesigns", 
+    "url-identifier": "g/Buam/ultimatesigns", 
+    "id": 1510960716187, 
+    "name": "Buam/ultimatesigns"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Buam/ultimatesigns/snapshot/7f3dc5bdd6c5dfdbb99d8adbd92a176a86861d28/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

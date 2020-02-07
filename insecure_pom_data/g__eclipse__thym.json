@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse/thym", 
+    "url-identifier": "g/eclipse/thym", 
+    "id": 1506671807800, 
+    "name": "eclipse/thym"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse/thym/snapshot/ebd50cd59909d380e5a95a064845144904ad4ef5/files/pom.xml#L209", 
+        "line": 209, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/R-builds/R20170307180635/repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

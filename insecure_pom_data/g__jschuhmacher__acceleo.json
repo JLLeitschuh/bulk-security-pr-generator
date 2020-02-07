@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jschuhmacher/acceleo", 
+    "url-identifier": "g/jschuhmacher/acceleo", 
+    "id": 1506732621679, 
+    "name": "jschuhmacher/acceleo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jschuhmacher/acceleo/snapshot/d19b71196f9b52c3d2b26165bb6d76256554a077/files/maven/acceleo.eclipse.archetype/src/main/resources/archetype-resources/pom.xml#L83", 
+        "line": 83, 
+        "value": "repository", 
+        "file": "/maven/acceleo.eclipse.archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository "
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jschuhmacher/acceleo/snapshot/d19b71196f9b52c3d2b26165bb6d76256554a077/files/maven/acceleo.eclipse.archetype/src/main/resources/archetype-resources/pom.xml#L83", 
+        "line": 83, 
+        "value": "repository", 
+        "file": "/maven/acceleo.eclipse.archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/modeling/m2t/acceleo/updates/nightly/3.1"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jschuhmacher/acceleo/snapshot/d19b71196f9b52c3d2b26165bb6d76256554a077/files/maven/acceleo.eclipse.archetype/src/main/resources/archetype-resources/pom.xml#L91", 
+        "line": 91, 
+        "value": "pluginRepository", 
+        "file": "/maven/acceleo.eclipse.archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jschuhmacher/acceleo/snapshot/d19b71196f9b52c3d2b26165bb6d76256554a077/files/tests/org.eclipse.acceleo.maven.plugin.tests/pom.xml#L54", 
+        "line": 54, 
+        "value": "pluginRepository", 
+        "file": "/tests/org.eclipse.acceleo.maven.plugin.tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jschuhmacher/acceleo/snapshot/d19b71196f9b52c3d2b26165bb6d76256554a077/files/unit/releng/org.eclipse.acceleo.unit.parent/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/unit/releng/org.eclipse.acceleo.unit.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/${platform-version-name}"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jschuhmacher/acceleo/snapshot/d19b71196f9b52c3d2b26165bb6d76256554a077/files/unit/releng/org.eclipse.acceleo.unit.parent/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/unit/releng/org.eclipse.acceleo.unit.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/modeling/m2t/acceleo/updates/releases/3.2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jschuhmacher/acceleo/snapshot/d19b71196f9b52c3d2b26165bb6d76256554a077/files/unit/releng/org.eclipse.acceleo.unit.parent/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/unit/releng/org.eclipse.acceleo.unit.parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/downloads/drops/R20120526062928/repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

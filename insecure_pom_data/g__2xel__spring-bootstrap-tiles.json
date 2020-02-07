@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/2xel/spring-bootstrap-tiles", 
+    "url-identifier": "g/2xel/spring-bootstrap-tiles", 
+    "id": 1506606948222, 
+    "name": "2xel/spring-bootstrap-tiles"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/2xel/spring-bootstrap-tiles/snapshot/dccdfb7a32c7d3ebee29fcb91436ae7d8cfaf230/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jahia.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

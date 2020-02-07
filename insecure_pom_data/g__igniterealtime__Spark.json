@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/igniterealtime/Spark", 
+    "url-identifier": "g/igniterealtime/Spark", 
+    "id": 1793500354, 
+    "name": "igniterealtime/Spark"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/igniterealtime/Spark/snapshot/176b09c04c26bbfd94ac9f5d901fb9ee560330e4/files/core/pom.xml#L260", 
+        "line": 260, 
+        "value": "repository", 
+        "file": "/core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.teamdev.com/repository/products"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/igniterealtime/Spark/snapshot/176b09c04c26bbfd94ac9f5d901fb9ee560330e4/files/plugins/systemtray/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/plugins/systemtray/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

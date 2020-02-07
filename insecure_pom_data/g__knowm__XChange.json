@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/knowm/XChange", 
+    "url-identifier": "g/knowm/XChange", 
+    "id": 14100062, 
+    "name": "knowm/XChange"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/knowm/XChange/snapshot/97c99fd3a966683a1a8839abfa4a5dc4fdd7c7fa/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/knowm/XChange/snapshot/97c99fd3a966683a1a8839abfa4a5dc4fdd7c7fa/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/angelozerr/tern.java", 
+    "url-identifier": "g/angelozerr/tern.java", 
+    "id": 1506712296985, 
+    "name": "angelozerr/tern.java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/angelozerr/tern.java/snapshot/e3d36b3e7af2c62f10029b64e46f676c10be964e/files/pom.xml#L186", 
+        "line": 186, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/kepler"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/angelozerr/tern.java/snapshot/e3d36b3e7af2c62f10029b64e46f676c10be964e/files/pom.xml#L191", 
+        "line": 191, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/downloads/drops/R20140114142710/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/angelozerr/tern.java/snapshot/e3d36b3e7af2c62f10029b64e46f676c10be964e/files/pom.xml#L196", 
+        "line": 196, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/cbi/updates/license/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

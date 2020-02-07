@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-cloud-services", 
+    "url-identifier": "g/OneBusAway/onebusaway-cloud-services", 
+    "id": 1507583596076, 
+    "name": "OneBusAway/onebusaway-cloud-services"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-cloud-services/snapshot/33df659cd93ce1b0195dca643273c0b4e269b25b/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-cloud-services/snapshot/33df659cd93ce1b0195dca643273c0b4e269b25b/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://developer.onebusaway.org/maven/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-cloud-services/snapshot/33df659cd93ce1b0195dca643273c0b4e269b25b/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://developer.onebusaway.org/maven/snapshot-repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

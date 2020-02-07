@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dockstore/dockstore", 
+    "url-identifier": "g/dockstore/dockstore", 
+    "id": 1510150336087, 
+    "name": "dockstore/dockstore"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dockstore/dockstore/snapshot/cfa387a1de9345c8300924a986273ee5d6599c7d/files/pom.xml#L126", 
+        "line": 126, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://sagebionetworks.artifactoryonline.com/sagebionetworks/libs-releases-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

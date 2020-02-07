@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jfullam/jenkins-application-director", 
+    "url-identifier": "g/jfullam/jenkins-application-director", 
+    "id": 1509062357175, 
+    "name": "jfullam/jenkins-application-director"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jfullam/jenkins-application-director/snapshot/ce7fa7549dd2306b5c85186654e06e2aef57cd60/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jfullam/jenkins-application-director/snapshot/ce7fa7549dd2306b5c85186654e06e2aef57cd60/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jfullam/jenkins-application-director/snapshot/ce7fa7549dd2306b5c85186654e06e2aef57cd60/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jfullam/jenkins-application-director/snapshot/ce7fa7549dd2306b5c85186654e06e2aef57cd60/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jfullam/jenkins-application-director/snapshot/ce7fa7549dd2306b5c85186654e06e2aef57cd60/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

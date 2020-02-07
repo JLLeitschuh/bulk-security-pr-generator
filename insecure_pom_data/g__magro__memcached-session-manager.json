@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/magro/memcached-session-manager", 
+    "url-identifier": "g/magro/memcached-session-manager", 
+    "id": 1506491596226, 
+    "name": "magro/memcached-session-manager"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/magro/memcached-session-manager/snapshot/217d632e8ff70cb4d7ccec980d307a669911b0be/files/javolution-serializer/pom.xml#L96", 
+        "line": 96, 
+        "value": "repository", 
+        "file": "/javolution-serializer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/magro/memcached-session-manager/snapshot/217d632e8ff70cb4d7ccec980d307a669911b0be/files/kryo-serializer/pom.xml#L130", 
+        "line": 130, 
+        "value": "repository", 
+        "file": "/kryo-serializer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/magro/memcached-session-manager/snapshot/217d632e8ff70cb4d7ccec980d307a669911b0be/files/pom.xml#L375", 
+        "line": 375, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://memcached-session-manager.googlecode.com/svn/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/magro/memcached-session-manager/snapshot/217d632e8ff70cb4d7ccec980d307a669911b0be/files/pom.xml#L380", 
+        "line": 380, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://files.couchbase.com/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/magro/memcached-session-manager/snapshot/217d632e8ff70cb4d7ccec980d307a669911b0be/files/pom.xml#L385", 
+        "line": 385, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

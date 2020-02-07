@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opentracing-contrib/java-jdbi", 
+    "url-identifier": "g/opentracing-contrib/java-jdbi", 
+    "id": 1507627696471, 
+    "name": "opentracing-contrib/java-jdbi"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opentracing-contrib/java-jdbi/snapshot/ff3426ea0f8a01afbdc5236a8ec32239fcd049ac/files/pom.xml#L198", 
+        "line": 198, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wlu-mstr/hbase-ormlite", 
+    "url-identifier": "g/wlu-mstr/hbase-ormlite", 
+    "id": 1506585698072, 
+    "name": "wlu-mstr/hbase-ormlite"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wlu-mstr/hbase-ormlite/snapshot/d9b6e68a7b04010341edcfa01766b11baf30bb9f/files/pom.xml#L454", 
+        "line": 454, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

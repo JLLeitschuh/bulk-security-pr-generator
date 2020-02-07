@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/commons-rdf", 
+    "url-identifier": "g/apache/commons-rdf", 
+    "id": 29535168, 
+    "name": "apache/commons-rdf"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/commons-rdf/snapshot/acf473966f34a49abfd726924b6a91ba72b38047/files/commons-rdf-examples/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/commons-rdf-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

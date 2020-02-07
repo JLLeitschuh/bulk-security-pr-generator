@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/CeON/CERMINE", 
+    "url-identifier": "g/CeON/CERMINE", 
+    "id": 29555175, 
+    "name": "CeON/CERMINE"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CeON/CERMINE/snapshot/6cbc0d096a1c0250e1b459ad8271a3337a853dee/files/cermine-tools/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/cermine-tools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://google-maven-repository.googlecode.com/svn/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CeON/CERMINE/snapshot/6cbc0d096a1c0250e1b459ad8271a3337a853dee/files/pom.xml#L117", 
+        "line": 117, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.icm.edu.pl/artifactory/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CeON/CERMINE/snapshot/6cbc0d096a1c0250e1b459ad8271a3337a853dee/files/pom.xml#L156", 
+        "line": 156, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.ceon.pl/artifactory/kdd-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/CeON/CERMINE/snapshot/6cbc0d096a1c0250e1b459ad8271a3337a853dee/files/pom.xml#L160", 
+        "line": 160, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.ceon.pl/artifactory/kdd-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

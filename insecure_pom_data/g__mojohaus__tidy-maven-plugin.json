@@ -1,0 +1,102 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mojohaus/tidy-maven-plugin", 
+    "url-identifier": "g/mojohaus/tidy-maven-plugin", 
+    "id": 1506667716696, 
+    "name": "mojohaus/tidy-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojohaus/tidy-maven-plugin/snapshot/255b67c801e0b8d069e5a817583a6942b7c9c73c/files/src/it/pom/pom.xml#L34", 
+        "line": 34, 
+        "value": "pluginRepository", 
+        "file": "/src/it/pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojohaus/tidy-maven-plugin/snapshot/255b67c801e0b8d069e5a817583a6942b7c9c73c/files/src/it/pom/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/src/it/pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojohaus/tidy-maven-plugin/snapshot/255b67c801e0b8d069e5a817583a6942b7c9c73c/files/src/it/pom/pom.xml#L117", 
+        "line": 117, 
+        "value": "repository", 
+        "file": "/src/it/pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojohaus/tidy-maven-plugin/snapshot/255b67c801e0b8d069e5a817583a6942b7c9c73c/files/src/it/pom/pom.xml#L121", 
+        "line": 121, 
+        "value": "snapshotRepository", 
+        "file": "/src/it/pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojohaus/tidy-maven-plugin/snapshot/255b67c801e0b8d069e5a817583a6942b7c9c73c/files/src/test/resources/org/codehaus/mojo/tidy/task/complete-pom/pom.xml#L34", 
+        "line": 34, 
+        "value": "pluginRepository", 
+        "file": "/src/test/resources/org/codehaus/mojo/tidy/task/complete-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojohaus/tidy-maven-plugin/snapshot/255b67c801e0b8d069e5a817583a6942b7c9c73c/files/src/test/resources/org/codehaus/mojo/tidy/task/complete-pom/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/src/test/resources/org/codehaus/mojo/tidy/task/complete-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojohaus/tidy-maven-plugin/snapshot/255b67c801e0b8d069e5a817583a6942b7c9c73c/files/src/test/resources/org/codehaus/mojo/tidy/task/complete-pom/pom.xml#L117", 
+        "line": 117, 
+        "value": "repository", 
+        "file": "/src/test/resources/org/codehaus/mojo/tidy/task/complete-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojohaus/tidy-maven-plugin/snapshot/255b67c801e0b8d069e5a817583a6942b7c9c73c/files/src/test/resources/org/codehaus/mojo/tidy/task/complete-pom/pom.xml#L121", 
+        "line": 121, 
+        "value": "snapshotRepository", 
+        "file": "/src/test/resources/org/codehaus/mojo/tidy/task/complete-pom/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

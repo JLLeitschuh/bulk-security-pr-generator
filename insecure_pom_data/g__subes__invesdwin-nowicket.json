@@ -1,0 +1,366 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket", 
+    "url-identifier": "g/subes/invesdwin-nowicket", 
+    "id": 1506708216717, 
+    "name": "subes/invesdwin-nowicket"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/granatasoft-remotelist-parent/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/granatasoft-remotelist-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/granatasoft-remotelist-parent/pom.xml#L72", 
+        "line": 72, 
+        "value": "snapshotRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/granatasoft-remotelist-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/granatasoft-remotelist-parent/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/granatasoft-remotelist-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/granatasoft-remotelist-parent/pom.xml#L86", 
+        "line": 86, 
+        "value": "pluginRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/granatasoft-remotelist-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-guide/pom.xml#L325", 
+        "line": 325, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-guide/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-guide/pom.xml#L330", 
+        "line": 330, 
+        "value": "snapshotRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-guide/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-guide/pom.xml#L338", 
+        "line": 338, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-guide/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-guide/pom.xml#L344", 
+        "line": 344, 
+        "value": "pluginRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-guide/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-isis/pom.xml#L250", 
+        "line": 250, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-isis/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-isis/pom.xml#L255", 
+        "line": 255, 
+        "value": "snapshotRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-isis/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-isis/pom.xml#L263", 
+        "line": 263, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-isis/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-isis/pom.xml#L269", 
+        "line": 269, 
+        "value": "pluginRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-isis/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-bsgcoach/pom.xml#L303", 
+        "line": 303, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-bsgcoach/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-bsgcoach/pom.xml#L308", 
+        "line": 308, 
+        "value": "snapshotRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-bsgcoach/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-bsgcoach/pom.xml#L316", 
+        "line": 316, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-bsgcoach/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-bsgcoach/pom.xml#L322", 
+        "line": 322, 
+        "value": "pluginRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-bsgcoach/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-eva/pom.xml#L299", 
+        "line": 299, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-eva/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-eva/pom.xml#L304", 
+        "line": 304, 
+        "value": "snapshotRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-eva/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-eva/pom.xml#L312", 
+        "line": 312, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-eva/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-eva/pom.xml#L318", 
+        "line": 318, 
+        "value": "pluginRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-eva/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-war/pom.xml#L187", 
+        "line": 187, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-war/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-war/pom.xml#L192", 
+        "line": 192, 
+        "value": "snapshotRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-war/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-war/pom.xml#L200", 
+        "line": 200, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-war/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-war/pom.xml#L206", 
+        "line": 206, 
+        "value": "pluginRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-war/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/pom.xml#L26", 
+        "line": 26, 
+        "value": "snapshotRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/invesdwin-nowicket-examples/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/pom.xml#L183", 
+        "line": 183, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/pom.xml#L188", 
+        "line": 188, 
+        "value": "snapshotRepository", 
+        "file": "/invesdwin-nowicket-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/pom.xml#L196", 
+        "line": 196, 
+        "value": "repository", 
+        "file": "/invesdwin-nowicket-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/subes/invesdwin-nowicket/snapshot/9e5b2db9e440495498629accdffd2654981681dd/files/invesdwin-nowicket-parent/pom.xml#L202", 
+        "line": 202, 
+        "value": "pluginRepository", 
+        "file": "/invesdwin-nowicket-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://invesdwin.de/artifactory/invesdwin-oss-remote"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

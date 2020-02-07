@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Weltraumschaf/darcs-plugin", 
+    "url-identifier": "g/Weltraumschaf/darcs-plugin", 
+    "id": 1509233396460, 
+    "name": "Weltraumschaf/darcs-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Weltraumschaf/darcs-plugin/snapshot/761c241c60379917ed533270b999f196a70cfac3/files/pom.xml#L106", 
+        "line": 106, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Weltraumschaf/darcs-plugin/snapshot/761c241c60379917ed533270b999f196a70cfac3/files/pom.xml#L113", 
+        "line": 113, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

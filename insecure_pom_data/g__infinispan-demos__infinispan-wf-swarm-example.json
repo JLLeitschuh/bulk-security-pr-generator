@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/infinispan-demos/infinispan-wf-swarm-example", 
+    "url-identifier": "g/infinispan-demos/infinispan-wf-swarm-example", 
+    "id": 1506681806941, 
+    "name": "infinispan-demos/infinispan-wf-swarm-example"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/infinispan-demos/infinispan-wf-swarm-example/snapshot/6b174a682cb53ce26b215e386ab9d36ae9573fdf/files/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/infinispan-demos/infinispan-wf-swarm-example/snapshot/6b174a682cb53ce26b215e386ab9d36ae9573fdf/files/pom.xml#L106", 
+        "line": 106, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

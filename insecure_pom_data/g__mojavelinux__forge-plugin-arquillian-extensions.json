@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mojavelinux/forge-plugin-arquillian-extensions", 
+    "url-identifier": "g/mojavelinux/forge-plugin-arquillian-extensions", 
+    "id": 1506700566550, 
+    "name": "mojavelinux/forge-plugin-arquillian-extensions"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mojavelinux/forge-plugin-arquillian-extensions/snapshot/d285e3a3672990566d774d612e48acdb8d38dec1/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

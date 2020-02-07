@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/frohoff/ysoserial", 
+    "url-identifier": "g/frohoff/ysoserial", 
+    "id": 41170025, 
+    "name": "frohoff/ysoserial"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/frohoff/ysoserial/snapshot/9224ebb422892e9e68b449914fa2c6e65e70df75/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/frohoff/ysoserial/snapshot/9224ebb422892e9e68b449914fa2c6e65e70df75/files/pom.xml#L351", 
+        "line": 351, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/frohoff/ysoserial/snapshot/9224ebb422892e9e68b449914fa2c6e65e70df75/files/pom.xml#L357", 
+        "line": 357, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

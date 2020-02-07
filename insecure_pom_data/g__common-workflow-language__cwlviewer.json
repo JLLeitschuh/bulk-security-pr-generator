@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/common-workflow-language/cwlviewer", 
+    "url-identifier": "g/common-workflow-language/cwlviewer", 
+    "id": 1510730494397, 
+    "name": "common-workflow-language/cwlviewer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/common-workflow-language/cwlviewer/snapshot/745791f149aaa036ccc0ffc8dbf859a6d4011088/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

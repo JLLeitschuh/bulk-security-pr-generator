@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wildfly/wildfly-core", 
+    "url-identifier": "g/wildfly/wildfly-core", 
+    "id": 2039090369, 
+    "name": "wildfly/wildfly-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wildfly/wildfly-core/snapshot/b39ae617b907e7ec1163de93d5556656c61ad6ed/files/component-matrix/pom.xml#L1018", 
+        "line": 1018, 
+        "value": "repository", 
+        "file": "/component-matrix/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wildfly/wildfly-core/snapshot/b39ae617b907e7ec1163de93d5556656c61ad6ed/files/component-matrix/pom.xml#L1034", 
+        "line": 1034, 
+        "value": "pluginRepository", 
+        "file": "/component-matrix/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wildfly/wildfly-core/snapshot/b39ae617b907e7ec1163de93d5556656c61ad6ed/files/pom.xml#L539", 
+        "line": 539, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wildfly/wildfly-core/snapshot/b39ae617b907e7ec1163de93d5556656c61ad6ed/files/pom.xml#L556", 
+        "line": 556, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

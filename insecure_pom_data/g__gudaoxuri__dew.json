@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/gudaoxuri/dew", 
+    "url-identifier": "g/gudaoxuri/dew", 
+    "id": 1506718146595, 
+    "name": "gudaoxuri/dew"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gudaoxuri/dew/snapshot/0a271ce2e7a94f50cd84c8658124080e29700249/files/devops/it/src/it/helloworld-library/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/devops/it/src/it/helloworld-library/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://121.41.17.205:18081/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gudaoxuri/dew/snapshot/0a271ce2e7a94f50cd84c8658124080e29700249/files/devops/it/src/it/helloworld-library/pom.xml#L51", 
+        "line": 51, 
+        "value": "snapshotRepository", 
+        "file": "/devops/it/src/it/helloworld-library/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://121.41.17.205:18081/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gudaoxuri/dew/snapshot/0a271ce2e7a94f50cd84c8658124080e29700249/files/devops/it/src/it/todo/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/devops/it/src/it/todo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://121.41.17.205:18081/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gudaoxuri/dew/snapshot/0a271ce2e7a94f50cd84c8658124080e29700249/files/devops/it/src/it/todo/pom.xml#L70", 
+        "line": 70, 
+        "value": "snapshotRepository", 
+        "file": "/devops/it/src/it/todo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://121.41.17.205:18081/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gudaoxuri/dew/snapshot/0a271ce2e7a94f50cd84c8658124080e29700249/files/devops/it/src/it/todo/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/devops/it/src/it/todo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://121.41.17.205:18081/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

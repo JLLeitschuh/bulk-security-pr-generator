@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/syl20bnr/jobgenerator-jenkins", 
+    "url-identifier": "g/syl20bnr/jobgenerator-jenkins", 
+    "id": 1509204325588, 
+    "name": "syl20bnr/jobgenerator-jenkins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/syl20bnr/jobgenerator-jenkins/snapshot/bbadf9360a901797019e8d781fc221e63897a82b/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/syl20bnr/jobgenerator-jenkins/snapshot/bbadf9360a901797019e8d781fc221e63897a82b/files/pom.xml#L96", 
+        "line": 96, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/syl20bnr/jobgenerator-jenkins/snapshot/bbadf9360a901797019e8d781fc221e63897a82b/files/pom.xml#L103", 
+        "line": 103, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

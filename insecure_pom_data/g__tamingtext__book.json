@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tamingtext/book", 
+    "url-identifier": "g/tamingtext/book", 
+    "id": 48170089, 
+    "name": "tamingtext/book"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tamingtext/book/snapshot/eaf00f90b86aa680eb5fa783304f2a47a5cbaabb/files/pom.xml#L647", 
+        "line": 647, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.tamingtext.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

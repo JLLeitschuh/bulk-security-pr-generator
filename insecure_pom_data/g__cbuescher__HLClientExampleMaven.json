@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cbuescher/HLClientExampleMaven", 
+    "url-identifier": "g/cbuescher/HLClientExampleMaven", 
+    "id": 1506685466892, 
+    "name": "cbuescher/HLClientExampleMaven"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cbuescher/HLClientExampleMaven/snapshot/44c61487fe3905a1c1317141db408882c841824b/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://s3.amazonaws.com/download.elasticsearch.org/lucenesnapshots/a128fcb"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/reficio/soap-ws", 
+    "url-identifier": "g/reficio/soap-ws", 
+    "id": 48190112, 
+    "name": "reficio/soap-ws"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/soap-ws/snapshot/e5155a593f11ed34fbb87853e2c792ef3595da57/files/pom.xml#L389", 
+        "line": 389, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/soap-ws/snapshot/e5155a593f11ed34fbb87853e2c792ef3595da57/files/pom.xml#L393", 
+        "line": 393, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.eviware.com/repository/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/soap-ws/snapshot/e5155a593f11ed34fbb87853e2c792ef3595da57/files/pom.xml#L401", 
+        "line": 401, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://svn.apache.org/repos/asf/servicemix/m2-repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

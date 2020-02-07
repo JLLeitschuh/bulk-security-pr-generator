@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bcdev/beam", 
+    "url-identifier": "g/bcdev/beam", 
+    "id": 10120068, 
+    "name": "bcdev/beam"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bcdev/beam/snapshot/76a9e49ca58a78b2570c2eab5a29113e688c10b9/files/pom.xml#L620", 
+        "line": 620, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.senbox.net/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bcdev/beam/snapshot/76a9e49ca58a78b2570c2eab5a29113e688c10b9/files/pom.xml#L636", 
+        "line": 636, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.senbox.net/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bcdev/beam/snapshot/76a9e49ca58a78b2570c2eab5a29113e688c10b9/files/pom.xml#L642", 
+        "line": 642, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.senbox.net/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bcdev/beam/snapshot/76a9e49ca58a78b2570c2eab5a29113e688c10b9/files/pom.xml#L651", 
+        "line": 651, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.senbox.net/nexus/content/repositories/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

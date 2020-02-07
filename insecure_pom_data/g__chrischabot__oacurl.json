@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/chrischabot/oacurl", 
+    "url-identifier": "g/chrischabot/oacurl", 
+    "id": 1732200003, 
+    "name": "chrischabot/oacurl"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/chrischabot/oacurl/snapshot/456a25a9e34056bdb3ffd109e7f1dcbbec9f57de/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oauth.googlecode.com/svn/code/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

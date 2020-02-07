@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/incubator-streampipes", 
+    "url-identifier": "g/apache/incubator-streampipes", 
+    "id": 1509079805973, 
+    "name": "apache/incubator-streampipes"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-streampipes/snapshot/d04dafeede7f843f0c8c4fe2705fd84fbc57ffef/files/archetypes/streampipes-archetype-pe-processors-flink/src/main/resources/archetype-resources/pom.xml#L117", 
+        "line": 117, 
+        "value": "repository", 
+        "file": "/archetypes/streampipes-archetype-pe-processors-flink/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://laus.fzi.de/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-streampipes/snapshot/d04dafeede7f843f0c8c4fe2705fd84fbc57ffef/files/archetypes/streampipes-archetype-pe-processors-jvm/src/main/resources/archetype-resources/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/archetypes/streampipes-archetype-pe-processors-jvm/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://laus.fzi.de/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-streampipes/snapshot/d04dafeede7f843f0c8c4fe2705fd84fbc57ffef/files/archetypes/streampipes-archetype-pe-sinks-flink/src/main/resources/archetype-resources/pom.xml#L117", 
+        "line": 117, 
+        "value": "repository", 
+        "file": "/archetypes/streampipes-archetype-pe-sinks-flink/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://laus.fzi.de/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-streampipes/snapshot/d04dafeede7f843f0c8c4fe2705fd84fbc57ffef/files/archetypes/streampipes-archetype-pe-sinks-jvm/src/main/resources/archetype-resources/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/archetypes/streampipes-archetype-pe-sinks-jvm/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://laus.fzi.de/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-streampipes/snapshot/d04dafeede7f843f0c8c4fe2705fd84fbc57ffef/files/archetypes/streampipes-archetype-pe-sources/src/main/resources/archetype-resources/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/archetypes/streampipes-archetype-pe-sources/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://laus.fzi.de/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-streampipes/snapshot/d04dafeede7f843f0c8c4fe2705fd84fbc57ffef/files/streampipes-wrapper-siddhi/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/streampipes-wrapper-siddhi/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

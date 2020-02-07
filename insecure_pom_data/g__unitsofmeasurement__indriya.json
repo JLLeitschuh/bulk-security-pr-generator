@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/unitsofmeasurement/indriya", 
+    "url-identifier": "g/unitsofmeasurement/indriya", 
+    "id": 1510207276350, 
+    "name": "unitsofmeasurement/indriya"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/unitsofmeasurement/indriya/snapshot/e8b990d6e7d15394bf0e64f6f6ce735565ce03a2/files/pom.xml#L463", 
+        "line": 463, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/unitsofmeasurement/indriya/snapshot/e8b990d6e7d15394bf0e64f6f6ce735565ce03a2/files/pom.xml#L468", 
+        "line": 468, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/unitsofmeasurement/indriya/snapshot/e8b990d6e7d15394bf0e64f6f6ce735565ce03a2/files/pom.xml#L476", 
+        "line": 476, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/unitsofmeasurement/indriya/snapshot/e8b990d6e7d15394bf0e64f6f6ce735565ce03a2/files/pom.xml#L537", 
+        "line": 537, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

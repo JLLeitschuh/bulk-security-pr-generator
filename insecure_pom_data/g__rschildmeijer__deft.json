@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rschildmeijer/deft", 
+    "url-identifier": "g/rschildmeijer/deft", 
+    "id": 56472130, 
+    "name": "rschildmeijer/deft"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rschildmeijer/deft/snapshot/3c09413878c45069b773eed5ffb5179e0e174eb8/files/pom.xml#L92", 
+        "line": 92, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases "
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

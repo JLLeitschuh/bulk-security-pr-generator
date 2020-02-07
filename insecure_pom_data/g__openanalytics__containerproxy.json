@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openanalytics/containerproxy", 
+    "url-identifier": "g/openanalytics/containerproxy", 
+    "id": 1508690275975, 
+    "name": "openanalytics/containerproxy"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openanalytics/containerproxy/snapshot/1ec0bd9b70c40867c31394d8852e3d3eccef1c39/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.openanalytics.eu/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openanalytics/containerproxy/snapshot/1ec0bd9b70c40867c31394d8852e3d3eccef1c39/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.openanalytics.eu/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openanalytics/containerproxy/snapshot/1ec0bd9b70c40867c31394d8852e3d3eccef1c39/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

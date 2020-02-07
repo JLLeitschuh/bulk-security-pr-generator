@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rombert/release", 
+    "url-identifier": "g/rombert/release", 
+    "id": 1506595468577, 
+    "name": "rombert/release"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rombert/release/snapshot/9e274bb6649f765f4870350df87027373769cdb5/files/maven-release-manager/src/test/resources/projects/rewrite-for-branch/basic-pom-namespace/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/maven-release-manager/src/test/resources/projects/rewrite-for-branch/basic-pom-namespace/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rombert/release/snapshot/9e274bb6649f765f4870350df87027373769cdb5/files/maven-release-manager/src/test/resources/projects/rewrite-for-release/basic-pom-namespace/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/maven-release-manager/src/test/resources/projects/rewrite-for-release/basic-pom-namespace/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

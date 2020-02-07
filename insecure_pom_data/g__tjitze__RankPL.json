@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tjitze/RankPL", 
+    "url-identifier": "g/tjitze/RankPL", 
+    "id": 1508120785570, 
+    "name": "tjitze/RankPL"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tjitze/RankPL/snapshot/3db7fb6d48489268988f2d0f33a2e3a5ec904130/files/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.usethesource.io/content/repositories/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

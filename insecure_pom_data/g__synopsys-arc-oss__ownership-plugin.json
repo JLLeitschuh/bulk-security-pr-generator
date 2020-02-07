@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/synopsys-arc-oss/ownership-plugin", 
+    "url-identifier": "g/synopsys-arc-oss/ownership-plugin", 
+    "id": 1509251267598, 
+    "name": "synopsys-arc-oss/ownership-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/synopsys-arc-oss/ownership-plugin/snapshot/a109649650c5ce7bb40e9723ae28935710616bfb/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/synopsys-arc-oss/ownership-plugin/snapshot/a109649650c5ce7bb40e9723ae28935710616bfb/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

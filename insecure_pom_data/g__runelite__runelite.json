@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/runelite/runelite", 
+    "url-identifier": "g/runelite/runelite", 
+    "id": 1506694606362, 
+    "name": "runelite/runelite"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/runelite/runelite/snapshot/30e33a04530de0c39befdc031b68b0c95da4706c/files/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/runelite/runelite/snapshot/30e33a04530de0c39befdc031b68b0c95da4706c/files/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.runelite.net"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/runelite/runelite/snapshot/30e33a04530de0c39befdc031b68b0c95da4706c/files/pom.xml#L99", 
+        "line": 99, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/runelite/runelite/snapshot/30e33a04530de0c39befdc031b68b0c95da4706c/files/pom.xml#L103", 
+        "line": 103, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.runelite.net"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

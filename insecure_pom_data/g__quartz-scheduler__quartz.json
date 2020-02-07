@@ -1,0 +1,289 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz", 
+    "url-identifier": "g/quartz-scheduler/quartz", 
+    "id": 1798241582, 
+    "name": "quartz-scheduler/quartz"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/checkstyle/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/checkstyle/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/checkstyle/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/checkstyle/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-staging"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/checkstyle/pom.xml#L47", 
+        "line": 47, 
+        "value": "snapshotRepository", 
+        "file": "/checkstyle/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/distribution/pom.xml#L251", 
+        "line": 251, 
+        "value": "repository", 
+        "file": "/distribution/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/distribution/pom.xml#L255", 
+        "line": 255, 
+        "value": "repository", 
+        "file": "/distribution/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/distribution/pom.xml#L262", 
+        "line": 262, 
+        "value": "pluginRepository", 
+        "file": "/distribution/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/distribution/pom.xml#L266", 
+        "line": 266, 
+        "value": "pluginRepository", 
+        "file": "/distribution/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/distribution/pom.xml#L270", 
+        "line": 270, 
+        "value": "pluginRepository", 
+        "file": "/distribution/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://evgenyg.artifactoryonline.com/evgenyg/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/pom.xml#L393", 
+        "line": 393, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/pom.xml#L398", 
+        "line": 398, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/pom.xml#L408", 
+        "line": 408, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/pom.xml#L433", 
+        "line": 433, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-staging"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/pom.xml#L438", 
+        "line": 438, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/pom.xml#L447", 
+        "line": 447, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/pom.xml#L451", 
+        "line": 451, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/pom.xml#L458", 
+        "line": 458, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/pom.xml#L462", 
+        "line": 462, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/quartz/pom.xml#L255", 
+        "line": 255, 
+        "value": "repository", 
+        "file": "/quartz/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/quartz/pom.xml#L259", 
+        "line": 259, 
+        "value": "repository", 
+        "file": "/quartz/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/quartz/pom.xml#L266", 
+        "line": 266, 
+        "value": "pluginRepository", 
+        "file": "/quartz/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/quartz/pom.xml#L270", 
+        "line": 270, 
+        "value": "pluginRepository", 
+        "file": "/quartz/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/system-tests/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/system-tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/system-tests/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/system-tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/system-tests/pom.xml#L97", 
+        "line": 97, 
+        "value": "pluginRepository", 
+        "file": "/system-tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/quartz-scheduler/quartz/snapshot/4890702b8303157e7bb282630e30499a7fb6fa99/files/system-tests/pom.xml#L101", 
+        "line": 101, 
+        "value": "pluginRepository", 
+        "file": "/system-tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dbeaver/dbeaver", 
+    "url-identifier": "g/dbeaver/dbeaver", 
+    "id": 6770304, 
+    "name": "dbeaver/dbeaver"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dbeaver/dbeaver/snapshot/bf96903152cea81aef161e3f06caefcfbcb8ca22/files/plugins/org.jkiss.dbeaver.ext.ui.colortheme/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/plugins/org.jkiss.dbeaver.ext.ui.colortheme/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://eclipse-color-theme.github.com/update"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

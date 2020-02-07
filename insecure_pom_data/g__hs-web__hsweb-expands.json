@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hs-web/hsweb-expands", 
+    "url-identifier": "g/hs-web/hsweb-expands", 
+    "id": 1506714186812, 
+    "name": "hs-web/hsweb-expands"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-expands/snapshot/724abbc23de58b12a5eae12364b5e0b5b80cc4b5/files/pom.xml#L278", 
+        "line": 278, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-expands/snapshot/724abbc23de58b12a5eae12364b5e0b5b80cc4b5/files/pom.xml#L288", 
+        "line": 288, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-expands/snapshot/724abbc23de58b12a5eae12364b5e0b5b80cc4b5/files/pom.xml#L293", 
+        "line": 293, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

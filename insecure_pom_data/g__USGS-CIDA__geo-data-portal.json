@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/USGS-CIDA/geo-data-portal", 
+    "url-identifier": "g/USGS-CIDA/geo-data-portal", 
+    "id": 1506717640563, 
+    "name": "USGS-CIDA/geo-data-portal"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/geo-data-portal/snapshot/9865cdb94f7e25c1e6e410c75a0c090aca07ab73/files/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/geo-data-portal/snapshot/9865cdb94f7e25c1e6e410c75a0c090aca07ab73/files/pom.xml#L128", 
+        "line": 128, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/geo-data-portal/snapshot/9865cdb94f7e25c1e6e410c75a0c090aca07ab73/files/pom.xml#L133", 
+        "line": 133, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/USGS-CIDA/geo-data-portal/snapshot/9865cdb94f7e25c1e6e410c75a0c090aca07ab73/files/pom.xml#L137", 
+        "line": 137, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

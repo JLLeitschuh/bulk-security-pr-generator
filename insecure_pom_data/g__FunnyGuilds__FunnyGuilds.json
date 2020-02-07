@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/FunnyGuilds/FunnyGuilds", 
+    "url-identifier": "g/FunnyGuilds/FunnyGuilds", 
+    "id": 1506712056272, 
+    "name": "FunnyGuilds/FunnyGuilds"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/FunnyGuilds/FunnyGuilds/snapshot/139bd7678755adbf6da0fe4fe9cf0c337875e2ec/files/pom.xml#L146", 
+        "line": 146, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/FunnyGuilds/FunnyGuilds/snapshot/139bd7678755adbf6da0fe4fe9cf0c337875e2ec/files/pom.xml#L151", 
+        "line": 151, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/FunnyGuilds/FunnyGuilds/snapshot/139bd7678755adbf6da0fe4fe9cf0c337875e2ec/files/pom.xml#L155", 
+        "line": 155, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.extendedclip.com/content/repositories/placeholderapi/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/FunnyGuilds/FunnyGuilds/snapshot/139bd7678755adbf6da0fe4fe9cf0c337875e2ec/files/pom.xml#L159", 
+        "line": 159, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codecrafter47.de/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/FunnyGuilds/FunnyGuilds/snapshot/139bd7678755adbf6da0fe4fe9cf0c337875e2ec/files/pom.xml#L163", 
+        "line": 163, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.mvdw-software.be/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

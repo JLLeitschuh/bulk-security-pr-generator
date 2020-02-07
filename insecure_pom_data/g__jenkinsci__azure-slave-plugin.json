@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/azure-slave-plugin", 
+    "url-identifier": "g/jenkinsci/azure-slave-plugin", 
+    "id": 1509245096451, 
+    "name": "jenkinsci/azure-slave-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/azure-slave-plugin/snapshot/d35df46c3e1b3c49af21c7678330337e0555cba0/files/pom.xml#L138", 
+        "line": 138, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/azure-slave-plugin/snapshot/d35df46c3e1b3c49af21c7678330337e0555cba0/files/pom.xml#L145", 
+        "line": 145, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

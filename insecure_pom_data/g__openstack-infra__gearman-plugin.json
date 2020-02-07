@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openstack-infra/gearman-plugin", 
+    "url-identifier": "g/openstack-infra/gearman-plugin", 
+    "id": 1509222906146, 
+    "name": "openstack-infra/gearman-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openstack-infra/gearman-plugin/snapshot/303a2df335ddfa8eb77d6f40dc2db1f7da6b32ec/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openstack-infra/gearman-plugin/snapshot/303a2df335ddfa8eb77d6f40dc2db1f7da6b32ec/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.nightlabs.org/maven-repository/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openstack-infra/gearman-plugin/snapshot/303a2df335ddfa8eb77d6f40dc2db1f7da6b32ec/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openstack-infra/gearman-plugin/snapshot/303a2df335ddfa8eb77d6f40dc2db1f7da6b32ec/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

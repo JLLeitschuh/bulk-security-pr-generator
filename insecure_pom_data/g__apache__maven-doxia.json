@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/maven-doxia", 
+    "url-identifier": "g/apache/maven-doxia", 
+    "id": 1506075296641, 
+    "name": "apache/maven-doxia"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/maven-doxia/snapshot/6a3d1ea4b65cde6b5e7167e9fe14f4e4282b7268/files/pom.xml#L336", 
+        "line": 336, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

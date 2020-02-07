@@ -1,0 +1,168 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openimaj/openimaj", 
+    "url-identifier": "g/openimaj/openimaj", 
+    "id": 64300055, 
+    "name": "openimaj/openimaj"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/archetypes/openimaj-quickstart-archetype/src/main/resources/archetype-resources/pom.xml#L125", 
+        "line": 125, 
+        "value": "repository", 
+        "file": "/archetypes/openimaj-quickstart-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.openimaj.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/archetypes/openimaj-quickstart-archetype/src/main/resources/archetype-resources/pom.xml#L129", 
+        "line": 129, 
+        "value": "repository", 
+        "file": "/archetypes/openimaj-quickstart-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.openimaj.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/documentation/tutorial/pom.xml#L31", 
+        "line": 31, 
+        "value": "pluginRepository", 
+        "file": "/documentation/tutorial/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/knowledge/core-rdf/src/main/resources/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/knowledge/core-rdf/src/main/resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.openimaj.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/knowledge/core-rdf/src/main/resources/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/knowledge/core-rdf/src/main/resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.openimaj.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/knowledge/ontologies/sioc/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/knowledge/ontologies/sioc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.openimaj.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/knowledge/ontologies/sioc/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/knowledge/ontologies/sioc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.openimaj.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/pom.xml#L696", 
+        "line": 696, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.openimaj.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/pom.xml#L700", 
+        "line": 700, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.openimaj.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/pom.xml#L706", 
+        "line": 706, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.openimaj.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/pom.xml#L713", 
+        "line": 713, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.ecs.soton.ac.uk/content/repositories/openimaj-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/pom.xml#L718", 
+        "line": 718, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.ecs.soton.ac.uk/content/repositories/openimaj-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/tools/ReferencesTool/src/test/TestJarProject/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/tools/ReferencesTool/src/test/TestJarProject/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.openimaj.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openimaj/openimaj/snapshot/808ae2e95dc7217eae3ad922f7d5b01abb10b386/files/tools/ReferencesTool/src/test/TestJarProject/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/tools/ReferencesTool/src/test/TestJarProject/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.openimaj.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

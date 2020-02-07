@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opengeospatial/teamengine", 
+    "url-identifier": "g/opengeospatial/teamengine", 
+    "id": 910334, 
+    "name": "opengeospatial/teamengine"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opengeospatial/teamengine/snapshot/d4472d41671a4aed97c3b2c01264d9d55ba3b611/files/teamengine-tests/pom.xml#L70", 
+        "line": 70, 
+        "value": "pluginRepository", 
+        "file": "/teamengine-tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.soapui.org/repository/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

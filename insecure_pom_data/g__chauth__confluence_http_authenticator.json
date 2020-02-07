@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/chauth/confluence_http_authenticator", 
+    "url-identifier": "g/chauth/confluence_http_authenticator", 
+    "id": 64310032, 
+    "name": "chauth/confluence_http_authenticator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/chauth/confluence_http_authenticator/snapshot/7e2f5f941112faf71fa466aa063bf6befafdba7b/files/pom.xml#L180", 
+        "line": 180, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

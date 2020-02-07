@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Jasig/NewsReaderPortlet", 
+    "url-identifier": "g/Jasig/NewsReaderPortlet", 
+    "id": 25150025, 
+    "name": "Jasig/NewsReaderPortlet"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Jasig/NewsReaderPortlet/snapshot/b5b79a8ebc8acf900d12599b096ff0f53cac660e/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.atricore.org/m2-release-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Jasig/NewsReaderPortlet/snapshot/b5b79a8ebc8acf900d12599b096ff0f53cac660e/files/pom.xml#L84", 
+        "line": 84, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

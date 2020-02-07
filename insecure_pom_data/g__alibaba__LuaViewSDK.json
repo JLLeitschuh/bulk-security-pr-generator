@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/alibaba/LuaViewSDK", 
+    "url-identifier": "g/alibaba/LuaViewSDK", 
+    "id": 2030530544, 
+    "name": "alibaba/LuaViewSDK"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alibaba/LuaViewSDK/snapshot/1972eb0c407b55d1df8162e229c84e4b7c0715a0/files/Android/LuaViewSDK/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/Android/LuaViewSDK/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvnrepo.alibaba-inc.com/mvn/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alibaba/LuaViewSDK/snapshot/1972eb0c407b55d1df8162e229c84e4b7c0715a0/files/Android/LuaViewSDK/pom.xml#L61", 
+        "line": 61, 
+        "value": "snapshotRepository", 
+        "file": "/Android/LuaViewSDK/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvnrepo.alibaba-inc.com/mvn/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

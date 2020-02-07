@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nielsbasjes/yauaa", 
+    "url-identifier": "g/nielsbasjes/yauaa", 
+    "id": 1506743786342, 
+    "name": "nielsbasjes/yauaa"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nielsbasjes/yauaa/snapshot/2e0a0994bdce761438ade97b506f552c7871e94a/files/webapp/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/webapp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

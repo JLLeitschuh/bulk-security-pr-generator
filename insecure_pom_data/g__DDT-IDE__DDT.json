@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/DDT-IDE/DDT", 
+    "url-identifier": "g/DDT-IDE/DDT", 
+    "id": 22650015, 
+    "name": "DDT-IDE/DDT"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DDT-IDE/DDT/snapshot/dd3977988709b361a53989c4d1ec13fdae2e8b71/files/pom.xml#L52", 
+        "line": 52, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/neon"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DDT-IDE/DDT/snapshot/dd3977988709b361a53989c4d1ec13fdae2e8b71/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archive.eclipse.org/tools/orbit/downloads/drops/R20160520211859/repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/linouxis9/ARMStrong", 
+    "url-identifier": "g/linouxis9/ARMStrong", 
+    "id": 1506305456116, 
+    "name": "linouxis9/ARMStrong"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/linouxis9/ARMStrong/snapshot/c6b9647eb737ab34cad59876d10b28de131eb28d/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.imagej.net/content/repositories/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

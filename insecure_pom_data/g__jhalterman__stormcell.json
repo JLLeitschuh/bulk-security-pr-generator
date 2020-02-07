@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jhalterman/stormcell", 
+    "url-identifier": "g/jhalterman/stormcell", 
+    "id": 1506694457300, 
+    "name": "jhalterman/stormcell"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jhalterman/stormcell/snapshot/d3658dd88caf72abc3a69e168a428f60da9348f2/files/pom.xml#L131", 
+        "line": 131, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/backlog-plugin", 
+    "url-identifier": "g/jenkinsci/backlog-plugin", 
+    "id": 1509257066027, 
+    "name": "jenkinsci/backlog-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/backlog-plugin/snapshot/b54f94acf128f69e77777630f42fd85ec814f47d/files/pom.xml#L140", 
+        "line": 140, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/jgit/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

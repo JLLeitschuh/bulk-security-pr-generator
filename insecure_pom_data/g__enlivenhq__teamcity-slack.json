@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/enlivenhq/teamcity-slack", 
+    "url-identifier": "g/enlivenhq/teamcity-slack", 
+    "id": 50640125, 
+    "name": "enlivenhq/teamcity-slack"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/enlivenhq/teamcity-slack/snapshot/647d64206b90f78ab28e5f519324ac8ed232300f/files/pom.xml#L12", 
+        "line": 12, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/all"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openkm/document-management-system", 
+    "url-identifier": "g/openkm/document-management-system", 
+    "id": 1506704107043, 
+    "name": "openkm/document-management-system"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openkm/document-management-system/snapshot/20759f1548a93ac1aa1d77c204a99d5f658625b3/files/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.openkm.com/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

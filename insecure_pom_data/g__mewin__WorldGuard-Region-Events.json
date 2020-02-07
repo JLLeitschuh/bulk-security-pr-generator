@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mewin/WorldGuard-Region-Events", 
+    "url-identifier": "g/mewin/WorldGuard-Region-Events", 
+    "id": 1506691248494, 
+    "name": "mewin/WorldGuard-Region-Events"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mewin/WorldGuard-Region-Events/snapshot/fcb8ed7b3f2cc080d7df156e999766119aadf31b/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mewin/WorldGuard-Region-Events/snapshot/fcb8ed7b3f2cc080d7df156e999766119aadf31b/files/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.mewin.de"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

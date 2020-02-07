@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rstoyanchev/spring-mvc-chat", 
+    "url-identifier": "g/rstoyanchev/spring-mvc-chat", 
+    "id": 53010013, 
+    "name": "rstoyanchev/spring-mvc-chat"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rstoyanchev/spring-mvc-chat/snapshot/42a3a694fac10dd01c4f711827ee95cbb291eab2/files/pom.xml#L111", 
+        "line": 111, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rstoyanchev/spring-mvc-chat/snapshot/42a3a694fac10dd01c4f711827ee95cbb291eab2/files/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rstoyanchev/spring-mvc-chat/snapshot/42a3a694fac10dd01c4f711827ee95cbb291eab2/files/pom.xml#L130", 
+        "line": 130, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/content/groups/snapshots-group/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

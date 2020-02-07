@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rikturnbull/aws-parameter-store-plugin", 
+    "url-identifier": "g/rikturnbull/aws-parameter-store-plugin", 
+    "id": 1509063125975, 
+    "name": "rikturnbull/aws-parameter-store-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rikturnbull/aws-parameter-store-plugin/snapshot/63da26ff7905312e8abb64763c8cdf0170218e9e/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rikturnbull/aws-parameter-store-plugin/snapshot/63da26ff7905312e8abb64763c8cdf0170218e9e/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

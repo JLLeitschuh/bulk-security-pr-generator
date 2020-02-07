@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/diegoceccarelli/json-wikipedia", 
+    "url-identifier": "g/diegoceccarelli/json-wikipedia", 
+    "id": 2033200793, 
+    "name": "diegoceccarelli/json-wikipedia"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/diegoceccarelli/json-wikipedia/snapshot/d0477c07ae1d8c6a3e1ed294bb9a35db0d6d828b/files/pom.xml#L151", 
+        "line": 151, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

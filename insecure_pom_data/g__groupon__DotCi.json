@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/groupon/DotCi", 
+    "url-identifier": "g/groupon/DotCi", 
+    "id": 91956681, 
+    "name": "groupon/DotCi"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/groupon/DotCi/snapshot/52544a98d157b3ef1d8067752dae541ed991788e/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/groupon/DotCi/snapshot/52544a98d157b3ef1d8067752dae541ed991788e/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

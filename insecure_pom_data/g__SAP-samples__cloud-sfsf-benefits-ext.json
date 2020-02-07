@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SAP-samples/cloud-sfsf-benefits-ext", 
+    "url-identifier": "g/SAP-samples/cloud-sfsf-benefits-ext", 
+    "id": 1506263636781, 
+    "name": "SAP-samples/cloud-sfsf-benefits-ext"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SAP-samples/cloud-sfsf-benefits-ext/snapshot/1468b9bee91507acf7a4226210403152bda817c6/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SAP-samples/cloud-sfsf-benefits-ext/snapshot/1468b9bee91507acf7a4226210403152bda817c6/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

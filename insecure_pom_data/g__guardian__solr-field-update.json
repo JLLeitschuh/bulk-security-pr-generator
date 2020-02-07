@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/guardian/solr-field-update", 
+    "url-identifier": "g/guardian/solr-field-update", 
+    "id": 1506258576064, 
+    "name": "guardian/solr-field-update"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/guardian/solr-field-update/snapshot/33fd106377498d497625875e09185be9f29338c5/files/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://guardian.github.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

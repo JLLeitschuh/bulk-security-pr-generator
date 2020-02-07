@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/amuniz/bitbucket-branch-source-plugin", 
+    "url-identifier": "g/amuniz/bitbucket-branch-source-plugin", 
+    "id": 1509250876553, 
+    "name": "amuniz/bitbucket-branch-source-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amuniz/bitbucket-branch-source-plugin/snapshot/b975f62261da97c9f6810d1368e5c22803d8b5bf/files/pom.xml#L118", 
+        "line": 118, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amuniz/bitbucket-branch-source-plugin/snapshot/b975f62261da97c9f6810d1368e5c22803d8b5bf/files/pom.xml#L124", 
+        "line": 124, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

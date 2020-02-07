@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/delta-rho/RHIPE", 
+    "url-identifier": "g/delta-rho/RHIPE", 
+    "id": 1796170172, 
+    "name": "delta-rho/RHIPE"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/delta-rho/RHIPE/snapshot/1b49db2aee6237dd9e65065534ed537bae2479a0/files/pom.xml#L224", 
+        "line": 224, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/delta-rho/RHIPE/snapshot/1b49db2aee6237dd9e65065534ed537bae2479a0/files/pom.xml#L239", 
+        "line": 239, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

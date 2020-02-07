@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ox-it/gaboto", 
+    "url-identifier": "g/ox-it/gaboto", 
+    "id": 1506693757327, 
+    "name": "ox-it/gaboto"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ox-it/gaboto/snapshot/388c0bc784851447b3a4bdc3a767a4cceab931e3/files/pom.xml#L314", 
+        "line": 314, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://melati.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ox-it/gaboto/snapshot/388c0bc784851447b3a4bdc3a767a4cceab931e3/files/pom.xml#L325", 
+        "line": 325, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bogof.nsms.ox.ac.uk/mvn/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

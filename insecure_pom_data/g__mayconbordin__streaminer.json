@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mayconbordin/streaminer", 
+    "url-identifier": "g/mayconbordin/streaminer", 
+    "id": 67170033, 
+    "name": "mayconbordin/streaminer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mayconbordin/streaminer/snapshot/fd7e96e74a3be3ecab355aca1eb6e17cc0f1f2b3/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/github-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mayconbordin/streaminer/snapshot/fd7e96e74a3be3ecab355aca1eb6e17cc0f1f2b3/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

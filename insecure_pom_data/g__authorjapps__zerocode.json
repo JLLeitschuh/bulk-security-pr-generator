@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/authorjapps/zerocode", 
+    "url-identifier": "g/authorjapps/zerocode", 
+    "id": 1506741796329, 
+    "name": "authorjapps/zerocode"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/authorjapps/zerocode/snapshot/d2e99cd183b12ddcab2343a87b94db73f82d5884/files/core/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://packages.confluent.io/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

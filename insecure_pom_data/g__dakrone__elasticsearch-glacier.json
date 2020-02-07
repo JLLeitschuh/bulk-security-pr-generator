@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dakrone/elasticsearch-glacier", 
+    "url-identifier": "g/dakrone/elasticsearch-glacier", 
+    "id": 1506695306184, 
+    "name": "dakrone/elasticsearch-glacier"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dakrone/elasticsearch-glacier/snapshot/2cc6513a2f69211b66dc1ad2d7b08eaec8c2773c/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

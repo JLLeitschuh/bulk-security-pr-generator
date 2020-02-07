@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/thorntail/thorntail-examples", 
+    "url-identifier": "g/thorntail/thorntail-examples", 
+    "id": 1789820369, 
+    "name": "thorntail/thorntail-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/thorntail/thorntail-examples/snapshot/d42bbdd57aa19da6bb142be4a397d224f031f621/files/vaadin/vaadin14/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/vaadin/vaadin14/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

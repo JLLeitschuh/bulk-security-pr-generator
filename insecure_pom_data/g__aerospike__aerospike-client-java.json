@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/aerospike/aerospike-client-java", 
+    "url-identifier": "g/aerospike/aerospike-client-java", 
+    "id": 13640376, 
+    "name": "aerospike/aerospike-client-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aerospike/aerospike-client-java/snapshot/3ac781acc2367444755a5a3ce08bdfcff5971886/files/benchmarks/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/benchmarks/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.opennms.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

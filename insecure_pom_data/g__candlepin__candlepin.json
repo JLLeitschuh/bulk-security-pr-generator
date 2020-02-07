@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/candlepin/candlepin", 
+    "url-identifier": "g/candlepin/candlepin", 
+    "id": 11000442, 
+    "name": "candlepin/candlepin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/candlepin/candlepin/snapshot/481f24f9a535f3dcd7cca8570033f0ba6a5008ed/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/candlepin/candlepin/snapshot/481f24f9a535f3dcd7cca8570033f0ba6a5008ed/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oauth.googlecode.com/svn/code/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

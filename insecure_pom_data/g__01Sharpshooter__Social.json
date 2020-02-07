@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/01Sharpshooter/Social", 
+    "url-identifier": "g/01Sharpshooter/Social", 
+    "id": 1506612458174, 
+    "name": "01Sharpshooter/Social"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/01Sharpshooter/Social/snapshot/1105874e52d661359e40edfcbe7ac02520c2d564/files/pom.xml#L170", 
+        "line": 170, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

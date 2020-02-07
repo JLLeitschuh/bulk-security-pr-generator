@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/williamkouwonou/biblitheque-y1", 
+    "url-identifier": "g/williamkouwonou/biblitheque-y1", 
+    "id": 1505797396245, 
+    "name": "williamkouwonou/biblitheque-y1"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/williamkouwonou/biblitheque-y1/snapshot/89d70ff90d6056aea62d31ceb8b4cf24827c8f88/files/ui/pom.xml#L165", 
+        "line": 165, 
+        "value": "repository", 
+        "file": "/ui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/williamkouwonou/biblitheque-y1/snapshot/89d70ff90d6056aea62d31ceb8b4cf24827c8f88/files/ui/pom.xml#L173", 
+        "line": 173, 
+        "value": "repository", 
+        "file": "/ui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-milestone-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/williamkouwonou/biblitheque-y1/snapshot/89d70ff90d6056aea62d31ceb8b4cf24827c8f88/files/ui/pom.xml#L181", 
+        "line": 181, 
+        "value": "repository", 
+        "file": "/ui/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-release-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

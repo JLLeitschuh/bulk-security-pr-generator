@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/errai/errai", 
+    "url-identifier": "g/errai/errai", 
+    "id": 58800049, 
+    "name": "errai/errai"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/errai/errai/snapshot/2da1fad7cb5d1b2296263d24e21acaef8328a5a5/files/errai-forge-addon/pom.xml#L139", 
+        "line": 139, 
+        "value": "repository", 
+        "file": "/errai-forge-addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tmfg/digitraffic-rail", 
+    "url-identifier": "g/tmfg/digitraffic-rail", 
+    "id": 1510189626290, 
+    "name": "tmfg/digitraffic-rail"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tmfg/digitraffic-rail/snapshot/67775d9aebc0a1b9150f2bc2a39de84943674ba1/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tmfg/digitraffic-rail/snapshot/67775d9aebc0a1b9150f2bc2a39de84943674ba1/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tmfg/digitraffic-rail/snapshot/67775d9aebc0a1b9150f2bc2a39de84943674ba1/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tmfg/digitraffic-rail/snapshot/67775d9aebc0a1b9150f2bc2a39de84943674ba1/files/pom.xml#L75", 
+        "line": 75, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.laughingpanda.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

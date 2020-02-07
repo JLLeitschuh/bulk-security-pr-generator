@@ -1,0 +1,344 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ysc/APDPlat", 
+    "url-identifier": "g/ysc/APDPlat", 
+    "id": 127160166, 
+    "name": "ysc/APDPlat"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Core/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/APDPlat_Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Core/pom.xml#L133", 
+        "line": 133, 
+        "value": "repository", 
+        "file": "/APDPlat_Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Core/pom.xml#L138", 
+        "line": 138, 
+        "value": "repository", 
+        "file": "/APDPlat_Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Core/pom.xml#L146", 
+        "line": 146, 
+        "value": "repository", 
+        "file": "/APDPlat_Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Core/pom.xml#L154", 
+        "line": 154, 
+        "value": "repository", 
+        "file": "/APDPlat_Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Core/pom.xml#L168", 
+        "line": 168, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Core/pom.xml#L181", 
+        "line": 181, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Core/pom.xml#L186", 
+        "line": 186, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Core/pom.xml#L194", 
+        "line": 194, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Core/pom.xml#L199", 
+        "line": 199, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codehaus.org/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Module/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/APDPlat_Module/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Module/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/APDPlat_Module/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Module/pom.xml#L100", 
+        "line": 100, 
+        "value": "repository", 
+        "file": "/APDPlat_Module/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Module/pom.xml#L108", 
+        "line": 108, 
+        "value": "repository", 
+        "file": "/APDPlat_Module/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Module/pom.xml#L116", 
+        "line": 116, 
+        "value": "repository", 
+        "file": "/APDPlat_Module/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Module/pom.xml#L130", 
+        "line": 130, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Module/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Module/pom.xml#L143", 
+        "line": 143, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Module/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Module/pom.xml#L148", 
+        "line": 148, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Module/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Module/pom.xml#L156", 
+        "line": 156, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Module/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Module/pom.xml#L161", 
+        "line": 161, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Module/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codehaus.org/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Web/pom.xml#L94", 
+        "line": 94, 
+        "value": "repository", 
+        "file": "/APDPlat_Web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Web/pom.xml#L107", 
+        "line": 107, 
+        "value": "repository", 
+        "file": "/APDPlat_Web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Web/pom.xml#L112", 
+        "line": 112, 
+        "value": "repository", 
+        "file": "/APDPlat_Web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Web/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/APDPlat_Web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Web/pom.xml#L128", 
+        "line": 128, 
+        "value": "repository", 
+        "file": "/APDPlat_Web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Web/pom.xml#L142", 
+        "line": 142, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Web/pom.xml#L155", 
+        "line": 155, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Web/pom.xml#L160", 
+        "line": 160, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Web/pom.xml#L168", 
+        "line": 168, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ysc/APDPlat/snapshot/4b0711a1a6273bf1dd864b58fdba404e5869895c/files/APDPlat_Web/pom.xml#L173", 
+        "line": 173, 
+        "value": "pluginRepository", 
+        "file": "/APDPlat_Web/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codehaus.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/jx-pipelines-plugin", 
+    "url-identifier": "g/jenkinsci/jx-pipelines-plugin", 
+    "id": 1506601170940, 
+    "name": "jenkinsci/jx-pipelines-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/jx-pipelines-plugin/snapshot/7c807dfcd2f0a860c5cacbb1b9371ebefd3de4b6/files/pom.xml#L145", 
+        "line": 145, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/jx-pipelines-plugin/snapshot/7c807dfcd2f0a860c5cacbb1b9371ebefd3de4b6/files/pom.xml#L151", 
+        "line": 151, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

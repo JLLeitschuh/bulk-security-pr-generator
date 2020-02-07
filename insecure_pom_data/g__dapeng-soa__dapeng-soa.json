@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dapeng-soa/dapeng-soa", 
+    "url-identifier": "g/dapeng-soa/dapeng-soa", 
+    "id": 1506706136936, 
+    "name": "dapeng-soa/dapeng-soa"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dapeng-soa/dapeng-soa/snapshot/9a99abd6e640658026adef6a230c6d0396a5c3aa/files/pom.xml#L166", 
+        "line": 166, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kayahr/pherialize", 
+    "url-identifier": "g/kayahr/pherialize", 
+    "id": 59780060, 
+    "name": "kayahr/pherialize"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kayahr/pherialize/snapshot/62a534adb1bd9bf71ec95dba1cafed52f3070c2d/files/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.ailis.de/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kayahr/pherialize/snapshot/62a534adb1bd9bf71ec95dba1cafed52f3070c2d/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.ailis.de/content/groups/public-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kayahr/pherialize/snapshot/62a534adb1bd9bf71ec95dba1cafed52f3070c2d/files/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.ailis.de/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kayahr/pherialize/snapshot/62a534adb1bd9bf71ec95dba1cafed52f3070c2d/files/pom.xml#L100", 
+        "line": 100, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.ailis.de/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

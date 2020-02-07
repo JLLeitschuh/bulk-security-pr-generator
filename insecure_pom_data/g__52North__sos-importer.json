@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/sos-importer", 
+    "url-identifier": "g/52North/sos-importer", 
+    "id": 1506729398817, 
+    "name": "52North/sos-importer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/sos-importer/snapshot/dceb5fb4573dad2cfad37404527c6bea5f129bdd/files/pom.xml#L284", 
+        "line": 284, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/sos-importer/snapshot/dceb5fb4573dad2cfad37404527c6bea5f129bdd/files/pom.xml#L295", 
+        "line": 295, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/sos-importer/snapshot/dceb5fb4573dad2cfad37404527c6bea5f129bdd/files/pom.xml#L306", 
+        "line": 306, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/sos-importer/snapshot/dceb5fb4573dad2cfad37404527c6bea5f129bdd/files/pom.xml#L317", 
+        "line": 317, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.boundlessgeo.com/main/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

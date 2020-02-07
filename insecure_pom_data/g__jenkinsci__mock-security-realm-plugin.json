@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/mock-security-realm-plugin", 
+    "url-identifier": "g/jenkinsci/mock-security-realm-plugin", 
+    "id": 1509062566052, 
+    "name": "jenkinsci/mock-security-realm-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/mock-security-realm-plugin/snapshot/ddb58e39e25fb3102e84f3a5e18ff3e78fef6a42/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/mock-security-realm-plugin/snapshot/ddb58e39e25fb3102e84f3a5e18ff3e78fef6a42/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

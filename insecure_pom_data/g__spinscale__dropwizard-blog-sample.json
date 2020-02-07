@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/spinscale/dropwizard-blog-sample", 
+    "url-identifier": "g/spinscale/dropwizard-blog-sample", 
+    "id": 1790650795, 
+    "name": "spinscale/dropwizard-blog-sample"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spinscale/dropwizard-blog-sample/snapshot/76dde09f85a876321e6511a0055378ec400d1060/files/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

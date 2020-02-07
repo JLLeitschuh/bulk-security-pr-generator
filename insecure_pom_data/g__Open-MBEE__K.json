@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Open-MBEE/K", 
+    "url-identifier": "g/Open-MBEE/K", 
+    "id": 1509853346093, 
+    "name": "Open-MBEE/K"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Open-MBEE/K/snapshot/f1a12b3e82f662672aca3853bac580e9e4d14484/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://europambee-build.jpl.nasa.gov:8082/artifactory/libs-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Open-MBEE/K/snapshot/f1a12b3e82f662672aca3853bac580e9e4d14484/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://europambee-build.jpl.nasa.gov:8082/artifactory/libs-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Open-MBEE/K/snapshot/f1a12b3e82f662672aca3853bac580e9e4d14484/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://europambee-build.jpl.nasa.gov:8082/artifactory/libs-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Open-MBEE/K/snapshot/f1a12b3e82f662672aca3853bac580e9e4d14484/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://europambee-build.jpl.nasa.gov:8082/artifactory/libs-release-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

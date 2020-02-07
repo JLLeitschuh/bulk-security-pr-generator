@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jexp/store-utils", 
+    "url-identifier": "g/jexp/store-utils", 
+    "id": 1506714136832, 
+    "name": "jexp/store-utils"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jexp/store-utils/snapshot/59e94c5504c2d223fdb9f1cd13993db84111c1d6/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.com/enterprise"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

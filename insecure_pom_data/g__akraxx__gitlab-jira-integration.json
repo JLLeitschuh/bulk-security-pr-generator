@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/akraxx/gitlab-jira-integration", 
+    "url-identifier": "g/akraxx/gitlab-jira-integration", 
+    "id": 1801375194, 
+    "name": "akraxx/gitlab-jira-integration"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akraxx/gitlab-jira-integration/snapshot/46e481dcaca29cb8de88925db845cc576826090c/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akraxx/gitlab-jira-integration/snapshot/46e481dcaca29cb8de88925db845cc576826090c/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

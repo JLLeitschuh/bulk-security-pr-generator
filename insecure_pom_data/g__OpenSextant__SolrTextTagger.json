@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OpenSextant/SolrTextTagger", 
+    "url-identifier": "g/OpenSextant/SolrTextTagger", 
+    "id": 38152298, 
+    "name": "OpenSextant/SolrTextTagger"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenSextant/SolrTextTagger/snapshot/14e37d4713068dec248f61e8ab1dc7a37b441e20/files/pom.xml#L373", 
+        "line": 373, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

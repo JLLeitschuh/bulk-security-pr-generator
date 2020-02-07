@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/tiles", 
+    "url-identifier": "g/apache/tiles", 
+    "id": 66070054, 
+    "name": "apache/tiles"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tiles/snapshot/77ba1fa397d7d35fea8ca3e5c7cd2d2b517b91c0/files/tiles-test-pom/tiles-test/pom.xml#L236", 
+        "line": 236, 
+        "value": "repository", 
+        "file": "/tiles-test-pom/tiles-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.openqa.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tiles/snapshot/77ba1fa397d7d35fea8ca3e5c7cd2d2b517b91c0/files/tiles-test-pom/tiles-test/pom.xml#L333", 
+        "line": 333, 
+        "value": "repository", 
+        "file": "/tiles-test-pom/tiles-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tiles/snapshot/77ba1fa397d7d35fea8ca3e5c7cd2d2b517b91c0/files/tiles-test-pom/tiles-test/pom.xml#L338", 
+        "line": 338, 
+        "value": "repository", 
+        "file": "/tiles-test-pom/tiles-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.hostedqa.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tiles/snapshot/77ba1fa397d7d35fea8ca3e5c7cd2d2b517b91c0/files/tiles-test-pom/tiles-test/pom.xml#L449", 
+        "line": 449, 
+        "value": "repository", 
+        "file": "/tiles-test-pom/tiles-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/tiles/snapshot/77ba1fa397d7d35fea8ca3e5c7cd2d2b517b91c0/files/tiles-test-pom/tiles-test/pom.xml#L459", 
+        "line": 459, 
+        "value": "pluginRepository", 
+        "file": "/tiles-test-pom/tiles-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

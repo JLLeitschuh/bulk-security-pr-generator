@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/openstack/monasca-common", 
+    "url-identifier": "g/openstack/monasca-common", 
+    "id": 16650023, 
+    "name": "openstack/monasca-common"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openstack/monasca-common/snapshot/48e29b025ea53023b383815321949f883785e108/files/java/monasca-common-middleware/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/java/monasca-common-middleware/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/openstack/monasca-common/snapshot/48e29b025ea53023b383815321949f883785e108/files/java/monasca-common-streaming/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/java/monasca-common-streaming/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-visualizer", 
+    "url-identifier": "g/OneBusAway/onebusaway-gtfs-realtime-visualizer", 
+    "id": 1507614356045, 
+    "name": "OneBusAway/onebusaway-gtfs-realtime-visualizer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-visualizer/snapshot/f4286d24350266ee3d85abcb2de5ff025a3f1afa/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

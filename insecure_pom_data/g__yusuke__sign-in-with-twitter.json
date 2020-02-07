@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yusuke/sign-in-with-twitter", 
+    "url-identifier": "g/yusuke/sign-in-with-twitter", 
+    "id": 64150064, 
+    "name": "yusuke/sign-in-with-twitter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yusuke/sign-in-with-twitter/snapshot/53450237e409ff8b2f131654e8585b0fbd7635d7/files/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://org.twitter4j/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

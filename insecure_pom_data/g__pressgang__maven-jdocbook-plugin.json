@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pressgang/maven-jdocbook-plugin", 
+    "url-identifier": "g/pressgang/maven-jdocbook-plugin", 
+    "id": 1506706017348, 
+    "name": "pressgang/maven-jdocbook-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pressgang/maven-jdocbook-plugin/snapshot/0ced5d4e06952079c82ced9cfa597122aef9661c/files/pom.xml#L94", 
+        "line": 94, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pressgang/maven-jdocbook-plugin/snapshot/0ced5d4e06952079c82ced9cfa597122aef9661c/files/pom.xml#L108", 
+        "line": 108, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

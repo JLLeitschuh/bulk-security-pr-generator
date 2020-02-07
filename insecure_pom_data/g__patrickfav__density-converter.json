@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/patrickfav/density-converter", 
+    "url-identifier": "g/patrickfav/density-converter", 
+    "id": 1799222371, 
+    "name": "patrickfav/density-converter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/patrickfav/density-converter/snapshot/4ffd2cd20be1239dd31bf5617950c48c3f50f593/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

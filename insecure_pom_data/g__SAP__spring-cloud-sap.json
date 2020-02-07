@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SAP/spring-cloud-sap", 
+    "url-identifier": "g/SAP/spring-cloud-sap", 
+    "id": 1506259556068, 
+    "name": "SAP/spring-cloud-sap"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SAP/spring-cloud-sap/snapshot/909f43f639dafcaacdd0aa443b9c97a7baa0e016/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

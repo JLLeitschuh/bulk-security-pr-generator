@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Terracotta-OSS/offheap-store", 
+    "url-identifier": "g/Terracotta-OSS/offheap-store", 
+    "id": 14080004, 
+    "name": "Terracotta-OSS/offheap-store"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/offheap-store/snapshot/4fdb79987cf33fe86bc44b92877dcb7638cb2f67/files/pom.xml#L338", 
+        "line": 338, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/offheap-store/snapshot/4fdb79987cf33fe86bc44b92877dcb7638cb2f67/files/pom.xml#L376", 
+        "line": 376, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-os-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Terracotta-OSS/offheap-store/snapshot/4fdb79987cf33fe86bc44b92877dcb7638cb2f67/files/pom.xml#L381", 
+        "line": 381, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-os-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

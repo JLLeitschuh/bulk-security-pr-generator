@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/snicoll/spring-boot-daemon", 
+    "url-identifier": "g/snicoll/spring-boot-daemon", 
+    "id": 1798009864, 
+    "name": "snicoll/spring-boot-daemon"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/snicoll/spring-boot-daemon/snapshot/7316e6d91342db86226b833cece6aa28f3ee6217/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

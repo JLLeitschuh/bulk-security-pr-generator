@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/IBM/microprofile-meeting-persistence", 
+    "url-identifier": "g/IBM/microprofile-meeting-persistence", 
+    "id": 1506260616138, 
+    "name": "IBM/microprofile-meeting-persistence"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IBM/microprofile-meeting-persistence/snapshot/1bdf3b78eb11c5da36d552380b2f73bc78a783da/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://liberty-app-accelerator.wasdev.developer.ibm.com/start/api/v1/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

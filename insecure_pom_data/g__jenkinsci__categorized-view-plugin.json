@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/categorized-view-plugin", 
+    "url-identifier": "g/jenkinsci/categorized-view-plugin", 
+    "id": 1506597049609, 
+    "name": "jenkinsci/categorized-view-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/categorized-view-plugin/snapshot/c08ffd525302c1ffd2b7227b0e37ecea18b7d352/files/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/categorized-view-plugin/snapshot/c08ffd525302c1ffd2b7227b0e37ecea18b7d352/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

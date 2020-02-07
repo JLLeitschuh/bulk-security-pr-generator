@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/normanmaurer/niosmtp", 
+    "url-identifier": "g/normanmaurer/niosmtp", 
+    "id": 55970084, 
+    "name": "normanmaurer/niosmtp"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/normanmaurer/niosmtp/snapshot/ca123836771f248e1ee2f580c2e82f84c11ab2bc/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

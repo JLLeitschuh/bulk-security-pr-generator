@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/voodoodyne/subethasmtp", 
+    "url-identifier": "g/voodoodyne/subethasmtp", 
+    "id": 69000115, 
+    "name": "voodoodyne/subethasmtp"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/voodoodyne/subethasmtp/snapshot/1396ab667e93244b21cf92fd3bafbdc24668954f/files/pom.xml#L181", 
+        "line": 181, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/voodoodyne/subethasmtp/snapshot/1396ab667e93244b21cf92fd3bafbdc24668954f/files/pom.xml#L186", 
+        "line": 186, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

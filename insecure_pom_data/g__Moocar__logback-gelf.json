@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Moocar/logback-gelf", 
+    "url-identifier": "g/Moocar/logback-gelf", 
+    "id": 39060024, 
+    "name": "Moocar/logback-gelf"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Moocar/logback-gelf/snapshot/b7eea63d54a059d02bb5a3f517baf95ee552977a/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hortonworks/hive-json", 
+    "url-identifier": "g/hortonworks/hive-json", 
+    "id": 1506745796502, 
+    "name": "hortonworks/hive-json"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hortonworks/hive-json/snapshot/fbc9564592692386329ba6485a7ec0eb7121ab19/files/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

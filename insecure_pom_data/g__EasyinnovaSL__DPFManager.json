@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/EasyinnovaSL/DPFManager", 
+    "url-identifier": "g/EasyinnovaSL/DPFManager", 
+    "id": 1506593237616, 
+    "name": "EasyinnovaSL/DPFManager"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EasyinnovaSL/DPFManager/snapshot/10b2edf8aa4556f53d7babe8fa77fbfb5e764d98/files/pom.xml#L137", 
+        "line": 137, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geo-solutions.it"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EasyinnovaSL/DPFManager/snapshot/10b2edf8aa4556f53d7babe8fa77fbfb5e764d98/files/pom.xml#L142", 
+        "line": 142, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EasyinnovaSL/DPFManager/snapshot/10b2edf8aa4556f53d7babe8fa77fbfb5e764d98/files/pom.xml#L147", 
+        "line": 147, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

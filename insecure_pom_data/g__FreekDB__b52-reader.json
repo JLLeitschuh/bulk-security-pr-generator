@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/FreekDB/b52-reader", 
+    "url-identifier": "g/FreekDB/b52-reader", 
+    "id": 1978250195, 
+    "name": "FreekDB/b52-reader"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/FreekDB/b52-reader/snapshot/a9689c12d54e323d15e83424e7471ed4b67697c0/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.teamdev.com/repository/products"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/FreekDB/b52-reader/snapshot/a9689c12d54e323d15e83424e7471ed4b67697c0/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jspresso.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

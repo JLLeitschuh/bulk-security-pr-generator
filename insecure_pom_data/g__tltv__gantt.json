@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tltv/gantt", 
+    "url-identifier": "g/tltv/gantt", 
+    "id": 10100001, 
+    "name": "tltv/gantt"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tltv/gantt/snapshot/df9e2eb118eff445980c5970114e5b0336af7d2a/files/gantt-addon/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/gantt-addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tltv/gantt/snapshot/df9e2eb118eff445980c5970114e5b0336af7d2a/files/gantt-addon/pom.xml#L223", 
+        "line": 223, 
+        "value": "repository", 
+        "file": "/gantt-addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tltv/gantt/snapshot/df9e2eb118eff445980c5970114e5b0336af7d2a/files/gantt-addon/pom.xml#L239", 
+        "line": 239, 
+        "value": "pluginRepository", 
+        "file": "/gantt-addon/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tltv/gantt/snapshot/df9e2eb118eff445980c5970114e5b0336af7d2a/files/gantt-demo/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/gantt-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tltv/gantt/snapshot/df9e2eb118eff445980c5970114e5b0336af7d2a/files/gantt-demo/pom.xml#L198", 
+        "line": 198, 
+        "value": "repository", 
+        "file": "/gantt-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tltv/gantt/snapshot/df9e2eb118eff445980c5970114e5b0336af7d2a/files/gantt-demo/pom.xml#L214", 
+        "line": 214, 
+        "value": "pluginRepository", 
+        "file": "/gantt-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

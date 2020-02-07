@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/stvnfx/qodedev-talk-nifi-demo", 
+    "url-identifier": "g/stvnfx/qodedev-talk-nifi-demo", 
+    "id": 1510154526179, 
+    "name": "stvnfx/qodedev-talk-nifi-demo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/stvnfx/qodedev-talk-nifi-demo/snapshot/cb9f795c98b3639bf7b7b295502b7ec84966e1c5/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

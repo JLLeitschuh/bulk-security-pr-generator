@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/davidsoergel/jlibsvm", 
+    "url-identifier": "g/davidsoergel/jlibsvm", 
+    "id": 49650075, 
+    "name": "davidsoergel/jlibsvm"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/davidsoergel/jlibsvm/snapshot/14e63246f8c85ab904229c807d40993f7c1791a7/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.davidsoergel.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/davidsoergel/jlibsvm/snapshot/14e63246f8c85ab904229c807d40993f7c1791a7/files/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dev.davidsoergel.com/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

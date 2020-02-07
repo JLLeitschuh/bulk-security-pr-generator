@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/aluetjen/mongodb-document-upload", 
+    "url-identifier": "g/aluetjen/mongodb-document-upload", 
+    "id": 1509083245975, 
+    "name": "aluetjen/mongodb-document-upload"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aluetjen/mongodb-document-upload/snapshot/7734ed3fada4b169fe5fe57305663771ffbf9d25/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aluetjen/mongodb-document-upload/snapshot/7734ed3fada4b169fe5fe57305663771ffbf9d25/files/pom.xml#L38", 
+        "line": 38, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

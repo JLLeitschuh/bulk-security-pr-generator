@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Transkribus/TranskribusClient", 
+    "url-identifier": "g/Transkribus/TranskribusClient", 
+    "id": 1511050977748, 
+    "name": "Transkribus/TranskribusClient"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Transkribus/TranskribusClient/snapshot/1f982931714c2ec812282d791c38ed81af2b4b86/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dbis-halvar.uibk.ac.at/artifactory/libs-release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Transkribus/TranskribusClient/snapshot/1f982931714c2ec812282d791c38ed81af2b4b86/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dbis-halvar.uibk.ac.at/artifactory/libs-release-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

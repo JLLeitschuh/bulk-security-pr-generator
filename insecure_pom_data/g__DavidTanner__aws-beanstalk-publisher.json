@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/DavidTanner/aws-beanstalk-publisher", 
+    "url-identifier": "g/DavidTanner/aws-beanstalk-publisher", 
+    "id": 1509241306207, 
+    "name": "DavidTanner/aws-beanstalk-publisher"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DavidTanner/aws-beanstalk-publisher/snapshot/4b7d35c70a5dc12bf48f4b8a61ad7e2666e7751a/files/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DavidTanner/aws-beanstalk-publisher/snapshot/4b7d35c70a5dc12bf48f4b8a61ad7e2666e7751a/files/pom.xml#L127", 
+        "line": 127, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DavidTanner/aws-beanstalk-publisher/snapshot/4b7d35c70a5dc12bf48f4b8a61ad7e2666e7751a/files/pom.xml#L133", 
+        "line": 133, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/daniel-beck/jenkins-keep-slave-disconnected-plugin", 
+    "url-identifier": "g/daniel-beck/jenkins-keep-slave-disconnected-plugin", 
+    "id": 1506603418854, 
+    "name": "daniel-beck/jenkins-keep-slave-disconnected-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/daniel-beck/jenkins-keep-slave-disconnected-plugin/snapshot/e7832a96e4dc4960db859da51826db09ff0aa8b5/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/daniel-beck/jenkins-keep-slave-disconnected-plugin/snapshot/e7832a96e4dc4960db859da51826db09ff0aa8b5/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

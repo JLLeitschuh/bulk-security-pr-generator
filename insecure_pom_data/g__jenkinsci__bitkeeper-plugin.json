@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/bitkeeper-plugin", 
+    "url-identifier": "g/jenkinsci/bitkeeper-plugin", 
+    "id": 1509204635527, 
+    "name": "jenkinsci/bitkeeper-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/bitkeeper-plugin/snapshot/3f3fd7145e385a57972407b20d6c7a63544d499d/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/bitkeeper-plugin/snapshot/3f3fd7145e385a57972407b20d6c7a63544d499d/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

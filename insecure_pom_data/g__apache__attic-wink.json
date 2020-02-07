@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/attic-wink", 
+    "url-identifier": "g/apache/attic-wink", 
+    "id": 1506242146946, 
+    "name": "apache/attic-wink"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/attic-wink/snapshot/5352c39ceee74039c4bf952978bbf0dabc944a57/files/wink-providers/wink-abdera-provider/pom.xml#L108", 
+        "line": 108, 
+        "value": "repository", 
+        "file": "/wink-providers/wink-abdera-provider/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-incubating-repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

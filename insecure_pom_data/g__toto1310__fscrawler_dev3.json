@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/toto1310/fscrawler_dev3", 
+    "url-identifier": "g/toto1310/fscrawler_dev3", 
+    "id": 1510439156440, 
+    "name": "toto1310/fscrawler_dev3"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/toto1310/fscrawler_dev3/snapshot/696307c8a7becafaf516658717c39a3fa58b06cf/files/elasticsearch-client/elasticsearch-client-v7/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/elasticsearch-client/elasticsearch-client-v7/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://s3.amazonaws.com/download.elasticsearch.org/lucenesnapshots/83f9835"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

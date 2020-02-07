@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mraible/ajax-login", 
+    "url-identifier": "g/mraible/ajax-login", 
+    "id": 1507163096020, 
+    "name": "mraible/ajax-login"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mraible/ajax-login/snapshot/2774c2f91cd91d7fda11c3cbd19a3310f9bff8f6/files/pom.xml#L279", 
+        "line": 279, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/appfuse-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mraible/ajax-login/snapshot/2774c2f91cd91d7fda11c3cbd19a3310f9bff8f6/files/pom.xml#L289", 
+        "line": 289, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/glassfish"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mraible/ajax-login/snapshot/2774c2f91cd91d7fda11c3cbd19a3310f9bff8f6/files/pom.xml#L293", 
+        "line": 293, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://s3.amazonaws.com/maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mraible/ajax-login/snapshot/2774c2f91cd91d7fda11c3cbd19a3310f9bff8f6/files/pom.xml#L300", 
+        "line": 300, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/appfuse-snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

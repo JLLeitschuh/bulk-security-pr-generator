@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkins-zh/mirror-adapter", 
+    "url-identifier": "g/jenkins-zh/mirror-adapter", 
+    "id": 1511067470521, 
+    "name": "jenkins-zh/mirror-adapter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkins-zh/mirror-adapter/snapshot/5b24d25ef123430b2d24e31d45d659950720d300/files/pom.xml#L98", 
+        "line": 98, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

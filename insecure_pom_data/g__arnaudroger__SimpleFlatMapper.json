@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/arnaudroger/SimpleFlatMapper", 
+    "url-identifier": "g/arnaudroger/SimpleFlatMapper", 
+    "id": 42260092, 
+    "name": "arnaudroger/SimpleFlatMapper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/arnaudroger/SimpleFlatMapper/snapshot/c02f8bd9cab7c4593cb754b82c78b61ecc9d3d7f/files/pom.xml#L764", 
+        "line": 764, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://arnaudroger.github.io/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/arnaudroger/SimpleFlatMapper/snapshot/c02f8bd9cab7c4593cb754b82c78b61ecc9d3d7f/files/pom.xml#L770", 
+        "line": 770, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://arnaudroger.github.io/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

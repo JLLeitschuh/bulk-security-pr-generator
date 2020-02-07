@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Alfresco/gytheio", 
+    "url-identifier": "g/Alfresco/gytheio", 
+    "id": 1893770499, 
+    "name": "Alfresco/gytheio"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Alfresco/gytheio/snapshot/8ba955626d6f6c19f19d0f14ce891a10e87fa416/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Mercateo/factcast", 
+    "url-identifier": "g/Mercateo/factcast", 
+    "id": 1508340206040, 
+    "name": "Mercateo/factcast"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Mercateo/factcast/snapshot/89262a190eb514ab743f2cf894abb5fcb25e81e2/files/pom.xml#L339", 
+        "line": 339, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.mercateo.lan/nexus/content/repositories/platform/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Mercateo/factcast/snapshot/89262a190eb514ab743f2cf894abb5fcb25e81e2/files/pom.xml#L343", 
+        "line": 343, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.mercateo.lan/nexus/content/repositories/platform_snapshot/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

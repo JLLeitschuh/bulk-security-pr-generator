@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/adhulipa/tika-pooled-time-series", 
+    "url-identifier": "g/adhulipa/tika-pooled-time-series", 
+    "id": 1507212356143, 
+    "name": "adhulipa/tika-pooled-time-series"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/adhulipa/tika-pooled-time-series/snapshot/0805923e9a595005873f03c709c9f5bf7380fae4/files/tika-server/pom.xml#L36", 
+        "line": 36, 
+        "value": "pluginRepository", 
+        "file": "/tika-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.qmino.com/content/repositories/miredot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

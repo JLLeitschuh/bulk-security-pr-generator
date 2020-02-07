@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/thymeleaf/thymeleafsandbox-biglist-reactive", 
+    "url-identifier": "g/thymeleaf/thymeleafsandbox-biglist-reactive", 
+    "id": 1509243496089, 
+    "name": "thymeleaf/thymeleafsandbox-biglist-reactive"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/thymeleaf/thymeleafsandbox-biglist-reactive/snapshot/91796257f3edd12aa05b429bfd4bbc15cd10dd74/files/pom.xml#L137", 
+        "line": 137, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

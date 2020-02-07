@@ -1,0 +1,135 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt", 
+    "url-identifier": "g/eclipse-cdt/cdt", 
+    "id": 58880085, 
+    "name": "eclipse-cdt/cdt"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt/snapshot/19200af1fa2bd746018854024b481e3b865db9f4/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/cbi/updates/license"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt/snapshot/19200af1fa2bd746018854024b481e3b865db9f4/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/I-builds/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt/snapshot/19200af1fa2bd746018854024b481e3b865db9f4/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/staging/2020-03/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt/snapshot/19200af1fa2bd746018854024b481e3b865db9f4/files/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/downloads/latest-I/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt/snapshot/19200af1fa2bd746018854024b481e3b865db9f4/files/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/technology/swtbot/releases/latest/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt/snapshot/19200af1fa2bd746018854024b481e3b865db9f4/files/pom.xml#L83", 
+        "line": 83, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/ptp/builds/remote/nightly/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt/snapshot/19200af1fa2bd746018854024b481e3b865db9f4/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt/snapshot/19200af1fa2bd746018854024b481e3b865db9f4/files/pom.xml#L101", 
+        "line": 101, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.eclipse.org/content/repositories/cbi-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt/snapshot/19200af1fa2bd746018854024b481e3b865db9f4/files/pom.xml#L105", 
+        "line": 105, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.eclipse.org/content/repositories/cbi-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt/snapshot/19200af1fa2bd746018854024b481e3b865db9f4/files/terminal/features/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/terminal/features/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archive.eclipse.org/tm/updates/rxtx"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-cdt/cdt/snapshot/19200af1fa2bd746018854024b481e3b865db9f4/files/terminal/plugins/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/terminal/plugins/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archive.eclipse.org/tm/updates/rxtx"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

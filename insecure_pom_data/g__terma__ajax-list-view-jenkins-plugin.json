@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/terma/ajax-list-view-jenkins-plugin", 
+    "url-identifier": "g/terma/ajax-list-view-jenkins-plugin", 
+    "id": 1506618769314, 
+    "name": "terma/ajax-list-view-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/terma/ajax-list-view-jenkins-plugin/snapshot/0716b4c72f82880838293c38244104edb5098456/files/pom.xml#L178", 
+        "line": 178, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/terma/ajax-list-view-jenkins-plugin/snapshot/0716b4c72f82880838293c38244104edb5098456/files/pom.xml#L182", 
+        "line": 182, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/terma/ajax-list-view-jenkins-plugin/snapshot/0716b4c72f82880838293c38244104edb5098456/files/pom.xml#L189", 
+        "line": 189, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/terma/ajax-list-view-jenkins-plugin/snapshot/0716b4c72f82880838293c38244104edb5098456/files/pom.xml#L193", 
+        "line": 193, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

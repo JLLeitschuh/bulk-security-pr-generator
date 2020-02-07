@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/myfaces-html5", 
+    "url-identifier": "g/apache/myfaces-html5", 
+    "id": 1506235407675, 
+    "name": "apache/myfaces-html5"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-html5/snapshot/0b0026a13f32388e2ae914e88c9a1e76823062c6/files/myfaces-html5-demo/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/myfaces-html5-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-html5/snapshot/0b0026a13f32388e2ae914e88c9a1e76823062c6/files/myfaces-html5-demo/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/myfaces-html5-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-html5/snapshot/0b0026a13f32388e2ae914e88c9a1e76823062c6/files/myfaces-html5-demo/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/myfaces-html5-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-html5/snapshot/0b0026a13f32388e2ae914e88c9a1e76823062c6/files/myfaces-html5-demo/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/myfaces-html5-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-html5/snapshot/0b0026a13f32388e2ae914e88c9a1e76823062c6/files/myfaces-html5-demo/pom.xml#L74", 
+        "line": 74, 
+        "value": "repository", 
+        "file": "/myfaces-html5-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.com/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/myfaces-html5/snapshot/0b0026a13f32388e2ae914e88c9a1e76823062c6/files/myfaces-html5-demo/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/myfaces-html5-demo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

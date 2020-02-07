@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SAP/HANAVora-Extensions", 
+    "url-identifier": "g/SAP/HANAVora-Extensions", 
+    "id": 1506269146152, 
+    "name": "SAP/HANAVora-Extensions"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SAP/HANAVora-Extensions/snapshot/30f6089a0896e51fe31d12349c71f4d3afa46d29/files/pom.xml#L483", 
+        "line": 483, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mapr.com/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dreamXiong/hgl", 
+    "url-identifier": "g/dreamXiong/hgl", 
+    "id": 1507192886278, 
+    "name": "dreamXiong/hgl"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dreamXiong/hgl/snapshot/5f60f9d326b0d6553cdc1eb6a99d1031546cb6a5/files/pom.xml#L130", 
+        "line": 130, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://172.168.3.160:8081/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dreamXiong/hgl/snapshot/5f60f9d326b0d6553cdc1eb6a99d1031546cb6a5/files/pom.xml#L135", 
+        "line": 135, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://172.168.3.160:8081/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

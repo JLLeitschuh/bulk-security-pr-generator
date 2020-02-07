@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/micromata/javaapiforkml", 
+    "url-identifier": "g/micromata/javaapiforkml", 
+    "id": 51560184, 
+    "name": "micromata/javaapiforkml"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/micromata/javaapiforkml/snapshot/b5f910be0311d4082364583a8829331bc581e1a1/files/pom.xml#L169", 
+        "line": 169, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/micromata/javaapiforkml/snapshot/b5f910be0311d4082364583a8829331bc581e1a1/files/pom.xml#L178", 
+        "line": 178, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/1"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/micromata/javaapiforkml/snapshot/b5f910be0311d4082364583a8829331bc581e1a1/files/pom.xml#L189", 
+        "line": 189, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/micromata/javaapiforkml/snapshot/b5f910be0311d4082364583a8829331bc581e1a1/files/pom.xml#L194", 
+        "line": 194, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/1"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

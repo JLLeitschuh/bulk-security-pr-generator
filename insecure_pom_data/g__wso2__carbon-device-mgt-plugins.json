@@ -1,0 +1,212 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins", 
+    "url-identifier": "g/wso2/carbon-device-mgt-plugins", 
+    "id": 1505803016286, 
+    "name": "wso2/carbon-device-mgt-plugins"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/device-types/androidsense-plugin/org.wso2.carbon.device.mgt.iot.androidsense.agent/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/components/device-types/androidsense-plugin/org.wso2.carbon.device.mgt.iot.androidsense.agent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/device-types/androidsense-plugin/org.wso2.carbon.device.mgt.iot.androidsense.agent/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/components/device-types/androidsense-plugin/org.wso2.carbon.device.mgt.iot.androidsense.agent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/device-types/virtual-fire-alarm-plugin/org.wso2.carbon.device.mgt.iot.virtualfirealarm.agent.impl/pom.xml#L187", 
+        "line": 187, 
+        "value": "repository", 
+        "file": "/components/device-types/virtual-fire-alarm-plugin/org.wso2.carbon.device.mgt.iot.virtualfirealarm.agent.impl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/device-types/virtual-fire-alarm-plugin/org.wso2.carbon.device.mgt.iot.virtualfirealarm.agent.impl/pom.xml#L197", 
+        "line": 197, 
+        "value": "repository", 
+        "file": "/components/device-types/virtual-fire-alarm-plugin/org.wso2.carbon.device.mgt.iot.virtualfirealarm.agent.impl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.wso2.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/org.wso2.orbit.org.geotools.gt-geojson/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/org.wso2.orbit.org.geotools.gt-geojson/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://apps.geomajas.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/org.wso2.orbit.org.geotools.gt-geojson/pom.xml#L98", 
+        "line": 98, 
+        "value": "repository", 
+        "file": "/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/org.wso2.orbit.org.geotools.gt-geojson/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/wso2gpl/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml#L293", 
+        "line": 293, 
+        "value": "repository", 
+        "file": "/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml#L303", 
+        "line": 303, 
+        "value": "repository", 
+        "file": "/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml#L313", 
+        "line": 313, 
+        "value": "repository", 
+        "file": "/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml#L318", 
+        "line": 318, 
+        "value": "repository", 
+        "file": "/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.opengeo.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml#L329", 
+        "line": 329, 
+        "value": "repository", 
+        "file": "/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/wso2gpl/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml#L334", 
+        "line": 334, 
+        "value": "snapshotRepository", 
+        "file": "/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/wso2gpl-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/pom.xml#L1506", 
+        "line": 1506, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/pom.xml#L1516", 
+        "line": 1516, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/pom.xml#L1528", 
+        "line": 1528, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/pom.xml#L1547", 
+        "line": 1547, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/groups/wso2-public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/pom.xml#L1557", 
+        "line": 1557, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wso2/carbon-device-mgt-plugins/snapshot/b1244ef262a392d1241c70f853a7107b55295f21/files/pom.xml#L1567", 
+        "line": 1567, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.wso2.org/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

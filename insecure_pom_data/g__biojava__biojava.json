@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/biojava/biojava", 
+    "url-identifier": "g/biojava/biojava", 
+    "id": 13060052, 
+    "name": "biojava/biojava"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/biojava/biojava/snapshot/0c1e75ef4a8dca1f7bb8acd12298df69ee03f0fe/files/biojava-genome/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/biojava-genome/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.biojava.org/download/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

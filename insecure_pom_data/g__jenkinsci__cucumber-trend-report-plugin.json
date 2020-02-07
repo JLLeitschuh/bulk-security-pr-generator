@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/cucumber-trend-report-plugin", 
+    "url-identifier": "g/jenkinsci/cucumber-trend-report-plugin", 
+    "id": 1506581408698, 
+    "name": "jenkinsci/cucumber-trend-report-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/cucumber-trend-report-plugin/snapshot/af1d5d72ec85abaa101b14a4add957d23ed07a9f/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/cucumber-trend-report-plugin/snapshot/af1d5d72ec85abaa101b14a4add957d23ed07a9f/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

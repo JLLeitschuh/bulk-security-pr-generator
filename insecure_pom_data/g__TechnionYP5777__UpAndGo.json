@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/TechnionYP5777/UpAndGo", 
+    "url-identifier": "g/TechnionYP5777/UpAndGo", 
+    "id": 2007241449, 
+    "name": "TechnionYP5777/UpAndGo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TechnionYP5777/UpAndGo/snapshot/efe939b863c5f30d8cac7342d5401f411c8fbd65/files/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/TechnionYP5777/UpAndGo/snapshot/efe939b863c5f30d8cac7342d5401f411c8fbd65/files/src/main/webapp-deploy/META-INF/maven/UpAndGo/UpAndGo/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/src/main/webapp-deploy/META-INF/maven/UpAndGo/UpAndGo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

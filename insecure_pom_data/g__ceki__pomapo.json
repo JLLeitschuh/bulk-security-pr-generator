@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ceki/pomapo", 
+    "url-identifier": "g/ceki/pomapo", 
+    "id": 1506695188538, 
+    "name": "ceki/pomapo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ceki/pomapo/snapshot/378072cb13b956c4a7c1a04048dc66f978045a35/files/pom.xml#L263", 
+        "line": 263, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mc-repo.googlecode.com/svn/maven2/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ceki/pomapo/snapshot/378072cb13b956c4a7c1a04048dc66f978045a35/files/pom.xml#L302", 
+        "line": 302, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-snapshot-repository"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

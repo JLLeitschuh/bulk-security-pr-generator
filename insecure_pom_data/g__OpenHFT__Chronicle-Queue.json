@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OpenHFT/Chronicle-Queue", 
+    "url-identifier": "g/OpenHFT/Chronicle-Queue", 
+    "id": 7920049, 
+    "name": "OpenHFT/Chronicle-Queue"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenHFT/Chronicle-Queue/snapshot/e809f7e523bf02d622ecbcd5ce8c1c633bd745a4/files/pom.xml#L295", 
+        "line": 295, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.chronicle.software/content/repositories/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/akquinet/androlog", 
+    "url-identifier": "g/akquinet/androlog", 
+    "id": 57800046, 
+    "name": "akquinet/androlog"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/akquinet/androlog/snapshot/569f3e9c376920b6d465b683c22af877d98a1ebc/files/pom.xml#L64", 
+        "line": 64, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.ow2.org/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Atmosphere/atmosphere", 
+    "url-identifier": "g/Atmosphere/atmosphere", 
+    "id": 1790329, 
+    "name": "Atmosphere/atmosphere"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Atmosphere/atmosphere/snapshot/b723fb47875cdde8455bc34dd188c6fef53ecbcf/files/pom.xml#L466", 
+        "line": 466, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Atmosphere/atmosphere/snapshot/b723fb47875cdde8455bc34dd188c6fef53ecbcf/files/pom.xml#L471", 
+        "line": 471, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/joachim-rodrigues/graphiteIntegrator", 
+    "url-identifier": "g/joachim-rodrigues/graphiteIntegrator", 
+    "id": 1509247676037, 
+    "name": "joachim-rodrigues/graphiteIntegrator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/joachim-rodrigues/graphiteIntegrator/snapshot/cf343cee39f37b6bad25ba1e6757ed21aa29e036/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/joachim-rodrigues/graphiteIntegrator/snapshot/cf343cee39f37b6bad25ba1e6757ed21aa29e036/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

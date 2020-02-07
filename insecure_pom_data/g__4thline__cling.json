@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/4thline/cling", 
+    "url-identifier": "g/4thline/cling", 
+    "id": 1509202436664, 
+    "name": "4thline/cling"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/4thline/cling/snapshot/d9659a0446d9e6e59aa42858a3bf9c3c04639ab4/files/pom.xml#L109", 
+        "line": 109, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://4thline.org/m2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/4thline/cling/snapshot/d9659a0446d9e6e59aa42858a3bf9c3c04639ab4/files/pom.xml#L119", 
+        "line": 119, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://4thline.org/m2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/4thline/cling/snapshot/d9659a0446d9e6e59aa42858a3bf9c3c04639ab4/files/pom.xml#L126", 
+        "line": 126, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://onejar-maven-plugin.googlecode.com/svn/mavenrepo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

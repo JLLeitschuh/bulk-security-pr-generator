@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/selendroid/selendroid", 
+    "url-identifier": "g/selendroid/selendroid", 
+    "id": 31880148, 
+    "name": "selendroid/selendroid"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/selendroid/selendroid/snapshot/b798298fe9fd41d6e54c3a473fbfbb8723978cd8/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

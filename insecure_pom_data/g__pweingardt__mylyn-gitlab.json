@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pweingardt/mylyn-gitlab", 
+    "url-identifier": "g/pweingardt/mylyn-gitlab", 
+    "id": 61390017, 
+    "name": "pweingardt/mylyn-gitlab"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pweingardt/mylyn-gitlab/snapshot/ad25e5cd52f49f9f5c42e799670fdd523f9c9115/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/kepler"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

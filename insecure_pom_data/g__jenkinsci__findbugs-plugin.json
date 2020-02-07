@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/findbugs-plugin", 
+    "url-identifier": "g/jenkinsci/findbugs-plugin", 
+    "id": 1509050656059, 
+    "name": "jenkinsci/findbugs-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/findbugs-plugin/snapshot/664e359e3e69121b990f5c7701c4f22997e66c2f/files/library/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/library/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/findbugs-plugin/snapshot/664e359e3e69121b990f5c7701c4f22997e66c2f/files/library/pom.xml#L127", 
+        "line": 127, 
+        "value": "pluginRepository", 
+        "file": "/library/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/findbugs-plugin/snapshot/664e359e3e69121b990f5c7701c4f22997e66c2f/files/plugin/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/findbugs-plugin/snapshot/664e359e3e69121b990f5c7701c4f22997e66c2f/files/plugin/pom.xml#L84", 
+        "line": 84, 
+        "value": "pluginRepository", 
+        "file": "/plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/findbugs-plugin/snapshot/664e359e3e69121b990f5c7701c4f22997e66c2f/files/pom.xml#L39", 
+        "line": 39, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

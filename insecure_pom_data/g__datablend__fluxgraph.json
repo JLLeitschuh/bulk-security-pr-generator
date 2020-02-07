@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/datablend/fluxgraph", 
+    "url-identifier": "g/datablend/fluxgraph", 
+    "id": 57570058, 
+    "name": "datablend/fluxgraph"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/datablend/fluxgraph/snapshot/e9b9f83e09dfb3c8a8463946f699a7209a6848de/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

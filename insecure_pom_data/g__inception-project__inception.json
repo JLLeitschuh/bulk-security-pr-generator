@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/inception-project/inception", 
+    "url-identifier": "g/inception-project/inception", 
+    "id": 1506698826426, 
+    "name": "inception-project/inception"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/inception-project/inception/snapshot/b1379e8aadda54398d54ff9dbf5ea27f04967421/files/pom.xml#L129", 
+        "line": 129, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/inception-project/inception/snapshot/b1379e8aadda54398d54ff9dbf5ea27f04967421/files/pom.xml#L142", 
+        "line": 142, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://zoidberg.ukp.informatik.tu-darmstadt.de/artifactory/public-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/inception-project/inception/snapshot/b1379e8aadda54398d54ff9dbf5ea27f04967421/files/pom.xml#L154", 
+        "line": 154, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/inception-project/inception/snapshot/b1379e8aadda54398d54ff9dbf5ea27f04967421/files/pom.xml#L159", 
+        "line": 159, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

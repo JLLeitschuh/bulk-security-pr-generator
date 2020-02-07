@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jboss-fuse/hawt-app", 
+    "url-identifier": "g/jboss-fuse/hawt-app", 
+    "id": 1506532706017, 
+    "name": "jboss-fuse/hawt-app"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jboss-fuse/hawt-app/snapshot/845775da53eedbde28dd5b49ae0b06f409fbe276/files/pom.xml#L116", 
+        "line": 116, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jboss-fuse/hawt-app/snapshot/845775da53eedbde28dd5b49ae0b06f409fbe276/files/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jboss-fuse/hawt-app/snapshot/845775da53eedbde28dd5b49ae0b06f409fbe276/files/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jboss-fuse/hawt-app/snapshot/845775da53eedbde28dd5b49ae0b06f409fbe276/files/pom.xml#L128", 
+        "line": 128, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.scala-tools.org/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/lincolnthree/errai-ui-demo", 
+    "url-identifier": "g/lincolnthree/errai-ui-demo", 
+    "id": 1506717917823, 
+    "name": "lincolnthree/errai-ui-demo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/lincolnthree/errai-ui-demo/snapshot/82630d76a85644592294b0f23311f92cde072fc2/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

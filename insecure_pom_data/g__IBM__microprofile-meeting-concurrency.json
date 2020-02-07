@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/IBM/microprofile-meeting-concurrency", 
+    "url-identifier": "g/IBM/microprofile-meeting-concurrency", 
+    "id": 1506261656117, 
+    "name": "IBM/microprofile-meeting-concurrency"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IBM/microprofile-meeting-concurrency/snapshot/69f2c58548d49187af11cd353e83bcc8bfb8ffaf/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://liberty-app-accelerator.wasdev.developer.ibm.com/start/api/v1/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rstoyanchev/spring-mvc-31-demo", 
+    "url-identifier": "g/rstoyanchev/spring-mvc-31-demo", 
+    "id": 68020059, 
+    "name": "rstoyanchev/spring-mvc-31-demo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rstoyanchev/spring-mvc-31-demo/snapshot/0ca6b5ccdd36060d1f5de05573fc08fb6494d884/files/pom.xml#L150", 
+        "line": 150, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

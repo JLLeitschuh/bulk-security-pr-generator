@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/childRon/vcarta-admin", 
+    "url-identifier": "g/childRon/vcarta-admin", 
+    "id": 1506706416769, 
+    "name": "childRon/vcarta-admin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/childRon/vcarta-admin/snapshot/7a2e8205863121c4b8569f785ca1161f76b68c71/files/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.repository.redhat.com/techpreview/all"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/childRon/vcarta-admin/snapshot/7a2e8205863121c4b8569f785ca1161f76b68c71/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.repository.redhat.com/techpreview/all"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

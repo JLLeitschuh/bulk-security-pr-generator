@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/heremaps/oss-review-toolkit", 
+    "url-identifier": "g/heremaps/oss-review-toolkit", 
+    "id": 1510933137802, 
+    "name": "heremaps/oss-review-toolkit"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/heremaps/oss-review-toolkit/snapshot/b110026dfe2f8b9ec060049e5a554383119d6fac/files/analyzer/src/funTest/assets/projects/external/jgnash/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/analyzer/src/funTest/assets/projects/external/jgnash/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/heremaps/oss-review-toolkit/snapshot/b110026dfe2f8b9ec060049e5a554383119d6fac/files/analyzer/src/funTest/assets/projects/external/jgnash/pom.xml#L94", 
+        "line": 94, 
+        "value": "repository", 
+        "file": "/analyzer/src/funTest/assets/projects/external/jgnash/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jenkins-ci.org:8081/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/heremaps/oss-review-toolkit/snapshot/b110026dfe2f8b9ec060049e5a554383119d6fac/files/analyzer/src/funTest/assets/projects/external/jgnash/pom.xml#L106", 
+        "line": 106, 
+        "value": "repository", 
+        "file": "/analyzer/src/funTest/assets/projects/external/jgnash/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.fdvs.com.ar/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/heremaps/oss-review-toolkit/snapshot/b110026dfe2f8b9ec060049e5a554383119d6fac/files/analyzer/src/funTest/assets/projects/external/jgnash/pom.xml#L112", 
+        "line": 112, 
+        "value": "repository", 
+        "file": "/analyzer/src/funTest/assets/projects/external/jgnash/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jasperreports.sourceforge.net/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/heremaps/oss-review-toolkit/snapshot/b110026dfe2f8b9ec060049e5a554383119d6fac/files/analyzer/src/funTest/assets/projects/synthetic/maven/lib/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/analyzer/src/funTest/assets/projects/synthetic/maven/lib/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

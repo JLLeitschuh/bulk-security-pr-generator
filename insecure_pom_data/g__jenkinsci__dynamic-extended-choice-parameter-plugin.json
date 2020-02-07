@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/dynamic-extended-choice-parameter-plugin", 
+    "url-identifier": "g/jenkinsci/dynamic-extended-choice-parameter-plugin", 
+    "id": 1506605248645, 
+    "name": "jenkinsci/dynamic-extended-choice-parameter-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/dynamic-extended-choice-parameter-plugin/snapshot/efa02c89e7bd2245ebc2a44414adf289b9253f38/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/dynamic-extended-choice-parameter-plugin/snapshot/efa02c89e7bd2245ebc2a44414adf289b9253f38/files/pom.xml#L69", 
+        "line": 69, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/orbisgis/h2gis", 
+    "url-identifier": "g/orbisgis/h2gis", 
+    "id": 33080054, 
+    "name": "orbisgis/h2gis"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/orbisgis/h2gis/snapshot/5e4ebd5bab8c91c97b75f00fd07bb00331b4e63b/files/pom.xml#L139", 
+        "line": 139, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus-ng.orbisgis.org/repository/orbisgis-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/orbisgis/h2gis/snapshot/5e4ebd5bab8c91c97b75f00fd07bb00331b4e63b/files/pom.xml#L149", 
+        "line": 149, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus-ng.orbisgis.org/repository/orbisgis-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

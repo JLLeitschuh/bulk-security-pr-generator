@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/environment-manager-tools-plugin", 
+    "url-identifier": "g/jenkinsci/environment-manager-tools-plugin", 
+    "id": 1509089226903, 
+    "name": "jenkinsci/environment-manager-tools-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/environment-manager-tools-plugin/snapshot/1b7c12e2b69393998719fb6c383869177de5e2ef/files/pom.xml#L203", 
+        "line": 203, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/environment-manager-tools-plugin/snapshot/1b7c12e2b69393998719fb6c383869177de5e2ef/files/pom.xml#L209", 
+        "line": 209, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

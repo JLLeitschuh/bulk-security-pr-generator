@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jaune162/cloud-netflix", 
+    "url-identifier": "g/jaune162/cloud-netflix", 
+    "id": 1506208886276, 
+    "name": "jaune162/cloud-netflix"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jaune162/cloud-netflix/snapshot/98163e7e3e047609b3d9d5c8a34150e18e20a0ca/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

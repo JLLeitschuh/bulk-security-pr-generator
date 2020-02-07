@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/mina-vysper", 
+    "url-identifier": "g/apache/mina-vysper", 
+    "id": 1511140832218, 
+    "name": "apache/mina-vysper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/mina-vysper/snapshot/c9401503d7cd4b786bc4879b33d5639121bfe884/files/pom.xml#L333", 
+        "line": 333, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/~ngn/vysper-repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

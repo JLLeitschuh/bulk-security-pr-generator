@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/alexnederlof/Jasper-report-maven-plugin", 
+    "url-identifier": "g/alexnederlof/Jasper-report-maven-plugin", 
+    "id": 59780081, 
+    "name": "alexnederlof/Jasper-report-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexnederlof/Jasper-report-maven-plugin/snapshot/b5d8dce309349ec2c2011d32022e2344877518da/files/pom.xml#L249", 
+        "line": 249, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jasperreports.sourceforge.net/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alexnederlof/Jasper-report-maven-plugin/snapshot/b5d8dce309349ec2c2011d32022e2344877518da/files/pom.xml#L253", 
+        "line": 253, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

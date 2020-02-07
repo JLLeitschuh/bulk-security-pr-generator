@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/fluorumlabs/scroll-target-for-flow", 
+    "url-identifier": "g/fluorumlabs/scroll-target-for-flow", 
+    "id": 1509434506200, 
+    "name": "fluorumlabs/scroll-target-for-flow"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fluorumlabs/scroll-target-for-flow/snapshot/e37b199ba7ae774d6c3f2983ffaaa383e46ed8a0/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fluorumlabs/scroll-target-for-flow/snapshot/e37b199ba7ae774d6c3f2983ffaaa383e46ed8a0/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-prereleases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

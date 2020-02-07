@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SoftwareBuildService/gitblit-plugin", 
+    "url-identifier": "g/SoftwareBuildService/gitblit-plugin", 
+    "id": 1506607159773, 
+    "name": "SoftwareBuildService/gitblit-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SoftwareBuildService/gitblit-plugin/snapshot/5fe87ddb9156778ec8ed8266e6fab81881877203/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://gitblit.github.io/gitblit-maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yahoo/mysql_perf_analyzer", 
+    "url-identifier": "g/yahoo/mysql_perf_analyzer", 
+    "id": 21840164, 
+    "name": "yahoo/mysql_perf_analyzer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/mysql_perf_analyzer/snapshot/54909b63b19e57a567827f5f0cb5d449ce0815a9/files/myperf/pom.xml#L104", 
+        "line": 104, 
+        "value": "repository", 
+        "file": "/myperf/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/mysql_perf_analyzer/snapshot/54909b63b19e57a567827f5f0cb5d449ce0815a9/files/myperf/pom.xml#L109", 
+        "line": 109, 
+        "value": "repository", 
+        "file": "/myperf/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.com/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/mysql_perf_analyzer/snapshot/54909b63b19e57a567827f5f0cb5d449ce0815a9/files/perfJettyServer/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/perfJettyServer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://central.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/mysql_perf_analyzer/snapshot/54909b63b19e57a567827f5f0cb5d449ce0815a9/files/perfJettyServer/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/perfJettyServer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/mysql_perf_analyzer/snapshot/54909b63b19e57a567827f5f0cb5d449ce0815a9/files/perfJettyServer/pom.xml#L83", 
+        "line": 83, 
+        "value": "repository", 
+        "file": "/perfJettyServer/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.com/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

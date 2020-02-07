@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dataArtisans/cascading-flink", 
+    "url-identifier": "g/dataArtisans/cascading-flink", 
+    "id": 22660001, 
+    "name": "dataArtisans/cascading-flink"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dataArtisans/cascading-flink/snapshot/1a8876ce74d062ecd7692d3357fbbee45b4a1955/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

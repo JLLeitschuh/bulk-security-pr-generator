@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/cloverphp-plugin", 
+    "url-identifier": "g/jenkinsci/cloverphp-plugin", 
+    "id": 1506601029655, 
+    "name": "jenkinsci/cloverphp-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/cloverphp-plugin/snapshot/ba5f25734bedd68c26a1429f32696edab14511ee/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/cloverphp-plugin/snapshot/ba5f25734bedd68c26a1429f32696edab14511ee/files/pom.xml#L74", 
+        "line": 74, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://powermock.googlecode.com/svn/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/cloverphp-plugin/snapshot/ba5f25734bedd68c26a1429f32696edab14511ee/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

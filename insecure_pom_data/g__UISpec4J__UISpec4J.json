@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/UISpec4J/UISpec4J", 
+    "url-identifier": "g/UISpec4J/UISpec4J", 
+    "id": 68110038, 
+    "name": "UISpec4J/UISpec4J"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/UISpec4J/UISpec4J/snapshot/820fbd385ee63a3b4be98cf0be808bd074fea367/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://http://repository.codehaus.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

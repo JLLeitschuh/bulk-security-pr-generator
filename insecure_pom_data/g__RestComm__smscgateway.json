@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/RestComm/smscgateway", 
+    "url-identifier": "g/RestComm/smscgateway", 
+    "id": 1505885156412, 
+    "name": "RestComm/smscgateway"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/smscgateway/snapshot/accda202ac80c7d17eaea496386632fa921a605b/files/pom.xml#L316", 
+        "line": 316, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/smscgateway/snapshot/accda202ac80c7d17eaea496386632fa921a605b/files/pom.xml#L330", 
+        "line": 330, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/repositories/thirdparty-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/smscgateway/snapshot/accda202ac80c7d17eaea496386632fa921a605b/files/pom.xml#L344", 
+        "line": 344, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/repositories/thirdparty-upload"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/smscgateway/snapshot/accda202ac80c7d17eaea496386632fa921a605b/files/pom.xml#L358", 
+        "line": 358, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/RestComm/smscgateway/snapshot/accda202ac80c7d17eaea496386632fa921a605b/files/pom.xml#L371", 
+        "line": 371, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://anonsvn.jboss.org/repos/repository.jboss.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

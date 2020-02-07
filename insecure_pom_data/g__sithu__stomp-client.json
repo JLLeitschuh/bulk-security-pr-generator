@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sithu/stomp-client", 
+    "url-identifier": "g/sithu/stomp-client", 
+    "id": 1506681776271, 
+    "name": "sithu/stomp-client"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sithu/stomp-client/snapshot/4774948f4a364ad2f46e7e33af543007492dccbb/files/java/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sithu/stomp-client/snapshot/4774948f4a364ad2f46e7e33af543007492dccbb/files/java/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

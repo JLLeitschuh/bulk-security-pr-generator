@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/osiam/addon-self-administration", 
+    "url-identifier": "g/osiam/addon-self-administration", 
+    "id": 28430049, 
+    "name": "osiam/addon-self-administration"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/osiam/addon-self-administration/snapshot/0a96c1b46419015408273a64a500cd4b0713eb1a/files/pom.xml#L260", 
+        "line": 260, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/libs-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

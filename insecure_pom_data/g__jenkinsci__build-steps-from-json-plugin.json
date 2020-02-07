@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/build-steps-from-json-plugin", 
+    "url-identifier": "g/jenkinsci/build-steps-from-json-plugin", 
+    "id": 1506591500682, 
+    "name": "jenkinsci/build-steps-from-json-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/build-steps-from-json-plugin/snapshot/42dbf703afe2a5f4bd5ae83f7aa66511d2391238/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/build-steps-from-json-plugin/snapshot/42dbf703afe2a5f4bd5ae83f7aa66511d2391238/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

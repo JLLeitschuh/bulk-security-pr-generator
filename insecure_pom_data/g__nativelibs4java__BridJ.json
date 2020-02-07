@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nativelibs4java/BridJ", 
+    "url-identifier": "g/nativelibs4java/BridJ", 
+    "id": 35820177, 
+    "name": "nativelibs4java/BridJ"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nativelibs4java/BridJ/snapshot/5daf2aa9fe3fb14140cd4730b49867eead47566a/files/Examples/BasicExample/pom.xml#L192", 
+        "line": 192, 
+        "value": "repository", 
+        "file": "/Examples/BasicExample/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nativelibs4java/BridJ/snapshot/5daf2aa9fe3fb14140cd4730b49867eead47566a/files/Examples/BasicExample/pom.xml#L199", 
+        "line": 199, 
+        "value": "pluginRepository", 
+        "file": "/Examples/BasicExample/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nativelibs4java/BridJ/snapshot/5daf2aa9fe3fb14140cd4730b49867eead47566a/files/pom.xml#L11", 
+        "line": 11, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nativelibs4java/BridJ/snapshot/5daf2aa9fe3fb14140cd4730b49867eead47566a/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

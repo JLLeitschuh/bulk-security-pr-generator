@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sbx0/Space", 
+    "url-identifier": "g/sbx0/Space", 
+    "id": 1506712296429, 
+    "name": "sbx0/Space"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sbx0/Space/snapshot/914fa6dd0cd1094ec89939a685faf79b50a3d9eb/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/amplab/succinct", 
+    "url-identifier": "g/amplab/succinct", 
+    "id": 7920043, 
+    "name": "amplab/succinct"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amplab/succinct/snapshot/241f0ebce5d552067c6b50c335db15c6c3a6466d/files/spark/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/spark/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/amplab/succinct/snapshot/241f0ebce5d552067c6b50c335db15c6c3a6466d/files/spark/pom.xml#L38", 
+        "line": 38, 
+        "value": "pluginRepository", 
+        "file": "/spark/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/astamuse/asta4d", 
+    "url-identifier": "g/astamuse/asta4d", 
+    "id": 42260097, 
+    "name": "astamuse/asta4d"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/astamuse/asta4d/snapshot/5e9833864091048ffb3994fdb94a3e98d3de51f4/files/asta4d-doc/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/asta4d-doc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvnrepository.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/astamuse/asta4d/snapshot/5e9833864091048ffb3994fdb94a3e98d3de51f4/files/asta4d-spring/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/asta4d-spring/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/livelessons-spring/building-microservices", 
+    "url-identifier": "g/livelessons-spring/building-microservices", 
+    "id": 43220023, 
+    "name": "livelessons-spring/building-microservices"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/livelessons-spring/building-microservices/snapshot/d3b985aae1ff5459285669362ed5d597ecedf21a/files/livelessons-parent/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/livelessons-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/livelessons-spring/building-microservices/snapshot/d3b985aae1ff5459285669362ed5d597ecedf21a/files/livelessons-parent/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/livelessons-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-milestone-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/livelessons-spring/building-microservices/snapshot/d3b985aae1ff5459285669362ed5d597ecedf21a/files/livelessons-parent/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/livelessons-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-release-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

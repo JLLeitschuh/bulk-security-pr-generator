@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/upgundecha/ifttt-build-notifier", 
+    "url-identifier": "g/upgundecha/ifttt-build-notifier", 
+    "id": 1509083755999, 
+    "name": "upgundecha/ifttt-build-notifier"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/upgundecha/ifttt-build-notifier/snapshot/703424af4d51771737c8b3db2a4fb48191561a31/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/upgundecha/ifttt-build-notifier/snapshot/703424af4d51771737c8b3db2a4fb48191561a31/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

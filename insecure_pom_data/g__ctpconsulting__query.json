@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ctpconsulting/query", 
+    "url-identifier": "g/ctpconsulting/query", 
+    "id": 1506720226888, 
+    "name": "ctpconsulting/query"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ctpconsulting/query/snapshot/fb67fb6869aed0cca247a218e9a2fb54dae5563e/files/docs/pom.xml#L91", 
+        "line": 91, 
+        "value": "pluginRepository", 
+        "file": "/docs/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ctpconsulting/query/snapshot/fb67fb6869aed0cca247a218e9a2fb54dae5563e/files/pom.xml#L277", 
+        "line": 277, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ctpconsulting/query/snapshot/fb67fb6869aed0cca247a218e9a2fb54dae5563e/files/pom.xml#L292", 
+        "line": 292, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/aadnk/ProtocolLib", 
+    "url-identifier": "g/aadnk/ProtocolLib", 
+    "id": 4850335, 
+    "name": "aadnk/ProtocolLib"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aadnk/ProtocolLib/snapshot/8ff646af10032f4a50eac6e6c845377c3cad2f84/files/modules/TinyProtocol/pom.xml#L26", 
+        "line": 26, 
+        "value": "repository", 
+        "file": "/modules/TinyProtocol/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aadnk/ProtocolLib/snapshot/8ff646af10032f4a50eac6e6c845377c3cad2f84/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/nexus/repository/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aadnk/ProtocolLib/snapshot/8ff646af10032f4a50eac6e6c845377c3cad2f84/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/nexus/repository/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/aadnk/ProtocolLib/snapshot/8ff646af10032f4a50eac6e6c845377c3cad2f84/files/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/nexus/repository/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

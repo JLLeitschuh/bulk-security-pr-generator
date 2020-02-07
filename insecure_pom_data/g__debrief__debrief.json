@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/debrief/debrief", 
+    "url-identifier": "g/debrief/debrief", 
+    "id": 18430210, 
+    "name": "debrief/debrief"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/debrief/debrief/snapshot/dc7f6d8a256370cfc6519cddce7b737676ee4f5e/files/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.aspectj.e38x_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.aspectj.e38x/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.aspectj.e38x_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.aspectj.e38x/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/ajdt/42/update"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/debrief/debrief/snapshot/dc7f6d8a256370cfc6519cddce7b737676ee4f5e/files/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.aspectj.e3x_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.aspectj.e3x/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.aspectj.e3x_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.aspectj.e3x/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/ajdt/37/update"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/debrief/debrief/snapshot/dc7f6d8a256370cfc6519cddce7b737676ee4f5e/files/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.aspectj.e44x_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.aspectj.e44x/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.aspectj.e44x_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.aspectj.e44x/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/ajdt/44/dev/update"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/debrief/debrief/snapshot/dc7f6d8a256370cfc6519cddce7b737676ee4f5e/files/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.extra_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.extra/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.extra_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.extra/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/downloads/drops/R20160520211859/repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/garethjevans/couchdb-statistics-plugin", 
+    "url-identifier": "g/garethjevans/couchdb-statistics-plugin", 
+    "id": 1506646059012, 
+    "name": "garethjevans/couchdb-statistics-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/garethjevans/couchdb-statistics-plugin/snapshot/2118d0bae26b19fcc79b4e573abf70426cd41475/files/pom.xml#L31", 
+        "line": 31, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/garethjevans/couchdb-statistics-plugin/snapshot/2118d0bae26b19fcc79b4e573abf70426cd41475/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

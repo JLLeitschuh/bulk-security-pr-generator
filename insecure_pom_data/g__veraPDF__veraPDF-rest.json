@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/veraPDF/veraPDF-rest", 
+    "url-identifier": "g/veraPDF/veraPDF-rest", 
+    "id": 2123580679, 
+    "name": "veraPDF/veraPDF-rest"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/veraPDF/veraPDF-rest/snapshot/c633ffdb542b5783181b5d1b77067301152645bb/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://artifactory.opf-labs.org/artifactory/vera-pdfbox-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/veraPDF/veraPDF-rest/snapshot/c633ffdb542b5783181b5d1b77067301152645bb/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://artifactory.opf-labs.org/artifactory/vera-dev"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

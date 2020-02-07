@@ -1,0 +1,146 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples", 
+    "url-identifier": "g/jsflive/jsf22-examples", 
+    "id": 28040793, 
+    "name": "jsflive/jsf22-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-ajaxdelay/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-ajaxdelay/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-cc-empty-attribute/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-cc-empty-attribute/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-cdi-view-scope/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-cdi-view-scope/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-collection-data-model/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-collection-data-model/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-composite-component-tags/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-composite-component-tags/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-contracts/webapp/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-contracts/webapp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-flows/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-flows/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-html5/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-html5/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-input-file/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-input-file/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-reset-values/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-reset-values/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-resource-dir/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-resource-dir/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsflive/jsf22-examples/snapshot/672d08ceb326e3749d41071f865195db666b8d2f/files/jsf22-view-action/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/jsf22-view-action/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

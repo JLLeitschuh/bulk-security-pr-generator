@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/slimshadeey1/Bungee-Arena", 
+    "url-identifier": "g/slimshadeey1/Bungee-Arena", 
+    "id": 1506585707254, 
+    "name": "slimshadeey1/Bungee-Arena"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/slimshadeey1/Bungee-Arena/snapshot/60c6b3213be0ffdc1258b853f3c258bfaf324afa/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.md-5.net/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/slimshadeey1/Bungee-Arena/snapshot/60c6b3213be0ffdc1258b853f3c258bfaf324afa/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://vpn.byersmediasolutions.com:8081/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/slimshadeey1/Bungee-Arena/snapshot/60c6b3213be0ffdc1258b853f3c258bfaf324afa/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://vpn.byersmediasolutions.com:8081/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

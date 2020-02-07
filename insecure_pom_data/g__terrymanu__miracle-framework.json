@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/terrymanu/miracle-framework", 
+    "url-identifier": "g/terrymanu/miracle-framework", 
+    "id": 54980073, 
+    "name": "terrymanu/miracle-framework"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/terrymanu/miracle-framework/snapshot/fdadba43a43412b41480996d7f6a92ac06a6e981/files/pom.xml#L555", 
+        "line": 555, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://terracotta.org/download/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/terrymanu/miracle-framework/snapshot/fdadba43a43412b41480996d7f6a92ac06a6e981/files/pom.xml#L568", 
+        "line": 568, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

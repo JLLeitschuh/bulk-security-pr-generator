@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/oriolbcn/c4s-cloudfoundry-adapter", 
+    "url-identifier": "g/oriolbcn/c4s-cloudfoundry-adapter", 
+    "id": 1507325426088, 
+    "name": "oriolbcn/c4s-cloudfoundry-adapter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/oriolbcn/c4s-cloudfoundry-adapter/snapshot/8ad9f5b823491d30957a737c4b790f964415c233/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/libs-milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

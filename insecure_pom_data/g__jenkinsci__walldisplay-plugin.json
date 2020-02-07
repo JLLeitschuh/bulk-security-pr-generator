@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/walldisplay-plugin", 
+    "url-identifier": "g/jenkinsci/walldisplay-plugin", 
+    "id": 1793641127, 
+    "name": "jenkinsci/walldisplay-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/walldisplay-plugin/snapshot/ccdda42f8734459f0b88bd8ced6cf4be6dbaf48f/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/walldisplay-plugin/snapshot/ccdda42f8734459f0b88bd8ced6cf4be6dbaf48f/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

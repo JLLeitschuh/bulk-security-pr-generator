@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hmsonline/storm-cassandra-cql", 
+    "url-identifier": "g/hmsonline/storm-cassandra-cql", 
+    "id": 61210050, 
+    "name": "hmsonline/storm-cassandra-cql"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hmsonline/storm-cassandra-cql/snapshot/0827383b5f7c6f07656a121a3bccfddacdac41e0/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

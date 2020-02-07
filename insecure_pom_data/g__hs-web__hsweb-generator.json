@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hs-web/hsweb-generator", 
+    "url-identifier": "g/hs-web/hsweb-generator", 
+    "id": 1506691386619, 
+    "name": "hs-web/hsweb-generator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-generator/snapshot/ed535ecb6bfc0f55a417b5f138ecb46173bdd4ae/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-generator/snapshot/ed535ecb6bfc0f55a417b5f138ecb46173bdd4ae/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hs-web/hsweb-generator/snapshot/ed535ecb6bfc0f55a417b5f138ecb46173bdd4ae/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hsweb.me/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/xwiki/xwiki-commons", 
+    "url-identifier": "g/xwiki/xwiki-commons", 
+    "id": 6830147, 
+    "name": "xwiki/xwiki-commons"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xwiki/xwiki-commons/snapshot/80253079eef54562889033d5e7c9eb62d85fdb5e/files/pom.xml#L2760", 
+        "line": 2760, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xwiki.org/nexus/content/groups/public-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xwiki/xwiki-commons/snapshot/80253079eef54562889033d5e7c9eb62d85fdb5e/files/pom.xml#L2771", 
+        "line": 2771, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xwiki.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xwiki/xwiki-commons/snapshot/80253079eef54562889033d5e7c9eb62d85fdb5e/files/pom.xml#L2784", 
+        "line": 2784, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xwiki.org/nexus/content/groups/public-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xwiki/xwiki-commons/snapshot/80253079eef54562889033d5e7c9eb62d85fdb5e/files/pom.xml#L2795", 
+        "line": 2795, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xwiki.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xwiki/xwiki-commons/snapshot/80253079eef54562889033d5e7c9eb62d85fdb5e/files/pom.xml#L2814", 
+        "line": 2814, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xwiki.org/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

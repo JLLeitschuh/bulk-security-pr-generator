@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OpenNTF/SocialSDK", 
+    "url-identifier": "g/OpenNTF/SocialSDK", 
+    "id": 51540190, 
+    "name": "OpenNTF/SocialSDK"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenNTF/SocialSDK/snapshot/b74e85851be80fe6e66263a47952803374bd71ef/files/osgi/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/osgi/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dubgsa.ibm.com/gsa/dubgsa/home/l/o/lorenzob/web/public/updateSite/notes900/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenNTF/SocialSDK/snapshot/b74e85851be80fe6e66263a47952803374bd71ef/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/juno/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OpenNTF/SocialSDK/snapshot/b74e85851be80fe6e66263a47952803374bd71ef/files/pom.xml#L174", 
+        "line": 174, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/juno/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

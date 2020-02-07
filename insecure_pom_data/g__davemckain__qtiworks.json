@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/davemckain/qtiworks", 
+    "url-identifier": "g/davemckain/qtiworks", 
+    "id": 63280042, 
+    "name": "davemckain/qtiworks"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/davemckain/qtiworks/snapshot/71747de910c9e42a4c41895afa510a1f700dd6dc/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www2.ph.ed.ac.uk/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/databricks/learning-spark", 
+    "url-identifier": "g/databricks/learning-spark", 
+    "id": 40460046, 
+    "name": "databricks/learning-spark"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/databricks/learning-spark/snapshot/386cf5b011d4768d03fe6c2c995bf2b6b5230705/files/pom.xml#L9", 
+        "line": 9, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.akka.io/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/databricks/learning-spark/snapshot/386cf5b011d4768d03fe6c2c995bf2b6b5230705/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/databricks/learning-spark/snapshot/386cf5b011d4768d03fe6c2c995bf2b6b5230705/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://central.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

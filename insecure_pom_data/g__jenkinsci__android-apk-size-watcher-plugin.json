@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/android-apk-size-watcher-plugin", 
+    "url-identifier": "g/jenkinsci/android-apk-size-watcher-plugin", 
+    "id": 1509080816020, 
+    "name": "jenkinsci/android-apk-size-watcher-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/android-apk-size-watcher-plugin/snapshot/15796201e08d816586a8b8b2451048777ebc7853/files/pom.xml#L131", 
+        "line": 131, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/android-apk-size-watcher-plugin/snapshot/15796201e08d816586a8b8b2451048777ebc7853/files/pom.xml#L138", 
+        "line": 138, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

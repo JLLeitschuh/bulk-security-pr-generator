@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/BertrandDechoux/cascading.learn", 
+    "url-identifier": "g/BertrandDechoux/cascading.learn", 
+    "id": 1506761436373, 
+    "name": "BertrandDechoux/cascading.learn"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BertrandDechoux/cascading.learn/snapshot/e58d77bb702f2ba0da87c47565ce63ca2fec2782/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

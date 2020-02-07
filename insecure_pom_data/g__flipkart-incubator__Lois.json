@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/flipkart-incubator/Lois", 
+    "url-identifier": "g/flipkart-incubator/Lois", 
+    "id": 1796231317, 
+    "name": "flipkart-incubator/Lois"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/flipkart-incubator/Lois/snapshot/3805ee7f1632214b962514b3e7a81189238f83e3/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

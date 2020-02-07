@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/korpling/ANNIS", 
+    "url-identifier": "g/korpling/ANNIS", 
+    "id": 7950034, 
+    "name": "korpling/ANNIS"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/korpling/ANNIS/snapshot/0fbf1e65e16bceeea8a78fc9003086e295508658/files/annis-widgets/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/annis-widgets/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/vaadin-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/korpling/ANNIS/snapshot/0fbf1e65e16bceeea8a78fc9003086e295508658/files/annis-widgets/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/annis-widgets/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/korpling/ANNIS/snapshot/0fbf1e65e16bceeea8a78fc9003086e295508658/files/annis-widgets/pom.xml#L85", 
+        "line": 85, 
+        "value": "pluginRepository", 
+        "file": "/annis-widgets/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codehaus.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/korpling/ANNIS/snapshot/0fbf1e65e16bceeea8a78fc9003086e295508658/files/annis-widgets/pom.xml#L95", 
+        "line": 95, 
+        "value": "pluginRepository", 
+        "file": "/annis-widgets/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/vaadin-snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/korpling/ANNIS/snapshot/0fbf1e65e16bceeea8a78fc9003086e295508658/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://korpling.german.hu-berlin.de/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

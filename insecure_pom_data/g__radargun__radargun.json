@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/radargun/radargun", 
+    "url-identifier": "g/radargun/radargun", 
+    "id": 45890077, 
+    "name": "radargun/radargun"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/radargun/radargun/snapshot/4b5a974cdfcf5e8fbf2744f259fc01817587ea4d/files/parent/pom.xml#L845", 
+        "line": 845, 
+        "value": "repository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/radargun/radargun/snapshot/4b5a974cdfcf5e8fbf2744f259fc01817587ea4d/files/parent/pom.xml#L856", 
+        "line": 856, 
+        "value": "pluginRepository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/radargun/radargun/snapshot/4b5a974cdfcf5e8fbf2744f259fc01817587ea4d/files/parent/pom.xml#L860", 
+        "line": 860, 
+        "value": "pluginRepository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/radargun/radargun/snapshot/4b5a974cdfcf5e8fbf2744f259fc01817587ea4d/files/parent/pom.xml#L864", 
+        "line": 864, 
+        "value": "pluginRepository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

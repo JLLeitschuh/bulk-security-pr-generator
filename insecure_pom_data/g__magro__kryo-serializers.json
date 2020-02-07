@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/magro/kryo-serializers", 
+    "url-identifier": "g/magro/kryo-serializers", 
+    "id": 33160124, 
+    "name": "magro/kryo-serializers"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/magro/kryo-serializers/snapshot/a980ed8ae66825218d47fc3a47f61c9bd9f3b3a5/files/pom.xml#L276", 
+        "line": 276, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

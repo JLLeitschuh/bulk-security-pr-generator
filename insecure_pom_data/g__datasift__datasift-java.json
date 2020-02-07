@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/datasift/datasift-java", 
+    "url-identifier": "g/datasift/datasift-java", 
+    "id": 11630105, 
+    "name": "datasift/datasift-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/datasift/datasift-java/snapshot/b1b8c9946d207d90dfca065e4cd6433313a13f23/files/pom.xml#L351", 
+        "line": 351, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.boundary.com/artifactory/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

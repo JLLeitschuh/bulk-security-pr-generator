@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/christ66/cobertura", 
+    "url-identifier": "g/christ66/cobertura", 
+    "id": 45910063, 
+    "name": "christ66/cobertura"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/christ66/cobertura/snapshot/ab381e1b56eb25916d98832471c6c7d625697ca4/files/cobertura/pom.xml#L26", 
+        "line": 26, 
+        "value": "pluginRepository", 
+        "file": "/cobertura/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/christ66/cobertura/snapshot/ab381e1b56eb25916d98832471c6c7d625697ca4/files/cobertura/pom.xml#L30", 
+        "line": 30, 
+        "value": "pluginRepository", 
+        "file": "/cobertura/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

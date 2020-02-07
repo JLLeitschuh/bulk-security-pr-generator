@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/PyvesB/PetMaster", 
+    "url-identifier": "g/PyvesB/PetMaster", 
+    "id": 1506716087927, 
+    "name": "PyvesB/PetMaster"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/PyvesB/PetMaster/snapshot/a3caca76443eb1c852f41a245d41703b21028198/files/pom.xml#L74", 
+        "line": 74, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

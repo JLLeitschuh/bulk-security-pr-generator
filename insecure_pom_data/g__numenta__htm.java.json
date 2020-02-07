@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/numenta/htm.java", 
+    "url-identifier": "g/numenta/htm.java", 
+    "id": 890077, 
+    "name": "numenta/htm.java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/numenta/htm.java/snapshot/6078d84260e99ba426602db964382eb3114161a4/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://metaware.us/maven3"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

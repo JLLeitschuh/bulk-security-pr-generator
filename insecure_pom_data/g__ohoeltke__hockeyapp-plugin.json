@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ohoeltke/hockeyapp-plugin", 
+    "url-identifier": "g/ohoeltke/hockeyapp-plugin", 
+    "id": 1509192486097, 
+    "name": "ohoeltke/hockeyapp-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ohoeltke/hockeyapp-plugin/snapshot/349af9ecceffd8a2bf0adfab09de416555779e75/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ohoeltke/hockeyapp-plugin/snapshot/349af9ecceffd8a2bf0adfab09de416555779e75/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

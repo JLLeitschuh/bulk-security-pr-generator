@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkins-infra/update-center2", 
+    "url-identifier": "g/jenkins-infra/update-center2", 
+    "id": 1509192627021, 
+    "name": "jenkins-infra/update-center2"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkins-infra/update-center2/snapshot/0e353652ddd981d5eb026a7f3d3c5b36023e746d/files/pom.xml#L224", 
+        "line": 224, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

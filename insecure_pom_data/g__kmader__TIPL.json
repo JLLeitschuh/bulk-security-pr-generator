@@ -1,0 +1,179 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kmader/TIPL", 
+    "url-identifier": "g/kmader/TIPL", 
+    "id": 1510840798117, 
+    "name": "kmader/TIPL"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.imagej.net/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/pom.xml#L110", 
+        "line": 110, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/pom.xml#L129", 
+        "line": 129, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/spark-ij/pom.xml#L112", 
+        "line": 112, 
+        "value": "repository", 
+        "file": "/spark-ij/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.imagej.net/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/spark-ij/pom.xml#L128", 
+        "line": 128, 
+        "value": "repository", 
+        "file": "/spark-ij/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/spark-ij/pom.xml#L137", 
+        "line": 137, 
+        "value": "pluginRepository", 
+        "file": "/spark-ij/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/spark-imageio/pom.xml#L159", 
+        "line": 159, 
+        "value": "repository", 
+        "file": "/spark-imageio/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.imagej.net/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/spark-imageio/pom.xml#L164", 
+        "line": 164, 
+        "value": "repository", 
+        "file": "/spark-imageio/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geotoolkit.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/spark-imageio/pom.xml#L171", 
+        "line": 171, 
+        "value": "repository", 
+        "file": "/spark-imageio/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/spark-imageio/pom.xml#L189", 
+        "line": 189, 
+        "value": "repository", 
+        "file": "/spark-imageio/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/spark-imageio/pom.xml#L199", 
+        "line": 199, 
+        "value": "pluginRepository", 
+        "file": "/spark-imageio/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/spark-scifio/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/spark-scifio/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.imagej.net/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/TIPL/snapshot/fab50404d31fa596911f88c5967f4bedb153db60/files/spark-scifio/pom.xml#L140", 
+        "line": 140, 
+        "value": "pluginRepository", 
+        "file": "/spark-scifio/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opentracing-contrib/java-globaltracer", 
+    "url-identifier": "g/opentracing-contrib/java-globaltracer", 
+    "id": 1507661906431, 
+    "name": "opentracing-contrib/java-globaltracer"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opentracing-contrib/java-globaltracer/snapshot/61df659512d40f992b63c66896cdf3f7d5533774/files/pom.xml#L87", 
+        "line": 87, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

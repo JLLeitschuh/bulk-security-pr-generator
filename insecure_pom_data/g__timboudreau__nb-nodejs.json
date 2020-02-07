@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/timboudreau/nb-nodejs", 
+    "url-identifier": "g/timboudreau/nb-nodejs", 
+    "id": 31880168, 
+    "name": "timboudreau/nb-nodejs"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/timboudreau/nb-nodejs/snapshot/111282744e6dab00f99eae73e3a36675591c2fc8/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/timboudreau/nb-nodejs/snapshot/111282744e6dab00f99eae73e3a36675591c2fc8/files/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/nexus/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

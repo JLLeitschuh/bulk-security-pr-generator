@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/helix", 
+    "url-identifier": "g/apache/helix", 
+    "id": 50100032, 
+    "name": "apache/helix"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/helix/snapshot/56fed45dc6c0f3acc246577f89c3e9a97bc5795a/files/pom.xml#L305", 
+        "line": 305, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

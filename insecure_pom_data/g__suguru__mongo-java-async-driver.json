@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/suguru/mongo-java-async-driver", 
+    "url-identifier": "g/suguru/mongo-java-async-driver", 
+    "id": 1506608399964, 
+    "name": "suguru/mongo-java-async-driver"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/suguru/mongo-java-async-driver/snapshot/48017a8c30477ef7136e6033c44185d3bf2b737b/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

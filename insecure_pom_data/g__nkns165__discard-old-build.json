@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nkns165/discard-old-build", 
+    "url-identifier": "g/nkns165/discard-old-build", 
+    "id": 1506610259799, 
+    "name": "nkns165/discard-old-build"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nkns165/discard-old-build/snapshot/cd24e8f429006e6cd3c871dada042e4a57e75458/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nkns165/discard-old-build/snapshot/cd24e8f429006e6cd3c871dada042e4a57e75458/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/robward-scisys/sldeditor", 
+    "url-identifier": "g/robward-scisys/sldeditor", 
+    "id": 1509218263028, 
+    "name": "robward-scisys/sldeditor"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robward-scisys/sldeditor/snapshot/bc654f64743cd0e1663943024a65acb107149050/files/modules/import/export-sld/pom.xml#L277", 
+        "line": 277, 
+        "value": "repository", 
+        "file": "/modules/import/export-sld/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robward-scisys/sldeditor/snapshot/bc654f64743cd0e1663943024a65acb107149050/files/modules/import/export-sld/pom.xml#L282", 
+        "line": 282, 
+        "value": "repository", 
+        "file": "/modules/import/export-sld/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvnrepository.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robward-scisys/sldeditor/snapshot/bc654f64743cd0e1663943024a65acb107149050/files/modules/import/pom.xml#L203", 
+        "line": 203, 
+        "value": "repository", 
+        "file": "/modules/import/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robward-scisys/sldeditor/snapshot/bc654f64743cd0e1663943024a65acb107149050/files/modules/import/pom.xml#L208", 
+        "line": 208, 
+        "value": "repository", 
+        "file": "/modules/import/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvnrepository.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robward-scisys/sldeditor/snapshot/bc654f64743cd0e1663943024a65acb107149050/files/pom.xml#L399", 
+        "line": 399, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robward-scisys/sldeditor/snapshot/bc654f64743cd0e1663943024a65acb107149050/files/pom.xml#L404", 
+        "line": 404, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geo-solutions.it/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/robward-scisys/sldeditor/snapshot/bc654f64743cd0e1663943024a65acb107149050/files/pom.xml#L409", 
+        "line": 409, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvnrepository.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/smartSensorEditor", 
+    "url-identifier": "g/52North/smartSensorEditor", 
+    "id": 1506699750966, 
+    "name": "52North/smartSensorEditor"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/smartSensorEditor/snapshot/4e784fae0ae2685d0e77110abf993ca7a5431c05/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/smartSensorEditor/snapshot/4e784fae0ae2685d0e77110abf993ca7a5431c05/files/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/smartSensorEditor/snapshot/4e784fae0ae2685d0e77110abf993ca7a5431c05/files/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.springsource.com/maven/bundles/external/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

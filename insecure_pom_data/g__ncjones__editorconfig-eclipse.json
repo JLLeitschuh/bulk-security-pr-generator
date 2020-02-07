@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ncjones/editorconfig-eclipse", 
+    "url-identifier": "g/ncjones/editorconfig-eclipse", 
+    "id": 2033800885, 
+    "name": "ncjones/editorconfig-eclipse"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ncjones/editorconfig-eclipse/snapshot/1cb76a6a07747ad2e3092f5756d48696faa4c729/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/luna"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ncjones/editorconfig-eclipse/snapshot/1cb76a6a07747ad2e3092f5756d48696faa4c729/files/pom.xml#L27", 
+        "line": 27, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/technology/swtbot/releases/2.2.1"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

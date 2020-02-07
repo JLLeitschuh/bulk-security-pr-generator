@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Swagger2Markup/spring-swagger2markup-demo", 
+    "url-identifier": "g/Swagger2Markup/spring-swagger2markup-demo", 
+    "id": 5970248, 
+    "name": "Swagger2Markup/spring-swagger2markup-demo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Swagger2Markup/spring-swagger2markup-demo/snapshot/7840768a7067f0de6b30370f1f83bd07b525e1f4/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Swagger2Markup/spring-swagger2markup-demo/snapshot/7840768a7067f0de6b30370f1f83bd07b525e1f4/files/pom.xml#L39", 
+        "line": 39, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Swagger2Markup/spring-swagger2markup-demo/snapshot/7840768a7067f0de6b30370f1f83bd07b525e1f4/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Swagger2Markup/spring-swagger2markup-demo/snapshot/7840768a7067f0de6b30370f1f83bd07b525e1f4/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

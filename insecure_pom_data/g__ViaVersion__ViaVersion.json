@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ViaVersion/ViaVersion", 
+    "url-identifier": "g/ViaVersion/ViaVersion", 
+    "id": 39700026, 
+    "name": "ViaVersion/ViaVersion"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ViaVersion/ViaVersion/snapshot/290ac4d758418f1c73810c6df497a31e1a9ea418/files/sponge/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/sponge/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spongepowered.org/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ViaVersion/ViaVersion/snapshot/290ac4d758418f1c73810c6df497a31e1a9ea418/files/sponge-legacy/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/sponge-legacy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spongepowered.org/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

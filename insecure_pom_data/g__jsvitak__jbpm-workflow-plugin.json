@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jsvitak/jbpm-workflow-plugin", 
+    "url-identifier": "g/jsvitak/jbpm-workflow-plugin", 
+    "id": 1509238685985, 
+    "name": "jsvitak/jbpm-workflow-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsvitak/jbpm-workflow-plugin/snapshot/535fcf1adfe703fe22e1d9dd12cb4f837e75616c/files/pom.xml#L135", 
+        "line": 135, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsvitak/jbpm-workflow-plugin/snapshot/535fcf1adfe703fe22e1d9dd12cb4f837e75616c/files/pom.xml#L139", 
+        "line": 139, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jsvitak/jbpm-workflow-plugin/snapshot/535fcf1adfe703fe22e1d9dd12cb4f837e75616c/files/pom.xml#L156", 
+        "line": 156, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

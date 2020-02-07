@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/WeatherDataCollector", 
+    "url-identifier": "g/52North/WeatherDataCollector", 
+    "id": 1506736041088, 
+    "name": "52North/WeatherDataCollector"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/WeatherDataCollector/snapshot/a8a187c9ad63eba3fa1bf08401150dafebd70da0/files/pom.xml#L303", 
+        "line": 303, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/WeatherDataCollector/snapshot/a8a187c9ad63eba3fa1bf08401150dafebd70da0/files/pom.xml#L314", 
+        "line": 314, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

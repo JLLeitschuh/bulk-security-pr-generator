@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/thymeleaf/thymeleaf-extras-conditionalcomments", 
+    "url-identifier": "g/thymeleaf/thymeleaf-extras-conditionalcomments", 
+    "id": 1509065616798, 
+    "name": "thymeleaf/thymeleaf-extras-conditionalcomments"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/thymeleaf/thymeleaf-extras-conditionalcomments/snapshot/3f73c001c425ada564f8b6f1e05803731711bc72/files/pom.xml#L82", 
+        "line": 82, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/thymeleaf/thymeleaf-extras-conditionalcomments/snapshot/3f73c001c425ada564f8b6f1e05803731711bc72/files/pom.xml#L87", 
+        "line": 87, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

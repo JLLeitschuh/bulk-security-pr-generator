@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/libraryaddict/LibsDisguises", 
+    "url-identifier": "g/libraryaddict/LibsDisguises", 
+    "id": 1796360478, 
+    "name": "libraryaddict/LibsDisguises"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/libraryaddict/LibsDisguises/snapshot/902d2e89e6f66e69a9f1f010c658f924eac7cd74/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/nexus/repository/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/XavientInformationSystems/Data-Ingestion-Platform", 
+    "url-identifier": "g/XavientInformationSystems/Data-Ingestion-Platform", 
+    "id": 1506759446224, 
+    "name": "XavientInformationSystems/Data-Ingestion-Platform"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/XavientInformationSystems/Data-Ingestion-Platform/snapshot/8fac2455ab1acfd0edafb9139a5405260d0c1de0/files/dataingest-samza/pom.xml#L224", 
+        "line": 224, 
+        "value": "repository", 
+        "file": "/dataingest-samza/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/XavientInformationSystems/Data-Ingestion-Platform/snapshot/8fac2455ab1acfd0edafb9139a5405260d0c1de0/files/dataingest-samza/pom.xml#L243", 
+        "line": 243, 
+        "value": "pluginRepository", 
+        "file": "/dataingest-samza/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/XavientInformationSystems/Data-Ingestion-Platform/snapshot/8fac2455ab1acfd0edafb9139a5405260d0c1de0/files/dataingest-storm/pom.xml#L201", 
+        "line": 201, 
+        "value": "repository", 
+        "file": "/dataingest-storm/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/XavientInformationSystems/Data-Ingestion-Platform/snapshot/8fac2455ab1acfd0edafb9139a5405260d0c1de0/files/dataingest-storm/pom.xml#L217", 
+        "line": 217, 
+        "value": "repository", 
+        "file": "/dataingest-storm/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/jetty-hadoop/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/XavientInformationSystems/Data-Ingestion-Platform/snapshot/8fac2455ab1acfd0edafb9139a5405260d0c1de0/files/pom.xml#L98", 
+        "line": 98, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/XavientInformationSystems/Data-Ingestion-Platform/snapshot/8fac2455ab1acfd0edafb9139a5405260d0c1de0/files/pom.xml#L114", 
+        "line": 114, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/jetty-hadoop/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

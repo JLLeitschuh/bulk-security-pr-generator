@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/onap/archive-dcae-apod-analytics", 
+    "url-identifier": "g/onap/archive-dcae-apod-analytics", 
+    "id": 1506479016963, 
+    "name": "onap/archive-dcae-apod-analytics"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/onap/archive-dcae-apod-analytics/snapshot/335a97ed4db701b38f8d2a213b1782c0c3ff5700/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/onap/archive-dcae-apod-analytics/snapshot/335a97ed4db701b38f8d2a213b1782c0c3ff5700/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

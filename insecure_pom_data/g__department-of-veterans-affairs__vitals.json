@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/department-of-veterans-affairs/vitals", 
+    "url-identifier": "g/department-of-veterans-affairs/vitals", 
+    "id": 1511262687682, 
+    "name": "department-of-veterans-affairs/vitals"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/department-of-veterans-affairs/vitals/snapshot/2b3a07d7c2d922d6c39009c70ece0923565f3854/files/pom.xml#L8", 
+        "line": 8, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://decipher.chpc.utah.edu/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

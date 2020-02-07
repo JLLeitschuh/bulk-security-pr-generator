@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/disk-usage-plugin", 
+    "url-identifier": "g/jenkinsci/disk-usage-plugin", 
+    "id": 1506606760451, 
+    "name": "jenkinsci/disk-usage-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/disk-usage-plugin/snapshot/2310b4b07b905c3bd7bdfa81102b3e6c39654ac0/files/pom.xml#L94", 
+        "line": 94, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/disk-usage-plugin/snapshot/2310b4b07b905c3bd7bdfa81102b3e6c39654ac0/files/pom.xml#L101", 
+        "line": 101, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

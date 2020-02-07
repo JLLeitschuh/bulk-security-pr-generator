@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/hcoles/pitest", 
+    "url-identifier": "g/hcoles/pitest", 
+    "id": 26810110, 
+    "name": "hcoles/pitest"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/hcoles/pitest/snapshot/f726e1bc6bd7a64a3ca89e54778dbd3b16825543/files/pitest-maven-verification/src/test/resources/pit-263-yatspec/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pitest-maven-verification/src/test/resources/pit-263-yatspec/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.bodar.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

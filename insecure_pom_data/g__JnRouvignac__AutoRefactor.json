@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JnRouvignac/AutoRefactor", 
+    "url-identifier": "g/JnRouvignac/AutoRefactor", 
+    "id": 47890062, 
+    "name": "JnRouvignac/AutoRefactor"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JnRouvignac/AutoRefactor/snapshot/a3ff7cda6816803e00b93d3c0890f52af37e93a4/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/mars"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

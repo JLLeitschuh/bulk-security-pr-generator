@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/microsoft/azure-tools-for-java", 
+    "url-identifier": "g/microsoft/azure-tools-for-java", 
+    "id": 1506266228494, 
+    "name": "microsoft/azure-tools-for-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/microsoft/azure-tools-for-java/snapshot/43e363e932c22b4253a5796a517f22b26e6e8488/files/PluginsAndFeatures/azure-toolkit-for-eclipse/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/PluginsAndFeatures/azure-toolkit-for-eclipse/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/mars/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

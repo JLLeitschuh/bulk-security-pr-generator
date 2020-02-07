@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pmaccamp/global-variable-string-parameter", 
+    "url-identifier": "g/pmaccamp/global-variable-string-parameter", 
+    "id": 1506603249412, 
+    "name": "pmaccamp/global-variable-string-parameter"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pmaccamp/global-variable-string-parameter/snapshot/95abdcfaff20cf1dff761c3367e9a5f26316c08b/files/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pmaccamp/global-variable-string-parameter/snapshot/95abdcfaff20cf1dff761c3367e9a5f26316c08b/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

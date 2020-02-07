@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/globalbioticinteractions/globalbioticinteractions", 
+    "url-identifier": "g/globalbioticinteractions/globalbioticinteractions", 
+    "id": 1506683556960, 
+    "name": "globalbioticinteractions/globalbioticinteractions"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/globalbioticinteractions/globalbioticinteractions/snapshot/73763513bdce4514116223f10eb50b613c2d0f87/files/eol-globi-data-sources/pom.xml#L94", 
+        "line": 94, 
+        "value": "repository", 
+        "file": "/eol-globi-data-sources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.gbif.org/content/groups/gbif"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/globalbioticinteractions/globalbioticinteractions/snapshot/73763513bdce4514116223f10eb50b613c2d0f87/files/eol-globi-geo/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/eol-globi-geo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/att/XACML", 
+    "url-identifier": "g/att/XACML", 
+    "id": 1509072856012, 
+    "name": "att/XACML"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/att/XACML/snapshot/e8b4737f1f694ff6e2995b51b8440c831f649136/files/XACML-PAP-ADMIN/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/XACML-PAP-ADMIN/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.vaadin.com/vaadin-addons"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/att/XACML/snapshot/e8b4737f1f694ff6e2995b51b8440c831f649136/files/XACML-PAP-ADMIN/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/XACML-PAP-ADMIN/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/vaadin-snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

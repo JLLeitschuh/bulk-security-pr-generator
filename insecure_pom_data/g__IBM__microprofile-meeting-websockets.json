@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/IBM/microprofile-meeting-websockets", 
+    "url-identifier": "g/IBM/microprofile-meeting-websockets", 
+    "id": 1506265056236, 
+    "name": "IBM/microprofile-meeting-websockets"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/IBM/microprofile-meeting-websockets/snapshot/dcc13534a6a9fffcd42afd51737719351d29f7c2/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://liberty-app-accelerator.wasdev.developer.ibm.com/start/api/v1/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pagseguro/pagseguro-java-sdk", 
+    "url-identifier": "g/pagseguro/pagseguro-java-sdk", 
+    "id": 1510588387744, 
+    "name": "pagseguro/pagseguro-java-sdk"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pagseguro/pagseguro-java-sdk/snapshot/3953ffb0ba7448eb6d452726b55ce3d60571e524/files/integration_test/pom.xml#L92", 
+        "line": 92, 
+        "value": "repository", 
+        "file": "/integration_test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.mvn.intranet.s2it.com.br:8081/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

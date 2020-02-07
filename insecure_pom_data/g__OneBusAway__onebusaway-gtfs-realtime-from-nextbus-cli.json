@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-from-nextbus-cli", 
+    "url-identifier": "g/OneBusAway/onebusaway-gtfs-realtime-from-nextbus-cli", 
+    "id": 1507595086055, 
+    "name": "OneBusAway/onebusaway-gtfs-realtime-from-nextbus-cli"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/OneBusAway/onebusaway-gtfs-realtime-from-nextbus-cli/snapshot/fe5bc8593c0dd2a5e292672ef32fafa27747fc28/files/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.onebusaway.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

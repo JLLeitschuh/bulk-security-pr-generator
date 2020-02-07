@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/devlauer/jenkins-keycloak-plugin", 
+    "url-identifier": "g/devlauer/jenkins-keycloak-plugin", 
+    "id": 1509154266693, 
+    "name": "devlauer/jenkins-keycloak-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/devlauer/jenkins-keycloak-plugin/snapshot/fc9232b66b4d04c71de9e421187bbcb76ed7dfe3/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/devlauer/jenkins-keycloak-plugin/snapshot/fc9232b66b4d04c71de9e421187bbcb76ed7dfe3/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

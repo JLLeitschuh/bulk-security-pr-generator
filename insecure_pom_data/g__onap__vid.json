@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/onap/vid", 
+    "url-identifier": "g/onap/vid", 
+    "id": 1506476784589, 
+    "name": "onap/vid"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/onap/vid/snapshot/d371bb875d4ef2e9c308ac1aead87cda6d088301/files/pom.xml#L182", 
+        "line": 182, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/onap/vid/snapshot/d371bb875d4ef2e9c308ac1aead87cda6d088301/files/pom.xml#L188", 
+        "line": 188, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

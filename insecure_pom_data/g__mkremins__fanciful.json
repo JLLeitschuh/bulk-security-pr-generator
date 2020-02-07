@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mkremins/fanciful", 
+    "url-identifier": "g/mkremins/fanciful", 
+    "id": 45150016, 
+    "name": "mkremins/fanciful"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mkremins/fanciful/snapshot/a54f90802fefe71e9a4fa468282784ee6a4d5efa/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.stealthyone.com/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mkremins/fanciful/snapshot/a54f90802fefe71e9a4fa468282784ee6a4d5efa/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.stealthyone.com/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/webbit/webbit", 
+    "url-identifier": "g/webbit/webbit", 
+    "id": 20800557, 
+    "name": "webbit/webbit"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/webbit/webbit/snapshot/f5d57d8811ad7127c27c5bebd2d8317b3a757e9f/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/webbit/webbit/snapshot/f5d57d8811ad7127c27c5bebd2d8317b3a757e9f/files/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://google-gson.googlecode.com/svn/mavenrepo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

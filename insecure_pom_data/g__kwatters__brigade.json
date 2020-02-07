@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kwatters/brigade", 
+    "url-identifier": "g/kwatters/brigade", 
+    "id": 1511148332248, 
+    "name": "kwatters/brigade"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kwatters/brigade/snapshot/fc994f5603a9f53a6f3fde7e1932799fad76212a/files/pom.xml#L437", 
+        "line": 437, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://54.210.236.71:8081/artifactory/libs-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kwatters/brigade/snapshot/fc994f5603a9f53a6f3fde7e1932799fad76212a/files/pom.xml#L442", 
+        "line": 442, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://54.210.236.71:8081/artifactory/libs-release-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

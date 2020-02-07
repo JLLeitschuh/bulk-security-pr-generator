@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/lucene-search-plugin", 
+    "url-identifier": "g/jenkinsci/lucene-search-plugin", 
+    "id": 1506581649533, 
+    "name": "jenkinsci/lucene-search-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/lucene-search-plugin/snapshot/32f4831fa9e587dd1baa2c26aaebdb257b433eb4/files/pom.xml#L154", 
+        "line": 154, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/lucene-search-plugin/snapshot/32f4831fa9e587dd1baa2c26aaebdb257b433eb4/files/pom.xml#L161", 
+        "line": 161, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/espertechinc/esper", 
+    "url-identifier": "g/espertechinc/esper", 
+    "id": 27660002, 
+    "name": "espertechinc/esper"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/espertechinc/esper/snapshot/a5fac18e6309b2e8710bc13f9dc5578db1355f78/files/examples/terminalsvc/terminalsvc-common/pom.xml#L20", 
+        "line": 20, 
+        "value": "repository", 
+        "file": "/examples/terminalsvc/terminalsvc-common/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

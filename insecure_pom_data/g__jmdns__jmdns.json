@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jmdns/jmdns", 
+    "url-identifier": "g/jmdns/jmdns", 
+    "id": 1794211294, 
+    "name": "jmdns/jmdns"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jmdns/jmdns/snapshot/079b60aa47018f302fb25af3f31880fe291e9c6d/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/DrChainsaw/AmpControl", 
+    "url-identifier": "g/DrChainsaw/AmpControl", 
+    "id": 1506543926856, 
+    "name": "DrChainsaw/AmpControl"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DrChainsaw/AmpControl/snapshot/6c90628a2b3b9260ffd113194bb71866658b6c76/files/pom.xml#L295", 
+        "line": 295, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jzy3d.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/DrChainsaw/AmpControl/snapshot/6c90628a2b3b9260ffd113194bb71866658b6c76/files/pom.xml#L300", 
+        "line": 300, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jzy3d.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

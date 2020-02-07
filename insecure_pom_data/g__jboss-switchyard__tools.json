@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jboss-switchyard/tools", 
+    "url-identifier": "g/jboss-switchyard/tools", 
+    "id": 1780456, 
+    "name": "jboss-switchyard/tools"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jboss-switchyard/tools/snapshot/dd603b1a59999c3cc1e6c1469a3ac9dbd331c047/files/eclipse/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/eclipse/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.jboss.org/jbosstools/updates/requirements/bpmn2-modeler/oxygen/1.4.0.Final/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jboss-switchyard/tools/snapshot/dd603b1a59999c3cc1e6c1469a3ac9dbd331c047/files/eclipse/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/eclipse/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jboss-switchyard/tools/snapshot/dd603b1a59999c3cc1e6c1469a3ac9dbd331c047/files/eclipse/tests/org.switchyard.tools.ui.tests/test-data/validator-tests/wiring-validation-tests/pom.xml#L57", 
+        "line": 57, 
+        "value": "repository", 
+        "file": "/eclipse/tests/org.switchyard.tools.ui.tests/test-data/validator-tests/wiring-validation-tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jboss-switchyard/tools/snapshot/dd603b1a59999c3cc1e6c1469a3ac9dbd331c047/files/eclipse/tests/org.switchyard.tools.ui.tests/test-data/validator-tests/wiring-validation-tests/pom.xml#L64", 
+        "line": 64, 
+        "value": "pluginRepository", 
+        "file": "/eclipse/tests/org.switchyard.tools.ui.tests/test-data/validator-tests/wiring-validation-tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

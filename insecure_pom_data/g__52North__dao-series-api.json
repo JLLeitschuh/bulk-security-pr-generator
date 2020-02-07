@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/52North/dao-series-api", 
+    "url-identifier": "g/52North/dao-series-api", 
+    "id": 1506723141441, 
+    "name": "52North/dao-series-api"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/dao-series-api/snapshot/0d1a957dc06ba888446cfb743c75966bf7d0feb0/files/pom.xml#L594", 
+        "line": 594, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://52north.org/maven/repo/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/dao-series-api/snapshot/0d1a957dc06ba888446cfb743c75966bf7d0feb0/files/pom.xml#L599", 
+        "line": 599, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/52North/dao-series-api/snapshot/0d1a957dc06ba888446cfb743c75966bf7d0feb0/files/webapp/pom.xml#L381", 
+        "line": 381, 
+        "value": "repository", 
+        "file": "/webapp/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

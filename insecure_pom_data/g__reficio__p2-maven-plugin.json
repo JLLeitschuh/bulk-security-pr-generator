@@ -1,0 +1,201 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin", 
+    "url-identifier": "g/reficio/p2-maven-plugin", 
+    "id": 39010059, 
+    "name": "reficio/p2-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/examples/excludes/pom.xml#L79", 
+        "line": 79, 
+        "value": "pluginRepository", 
+        "file": "/examples/excludes/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/examples/override/pom.xml#L79", 
+        "line": 79, 
+        "value": "pluginRepository", 
+        "file": "/examples/override/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/examples/p2/pom.xml#L61", 
+        "line": 61, 
+        "value": "pluginRepository", 
+        "file": "/examples/p2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/examples/p2/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/examples/p2/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/downloads/drops/R20130517111416/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/examples/phase/pom.xml#L52", 
+        "line": 52, 
+        "value": "pluginRepository", 
+        "file": "/examples/phase/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/examples/quickstart/pom.xml#L107", 
+        "line": 107, 
+        "value": "pluginRepository", 
+        "file": "/examples/quickstart/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/examples/source/pom.xml#L58", 
+        "line": 58, 
+        "value": "pluginRepository", 
+        "file": "/examples/source/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/examples/transitive/pom.xml#L54", 
+        "line": 54, 
+        "value": "pluginRepository", 
+        "file": "/examples/transitive/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/pom.xml#L688", 
+        "line": 688, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/src/test/integration/bug-17-it/pom.xml#L79", 
+        "line": 79, 
+        "value": "repository", 
+        "file": "/src/test/integration/bug-17-it/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.jboss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/src/test/integration/bug-18-it/pom.xml#L229", 
+        "line": 229, 
+        "value": "pluginRepository", 
+        "file": "/src/test/integration/bug-18-it/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/src/test/integration/bug-19-it/pom.xml#L124", 
+        "line": 124, 
+        "value": "pluginRepository", 
+        "file": "/src/test/integration/bug-19-it/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/src/test/integration/bug-28-tests-classifier-it/pom.xml#L54", 
+        "line": 54, 
+        "value": "pluginRepository", 
+        "file": "/src/test/integration/bug-28-tests-classifier-it/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/src/test/integration/bug-39-parse-error-it/pom.xml#L140", 
+        "line": 140, 
+        "value": "pluginRepository", 
+        "file": "/src/test/integration/bug-39-parse-error-it/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/src/test/integration/feature-14-it/pom.xml#L137", 
+        "line": 137, 
+        "value": "pluginRepository", 
+        "file": "/src/test/integration/feature-14-it/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/src/test/integration/feature-14-it/pom.xml#L144", 
+        "line": 144, 
+        "value": "repository", 
+        "file": "/src/test/integration/feature-14-it/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.jboss.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/reficio/p2-maven-plugin/snapshot/d66b9f7c6dc1fb38a871e9ba7cfc1678e0ec867d/files/src/test/integration/feature-14-it/pom.xml#L148", 
+        "line": 148, 
+        "value": "repository", 
+        "file": "/src/test/integration/feature-14-it/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.reficio.org/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

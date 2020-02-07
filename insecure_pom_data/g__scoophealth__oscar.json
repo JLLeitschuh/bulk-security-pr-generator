@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/scoophealth/oscar", 
+    "url-identifier": "g/scoophealth/oscar", 
+    "id": 12200033, 
+    "name": "scoophealth/oscar"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/scoophealth/oscar/snapshot/c14284b610b7de66c81cc87c297e32eac5efdcf1/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://hl7api.sourceforge.net/m2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/scoophealth/oscar/snapshot/c14284b610b7de66c81cc87c297e32eac5efdcf1/files/pom.xml#L56", 
+        "line": 56, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oscarmcmaster.sourceforge.net/m2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/scoophealth/oscar/snapshot/c14284b610b7de66c81cc87c297e32eac5efdcf1/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvn.oscar-emr.com/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/scoophealth/oscar/snapshot/c14284b610b7de66c81cc87c297e32eac5efdcf1/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://te.marc-hi.ca/mvn"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/scoophealth/oscar/snapshot/c14284b610b7de66c81cc87c297e32eac5efdcf1/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oscarmcmaster.sourceforge.net/m2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

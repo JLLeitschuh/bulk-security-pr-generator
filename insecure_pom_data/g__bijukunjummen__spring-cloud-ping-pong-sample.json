@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bijukunjummen/spring-cloud-ping-pong-sample", 
+    "url-identifier": "g/bijukunjummen/spring-cloud-ping-pong-sample", 
+    "id": 1797610475, 
+    "name": "bijukunjummen/spring-cloud-ping-pong-sample"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bijukunjummen/spring-cloud-ping-pong-sample/snapshot/c44665266788012307e31852f03236c39f4d4106/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bijukunjummen/spring-cloud-ping-pong-sample/snapshot/c44665266788012307e31852f03236c39f4d4106/files/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bijukunjummen/spring-cloud-ping-pong-sample/snapshot/c44665266788012307e31852f03236c39f4d4106/files/pom.xml#L105", 
+        "line": 105, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/release/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bijukunjummen/spring-cloud-ping-pong-sample/snapshot/c44665266788012307e31852f03236c39f4d4106/files/pom.xml#L109", 
+        "line": 109, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ThunderGemios10/Survival-Games", 
+    "url-identifier": "g/ThunderGemios10/Survival-Games", 
+    "id": 1506738580944, 
+    "name": "ThunderGemios10/Survival-Games"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ThunderGemios10/Survival-Games/snapshot/31ca27fc60aa46449a06c7a30e771d7113bc66cb/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ThunderGemios10/Survival-Games/snapshot/31ca27fc60aa46449a06c7a30e771d7113bc66cb/files/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

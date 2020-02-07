@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/EvilPort2/HackingTools", 
+    "url-identifier": "g/EvilPort2/HackingTools", 
+    "id": 1507338416190, 
+    "name": "EvilPort2/HackingTools"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/EvilPort2/HackingTools/snapshot/fe3cec8522992b58ae3db6295fb55e0d34647606/files/Luyten/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/Luyten/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

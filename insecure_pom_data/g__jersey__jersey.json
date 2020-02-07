@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jersey/jersey", 
+    "url-identifier": "g/jersey/jersey", 
+    "id": 46820024, 
+    "name": "jersey/jersey"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jersey/jersey/snapshot/e9eae6887c76a9f65fd598c1cbaf3112ea167c90/files/incubator/html-json/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/incubator/html-json/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jersey/jersey/snapshot/e9eae6887c76a9f65fd598c1cbaf3112ea167c90/files/media/moxy/pom.xml#L131", 
+        "line": 131, 
+        "value": "repository", 
+        "file": "/media/moxy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/eclipselink/maven.repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jersey/jersey/snapshot/e9eae6887c76a9f65fd598c1cbaf3112ea167c90/files/pom.xml#L963", 
+        "line": 963, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.eclipse.org/downloads/download.php?r=1&nf=1&file=/rt/eclipselink/maven.repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

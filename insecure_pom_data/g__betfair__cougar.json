@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/betfair/cougar", 
+    "url-identifier": "g/betfair/cougar", 
+    "id": 12210031, 
+    "name": "betfair/cougar"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/betfair/cougar/snapshot/ea102432c037bc6877ff09063fd6ee986ad4d980/files/pom.xml#L183", 
+        "line": 183, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mirrors.ibiblio.org/maven/mule/dependencies"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

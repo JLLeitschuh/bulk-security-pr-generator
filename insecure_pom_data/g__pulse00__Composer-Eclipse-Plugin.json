@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pulse00/Composer-Eclipse-Plugin", 
+    "url-identifier": "g/pulse00/Composer-Eclipse-Plugin", 
+    "id": 53830729, 
+    "name": "pulse00/Composer-Eclipse-Plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Composer-Eclipse-Plugin/snapshot/02c8ff6c4ff5000e30b3d39f2b6a24aa8a9ea827/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/downloads/drops/R20150519210750/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Composer-Eclipse-Plugin/snapshot/02c8ff6c4ff5000e30b3d39f2b6a24aa8a9ea827/files/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/${eclipse.name}"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Composer-Eclipse-Plugin/snapshot/02c8ff6c4ff5000e30b3d39f2b6a24aa8a9ea827/files/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/technology/dltk/updates-dev/${dltk.version}/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Composer-Eclipse-Plugin/snapshot/02c8ff6c4ff5000e30b3d39f2b6a24aa8a9ea827/files/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/pdt/updates/${pdt.version}/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Composer-Eclipse-Plugin/snapshot/02c8ff6c4ff5000e30b3d39f2b6a24aa8a9ea827/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pdt-eg.github.io/Core-Plugin/nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Composer-Eclipse-Plugin/snapshot/02c8ff6c4ff5000e30b3d39f2b6a24aa8a9ea827/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://pdt-eg.github.io/external-mirror/nightly"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pulse00/Composer-Eclipse-Plugin/snapshot/02c8ff6c4ff5000e30b3d39f2b6a24aa8a9ea827/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/4.2/R-4.2-201206081400"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

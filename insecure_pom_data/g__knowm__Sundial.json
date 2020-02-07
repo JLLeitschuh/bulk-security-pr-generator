@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/knowm/Sundial", 
+    "url-identifier": "g/knowm/Sundial", 
+    "id": 13140026, 
+    "name": "knowm/Sundial"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/knowm/Sundial/snapshot/0b30057edac5d9ed01692d87747b671f232433db/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/knowm/Sundial/snapshot/0b30057edac5d9ed01692d87747b671f232433db/files/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

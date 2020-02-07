@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/caliper-ci-plugin", 
+    "url-identifier": "g/jenkinsci/caliper-ci-plugin", 
+    "id": 1506690996044, 
+    "name": "jenkinsci/caliper-ci-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/caliper-ci-plugin/snapshot/8c64dce3aa664df6cda56a94a9f5628a8717ffa0/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/caliper-ci-plugin/snapshot/8c64dce3aa664df6cda56a94a9f5628a8717ffa0/files/pom.xml#L83", 
+        "line": 83, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

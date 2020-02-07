@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/incubator-taverna-common-activities", 
+    "url-identifier": "g/apache/incubator-taverna-common-activities", 
+    "id": 1506248575989, 
+    "name": "apache/incubator-taverna-common-activities"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/incubator-taverna-common-activities/snapshot/b5a07cb1ef24fd5f4ef72e0431efeb7154e776ad/files/taverna-spreadsheet-import-activity/pom.xml#L126", 
+        "line": 126, 
+        "value": "repository", 
+        "file": "/taverna-spreadsheet-import-activity/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.mygrid.org.uk/artifactory/ext-release-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

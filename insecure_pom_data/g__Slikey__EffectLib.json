@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Slikey/EffectLib", 
+    "url-identifier": "g/Slikey/EffectLib", 
+    "id": 54580040, 
+    "name": "Slikey/EffectLib"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Slikey/EffectLib/snapshot/6e1ab8e66118f19763adb9c73b8eb981348fda66/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.elmakers.com/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Slikey/EffectLib/snapshot/6e1ab8e66118f19763adb9c73b8eb981348fda66/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.elmakers.com/repository/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

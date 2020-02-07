@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/release-engineering/pom-manipulation-ext", 
+    "url-identifier": "g/release-engineering/pom-manipulation-ext", 
+    "id": 23902753, 
+    "name": "release-engineering/pom-manipulation-ext"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/release-engineering/pom-manipulation-ext/snapshot/e97b410ac1fcf175976bbf15d0582e7152580f05/files/integration-test/src/it/project-inheritance/pom.xml#L1515", 
+        "line": 1515, 
+        "value": "repository", 
+        "file": "/integration-test/src/it/project-inheritance/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/release-engineering/pom-manipulation-ext/snapshot/e97b410ac1fcf175976bbf15d0582e7152580f05/files/integration-test/src/it/project-inheritance/pom.xml#L1527", 
+        "line": 1527, 
+        "value": "repository", 
+        "file": "/integration-test/src/it/project-inheritance/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/release-engineering/pom-manipulation-ext/snapshot/e97b410ac1fcf175976bbf15d0582e7152580f05/files/integration-test/src/it/project-inheritance/pom.xml#L1558", 
+        "line": 1558, 
+        "value": "pluginRepository", 
+        "file": "/integration-test/src/it/project-inheritance/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/release-engineering/pom-manipulation-ext/snapshot/e97b410ac1fcf175976bbf15d0582e7152580f05/files/integration-test/src/it/repo-removal-withlocal/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/integration-test/src/it/repo-removal-withlocal/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://::1/business-central/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/release-engineering/pom-manipulation-ext/snapshot/e97b410ac1fcf175976bbf15d0582e7152580f05/files/integration-test/src/it/repo-removal-withlocal/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/integration-test/src/it/repo-removal-withlocal/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.10.0.1/business-central/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

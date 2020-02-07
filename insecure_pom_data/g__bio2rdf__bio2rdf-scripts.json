@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bio2rdf/bio2rdf-scripts", 
+    "url-identifier": "g/bio2rdf/bio2rdf-scripts", 
+    "id": 1795472282, 
+    "name": "bio2rdf/bio2rdf-scripts"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bio2rdf/bio2rdf-scripts/snapshot/7b7589548a77da890ad29c642eb45692659d7b8c/files/pdb/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/pdb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aksw.org/repository/internal/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

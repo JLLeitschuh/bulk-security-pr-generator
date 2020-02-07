@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bigpandaio/bigpanda-jenkins-plugin", 
+    "url-identifier": "g/bigpandaio/bigpanda-jenkins-plugin", 
+    "id": 1509128067034, 
+    "name": "bigpandaio/bigpanda-jenkins-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bigpandaio/bigpanda-jenkins-plugin/snapshot/27cde0807fc659e6cf2f4f23811192e1cdaeb2f6/files/pom.xml#L42", 
+        "line": 42, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bigpandaio/bigpanda-jenkins-plugin/snapshot/27cde0807fc659e6cf2f4f23811192e1cdaeb2f6/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

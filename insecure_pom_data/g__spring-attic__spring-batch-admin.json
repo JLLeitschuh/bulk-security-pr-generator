@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/spring-attic/spring-batch-admin", 
+    "url-identifier": "g/spring-attic/spring-batch-admin", 
+    "id": 46510036, 
+    "name": "spring-attic/spring-batch-admin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-attic/spring-batch-admin/snapshot/199447576ec79cb070361e646aa5db73907e0bf7/files/spring-batch-admin-sample/pom.xml#L127", 
+        "line": 127, 
+        "value": "repository", 
+        "file": "/spring-batch-admin-sample/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://s3.amazonaws.com/maven.springframework.org/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

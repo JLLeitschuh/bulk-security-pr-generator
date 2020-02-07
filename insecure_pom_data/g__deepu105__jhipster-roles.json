@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/deepu105/jhipster-roles", 
+    "url-identifier": "g/deepu105/jhipster-roles", 
+    "id": 1506597519697, 
+    "name": "deepu105/jhipster-roles"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/deepu105/jhipster-roles/snapshot/b018cb78ed313834ec8752865e87ea0a8c422eb4/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/deepu105/jhipster-roles/snapshot/b018cb78ed313834ec8752865e87ea0a8c422eb4/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

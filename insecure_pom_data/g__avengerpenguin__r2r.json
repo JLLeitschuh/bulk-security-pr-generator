@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/avengerpenguin/r2r", 
+    "url-identifier": "g/avengerpenguin/r2r", 
+    "id": 1506132306128, 
+    "name": "avengerpenguin/r2r"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/avengerpenguin/r2r/snapshot/990942dfd90143ffc14b5d162461d3ee8cc2beff/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/avengerpenguin/r2r/snapshot/990942dfd90143ffc14b5d162461d3ee8cc2beff/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

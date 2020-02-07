@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/cafarm/transit-api-webapp", 
+    "url-identifier": "g/cafarm/transit-api-webapp", 
+    "id": 1506579338186, 
+    "name": "cafarm/transit-api-webapp"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cafarm/transit-api-webapp/snapshot/254d7e68c45a31b2d00b369388a17fce8e6a3302/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/glassfish"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cafarm/transit-api-webapp/snapshot/254d7e68c45a31b2d00b369388a17fce8e6a3302/files/pom.xml#L83", 
+        "line": 83, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/cafarm/transit-api-webapp/snapshot/254d7e68c45a31b2d00b369388a17fce8e6a3302/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

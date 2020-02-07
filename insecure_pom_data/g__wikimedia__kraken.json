@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wikimedia/kraken", 
+    "url-identifier": "g/wikimedia/kraken", 
+    "id": 1506710019950, 
+    "name": "wikimedia/kraken"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wikimedia/kraken/snapshot/d2d1a3b019ca6e0e7f9544a78aebb2254b84e3e4/files/maven/pom.xml#L62", 
+        "line": 62, 
+        "value": "snapshotRepository", 
+        "file": "/maven/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.wmflabs.org/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wikimedia/kraken/snapshot/d2d1a3b019ca6e0e7f9544a78aebb2254b84e3e4/files/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wikimedia/kraken/snapshot/d2d1a3b019ca6e0e7f9544a78aebb2254b84e3e4/files/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.wikimedia.org/repository/mirrored/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wikimedia/kraken/snapshot/d2d1a3b019ca6e0e7f9544a78aebb2254b84e3e4/files/pom.xml#L75", 
+        "line": 75, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wikimedia/kraken/snapshot/d2d1a3b019ca6e0e7f9544a78aebb2254b84e3e4/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.wikimedia.org/repository/mirrored/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wikimedia/kraken/snapshot/d2d1a3b019ca6e0e7f9544a78aebb2254b84e3e4/files/pom.xml#L92", 
+        "line": 92, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.wikimedia.org/repository/internal/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wikimedia/kraken/snapshot/d2d1a3b019ca6e0e7f9544a78aebb2254b84e3e4/files/pom.xml#L97", 
+        "line": 97, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://archiva.wikimedia.org/repository/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

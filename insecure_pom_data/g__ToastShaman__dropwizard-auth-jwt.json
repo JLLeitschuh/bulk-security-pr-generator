@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ToastShaman/dropwizard-auth-jwt", 
+    "url-identifier": "g/ToastShaman/dropwizard-auth-jwt", 
+    "id": 57480086, 
+    "name": "ToastShaman/dropwizard-auth-jwt"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ToastShaman/dropwizard-auth-jwt/snapshot/4c3384c8a697ad37dc793339f82a1f0f62760fae/files/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

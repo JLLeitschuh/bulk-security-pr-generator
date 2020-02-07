@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/stanbol", 
+    "url-identifier": "g/apache/stanbol", 
+    "id": 1794250133, 
+    "name": "apache/stanbol"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/stanbol/snapshot/6bb7a42efd8e966f0502604ee3acfb23434549c2/files/enhancement-engines/metaxa/pom.xml#L220", 
+        "line": 220, 
+        "value": "repository", 
+        "file": "/enhancement-engines/metaxa/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.aduna-software.org/maven2/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/stanbol/snapshot/6bb7a42efd8e966f0502604ee3acfb23434549c2/files/enhancement-engines/metaxa/pom.xml#L231", 
+        "line": 231, 
+        "value": "repository", 
+        "file": "/enhancement-engines/metaxa/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://aperture.sourceforge.net/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/stanbol/snapshot/6bb7a42efd8e966f0502604ee3acfb23434549c2/files/enhancement-engines/metaxa/pom.xml#L243", 
+        "line": 243, 
+        "value": "repository", 
+        "file": "/enhancement-engines/metaxa/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.dfki.de/~kasper/IKS/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

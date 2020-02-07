@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sanyarnd/applocker", 
+    "url-identifier": "g/sanyarnd/applocker", 
+    "id": 1509306199931, 
+    "name": "sanyarnd/applocker"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sanyarnd/applocker/snapshot/40f97357226b62770214cc628db6485350d0454e/files/pom.xml#L294", 
+        "line": 294, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sanyarnd/applocker/snapshot/40f97357226b62770214cc628db6485350d0454e/files/pom.xml#L299", 
+        "line": 299, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sanyarnd/applocker/snapshot/40f97357226b62770214cc628db6485350d0454e/files/pom.xml#L306", 
+        "line": 306, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://files.viva64.com/java/pvsstudio-maven-repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sanyarnd/applocker/snapshot/40f97357226b62770214cc628db6485350d0454e/files/pom.xml#L311", 
+        "line": 311, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sanyarnd/applocker/snapshot/40f97357226b62770214cc628db6485350d0454e/files/pom.xml#L316", 
+        "line": 316, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

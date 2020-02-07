@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/GeoLatte/geolatte-geom", 
+    "url-identifier": "g/GeoLatte/geolatte-geom", 
+    "id": 1509225325976, 
+    "name": "GeoLatte/geolatte-geom"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GeoLatte/geolatte-geom/snapshot/460b83be881e120c7f559e583060cd355c2cfd5d/files/pom.xml#L274", 
+        "line": 274, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/GeoLatte/geolatte-geom/snapshot/460b83be881e120c7f559e583060cd355c2cfd5d/files/pom.xml#L278", 
+        "line": 278, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

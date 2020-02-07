@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ethauvin/DataProviderTest", 
+    "url-identifier": "g/ethauvin/DataProviderTest", 
+    "id": 1510821078739, 
+    "name": "ethauvin/DataProviderTest"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ethauvin/DataProviderTest/snapshot/ad2b82012909e937257b2b384d887b32d939f260/files/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

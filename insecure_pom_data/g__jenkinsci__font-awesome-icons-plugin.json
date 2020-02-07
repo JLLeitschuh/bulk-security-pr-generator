@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/font-awesome-icons-plugin", 
+    "url-identifier": "g/jenkinsci/font-awesome-icons-plugin", 
+    "id": 1506581309930, 
+    "name": "jenkinsci/font-awesome-icons-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/font-awesome-icons-plugin/snapshot/f9a07b5bbb3a5778e9561db56a67d3befb0b4321/files/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/font-awesome-icons-plugin/snapshot/f9a07b5bbb3a5778e9561db56a67d3befb0b4321/files/pom.xml#L74", 
+        "line": 74, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

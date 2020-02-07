@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/digital-preservation/droid", 
+    "url-identifier": "g/digital-preservation/droid", 
+    "id": 42290219, 
+    "name": "digital-preservation/droid"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/digital-preservation/droid/snapshot/a89371819a97eefeaf438dee64ca014be431ff7a/files/droid-parent/pom.xml#L735", 
+        "line": 735, 
+        "value": "pluginRepository", 
+        "file": "/droid-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/digital-preservation/droid/snapshot/a89371819a97eefeaf438dee64ca014be431ff7a/files/droid-parent/pom.xml#L739", 
+        "line": 739, 
+        "value": "pluginRepository", 
+        "file": "/droid-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

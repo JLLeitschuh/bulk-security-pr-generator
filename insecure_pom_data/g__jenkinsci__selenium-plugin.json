@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/selenium-plugin", 
+    "url-identifier": "g/jenkinsci/selenium-plugin", 
+    "id": 33000095, 
+    "name": "jenkinsci/selenium-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/selenium-plugin/snapshot/49a10b026a5c2a8d6e705099a253321c8ddb84a4/files/pom.xml#L173", 
+        "line": 173, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/selenium-plugin/snapshot/49a10b026a5c2a8d6e705099a253321c8ddb84a4/files/pom.xml#L179", 
+        "line": 179, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

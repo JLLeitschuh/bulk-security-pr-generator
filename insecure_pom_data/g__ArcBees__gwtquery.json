@@ -1,0 +1,113 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ArcBees/gwtquery", 
+    "url-identifier": "g/ArcBees/gwtquery", 
+    "id": 30535209, 
+    "name": "ArcBees/gwtquery"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ArcBees/gwtquery/snapshot/2c13d65ca07fc5bde51dccd7f213843943519b97/files/archetype/src/main/resources/archetype-resources/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ArcBees/gwtquery/snapshot/2c13d65ca07fc5bde51dccd7f213843943519b97/files/archetype/src/main/resources/archetype-resources/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://gwtquery-plugins.googlecode.com/svn/mavenrepo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ArcBees/gwtquery/snapshot/2c13d65ca07fc5bde51dccd7f213843943519b97/files/archetype/src/main/resources/archetype-resources/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ArcBees/gwtquery/snapshot/2c13d65ca07fc5bde51dccd7f213843943519b97/files/archetype/src/main/resources/archetype-resources/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.glassfish.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ArcBees/gwtquery/snapshot/2c13d65ca07fc5bde51dccd7f213843943519b97/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ArcBees/gwtquery/snapshot/2c13d65ca07fc5bde51dccd7f213843943519b97/files/pom.xml#L140", 
+        "line": 140, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ArcBees/gwtquery/snapshot/2c13d65ca07fc5bde51dccd7f213843943519b97/files/pom.xml#L147", 
+        "line": 147, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ArcBees/gwtquery/snapshot/2c13d65ca07fc5bde51dccd7f213843943519b97/files/pom.xml#L153", 
+        "line": 153, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/google-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ArcBees/gwtquery/snapshot/2c13d65ca07fc5bde51dccd7f213843943519b97/files/pom.xml#L159", 
+        "line": 159, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://gwtquery-plugins.googlecode.com/svn/mavenrepo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

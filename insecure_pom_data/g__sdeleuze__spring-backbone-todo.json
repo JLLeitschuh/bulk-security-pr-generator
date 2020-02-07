@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sdeleuze/spring-backbone-todo", 
+    "url-identifier": "g/sdeleuze/spring-backbone-todo", 
+    "id": 1506685387198, 
+    "name": "sdeleuze/spring-backbone-todo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sdeleuze/spring-backbone-todo/snapshot/a34f51f627d2f6ae940108733bd322d9a431f0ea/files/pom.xml#L130", 
+        "line": 130, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/release/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

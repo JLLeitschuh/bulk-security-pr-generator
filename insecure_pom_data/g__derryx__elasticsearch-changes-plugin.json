@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/derryx/elasticsearch-changes-plugin", 
+    "url-identifier": "g/derryx/elasticsearch-changes-plugin", 
+    "id": 41440102, 
+    "name": "derryx/elasticsearch-changes-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/derryx/elasticsearch-changes-plugin/snapshot/6e56d7ba5315e3adfa43ef6d4aa5f44ff1e18342/files/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/derryx/elasticsearch-changes-plugin/snapshot/6e56d7ba5315e3adfa43ef6d4aa5f44ff1e18342/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

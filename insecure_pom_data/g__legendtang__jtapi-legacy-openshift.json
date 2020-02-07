@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/legendtang/jtapi-legacy-openshift", 
+    "url-identifier": "g/legendtang/jtapi-legacy-openshift", 
+    "id": 1509246886079, 
+    "name": "legendtang/jtapi-legacy-openshift"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/legendtang/jtapi-legacy-openshift/snapshot/52f94809bd5ab26b3c5e064ed392a2ddbcbdafc6/files/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.repository.redhat.com/techpreview/all"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/legendtang/jtapi-legacy-openshift/snapshot/52f94809bd5ab26b3c5e064ed392a2ddbcbdafc6/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.repository.redhat.com/techpreview/all"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

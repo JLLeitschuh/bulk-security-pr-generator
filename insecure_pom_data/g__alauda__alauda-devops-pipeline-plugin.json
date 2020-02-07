@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/alauda/alauda-devops-pipeline-plugin", 
+    "url-identifier": "g/alauda/alauda-devops-pipeline-plugin", 
+    "id": 1509194447481, 
+    "name": "alauda/alauda-devops-pipeline-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alauda/alauda-devops-pipeline-plugin/snapshot/091758c6541fe47d8186d6c1422cfdbf5d1d545e/files/pom.xml#L110", 
+        "line": 110, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/alauda/alauda-devops-pipeline-plugin/snapshot/091758c6541fe47d8186d6c1422cfdbf5d1d545e/files/pom.xml#L126", 
+        "line": 126, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

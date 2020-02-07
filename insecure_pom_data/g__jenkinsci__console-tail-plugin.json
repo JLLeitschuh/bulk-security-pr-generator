@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/console-tail-plugin", 
+    "url-identifier": "g/jenkinsci/console-tail-plugin", 
+    "id": 1506688915985, 
+    "name": "jenkinsci/console-tail-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/console-tail-plugin/snapshot/2d1dcced215d5558ebaf8fd27b463902d824dea2/files/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/console-tail-plugin/snapshot/2d1dcced215d5558ebaf8fd27b463902d824dea2/files/pom.xml#L84", 
+        "line": 84, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

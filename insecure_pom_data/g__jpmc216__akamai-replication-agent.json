@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jpmc216/akamai-replication-agent", 
+    "url-identifier": "g/jpmc216/akamai-replication-agent", 
+    "id": 1506591620115, 
+    "name": "jpmc216/akamai-replication-agent"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jpmc216/akamai-replication-agent/snapshot/72762798473d80bc7ef26783bd7a69ff1c348a71/files/akamai.replication.agent/pom.xml#L113", 
+        "line": 113, 
+        "value": "repository", 
+        "file": "/akamai.replication.agent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.adobe.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jpmc216/akamai-replication-agent/snapshot/72762798473d80bc7ef26783bd7a69ff1c348a71/files/akamai.replication.agent/pom.xml#L121", 
+        "line": 121, 
+        "value": "pluginRepository", 
+        "file": "/akamai.replication.agent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.adobe.com/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Comcast/hlsparserj", 
+    "url-identifier": "g/Comcast/hlsparserj", 
+    "id": 1506601097863, 
+    "name": "Comcast/hlsparserj"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Comcast/hlsparserj/snapshot/5a846a02db32b0dbddaadf11cad7b2b7d1443fd2/files/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Comcast/hlsparserj/snapshot/5a846a02db32b0dbddaadf11cad7b2b7d1443fd2/files/pom.xml#L79", 
+        "line": 79, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

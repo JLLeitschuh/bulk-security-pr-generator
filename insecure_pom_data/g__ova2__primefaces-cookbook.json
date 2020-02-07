@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ova2/primefaces-cookbook", 
+    "url-identifier": "g/ova2/primefaces-cookbook", 
+    "id": 1800220466, 
+    "name": "ova2/primefaces-cookbook"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ova2/primefaces-cookbook/snapshot/d11418b44bc36233bc64f5fc04dc6821044bd731/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.primefaces.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

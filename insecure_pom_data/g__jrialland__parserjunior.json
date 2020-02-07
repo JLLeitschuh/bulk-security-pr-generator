@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jrialland/parserjunior", 
+    "url-identifier": "g/jrialland/parserjunior", 
+    "id": 1510662698362, 
+    "name": "jrialland/parserjunior"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jrialland/parserjunior/snapshot/a877cc4a0dad60ba08bcd7e07ebf11e55cdaaa42/files/old/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/old/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

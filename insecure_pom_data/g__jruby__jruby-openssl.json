@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jruby/jruby-openssl", 
+    "url-identifier": "g/jruby/jruby-openssl", 
+    "id": 27820005, 
+    "name": "jruby/jruby-openssl"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jruby/jruby-openssl/snapshot/1b085ee13c4ec9021854cd37d39861c1e593afee/files/integration/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/integration/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://ci.jruby.org/snapshots/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jruby/jruby-openssl/snapshot/1b085ee13c4ec9021854cd37d39861c1e593afee/files/integration/pom.xml#L33", 
+        "line": 33, 
+        "value": "pluginRepository", 
+        "file": "/integration/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

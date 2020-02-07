@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/AKuznetsov/russianmorphology", 
+    "url-identifier": "g/AKuznetsov/russianmorphology", 
+    "id": 1506712018347, 
+    "name": "AKuznetsov/russianmorphology"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AKuznetsov/russianmorphology/snapshot/f84ff28e1364c8eb6768cf1b59654f14ca84a307/files/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AKuznetsov/russianmorphology/snapshot/f84ff28e1364c8eb6768cf1b59654f14ca84a307/files/pom.xml#L70", 
+        "line": 70, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/akuznetsov/russianmorphology"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AKuznetsov/russianmorphology/snapshot/f84ff28e1364c8eb6768cf1b59654f14ca84a307/files/pom.xml#L83", 
+        "line": 83, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mc-repo.googlecode.com/svn/maven2/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

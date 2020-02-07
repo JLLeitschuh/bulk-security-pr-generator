@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/pereferrera/trident-hackaton", 
+    "url-identifier": "g/pereferrera/trident-hackaton", 
+    "id": 49820027, 
+    "name": "pereferrera/trident-hackaton"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pereferrera/trident-hackaton/snapshot/2cc892d066dd5f427f29fa524521624c1c9ad33f/files/pom.xml#L17", 
+        "line": 17, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/github-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pereferrera/trident-hackaton/snapshot/2cc892d066dd5f427f29fa524521624c1c9ad33f/files/pom.xml#L21", 
+        "line": 21, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/pereferrera/trident-hackaton/snapshot/2cc892d066dd5f427f29fa524521624c1c9ad33f/files/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://twitter4j.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

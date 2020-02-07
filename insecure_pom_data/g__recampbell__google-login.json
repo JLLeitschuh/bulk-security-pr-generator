@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/recampbell/google-login", 
+    "url-identifier": "g/recampbell/google-login", 
+    "id": 1509240725990, 
+    "name": "recampbell/google-login"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/recampbell/google-login/snapshot/017a6bcc7dbf6068cb549a577e4872ac2c82627f/files/pom.xml#L59", 
+        "line": 59, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/recampbell/google-login/snapshot/017a6bcc7dbf6068cb549a577e4872ac2c82627f/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

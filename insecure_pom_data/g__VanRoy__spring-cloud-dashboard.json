@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/VanRoy/spring-cloud-dashboard", 
+    "url-identifier": "g/VanRoy/spring-cloud-dashboard", 
+    "id": 1798049208, 
+    "name": "VanRoy/spring-cloud-dashboard"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/VanRoy/spring-cloud-dashboard/snapshot/4a6ecd231eef4a9dde47c351c9f69526c4717e52/files/pom.xml#L166", 
+        "line": 166, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/VanRoy/spring-cloud-dashboard/snapshot/4a6ecd231eef4a9dde47c351c9f69526c4717e52/files/pom.xml#L174", 
+        "line": 174, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/JimmyU1/IShare", 
+    "url-identifier": "g/JimmyU1/IShare", 
+    "id": 1505888478212, 
+    "name": "JimmyU1/IShare"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JimmyU1/IShare/snapshot/3ebd4fede90997613114e82375287ab51b9eb098/files/pom.xml#L13", 
+        "line": 13, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JimmyU1/IShare/snapshot/3ebd4fede90997613114e82375287ab51b9eb098/files/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://code.alibabatech.com/mvn/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/JimmyU1/IShare/snapshot/3ebd4fede90997613114e82375287ab51b9eb098/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://code.alibabatech.com/mvn/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

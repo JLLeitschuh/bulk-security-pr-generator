@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ashwini-anand/custom-detector-tika", 
+    "url-identifier": "g/ashwini-anand/custom-detector-tika", 
+    "id": 1507177656147, 
+    "name": "ashwini-anand/custom-detector-tika"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ashwini-anand/custom-detector-tika/snapshot/562c9c1ceff858d2055a0ca380bd1858dd0fb3d6/files/tika-1.14/tika-server/pom.xml#L36", 
+        "line": 36, 
+        "value": "pluginRepository", 
+        "file": "/tika-1.14/tika-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.qmino.com/content/repositories/miredot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

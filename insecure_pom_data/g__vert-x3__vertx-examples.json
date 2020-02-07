@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/vert-x3/vertx-examples", 
+    "url-identifier": "g/vert-x3/vertx-examples", 
+    "id": 43530095, 
+    "name": "vert-x3/vertx-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vert-x3/vertx-examples/snapshot/10b13832c49f1868ab6cc7baa1e6b3c235221388/files/jca-examples/pom.xml#L135", 
+        "line": 135, 
+        "value": "pluginRepository", 
+        "file": "/jca-examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

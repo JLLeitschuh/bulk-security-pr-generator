@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/bixo/bixo", 
+    "url-identifier": "g/bixo/bixo", 
+    "id": 1506780096104, 
+    "name": "bixo/bixo"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bixo/bixo/snapshot/3160a39dfea6d2d4c6ba0e37d01a587f50932a5e/files/contrib/helpful/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/contrib/helpful/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bixo/bixo/snapshot/3160a39dfea6d2d4c6ba0e37d01a587f50932a5e/files/examples/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/examples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bixo/bixo/snapshot/3160a39dfea6d2d4c6ba0e37d01a587f50932a5e/files/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bixo/bixo/snapshot/3160a39dfea6d2d4c6ba0e37d01a587f50932a5e/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://builds.archive.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/bixo/bixo/snapshot/3160a39dfea6d2d4c6ba0e37d01a587f50932a5e/files/tools/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/tools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/john-westcott-iv/ansible-tower-plugin", 
+    "url-identifier": "g/john-westcott-iv/ansible-tower-plugin", 
+    "id": 1509236706089, 
+    "name": "john-westcott-iv/ansible-tower-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/john-westcott-iv/ansible-tower-plugin/snapshot/26a62d918001823fd65e4791f258db2bf8855fc9/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/john-westcott-iv/ansible-tower-plugin/snapshot/26a62d918001823fd65e4791f258db2bf8855fc9/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

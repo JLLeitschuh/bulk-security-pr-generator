@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/james-project", 
+    "url-identifier": "g/apache/james-project", 
+    "id": 5980301, 
+    "name": "apache/james-project"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/james-project/snapshot/a39e834c39ec3de89060af288bc7a6bcda9a08aa/files/mailbox/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/mailbox/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

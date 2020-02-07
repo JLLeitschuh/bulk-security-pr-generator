@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/marcelo-mason/SimpleClans", 
+    "url-identifier": "g/marcelo-mason/SimpleClans", 
+    "id": 990022, 
+    "name": "marcelo-mason/SimpleClans"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/marcelo-mason/SimpleClans/snapshot/26db88aecc157a9636081d3156fbce0a6c814b8a/files/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.hc.to/content/repositories/pub_releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/marcelo-mason/SimpleClans/snapshot/26db88aecc157a9636081d3156fbce0a6c814b8a/files/pom.xml#L113", 
+        "line": 113, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://104.236.246.108:8081/artifactory/plugins-release-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/marcelo-mason/SimpleClans/snapshot/26db88aecc157a9636081d3156fbce0a6c814b8a/files/pom.xml#L118", 
+        "line": 118, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://104.236.246.108:8081/artifactory/plugins-release-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

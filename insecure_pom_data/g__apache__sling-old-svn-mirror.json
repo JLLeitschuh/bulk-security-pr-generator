@@ -1,0 +1,69 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/sling-old-svn-mirror", 
+    "url-identifier": "g/apache/sling-old-svn-mirror", 
+    "id": 17070030, 
+    "name": "apache/sling-old-svn-mirror"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/sling-old-svn-mirror/snapshot/7b7bdd94a054836ee0d78a1e7e5b16d03a8bff5f/files/contrib/extensions/cassandra/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/contrib/extensions/cassandra/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/repo/m2-incubating-repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/sling-old-svn-mirror/snapshot/7b7bdd94a054836ee0d78a1e7e5b16d03a8bff5f/files/contrib/extensions/cassandra/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/contrib/extensions/cassandra/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/sling-old-svn-mirror/snapshot/7b7bdd94a054836ee0d78a1e7e5b16d03a8bff5f/files/contrib/launchpad/debian/pom.xml#L154", 
+        "line": 154, 
+        "value": "repository", 
+        "file": "/contrib/launchpad/debian/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.ops4j.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/sling-old-svn-mirror/snapshot/7b7bdd94a054836ee0d78a1e7e5b16d03a8bff5f/files/parent/pom.xml#L1196", 
+        "line": 1196, 
+        "value": "pluginRepository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/sling-old-svn-mirror/snapshot/7b7bdd94a054836ee0d78a1e7e5b16d03a8bff5f/files/tooling/ide/pom.xml#L193", 
+        "line": 193, 
+        "value": "pluginRepository", 
+        "file": "/tooling/ide/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

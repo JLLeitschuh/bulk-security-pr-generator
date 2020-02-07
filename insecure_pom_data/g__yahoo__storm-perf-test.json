@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yahoo/storm-perf-test", 
+    "url-identifier": "g/yahoo/storm-perf-test", 
+    "id": 41240151, 
+    "name": "yahoo/storm-perf-test"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/storm-perf-test/snapshot/63c7721dd26e2c8450005eda45a52c99870f635d/files/pom.xml#L33", 
+        "line": 33, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/github-releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yahoo/storm-perf-test/snapshot/63c7721dd26e2c8450005eda45a52c99870f635d/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/anylogic/alogic", 
+    "url-identifier": "g/anylogic/alogic", 
+    "id": 960047, 
+    "name": "anylogic/alogic"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/anylogic/alogic/snapshot/f7140c7c58f72a539a4342bafa75d3d62ac72616/files/pom.xml#L62", 
+        "line": 62, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://10.142.90.52:8002/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

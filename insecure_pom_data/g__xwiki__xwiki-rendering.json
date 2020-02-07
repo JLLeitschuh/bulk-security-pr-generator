@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/xwiki/xwiki-rendering", 
+    "url-identifier": "g/xwiki/xwiki-rendering", 
+    "id": 1510263106191, 
+    "name": "xwiki/xwiki-rendering"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xwiki/xwiki-rendering/snapshot/12c1ad8814c8c095033caecadd79041bf1eedda6/files/pom.xml#L278", 
+        "line": 278, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xwiki.org/nexus/content/groups/public-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xwiki/xwiki-rendering/snapshot/12c1ad8814c8c095033caecadd79041bf1eedda6/files/pom.xml#L289", 
+        "line": 289, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xwiki.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xwiki/xwiki-rendering/snapshot/12c1ad8814c8c095033caecadd79041bf1eedda6/files/pom.xml#L302", 
+        "line": 302, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xwiki.org/nexus/content/groups/public-snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xwiki/xwiki-rendering/snapshot/12c1ad8814c8c095033caecadd79041bf1eedda6/files/pom.xml#L313", 
+        "line": 313, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.xwiki.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

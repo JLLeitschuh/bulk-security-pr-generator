@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/michaeljfazio/hp-quality-center-plugin", 
+    "url-identifier": "g/michaeljfazio/hp-quality-center-plugin", 
+    "id": 1509235446838, 
+    "name": "michaeljfazio/hp-quality-center-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/michaeljfazio/hp-quality-center-plugin/snapshot/99f05711ccecc146035fe2595c2a6f68b2065a74/files/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/michaeljfazio/hp-quality-center-plugin/snapshot/99f05711ccecc146035fe2595c2a6f68b2065a74/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

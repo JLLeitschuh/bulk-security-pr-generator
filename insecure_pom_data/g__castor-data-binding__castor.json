@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/castor-data-binding/castor", 
+    "url-identifier": "g/castor-data-binding/castor", 
+    "id": 1505781277092, 
+    "name": "castor-data-binding/castor"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/castor-data-binding/castor/snapshot/6d0f62d086d3c43ec5b24eb33f682574f14baceb/files/doc/pom.xml#L25", 
+        "line": 25, 
+        "value": "pluginRepository", 
+        "file": "/doc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://agilejava.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

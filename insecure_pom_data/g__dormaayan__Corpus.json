@@ -1,0 +1,1136 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dormaayan/Corpus", 
+    "url-identifier": "g/dormaayan/Corpus", 
+    "id": 1507317596361, 
+    "name": "dormaayan/Corpus"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/CraftBukkit/Current/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/GL/CraftBukkit/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.bukkit.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/CraftBukkit/Current/pom.xml#L33", 
+        "line": 33, 
+        "value": "snapshotRepository", 
+        "file": "/GL/CraftBukkit/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.bukkit.org/content/repositories/snapshots/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/CraftBukkit/Current/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/GL/CraftBukkit/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.bukkit.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/CraftBukkit/Current/pom.xml#L48", 
+        "line": 48, 
+        "value": "pluginRepository", 
+        "file": "/GL/CraftBukkit/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.bukkit.org/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/Essentials/Current/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/GL/Essentials/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.ess3.net/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/Essentials/Current/pom.xml#L50", 
+        "line": 50, 
+        "value": "snapshotRepository", 
+        "file": "/GL/Essentials/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.ess3.net/content/repositories/essdev"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/Essentials/Current/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/GL/Essentials/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.ess3.net/content/repositories/essrel"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/atmosphere/Current/pom.xml#L399", 
+        "line": 399, 
+        "value": "repository", 
+        "file": "/GL/atmosphere/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/atmosphere/Current/pom.xml#L403", 
+        "line": 403, 
+        "value": "repository", 
+        "file": "/GL/atmosphere/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/atmosphere/Current/pom.xml#L416", 
+        "line": 416, 
+        "value": "repository", 
+        "file": "/GL/atmosphere/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/atmosphere/Current/pom.xml#L421", 
+        "line": 421, 
+        "value": "repository", 
+        "file": "/GL/atmosphere/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/cucumber-jvm/Current/pom.xml#L486", 
+        "line": 486, 
+        "value": "repository", 
+        "file": "/GL/cucumber-jvm/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/cucumber-jvm/Current/pom.xml#L491", 
+        "line": 491, 
+        "value": "repository", 
+        "file": "/GL/cucumber-jvm/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://gosu-lang.org/repositories/m2/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/docx4j/atmosphere/Current/pom.xml#L382", 
+        "line": 382, 
+        "value": "repository", 
+        "file": "/GL/docx4j/atmosphere/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/docx4j/atmosphere/Current/pom.xml#L386", 
+        "line": 386, 
+        "value": "repository", 
+        "file": "/GL/docx4j/atmosphere/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/docx4j/atmosphere/Current/pom.xml#L399", 
+        "line": 399, 
+        "value": "repository", 
+        "file": "/GL/docx4j/atmosphere/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/docx4j/atmosphere/Current/pom.xml#L404", 
+        "line": 404, 
+        "value": "repository", 
+        "file": "/GL/docx4j/atmosphere/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://snapshots.repository.codehaus.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/elasticsearch/Current/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/GL/elasticsearch/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/hadoop-common/Current/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/GL/hadoop-common/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/hbase/Current/pom.xml#L399", 
+        "line": 399, 
+        "value": "repository", 
+        "file": "/GL/hbase/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/hbase/Current/pom.xml#L410", 
+        "line": 410, 
+        "value": "repository", 
+        "file": "/GL/hbase/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/hbase/Current/pom.xml#L421", 
+        "line": 421, 
+        "value": "repository", 
+        "file": "/GL/hbase/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/hbase/Current/pom.xml#L428", 
+        "line": 428, 
+        "value": "repository", 
+        "file": "/GL/hbase/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/~garyh/mvn/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/hbase/Current/pom.xml#L441", 
+        "line": 441, 
+        "value": "pluginRepository", 
+        "file": "/GL/hbase/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://people.apache.org/~garyh/mvn/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/openmrs-core/Current/pom.xml#L969", 
+        "line": 969, 
+        "value": "repository", 
+        "file": "/GL/openmrs-core/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/openmrs-core/Current/pom.xml#L977", 
+        "line": 977, 
+        "value": "pluginRepository", 
+        "file": "/GL/openmrs-core/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/openmrs-core/Current/pom.xml#L988", 
+        "line": 988, 
+        "value": "repository", 
+        "file": "/GL/openmrs-core/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/openmrs-core/Current/pom.xml#L993", 
+        "line": 993, 
+        "value": "snapshotRepository", 
+        "file": "/GL/openmrs-core/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mavenrepo.openmrs.org/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/titan/Current/titan-berkeleyje/pom.xml#L16", 
+        "line": 16, 
+        "value": "repository", 
+        "file": "/GL/titan/Current/titan-berkeleyje/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/wildfly/Current/pom.xml#L6492", 
+        "line": 6492, 
+        "value": "repository", 
+        "file": "/GL/wildfly/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/wildfly/Current/pom.xml#L6509", 
+        "line": 6509, 
+        "value": "pluginRepository", 
+        "file": "/GL/wildfly/Current/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/wildfly/Current/testsuite/compat/pom.xml#L319", 
+        "line": 319, 
+        "value": "repository", 
+        "file": "/GL/wildfly/Current/testsuite/compat/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/GL/wildfly/Current/testsuite/pom.xml#L702", 
+        "line": 702, 
+        "value": "repository", 
+        "file": "/GL/wildfly/Current/testsuite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.qa.jboss.com:8081/nexus/content/repositories/thirdparty"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/dropwizard/dropwizard-example/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/Java/dropwizard/dropwizard-example/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/dropwizard/pom.xml#L216", 
+        "line": 216, 
+        "value": "repository", 
+        "file": "/Java/dropwizard/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/dropwizard/pom.xml#L230", 
+        "line": 230, 
+        "value": "snapshotRepository", 
+        "file": "/Java/dropwizard/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/druid/extensions-contrib/ambari-metrics-emitter/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/Java/druid/extensions-contrib/ambari-metrics-emitter/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.hortonworks.com/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/druid/extensions-core/avro-extensions/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/Java/druid/extensions-core/avro-extensions/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://packages.confluent.io/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/java-design-patterns/naked-objects/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/Java/java-design-patterns/naked-objects/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository-estatio.forge.cloudbees.com/snapshot/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/examples/annotation-processor-example/pom.xml#L84", 
+        "line": 84, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/examples/annotation-processor-example/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/examples/browser-example/pom.xml#L162", 
+        "line": 162, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/examples/browser-example/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.fusesource.com/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/examples/kotlin-gradle-subplugin-example/pom.xml#L97", 
+        "line": 97, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/examples/kotlin-gradle-subplugin-example/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-allopen/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-allopen/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-android-extensions/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-android-extensions/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-annotation-processing/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-annotation-processing/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-gradle-plugin/gradle_api_jar/pom.xml#L46", 
+        "line": 46, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-gradle-plugin/gradle_api_jar/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-gradle-plugin/pom.xml#L186", 
+        "line": 186, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-gradle-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-gradle-plugin/pom.xml#L190", 
+        "line": 190, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-gradle-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-gradle-plugin-api/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-gradle-plugin-api/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/pom.xml#L162", 
+        "line": 162, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/pom.xml#L166", 
+        "line": 166, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-maven-allopen/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-maven-allopen/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-maven-noarg/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-maven-noarg/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-noarg/pom.xml#L29", 
+        "line": 29, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-noarg/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-script-util/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-script-util/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jetbrains.com/utils"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-stdlib-gen/pom.xml#L25", 
+        "line": 25, 
+        "value": "repository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-stdlib-gen/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/kotlin/kotlin-eap-1.1"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/kotlin/libraries/tools/kotlin-stdlib-gen/pom.xml#L33", 
+        "line": 33, 
+        "value": "pluginRepository", 
+        "file": "/Java/kotlin/libraries/tools/kotlin-stdlib-gen/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/kotlin/kotlin-eap-1.1"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/metrics/pom.xml#L97", 
+        "line": 97, 
+        "value": "snapshotRepository", 
+        "file": "/Java/metrics/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/metrics/pom.xml#L102", 
+        "line": 102, 
+        "value": "repository", 
+        "file": "/Java/metrics/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/community/server/pom.xml#L537", 
+        "line": 537, 
+        "value": "repository", 
+        "file": "/Java/neo4j/community/server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/groups/everything/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/community/server/pom.xml#L547", 
+        "line": 547, 
+        "value": "repository", 
+        "file": "/Java/neo4j/community/server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/community/server/pom.xml#L551", 
+        "line": 551, 
+        "value": "repository", 
+        "file": "/Java/neo4j/community/server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/community/server/pom.xml#L562", 
+        "line": 562, 
+        "value": "repository", 
+        "file": "/Java/neo4j/community/server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/community/server/pom.xml#L576", 
+        "line": 576, 
+        "value": "pluginRepository", 
+        "file": "/Java/neo4j/community/server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jsdoctk-plugin.googlecode.com/svn/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/enterprise/cypher/compatibility-spec-suite/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/Java/neo4j/enterprise/cypher/compatibility-spec-suite/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/enterprise/cypher/spec-suite-tools/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/Java/neo4j/enterprise/cypher/spec-suite-tools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/enterprise/server-enterprise/pom.xml#L295", 
+        "line": 295, 
+        "value": "repository", 
+        "file": "/Java/neo4j/enterprise/server-enterprise/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/groups/everything/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/enterprise/server-enterprise/pom.xml#L305", 
+        "line": 305, 
+        "value": "repository", 
+        "file": "/Java/neo4j/enterprise/server-enterprise/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/enterprise/server-enterprise/pom.xml#L316", 
+        "line": 316, 
+        "value": "repository", 
+        "file": "/Java/neo4j/enterprise/server-enterprise/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/packaging/standalone/pom.xml#L279", 
+        "line": 279, 
+        "value": "repository", 
+        "file": "/Java/neo4j/packaging/standalone/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/neo4j/packaging/standalone/pom.xml#L290", 
+        "line": 290, 
+        "value": "repository", 
+        "file": "/Java/neo4j/packaging/standalone/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://m2.neo4j.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-dependencies/pom.xml#L2626", 
+        "line": 2626, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-dependencies/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-dependencies/pom.xml#L2634", 
+        "line": 2634, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-dependencies/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-integration-tests/spring-boot-gradle-tests/pom.xml#L76", 
+        "line": 76, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-integration-tests/spring-boot-gradle-tests/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.gradle.org/gradle/libs-releases-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L653", 
+        "line": 653, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/ext-release-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L663", 
+        "line": 663, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L671", 
+        "line": 671, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L689", 
+        "line": 689, 
+        "value": "pluginRepository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L697", 
+        "line": 697, 
+        "value": "pluginRepository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L718", 
+        "line": 718, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/ext-release-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L728", 
+        "line": 728, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L736", 
+        "line": 736, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L754", 
+        "line": 754, 
+        "value": "pluginRepository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L762", 
+        "line": 762, 
+        "value": "pluginRepository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L802", 
+        "line": 802, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/ext-release-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L812", 
+        "line": 812, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L820", 
+        "line": 820, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L838", 
+        "line": 838, 
+        "value": "pluginRepository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L846", 
+        "line": 846, 
+        "value": "pluginRepository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L859", 
+        "line": 859, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/ext-release-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-parent/pom.xml#L892", 
+        "line": 892, 
+        "value": "pluginRepository", 
+        "file": "/Java/spring-boot/spring-boot-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://objectstyle.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-samples/pom.xml#L228", 
+        "line": 228, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-samples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-samples/pom.xml#L236", 
+        "line": 236, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-samples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-samples/pom.xml#L246", 
+        "line": 246, 
+        "value": "pluginRepository", 
+        "file": "/Java/spring-boot/spring-boot-samples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-samples/pom.xml#L254", 
+        "line": 254, 
+        "value": "pluginRepository", 
+        "file": "/Java/spring-boot/spring-boot-samples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-samples/pom.xml#L262", 
+        "line": 262, 
+        "value": "pluginRepository", 
+        "file": "/Java/spring-boot/spring-boot-samples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-samples/spring-boot-sample-custom-layout/pom.xml#L100", 
+        "line": 100, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-samples/spring-boot-sample-custom-layout/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.gradle.org/gradle/libs-releases-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/spring-boot/spring-boot-tools/spring-boot-gradle-plugin/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/Java/spring-boot/spring-boot-tools/spring-boot-gradle-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.gradle.org/gradle/libs-releases-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/Java/zipkin/pom.xml#L130", 
+        "line": 130, 
+        "value": "snapshotRepository", 
+        "file": "/Java/zipkin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/gora-master/gora-couchdb/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/gora-master/gora-couchdb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/gora-master/gora-solr/pom.xml#L87", 
+        "line": 87, 
+        "value": "repository", 
+        "file": "/gora-master/gora-solr/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dormaayan/Corpus/snapshot/473dd556d4e8a04554d853bdd6d774411ab3d066/files/gora-master/gora-solr-5/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/gora-master/gora-solr-5/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

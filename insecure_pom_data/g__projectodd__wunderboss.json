@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/projectodd/wunderboss", 
+    "url-identifier": "g/projectodd/wunderboss", 
+    "id": 14160035, 
+    "name": "projectodd/wunderboss"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/projectodd/wunderboss/snapshot/ac8b0388515783b2c04558e2e366758160b7909d/files/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://clojars.org/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

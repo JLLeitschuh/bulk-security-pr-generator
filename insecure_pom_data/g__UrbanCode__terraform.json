@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/UrbanCode/terraform", 
+    "url-identifier": "g/UrbanCode/terraform", 
+    "id": 59890065, 
+    "name": "UrbanCode/terraform"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/UrbanCode/terraform/snapshot/a485c1b51e4e977bd4c90cb0eeda9dc22bf5276e/files/pom.xml#L192", 
+        "line": 192, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/AlmasB/FXGL", 
+    "url-identifier": "g/AlmasB/FXGL", 
+    "id": 1793641126, 
+    "name": "AlmasB/FXGL"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AlmasB/FXGL/snapshot/49fa130d89ced4542baf8ab775f541c63b574e7d/files/fxgl-nativesamples/pom.xml#L41", 
+        "line": 41, 
+        "value": "pluginRepository", 
+        "file": "/fxgl-nativesamples/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.gluonhq.com/nexus/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/AlmasB/FXGL/snapshot/49fa130d89ced4542baf8ab775f541c63b574e7d/files/fxgl-tools/pom.xml#L53", 
+        "line": 53, 
+        "value": "pluginRepository", 
+        "file": "/fxgl-tools/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.gluonhq.com/nexus/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

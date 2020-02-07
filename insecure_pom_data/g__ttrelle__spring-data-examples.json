@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ttrelle/spring-data-examples", 
+    "url-identifier": "g/ttrelle/spring-data-examples", 
+    "id": 49760033, 
+    "name": "ttrelle/spring-data-examples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ttrelle/spring-data-examples/snapshot/8262f8bd0ad56c00d5590ca897bbe60d77f99946/files/springdata-mongodb/pom.xml#L65", 
+        "line": 65, 
+        "value": "repository", 
+        "file": "/springdata-mongodb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/libs-snapshot"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

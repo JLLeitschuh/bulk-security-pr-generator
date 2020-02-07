@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/spring-projects/spring-analytics", 
+    "url-identifier": "g/spring-projects/spring-analytics", 
+    "id": 2117260484, 
+    "name": "spring-projects/spring-analytics"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-analytics/snapshot/1d43aed25eb97c738bd4c303b7815898c165b657/files/pom.xml#L183", 
+        "line": 183, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-analytics/snapshot/1d43aed25eb97c738bd4c303b7815898c165b657/files/pom.xml#L191", 
+        "line": 191, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-milestone-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-analytics/snapshot/1d43aed25eb97c738bd4c303b7815898c165b657/files/pom.xml#L199", 
+        "line": 199, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-analytics/snapshot/1d43aed25eb97c738bd4c303b7815898c165b657/files/pom.xml#L207", 
+        "line": 207, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-release"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-analytics/snapshot/1d43aed25eb97c738bd4c303b7815898c165b657/files/pom.xml#L215", 
+        "line": 215, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-analytics/snapshot/1d43aed25eb97c738bd4c303b7815898c165b657/files/pom.xml#L225", 
+        "line": 225, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-snapshot-local"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/spring-projects/spring-analytics/snapshot/1d43aed25eb97c738bd4c303b7815898c165b657/files/pom.xml#L233", 
+        "line": 233, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-milestone-local"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

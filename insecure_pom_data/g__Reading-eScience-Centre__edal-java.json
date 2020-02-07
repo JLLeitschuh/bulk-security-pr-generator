@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Reading-eScience-Centre/edal-java", 
+    "url-identifier": "g/Reading-eScience-Centre/edal-java", 
+    "id": 19554316, 
+    "name": "Reading-eScience-Centre/edal-java"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Reading-eScience-Centre/edal-java/snapshot/f6dbf9cc2569f17225470575a81dd6286ec4edcd/files/common/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/common/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Reading-eScience-Centre/edal-java/snapshot/f6dbf9cc2569f17225470575a81dd6286ec4edcd/files/common/pom.xml#L51", 
+        "line": 51, 
+        "value": "repository", 
+        "file": "/common/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Reading-eScience-Centre/edal-java/snapshot/f6dbf9cc2569f17225470575a81dd6286ec4edcd/files/common/pom.xml#L55", 
+        "line": 55, 
+        "value": "repository", 
+        "file": "/common/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.osgeo.org/webdav/geotools/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Reading-eScience-Centre/edal-java/snapshot/f6dbf9cc2569f17225470575a81dd6286ec4edcd/files/common/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/common/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.geotoolkit.org/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

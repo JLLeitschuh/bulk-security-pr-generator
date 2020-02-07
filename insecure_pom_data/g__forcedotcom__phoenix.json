@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/forcedotcom/phoenix", 
+    "url-identifier": "g/forcedotcom/phoenix", 
+    "id": 1509231056059, 
+    "name": "forcedotcom/phoenix"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/forcedotcom/phoenix/snapshot/595507fa3dd509d805726df81a55bb3926a52696/files/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/forcedotcom/phoenix/snapshot/595507fa3dd509d805726df81a55bb3926a52696/files/pom.xml#L34", 
+        "line": 34, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

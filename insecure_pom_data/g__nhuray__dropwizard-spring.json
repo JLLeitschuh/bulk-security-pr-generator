@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nhuray/dropwizard-spring", 
+    "url-identifier": "g/nhuray/dropwizard-spring", 
+    "id": 60180038, 
+    "name": "nhuray/dropwizard-spring"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nhuray/dropwizard-spring/snapshot/fe81b0158ad8c1fc0c8ae4cce9b328c4aee6a7ff/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.the41.internal/content/repositories/releases/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nhuray/dropwizard-spring/snapshot/fe81b0158ad8c1fc0c8ae4cce9b328c4aee6a7ff/files/pom.xml#L53", 
+        "line": 53, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.the41.internal/content/repositories/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

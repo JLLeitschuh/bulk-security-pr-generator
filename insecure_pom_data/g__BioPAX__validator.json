@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/BioPAX/validator", 
+    "url-identifier": "g/BioPAX/validator", 
+    "id": 1506702526788, 
+    "name": "BioPAX/validator"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BioPAX/validator/snapshot/c3b7c66c3a9bc1fecfff69b928f0e009d5248f3d/files/obo-fetcher/pom.xml#L45", 
+        "line": 45, 
+        "value": "repository", 
+        "file": "/obo-fetcher/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.ebi.ac.uk/~maven/m2repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/BioPAX/validator/snapshot/c3b7c66c3a9bc1fecfff69b928f0e009d5248f3d/files/validator-core/pom.xml#L77", 
+        "line": 77, 
+        "value": "pluginRepository", 
+        "file": "/validator-core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.java.net/maven/2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

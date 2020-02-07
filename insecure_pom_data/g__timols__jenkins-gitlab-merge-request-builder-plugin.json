@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/timols/jenkins-gitlab-merge-request-builder-plugin", 
+    "url-identifier": "g/timols/jenkins-gitlab-merge-request-builder-plugin", 
+    "id": 1509248676016, 
+    "name": "timols/jenkins-gitlab-merge-request-builder-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/timols/jenkins-gitlab-merge-request-builder-plugin/snapshot/bec57cf60166f19acbaed7cd3f096d28629118e3/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/timols/jenkins-gitlab-merge-request-builder-plugin/snapshot/bec57cf60166f19acbaed7cd3f096d28629118e3/files/pom.xml#L83", 
+        "line": 83, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

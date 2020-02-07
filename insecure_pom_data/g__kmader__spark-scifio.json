@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/kmader/spark-scifio", 
+    "url-identifier": "g/kmader/spark-scifio", 
+    "id": 1510831148173, 
+    "name": "kmader/spark-scifio"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/spark-scifio/snapshot/971a123c5e1d65ad13fbbf5f275b25ff385af870/files/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.imagej.net/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/kmader/spark-scifio/snapshot/971a123c5e1d65ad13fbbf5f275b25ff385af870/files/pom.xml#L140", 
+        "line": 140, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

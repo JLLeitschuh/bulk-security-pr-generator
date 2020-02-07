@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/floodlight/floodlight", 
+    "url-identifier": "g/floodlight/floodlight", 
+    "id": 6910101, 
+    "name": "floodlight/floodlight"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/floodlight/floodlight/snapshot/ed20469e8497a7bac88517b5651e74e52f372958/files/pom.xml#L10", 
+        "line": 10, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

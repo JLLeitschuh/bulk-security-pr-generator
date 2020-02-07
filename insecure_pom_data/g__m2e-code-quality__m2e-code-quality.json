@@ -1,0 +1,80 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/m2e-code-quality/m2e-code-quality", 
+    "url-identifier": "g/m2e-code-quality/m2e-code-quality", 
+    "id": 47960023, 
+    "name": "m2e-code-quality/m2e-code-quality"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/m2e-code-quality/m2e-code-quality/snapshot/0dcfd3cc33079c705a9593a3430e29f1d85dac23/files/pom.xml#L61", 
+        "line": 61, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/technology/m2e/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/m2e-code-quality/m2e-code-quality/snapshot/0dcfd3cc33079c705a9593a3430e29f1d85dac23/files/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/photon"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/m2e-code-quality/m2e-code-quality/snapshot/0dcfd3cc33079c705a9593a3430e29f1d85dac23/files/pom.xml#L71", 
+        "line": 71, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://eclipse-cs.sf.net/update"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/m2e-code-quality/m2e-code-quality/snapshot/0dcfd3cc33079c705a9593a3430e29f1d85dac23/files/pom.xml#L81", 
+        "line": 81, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://findbugs.cs.umd.edu/eclipse/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/m2e-code-quality/m2e-code-quality/snapshot/0dcfd3cc33079c705a9593a3430e29f1d85dac23/files/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/tools/orbit/downloads/drops/${orbit.version}/repository/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/m2e-code-quality/m2e-code-quality/snapshot/0dcfd3cc33079c705a9593a3430e29f1d85dac23/files/pom.xml#L99", 
+        "line": 99, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.sonatype.org/content/groups/sonatype-public-grid"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

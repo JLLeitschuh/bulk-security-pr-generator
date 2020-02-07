@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/camel-kafka-connector", 
+    "url-identifier": "g/apache/camel-kafka-connector", 
+    "id": 1511022394270, 
+    "name": "apache/camel-kafka-connector"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/camel-kafka-connector/snapshot/dda5e26503368d656510cbe436113810c3c70833/files/parent/pom.xml#L79", 
+        "line": 79, 
+        "value": "repository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/camel-kafka-connector/snapshot/dda5e26503368d656510cbe436113810c3c70833/files/parent/pom.xml#L95", 
+        "line": 95, 
+        "value": "pluginRepository", 
+        "file": "/parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

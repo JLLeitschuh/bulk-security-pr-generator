@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/ncolomer/elasticsearch-osmosis-plugin", 
+    "url-identifier": "g/ncolomer/elasticsearch-osmosis-plugin", 
+    "id": 1506689366858, 
+    "name": "ncolomer/elasticsearch-osmosis-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/ncolomer/elasticsearch-osmosis-plugin/snapshot/5e8d5067cd768cfa7db8086bc5c4f9c87cdb2f7f/files/pom.xml#L48", 
+        "line": 48, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

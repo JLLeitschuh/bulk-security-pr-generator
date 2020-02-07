@@ -1,0 +1,289 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/krosenvold/maven", 
+    "url-identifier": "g/krosenvold/maven", 
+    "id": 1509173455979, 
+    "name": "krosenvold/maven"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/complete-model/w-parent/sub/pom.xml#L132", 
+        "line": 132, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/complete-model/w-parent/sub/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://project.url/dist"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/complete-model/w-parent/sub/pom.xml#L137", 
+        "line": 137, 
+        "value": "snapshotRepository", 
+        "file": "/maven-core/src/test/resources-project-builder/complete-model/w-parent/sub/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://project.url/snaps"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/complete-model/w-parent/sub/pom.xml#L201", 
+        "line": 201, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/complete-model/w-parent/sub/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://project.url/remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/complete-model/wo-parent/pom.xml#L126", 
+        "line": 126, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/complete-model/wo-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://project.url/dist"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/complete-model/wo-parent/pom.xml#L131", 
+        "line": 131, 
+        "value": "snapshotRepository", 
+        "file": "/maven-core/src/test/resources-project-builder/complete-model/wo-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://project.url/snaps"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/complete-model/wo-parent/pom.xml#L195", 
+        "line": 195, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/complete-model/wo-parent/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://project.url/remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/id-container-joining-with-empty-elements/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/id-container-joining-with-empty-elements/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.apache.org/null"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/multiple-repos/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/multiple-repos/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/multiple-repos/sub/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/multiple-repos/sub/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/pom-inheritance/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/pom-inheritance/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://parent.url/dist"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/pom-inheritance/pom.xml#L92", 
+        "line": 92, 
+        "value": "snapshotRepository", 
+        "file": "/maven-core/src/test/resources-project-builder/pom-inheritance/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://parent.url/snaps"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/pom-inheritance/pom.xml#L131", 
+        "line": 131, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/pom-inheritance/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://parent.url/remote"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/unique-repo-id/artifact-repo/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/unique-repo-id/artifact-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/unique-repo-id/artifact-repo/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/unique-repo-id/artifact-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/unique-repo-id/artifact-repo-in-profile/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/unique-repo-id/artifact-repo-in-profile/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/unique-repo-id/artifact-repo-in-profile/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/unique-repo-id/artifact-repo-in-profile/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/unique-repo-id/plugin-repo/pom.xml#L36", 
+        "line": 36, 
+        "value": "pluginRepository", 
+        "file": "/maven-core/src/test/resources-project-builder/unique-repo-id/plugin-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/unique-repo-id/plugin-repo/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/maven-core/src/test/resources-project-builder/unique-repo-id/plugin-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/unique-repo-id/plugin-repo-in-profile/pom.xml#L40", 
+        "line": 40, 
+        "value": "pluginRepository", 
+        "file": "/maven-core/src/test/resources-project-builder/unique-repo-id/plugin-repo-in-profile/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/unique-repo-id/plugin-repo-in-profile/pom.xml#L44", 
+        "line": 44, 
+        "value": "pluginRepository", 
+        "file": "/maven-core/src/test/resources-project-builder/unique-repo-id/plugin-repo-in-profile/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.codehaus.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/unprefixed-expression-interpolation/child/pom.xml#L58", 
+        "line": 58, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/unprefixed-expression-interpolation/child/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dist.org/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/url-inheritance/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/maven-core/src/test/resources-project-builder/url-inheritance/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://parent.url/dist"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-core/src/test/resources-project-builder/url-inheritance/pom.xml#L64", 
+        "line": 64, 
+        "value": "snapshotRepository", 
+        "file": "/maven-core/src/test/resources-project-builder/url-inheritance/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://parent.url/snaps"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-embedder/src/test/error-reporting-projects/deploy-repo-creation-err/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/maven-embedder/src/test/error-reporting-projects/deploy-repo-creation-err/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.google.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/krosenvold/maven/snapshot/cb4c84a252db447ae59f4780d60746607c8e4124/files/maven-embedder/src/test/error-reporting-projects/repo-creation-err/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/maven-embedder/src/test/error-reporting-projects/repo-creation-err/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.google.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

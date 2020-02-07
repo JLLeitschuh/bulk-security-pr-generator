@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rapidftr/RapidFTR-Android", 
+    "url-identifier": "g/rapidftr/RapidFTR-Android", 
+    "id": 1506717719390, 
+    "name": "rapidftr/RapidFTR-Android"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rapidftr/RapidFTR-Android/snapshot/a100c7a456bd2e3f02fb5500aee187dfd549a1e1/files/RapidFTR-Android/pom.xml#L62", 
+        "line": 62, 
+        "value": "repository", 
+        "file": "/RapidFTR-Android/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

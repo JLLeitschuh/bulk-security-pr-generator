@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/scharron/elasticsearch-river-mysql", 
+    "url-identifier": "g/scharron/elasticsearch-river-mysql", 
+    "id": 33160149, 
+    "name": "scharron/elasticsearch-river-mysql"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/scharron/elasticsearch-river-mysql/snapshot/96c76a2a1334ef0fdebf93aefd2b92442a3f29bf/files/pom.xml#L37", 
+        "line": 37, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

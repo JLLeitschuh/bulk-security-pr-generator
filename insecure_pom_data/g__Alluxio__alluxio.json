@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Alluxio/alluxio", 
+    "url-identifier": "g/Alluxio/alluxio", 
+    "id": 4910009, 
+    "name": "Alluxio/alluxio"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Alluxio/alluxio/snapshot/2adba9cab941006b670e7abf853b7320e4ecf402/files/pom.xml#L130", 
+        "line": 130, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://alluxio.artifacts.s3-website-us-east-1.amazonaws.com/release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

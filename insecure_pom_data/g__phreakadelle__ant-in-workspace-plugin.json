@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/phreakadelle/ant-in-workspace-plugin", 
+    "url-identifier": "g/phreakadelle/ant-in-workspace-plugin", 
+    "id": 1509223630915, 
+    "name": "phreakadelle/ant-in-workspace-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/phreakadelle/ant-in-workspace-plugin/snapshot/4cf46b4e550942ad05313934c353928bdf205b69/files/pom.xml#L92", 
+        "line": 92, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/phreakadelle/ant-in-workspace-plugin/snapshot/4cf46b4e550942ad05313934c353928bdf205b69/files/pom.xml#L99", 
+        "line": 99, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/orientechnologies/spring-data-orientdb", 
+    "url-identifier": "g/orientechnologies/spring-data-orientdb", 
+    "id": 31880182, 
+    "name": "orientechnologies/spring-data-orientdb"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/orientechnologies/spring-data-orientdb/snapshot/ebc28e6386a680e439eea7a33184c3cabbe49da7/files/pom.xml#L356", 
+        "line": 356, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/libs-snapshot"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/orientechnologies/spring-data-orientdb/snapshot/ebc28e6386a680e439eea7a33184c3cabbe49da7/files/pom.xml#L362", 
+        "line": 362, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/plugins-release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

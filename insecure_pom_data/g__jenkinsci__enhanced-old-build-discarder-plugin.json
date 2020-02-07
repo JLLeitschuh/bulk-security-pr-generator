@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/enhanced-old-build-discarder-plugin", 
+    "url-identifier": "g/jenkinsci/enhanced-old-build-discarder-plugin", 
+    "id": 1506585718913, 
+    "name": "jenkinsci/enhanced-old-build-discarder-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/enhanced-old-build-discarder-plugin/snapshot/7c9e38628398e0f1bc13b0e087f4f475164b6e42/files/pom.xml#L22", 
+        "line": 22, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/enhanced-old-build-discarder-plugin/snapshot/7c9e38628398e0f1bc13b0e087f4f475164b6e42/files/pom.xml#L29", 
+        "line": 29, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

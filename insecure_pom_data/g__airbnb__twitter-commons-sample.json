@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/airbnb/twitter-commons-sample", 
+    "url-identifier": "g/airbnb/twitter-commons-sample", 
+    "id": 33150173, 
+    "name": "airbnb/twitter-commons-sample"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/airbnb/twitter-commons-sample/snapshot/83ae133ccf2019dd33c0cd593d457cbbc5f549e2/files/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.twttr.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

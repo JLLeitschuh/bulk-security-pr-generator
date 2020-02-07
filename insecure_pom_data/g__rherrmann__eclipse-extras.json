@@ -1,0 +1,58 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/rherrmann/eclipse-extras", 
+    "url-identifier": "g/rherrmann/eclipse-extras", 
+    "id": 1505890926548, 
+    "name": "rherrmann/eclipse-extras"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rherrmann/eclipse-extras/snapshot/7a5f6448c3afbbbf7e771a49efb050d14ec943dd/files/com.codeaffine.extras.repository/pom.xml#L69", 
+        "line": 69, 
+        "value": "repository", 
+        "file": "/com.codeaffine.extras.repository/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://fappel.github.io/xiliary/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rherrmann/eclipse-extras/snapshot/7a5f6448c3afbbbf7e771a49efb050d14ec943dd/files/com.codeaffine.extras.repository/pom.xml#L147", 
+        "line": 147, 
+        "value": "repository", 
+        "file": "/com.codeaffine.extras.repository/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/webtools/releng/repository"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rherrmann/eclipse-extras/snapshot/7a5f6448c3afbbbf7e771a49efb050d14ec943dd/files/com.codeaffine.extras.repository/pom.xml#L151", 
+        "line": 151, 
+        "value": "repository", 
+        "file": "/com.codeaffine.extras.repository/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/kepler"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/rherrmann/eclipse-extras/snapshot/7a5f6448c3afbbbf7e771a49efb050d14ec943dd/files/pom.xml#L80", 
+        "line": 80, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/dubbo-samples", 
+    "url-identifier": "g/apache/dubbo-samples", 
+    "id": 1511156891757, 
+    "name": "apache/dubbo-samples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-samples/snapshot/ec1ebf822464f97791e87d53227f2473894d6667/files/golang/general/dubbo/java-server/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/golang/general/dubbo/java-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-samples/snapshot/ec1ebf822464f97791e87d53227f2473894d6667/files/golang/general/dubbo/java-server/pom.xml#L133", 
+        "line": 133, 
+        "value": "pluginRepository", 
+        "file": "/golang/general/dubbo/java-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-samples/snapshot/ec1ebf822464f97791e87d53227f2473894d6667/files/golang/general/jsonrpc/java-server/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/golang/general/jsonrpc/java-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-samples/snapshot/ec1ebf822464f97791e87d53227f2473894d6667/files/golang/general/jsonrpc/java-server/pom.xml#L132", 
+        "line": 132, 
+        "value": "pluginRepository", 
+        "file": "/golang/general/jsonrpc/java-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-samples/snapshot/ec1ebf822464f97791e87d53227f2473894d6667/files/golang/generic/java-server/pom.xml#L120", 
+        "line": 120, 
+        "value": "repository", 
+        "file": "/golang/generic/java-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-samples/snapshot/ec1ebf822464f97791e87d53227f2473894d6667/files/golang/generic/java-server/pom.xml#L132", 
+        "line": 132, 
+        "value": "pluginRepository", 
+        "file": "/golang/generic/java-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-samples/snapshot/ec1ebf822464f97791e87d53227f2473894d6667/files/golang/helloworld/dubbo/java-server/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/golang/helloworld/dubbo/java-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-samples/snapshot/ec1ebf822464f97791e87d53227f2473894d6667/files/golang/helloworld/dubbo/java-server/pom.xml#L133", 
+        "line": 133, 
+        "value": "pluginRepository", 
+        "file": "/golang/helloworld/dubbo/java-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-samples/snapshot/ec1ebf822464f97791e87d53227f2473894d6667/files/golang/multi_registry/dubbo/java-server/pom.xml#L121", 
+        "line": 121, 
+        "value": "repository", 
+        "file": "/golang/multi_registry/dubbo/java-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/dubbo-samples/snapshot/ec1ebf822464f97791e87d53227f2473894d6667/files/golang/multi_registry/dubbo/java-server/pom.xml#L133", 
+        "line": 133, 
+        "value": "pluginRepository", 
+        "file": "/golang/multi_registry/dubbo/java-server/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

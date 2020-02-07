@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/skyscreamer/nevado", 
+    "url-identifier": "g/skyscreamer/nevado", 
+    "id": 64030061, 
+    "name": "skyscreamer/nevado"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/skyscreamer/nevado/snapshot/54fa46e9e0b187bd98536f1f8eff7b2db6184a30/files/nevado-jms/pom.xml#L212", 
+        "line": 212, 
+        "value": "repository", 
+        "file": "/nevado-jms/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/joda-releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/opensourceBIM/BIMserver", 
+    "url-identifier": "g/opensourceBIM/BIMserver", 
+    "id": 33610145, 
+    "name": "opensourceBIM/BIMserver"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/opensourceBIM/BIMserver/snapshot/13d307fa21bf711864f7c0196b53e489f1d1cb7a/files/Bdb/pom.xml#L19", 
+        "line": 19, 
+        "value": "repository", 
+        "file": "/Bdb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.oracle.com/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

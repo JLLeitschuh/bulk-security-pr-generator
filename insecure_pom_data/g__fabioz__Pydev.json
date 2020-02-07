@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/fabioz/Pydev", 
+    "url-identifier": "g/fabioz/Pydev", 
+    "id": 18500022, 
+    "name": "fabioz/Pydev"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fabioz/Pydev/snapshot/0cb4a757aeb8c653451dc1533c2f5dde69a495ef/files/features/org.python.pydev.p2-repo/pom.xml#L53", 
+        "line": 53, 
+        "value": "repository", 
+        "file": "/features/org.python.pydev.p2-repo/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/2019-09/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/fabioz/Pydev/snapshot/0cb4a757aeb8c653451dc1533c2f5dde69a495ef/files/pom.xml#L299", 
+        "line": 299, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/2019-09/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

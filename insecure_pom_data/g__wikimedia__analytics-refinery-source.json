@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/wikimedia/analytics-refinery-source", 
+    "url-identifier": "g/wikimedia/analytics-refinery-source", 
+    "id": 1506700311292, 
+    "name": "wikimedia/analytics-refinery-source"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wikimedia/analytics-refinery-source/snapshot/22b478c312f4432e74698416ad7e86350186ba29/files/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/wikimedia/analytics-refinery-source/snapshot/22b478c312f4432e74698416ad7e86350186ba29/files/pom.xml#L75", 
+        "line": 75, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

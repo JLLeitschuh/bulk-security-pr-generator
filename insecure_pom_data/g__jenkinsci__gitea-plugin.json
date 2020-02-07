@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/gitea-plugin", 
+    "url-identifier": "g/jenkinsci/gitea-plugin", 
+    "id": 1509228876632, 
+    "name": "jenkinsci/gitea-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/gitea-plugin/snapshot/b133f82ae043a32dbc29f8ef467b46372860a384/files/pom.xml#L115", 
+        "line": 115, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/gitea-plugin/snapshot/b133f82ae043a32dbc29f8ef467b46372860a384/files/pom.xml#L121", 
+        "line": 121, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

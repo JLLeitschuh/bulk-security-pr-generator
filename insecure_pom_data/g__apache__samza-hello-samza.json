@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/samza-hello-samza", 
+    "url-identifier": "g/apache/samza-hello-samza", 
+    "id": 1506237797806, 
+    "name": "apache/samza-hello-samza"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/samza-hello-samza/snapshot/16c5a2e9a5bdf76bc2412d8475ac3b55c1a76782/files/pom.xml#L267", 
+        "line": 267, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://scala-tools.org/repo-releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

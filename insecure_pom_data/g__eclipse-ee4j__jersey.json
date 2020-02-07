@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/eclipse-ee4j/jersey", 
+    "url-identifier": "g/eclipse-ee4j/jersey", 
+    "id": 1506499437649, 
+    "name": "eclipse-ee4j/jersey"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/jersey/snapshot/0b44e29eba8d1ce33a8680b40c7a3e07d37acaf7/files/media/moxy/pom.xml#L130", 
+        "line": 130, 
+        "value": "repository", 
+        "file": "/media/moxy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/rt/eclipselink/maven.repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/eclipse-ee4j/jersey/snapshot/0b44e29eba8d1ce33a8680b40c7a3e07d37acaf7/files/pom.xml#L1105", 
+        "line": 1105, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.eclipse.org/downloads/download.php?r=1&nf=1&file=/rt/eclipselink/maven.repo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

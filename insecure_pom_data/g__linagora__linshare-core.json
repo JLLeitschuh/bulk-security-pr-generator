@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/linagora/linshare-core", 
+    "url-identifier": "g/linagora/linshare-core", 
+    "id": 1509234856053, 
+    "name": "linagora/linshare-core"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/linagora/linshare-core/snapshot/96bca178fc77fa3bdae959c9d0443a0904a0aeee/files/pom.xml#L1064", 
+        "line": 1064, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/kongchen/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

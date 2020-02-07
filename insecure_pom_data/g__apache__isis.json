@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/isis", 
+    "url-identifier": "g/apache/isis", 
+    "id": 2980312, 
+    "name": "apache/isis"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/isis/snapshot/dc287f5718c1c46dd3690cf662f659ebb2637dd0/files/core/pom.xml#L191", 
+        "line": 191, 
+        "value": "pluginRepository", 
+        "file": "/core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/isis/snapshot/dc287f5718c1c46dd3690cf662f659ebb2637dd0/files/core/pom.xml#L241", 
+        "line": 241, 
+        "value": "repository", 
+        "file": "/core/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public-jboss/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/isis/snapshot/dc287f5718c1c46dd3690cf662f659ebb2637dd0/files/viewers/restfulobjects/applib/pom.xml#L66", 
+        "line": 66, 
+        "value": "repository", 
+        "file": "/viewers/restfulobjects/applib/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

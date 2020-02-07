@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jgritman/httpbuilder", 
+    "url-identifier": "g/jgritman/httpbuilder", 
+    "id": 25520084, 
+    "name": "jgritman/httpbuilder"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jgritman/httpbuilder/snapshot/b00d34043f825900fa9926e0cbd75031892fc96d/files/pom.xml#L412", 
+        "line": 412, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://anasoft-os-repo.googlecode.com/svn/repository/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

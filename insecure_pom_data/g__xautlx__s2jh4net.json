@@ -1,0 +1,91 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/xautlx/s2jh4net", 
+    "url-identifier": "g/xautlx/s2jh4net", 
+    "id": 1795552170, 
+    "name": "xautlx/s2jh4net"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xautlx/s2jh4net/snapshot/33fa693b71c190f32abdc1e6f3fd69a82f50c586/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.aliyun.com/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xautlx/s2jh4net/snapshot/33fa693b71c190f32abdc1e6f3fd69a82f50c586/files/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.maven.apache.org/maven2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xautlx/s2jh4net/snapshot/33fa693b71c190f32abdc1e6f3fd69a82f50c586/files/pom.xml#L94", 
+        "line": 94, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.springframework.org/milestone"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xautlx/s2jh4net/snapshot/33fa693b71c190f32abdc1e6f3fd69a82f50c586/files/pom.xml#L99", 
+        "line": 99, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://files.couchbase.com/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xautlx/s2jh4net/snapshot/33fa693b71c190f32abdc1e6f3fd69a82f50c586/files/pom.xml#L107", 
+        "line": 107, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.jahia.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xautlx/s2jh4net/snapshot/33fa693b71c190f32abdc1e6f3fd69a82f50c586/files/pom.xml#L119", 
+        "line": 119, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.com"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/xautlx/s2jh4net/snapshot/33fa693b71c190f32abdc1e6f3fd69a82f50c586/files/pom.xml#L124", 
+        "line": 124, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/debop/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

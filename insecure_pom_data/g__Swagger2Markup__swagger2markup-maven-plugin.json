@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Swagger2Markup/swagger2markup-maven-plugin", 
+    "url-identifier": "g/Swagger2Markup/swagger2markup-maven-plugin", 
+    "id": 5980330, 
+    "name": "Swagger2Markup/swagger2markup-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Swagger2Markup/swagger2markup-maven-plugin/snapshot/8f1809f2bce9a2a4f6d578c4ed3c63598e78fcec/files/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.jfrog.org/artifactory/oss-snapshot-local/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Swagger2Markup/swagger2markup-maven-plugin/snapshot/8f1809f2bce9a2a4f6d578c4ed3c63598e78fcec/files/pom.xml#L82", 
+        "line": 82, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

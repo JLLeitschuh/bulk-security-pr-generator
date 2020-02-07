@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sbose78/active-mq", 
+    "url-identifier": "g/sbose78/active-mq", 
+    "id": 1506720056913, 
+    "name": "sbose78/active-mq"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sbose78/active-mq/snapshot/8df00aa4a76f0ad4ecaff34faab9cecb49eac928/files/activemq-mqtt/pom.xml#L321", 
+        "line": 321, 
+        "value": "repository", 
+        "file": "/activemq-mqtt/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.spring.io/plugins-release"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

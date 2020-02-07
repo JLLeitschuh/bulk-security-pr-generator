@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/Revivius/nb-darcula", 
+    "url-identifier": "g/Revivius/nb-darcula", 
+    "id": 48300021, 
+    "name": "Revivius/nb-darcula"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/Revivius/nb-darcula/snapshot/abe87ac0de54a2fad1d7a55634a4532b8781aaa3/files/pom.xml#L60", 
+        "line": 60, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/nexus/content/groups/netbeans"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

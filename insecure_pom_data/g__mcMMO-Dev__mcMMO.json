@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/mcMMO-Dev/mcMMO", 
+    "url-identifier": "g/mcMMO-Dev/mcMMO", 
+    "id": 24730101, 
+    "name": "mcMMO-Dev/mcMMO"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/mcMMO-Dev/mcMMO/snapshot/aabcde0508b67fec9e093437f07163433be85ab5/files/pom.xml#L150", 
+        "line": 150, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.sk89q.com/repo/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

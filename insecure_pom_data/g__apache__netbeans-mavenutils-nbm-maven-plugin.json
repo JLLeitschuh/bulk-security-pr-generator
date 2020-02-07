@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/netbeans-mavenutils-nbm-maven-plugin", 
+    "url-identifier": "g/apache/netbeans-mavenutils-nbm-maven-plugin", 
+    "id": 1511105506523, 
+    "name": "apache/netbeans-mavenutils-nbm-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/netbeans-mavenutils-nbm-maven-plugin/snapshot/5d18cbf5280d05afc4790fa6bd90b0be2ef74f4f/files/src/it/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/src/it/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/nexus/content/groups/netbeans/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

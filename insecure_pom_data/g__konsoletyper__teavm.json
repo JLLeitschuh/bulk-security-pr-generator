@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/konsoletyper/teavm", 
+    "url-identifier": "g/konsoletyper/teavm", 
+    "id": 6820070, 
+    "name": "konsoletyper/teavm"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/konsoletyper/teavm/snapshot/e6df450111f15e873329336a0a0d7e40659db72b/files/tools/eclipse/pom.xml#L43", 
+        "line": 43, 
+        "value": "repository", 
+        "file": "/tools/eclipse/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/mars"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

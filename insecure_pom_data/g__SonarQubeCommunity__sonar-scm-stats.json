@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/SonarQubeCommunity/sonar-scm-stats", 
+    "url-identifier": "g/SonarQubeCommunity/sonar-scm-stats", 
+    "id": 1506698407867, 
+    "name": "SonarQubeCommunity/sonar-scm-stats"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/SonarQubeCommunity/sonar-scm-stats/snapshot/3718632b2b8582886d4417233ae0b10b3119913f/files/pom.xml#L201", 
+        "line": 201, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.tmatesoft.com/content/repositories/releases/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

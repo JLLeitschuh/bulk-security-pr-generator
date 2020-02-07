@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/palantir/eclipse-typescript", 
+    "url-identifier": "g/palantir/eclipse-typescript", 
+    "id": 118399267, 
+    "name": "palantir/eclipse-typescript"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/palantir/eclipse-typescript/snapshot/bd5d2612e0f7a8e78323e05bab9ee944f45b9b3e/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/kepler"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/palantir/eclipse-typescript/snapshot/bd5d2612e0f7a8e78323e05bab9ee944f45b9b3e/files/pom.xml#L196", 
+        "line": 196, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/4.3"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

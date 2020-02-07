@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/codelibs/elasticsearch-river-web", 
+    "url-identifier": "g/codelibs/elasticsearch-river-web", 
+    "id": 28741862, 
+    "name": "codelibs/elasticsearch-river-web"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/codelibs/elasticsearch-river-web/snapshot/ca8a32e470e51d31d69e1e6eb75682513ea26e10/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository ftp://maven.codelibs.org/home/codelibs/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

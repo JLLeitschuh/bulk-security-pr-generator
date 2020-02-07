@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/dadoonet/elasticsearch-httpclient", 
+    "url-identifier": "g/dadoonet/elasticsearch-httpclient", 
+    "id": 1506461446992, 
+    "name": "dadoonet/elasticsearch-httpclient"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/dadoonet/elasticsearch-httpclient/snapshot/af25f2b26c8dcafae5bb51cee3a0522d3a386cd9/files/pom.xml#L24", 
+        "line": 24, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://artifacts.elastic.co/maven/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

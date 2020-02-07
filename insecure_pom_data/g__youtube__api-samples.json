@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/youtube/api-samples", 
+    "url-identifier": "g/youtube/api-samples", 
+    "id": 13843625, 
+    "name": "youtube/api-samples"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/youtube/api-samples/snapshot/72e741298e3da59b1d33ecf269f8a54530f324d6/files/java/pom.xml#L23", 
+        "line": 23, 
+        "value": "repository", 
+        "file": "/java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://google-api-client-libraries.appspot.com/mavenrepo"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

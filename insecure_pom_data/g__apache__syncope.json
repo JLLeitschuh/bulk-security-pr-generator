@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/apache/syncope", 
+    "url-identifier": "g/apache/syncope", 
+    "id": 20990008, 
+    "name": "apache/syncope"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/syncope/snapshot/c6cfe4c6fd978b5410db8bfb66fb7bc3372ff0ea/files/pom.xml#L1684", 
+        "line": 1684, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://bits.netbeans.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/apache/syncope/snapshot/c6cfe4c6fd978b5410db8bfb66fb7bc3372ff0ea/files/pom.xml#L1695", 
+        "line": 1695, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.apache.org/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

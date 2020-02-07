@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/gwtbootstrap3/gwtbootstrap3", 
+    "url-identifier": "g/gwtbootstrap3/gwtbootstrap3", 
+    "id": 17500100, 
+    "name": "gwtbootstrap3/gwtbootstrap3"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gwtbootstrap3/gwtbootstrap3/snapshot/36608cf3608b05679770e1e556bd0c54d9dd4ef3/files/pom.xml#L354", 
+        "line": 354, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.sonatype.org/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gwtbootstrap3/gwtbootstrap3/snapshot/36608cf3608b05679770e1e556bd0c54d9dd4ef3/files/pom.xml#L366", 
+        "line": 366, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/gwtbootstrap3/gwtbootstrap3/snapshot/36608cf3608b05679770e1e556bd0c54d9dd4ef3/files/pom.xml#L379", 
+        "line": 379, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.sonatype.org/content/groups/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

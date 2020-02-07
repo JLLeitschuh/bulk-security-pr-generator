@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/vincentrussell/nexus3-x509-dn-security-plugin", 
+    "url-identifier": "g/vincentrussell/nexus3-x509-dn-security-plugin", 
+    "id": 1506575810104, 
+    "name": "vincentrussell/nexus3-x509-dn-security-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vincentrussell/nexus3-x509-dn-security-plugin/snapshot/08634373129af70db472e63ae952fa53b7a54a34/files/pom.xml#L44", 
+        "line": 44, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/service/local/staging/deploy/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/vincentrussell/nexus3-x509-dn-security-plugin/snapshot/08634373129af70db472e63ae952fa53b7a54a34/files/pom.xml#L49", 
+        "line": 49, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/palantir/eclipse-less", 
+    "url-identifier": "g/palantir/eclipse-less", 
+    "id": 1506610700907, 
+    "name": "palantir/eclipse-less"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/palantir/eclipse-less/snapshot/b355957d56d3b72fc738799e2e31f176e5114014/files/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/releases/kepler"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/palantir/eclipse-less/snapshot/b355957d56d3b72fc738799e2e31f176e5114014/files/pom.xml#L196", 
+        "line": 196, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://download.eclipse.org/eclipse/updates/4.3"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sismics/reader", 
+    "url-identifier": "g/sismics/reader", 
+    "id": 46830002, 
+    "name": "sismics/reader"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sismics/reader/snapshot/c22572222e4f8234a734cb0d7ad722a6f321c72b/files/pom.xml#L501", 
+        "line": 501, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://nexus.codehaus.org/snapshots/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/stsyhanou/SimpleCMS", 
+    "url-identifier": "g/stsyhanou/SimpleCMS", 
+    "id": 1506721917341, 
+    "name": "stsyhanou/SimpleCMS"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/stsyhanou/SimpleCMS/snapshot/af63f27353bbf54c6639e116d9869ca5fe4d2795/files/SimpleCMS/pom.xml#L18", 
+        "line": 18, 
+        "value": "repository", 
+        "file": "/SimpleCMS/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/stsyhanou/SimpleCMS/snapshot/af63f27353bbf54c6639e116d9869ca5fe4d2795/files/SimpleCMS/pom.xml#L28", 
+        "line": 28, 
+        "value": "repository", 
+        "file": "/SimpleCMS/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo1.maven.org/maven2/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/stsyhanou/SimpleCMS/snapshot/af63f27353bbf54c6639e116d9869ca5fe4d2795/files/SimpleCMS/pom.xml#L38", 
+        "line": 38, 
+        "value": "repository", 
+        "file": "/SimpleCMS/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.terracotta.org/download/reflector/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

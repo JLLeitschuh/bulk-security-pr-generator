@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/yekaterinasavelyeva/lighthouse", 
+    "url-identifier": "g/yekaterinasavelyeva/lighthouse", 
+    "id": 1506496666546, 
+    "name": "yekaterinasavelyeva/lighthouse"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/yekaterinasavelyeva/lighthouse/snapshot/9d73160156e1047fc5853f0e85d5d2353329e2b1/files/pom.xml#L14", 
+        "line": 14, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://mvnrepository.com"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

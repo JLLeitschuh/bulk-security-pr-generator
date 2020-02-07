@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/nicoulaj/vagrant-maven-plugin", 
+    "url-identifier": "g/nicoulaj/vagrant-maven-plugin", 
+    "id": 1506725438124, 
+    "name": "nicoulaj/vagrant-maven-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/nicoulaj/vagrant-maven-plugin/snapshot/2b4634b8f5ff52aa0002bf231950e62f9d91ae9e/files/pom.xml#L85", 
+        "line": 85, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://rubygems-proxy.torquebox.org/releases"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

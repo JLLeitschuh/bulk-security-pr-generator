@@ -1,0 +1,113 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/httl/httl", 
+    "url-identifier": "g/httl/httl", 
+    "id": 42320013, 
+    "name": "httl/httl"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/httl/httl/snapshot/05968e8b3992ce5019e57b857c66a1c650d48fcd/files/httl/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/httl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://httl.github.io/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/httl/httl/snapshot/05968e8b3992ce5019e57b857c66a1c650d48fcd/files/httl-jfinal/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/httl-jfinal/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://httl.github.io/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/httl/httl/snapshot/05968e8b3992ce5019e57b857c66a1c650d48fcd/files/httl-nutz/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/httl-nutz/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://httl.github.io/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/httl/httl/snapshot/05968e8b3992ce5019e57b857c66a1c650d48fcd/files/httl-script/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/httl-script/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://httl.github.io/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/httl/httl/snapshot/05968e8b3992ce5019e57b857c66a1c650d48fcd/files/httl-servlet/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/httl-servlet/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://httl.github.io/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/httl/httl/snapshot/05968e8b3992ce5019e57b857c66a1c650d48fcd/files/httl-springmvc/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/httl-springmvc/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://httl.github.io/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/httl/httl/snapshot/05968e8b3992ce5019e57b857c66a1c650d48fcd/files/httl-struts/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/httl-struts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://httl.github.io/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/httl/httl/snapshot/05968e8b3992ce5019e57b857c66a1c650d48fcd/files/httl-webx/pom.xml#L40", 
+        "line": 40, 
+        "value": "repository", 
+        "file": "/httl-webx/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://httl.github.io/maven"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/httl/httl/snapshot/05968e8b3992ce5019e57b857c66a1c650d48fcd/files/pom.xml#L47", 
+        "line": 47, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://httl.github.io/maven"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/parallel-test-executor-plugin", 
+    "url-identifier": "g/jenkinsci/parallel-test-executor-plugin", 
+    "id": 1509066766169, 
+    "name": "jenkinsci/parallel-test-executor-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/parallel-test-executor-plugin/snapshot/a8ea13d193264473f375493a1675572abe03b576/files/pom.xml#L32", 
+        "line": 32, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

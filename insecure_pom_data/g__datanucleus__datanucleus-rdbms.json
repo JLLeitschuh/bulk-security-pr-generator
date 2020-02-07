@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/datanucleus/datanucleus-rdbms", 
+    "url-identifier": "g/datanucleus/datanucleus-rdbms", 
+    "id": 1972323649, 
+    "name": "datanucleus/datanucleus-rdbms"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/datanucleus/datanucleus-rdbms/snapshot/1a461979b2b5c13c7ac92722da1cfad8f1425d6b/files/pom.xml#L30", 
+        "line": 30, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.datanucleus.org/downloads/maven2/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

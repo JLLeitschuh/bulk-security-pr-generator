@@ -1,0 +1,124 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/sdorra/scm-manager", 
+    "url-identifier": "g/sdorra/scm-manager", 
+    "id": 1508462836129, 
+    "name": "sdorra/scm-manager"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sdorra/scm-manager/snapshot/405bcde8e976240fa9996cd8ed84b8b4f350586e/files/pom.xml#L83", 
+        "line": 83, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.scm-manager.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sdorra/scm-manager/snapshot/405bcde8e976240fa9996cd8ed84b8b4f350586e/files/pom.xml#L93", 
+        "line": 93, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.scm-manager.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sdorra/scm-manager/snapshot/405bcde8e976240fa9996cd8ed84b8b4f350586e/files/pom.xml#L461", 
+        "line": 461, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.scm-manager.org/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sdorra/scm-manager/snapshot/405bcde8e976240fa9996cd8ed84b8b4f350586e/files/pom.xml#L467", 
+        "line": 467, 
+        "value": "snapshotRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.scm-manager.org/nexus/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sdorra/scm-manager/snapshot/405bcde8e976240fa9996cd8ed84b8b4f350586e/files/scm-clients/scm-client-impl/pom.xml#L83", 
+        "line": 83, 
+        "value": "repository", 
+        "file": "/scm-clients/scm-client-impl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases "
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sdorra/scm-manager/snapshot/405bcde8e976240fa9996cd8ed84b8b4f350586e/files/scm-clients/scm-client-impl/pom.xml#L89", 
+        "line": 89, 
+        "value": "repository", 
+        "file": "/scm-clients/scm-client-impl/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.scm-manager.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sdorra/scm-manager/snapshot/405bcde8e976240fa9996cd8ed84b8b4f350586e/files/scm-dao-orientdb/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/scm-dao-orientdb/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://www.orientechnologies.com/listing/m2"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sdorra/scm-manager/snapshot/405bcde8e976240fa9996cd8ed84b8b4f350586e/files/scm-plugins/scm-git-plugin/pom.xml#L88", 
+        "line": 88, 
+        "value": "repository", 
+        "file": "/scm-plugins/scm-git-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.scm-manager.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sdorra/scm-manager/snapshot/405bcde8e976240fa9996cd8ed84b8b4f350586e/files/scm-plugins/scm-hg-plugin/pom.xml#L93", 
+        "line": 93, 
+        "value": "repository", 
+        "file": "/scm-plugins/scm-hg-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.scm-manager.org/nexus/content/groups/public"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/sdorra/scm-manager/snapshot/405bcde8e976240fa9996cd8ed84b8b4f350586e/files/scm-plugins/scm-svn-plugin/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/scm-plugins/scm-svn-plugin/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.scm-manager.org/nexus/content/groups/public"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

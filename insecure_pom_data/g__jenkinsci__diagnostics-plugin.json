@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/jenkinsci/diagnostics-plugin", 
+    "url-identifier": "g/jenkinsci/diagnostics-plugin", 
+    "id": 1509224763697, 
+    "name": "jenkinsci/diagnostics-plugin"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/diagnostics-plugin/snapshot/f5c27816e97deeced2930ef6cebc277ab49495a5/files/pom.xml#L131", 
+        "line": 131, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/jenkinsci/diagnostics-plugin/snapshot/f5c27816e97deeced2930ef6cebc277ab49495a5/files/pom.xml#L137", 
+        "line": 137, 
+        "value": "pluginRepository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.jenkins-ci.org/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/myungchoi/GT-FHIR2", 
+    "url-identifier": "g/myungchoi/GT-FHIR2", 
+    "id": 1506720466020, 
+    "name": "myungchoi/GT-FHIR2"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/myungchoi/GT-FHIR2/snapshot/0cedc0a95765fe54ea844ad0b3d20ed5726dced2/files/omoponfhir-omopv5-sqlrender/pom.xml#L36", 
+        "line": 36, 
+        "value": "repository", 
+        "file": "/omoponfhir-omopv5-sqlrender/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.ohdsi.org:8085/nexus/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/myungchoi/GT-FHIR2/snapshot/0cedc0a95765fe54ea844ad0b3d20ed5726dced2/files/omoponfhir-omopv5-sqlrender/pom.xml#L41", 
+        "line": 41, 
+        "value": "repository", 
+        "file": "/omoponfhir-omopv5-sqlrender/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.ohdsi.org:8085/nexus/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

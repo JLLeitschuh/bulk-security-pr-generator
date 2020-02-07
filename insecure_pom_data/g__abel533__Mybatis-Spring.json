@@ -1,0 +1,47 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/abel533/Mybatis-Spring", 
+    "url-identifier": "g/abel533/Mybatis-Spring", 
+    "id": 1509206646000, 
+    "name": "abel533/Mybatis-Spring"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/abel533/Mybatis-Spring/snapshot/6ec3d8ce6136cdc6fa5991db45c8607bc558fe9c/files/pom.xml#L203", 
+        "line": 203, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.oschina.net/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/abel533/Mybatis-Spring/snapshot/6ec3d8ce6136cdc6fa5991db45c8607bc558fe9c/files/pom.xml#L214", 
+        "line": 214, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/releases"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/abel533/Mybatis-Spring/snapshot/6ec3d8ce6136cdc6fa5991db45c8607bc558fe9c/files/pom.xml#L225", 
+        "line": 225, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/tebexio/BuycraftX", 
+    "url-identifier": "g/tebexio/BuycraftX", 
+    "id": 6780061, 
+    "name": "tebexio/BuycraftX"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/tebexio/BuycraftX/snapshot/9ddfd44821de03a3120bcda42e36535998150cbb/files/pom.xml#L35", 
+        "line": 35, 
+        "value": "repository", 
+        "file": "/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.dmulloy2.net/nexus/repository/public/"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

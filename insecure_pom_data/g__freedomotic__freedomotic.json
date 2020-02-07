@@ -1,0 +1,146 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/freedomotic/freedomotic", 
+    "url-identifier": "g/freedomotic/freedomotic", 
+    "id": 13080021, 
+    "name": "freedomotic/freedomotic"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/plugins/devices/chat/pom.xml#L15", 
+        "line": 15, 
+        "value": "repository", 
+        "file": "/plugins/devices/chat/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.opencastproject.org/nexus/content/repositories/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/plugins/devices/freetts/pom.xml#L101", 
+        "line": 101, 
+        "value": "repository", 
+        "file": "/plugins/devices/freetts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repository.jboss.org/nexus/content/groups/public/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/plugins/devices/google-speech/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/plugins/devices/google-speech/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://conjars.org/repo"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/plugins/devices/ipcamera-motion/pom.xml#L49", 
+        "line": 49, 
+        "value": "repository", 
+        "file": "/plugins/devices/ipcamera-motion/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://oss.sonatype.org/content/repositories/snapshots"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/plugins/devices/marytts/pom.xml#L118", 
+        "line": 118, 
+        "value": "repository", 
+        "file": "/plugins/devices/marytts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/marytts/marytts"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/plugins/devices/marytts/pom.xml#L122", 
+        "line": 122, 
+        "value": "repository", 
+        "file": "/plugins/devices/marytts/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://repo.springsource.org/libs-milestone/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/plugins/devices/mqtt-broker/pom.xml#L50", 
+        "line": 50, 
+        "value": "repository", 
+        "file": "/plugins/devices/mqtt-broker/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/andsel/maven/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/plugins/devices/webserver/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/plugins/devices/webserver/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/plugins/legacy/restapi/pom.xml#L94", 
+        "line": 94, 
+        "value": "repository", 
+        "file": "/plugins/legacy/restapi/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/tools/freedomotic-drupal-marketplace/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/tools/freedomotic-drupal-marketplace/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/tools/freedomotic-restapi-interfaces/pom.xml#L54", 
+        "line": 54, 
+        "value": "repository", 
+        "file": "/tools/freedomotic-restapi-interfaces/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/freedomotic/freedomotic/snapshot/b3f4178a25401476b8c5c7fd021e8d99315745f5/files/tools/freedomotic-restapi-test/pom.xml#L77", 
+        "line": 77, 
+        "value": "repository", 
+        "file": "/tools/freedomotic-restapi-test/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://maven.restlet.org"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}

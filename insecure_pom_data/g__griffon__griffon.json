@@ -1,0 +1,366 @@
+{
+  "project": {
+    "url": "https://lgtm.com/projects/g/griffon/griffon", 
+    "url-identifier": "g/griffon/griffon", 
+    "id": 1797511455, 
+    "name": "griffon/griffon"
+  }, 
+  "data": [
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-javafx-groovy-archetype/src/main/resources/archetype-resources/pom.xml#L94", 
+        "line": 94, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-javafx-groovy-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-javafx-groovy-archetype/src/main/resources/archetype-resources/pom.xml#L99", 
+        "line": 99, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-javafx-groovy-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-javafx-java-archetype/src/main/resources/archetype-resources/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-javafx-java-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-javafx-java-archetype/src/main/resources/archetype-resources/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-javafx-java-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-lanterna-groovy-archetype/src/main/resources/archetype-resources/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-lanterna-groovy-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-lanterna-groovy-archetype/src/main/resources/archetype-resources/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-lanterna-groovy-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-lanterna-java-archetype/src/main/resources/archetype-resources/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-lanterna-java-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-lanterna-java-archetype/src/main/resources/archetype-resources/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-lanterna-java-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-pivot-groovy-archetype/src/main/resources/archetype-resources/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-pivot-groovy-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-pivot-groovy-archetype/src/main/resources/archetype-resources/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-pivot-groovy-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-pivot-java-archetype/src/main/resources/archetype-resources/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-pivot-java-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-pivot-java-archetype/src/main/resources/archetype-resources/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-pivot-java-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-swing-groovy-archetype/src/main/resources/archetype-resources/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-swing-groovy-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-swing-groovy-archetype/src/main/resources/archetype-resources/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-swing-groovy-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-swing-java-archetype/src/main/resources/archetype-resources/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-swing-java-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/archetypes/griffon-swing-java-archetype/src/main/resources/archetype-resources/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/archetypes/griffon-swing-java-archetype/src/main/resources/archetype-resources/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-javafx-groovy-templates/templates/griffon-javafx-groovy/pom.xml#L94", 
+        "line": 94, 
+        "value": "repository", 
+        "file": "/templates/griffon-javafx-groovy-templates/templates/griffon-javafx-groovy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-javafx-groovy-templates/templates/griffon-javafx-groovy/pom.xml#L99", 
+        "line": 99, 
+        "value": "repository", 
+        "file": "/templates/griffon-javafx-groovy-templates/templates/griffon-javafx-groovy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-javafx-java-templates/templates/griffon-javafx-java/pom.xml#L73", 
+        "line": 73, 
+        "value": "repository", 
+        "file": "/templates/griffon-javafx-java-templates/templates/griffon-javafx-java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-javafx-java-templates/templates/griffon-javafx-java/pom.xml#L78", 
+        "line": 78, 
+        "value": "repository", 
+        "file": "/templates/griffon-javafx-java-templates/templates/griffon-javafx-java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-lanterna-groovy-templates/templates/griffon-lanterna-groovy/pom.xml#L86", 
+        "line": 86, 
+        "value": "repository", 
+        "file": "/templates/griffon-lanterna-groovy-templates/templates/griffon-lanterna-groovy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-lanterna-groovy-templates/templates/griffon-lanterna-groovy/pom.xml#L91", 
+        "line": 91, 
+        "value": "repository", 
+        "file": "/templates/griffon-lanterna-groovy-templates/templates/griffon-lanterna-groovy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-lanterna-java-templates/templates/griffon-lanterna-java/pom.xml#L63", 
+        "line": 63, 
+        "value": "repository", 
+        "file": "/templates/griffon-lanterna-java-templates/templates/griffon-lanterna-java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-lanterna-java-templates/templates/griffon-lanterna-java/pom.xml#L68", 
+        "line": 68, 
+        "value": "repository", 
+        "file": "/templates/griffon-lanterna-java-templates/templates/griffon-lanterna-java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-pivot-groovy-templates/templates/griffon-pivot-groovy/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/templates/griffon-pivot-groovy-templates/templates/griffon-pivot-groovy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-pivot-groovy-templates/templates/griffon-pivot-groovy/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/templates/griffon-pivot-groovy-templates/templates/griffon-pivot-groovy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-pivot-java-templates/templates/griffon-pivot-java/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/templates/griffon-pivot-java-templates/templates/griffon-pivot-java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-pivot-java-templates/templates/griffon-pivot-java/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/templates/griffon-pivot-java-templates/templates/griffon-pivot-java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-swing-groovy-templates/templates/griffon-swing-groovy/pom.xml#L90", 
+        "line": 90, 
+        "value": "repository", 
+        "file": "/templates/griffon-swing-groovy-templates/templates/griffon-swing-groovy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-swing-groovy-templates/templates/griffon-swing-groovy/pom.xml#L95", 
+        "line": 95, 
+        "value": "repository", 
+        "file": "/templates/griffon-swing-groovy-templates/templates/griffon-swing-groovy/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-swing-java-templates/templates/griffon-swing-java/pom.xml#L67", 
+        "line": 67, 
+        "value": "repository", 
+        "file": "/templates/griffon-swing-java-templates/templates/griffon-swing-java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://jcenter.bintray.com/"
+      }
+    ], 
+    [
+      {
+        "url": "https://lgtm.com/projects/g/griffon/griffon/snapshot/d5c42ddc6f542d134dedfa686bdb43ae5b31be95/files/templates/griffon-swing-java-templates/templates/griffon-swing-java/pom.xml#L72", 
+        "line": 72, 
+        "value": "repository", 
+        "file": "/templates/griffon-swing-java-templates/templates/griffon-swing-java/pom.xml"
+      }, 
+      {
+        "value": "Downloading or uploading artifacts over insecure protocol (eg. http or ftp) to/from repository http://dl.bintray.com/griffon/griffon-plugins"
+      }
+    ]
+  ], 
+  "columns": [
+    "repository", 
+    "col1"
+  ]
+}
