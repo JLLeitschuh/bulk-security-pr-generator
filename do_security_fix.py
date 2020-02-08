@@ -19,7 +19,7 @@ os.mkdir(clone_repos_location)
 
 p_fix_regex = \
     re.compile(
-        r'(?:(?<=<repository>)|(?<=<pluginrepository>)|(?<=<snapshotrepository>))((?:(?!repository>).)*)(<url>\s*)http://(\S*)(\s*</url>)',
+        r'(?:(?<=<repository>)|(?<=<pluginRepository>)|(?<=<snapshotRepository>))((?:(?!repository>).)*)(<url>\s*)http://(\S*)(\s*</url>)',
         re.IGNORECASE + re.MULTILINE + re.DOTALL
     )
 replacement = r'\1\2https://\3\4'
