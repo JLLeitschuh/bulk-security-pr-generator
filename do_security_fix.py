@@ -19,7 +19,7 @@ os.mkdir(clone_repos_location)
 
 p_fix_regex = \
     re.compile(
-        r'(?<=repository>)((?:(?!repository>).)*)(<url>\s*)http://(\S*)(\s*</url>)',
+        r'(?:(?<=<repository>)|(?<=<pluginrepository>)|(?<=<snapshotrepository>))((?:(?!repository>).)*)(<url>\s*)http://(\S*)(\s*</url>)',
         re.IGNORECASE + re.MULTILINE + re.DOTALL
     )
 replacement = r'\1\2https://\3\4'
@@ -40,7 +40,7 @@ class VulnerableProjectFiles:
     def print(self):
         print(self.project_name)
         for file in self.files:
-            print('\t' + file + ': ' + str(self.files[file]))
+            print('\t', '/' + clone_repos_location + file + ': ' + str(self.files[file]))
 
     def do_clone(self):
         subprocess_run(['hub', 'clone', self.project_name], cwd=clone_repos_location)
@@ -97,7 +97,7 @@ for json_file in list_all_json_files():
     if 'jlleitschuh' in vulnerable.project_name.lower():
         vulnerable_projects.append(vulnerable)
 
-    if 'epos' in vulnerable.project_name.lower():
+    if '52north' in vulnerable.project_name.lower():
         vulnerable_projects.append(vulnerable)
 
 print()
