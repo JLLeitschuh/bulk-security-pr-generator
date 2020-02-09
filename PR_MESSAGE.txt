@@ -1,3 +1,0 @@
-Test Action Generated Pull Request
-
-This is a test of an a GitHub Action generated Pull Request!

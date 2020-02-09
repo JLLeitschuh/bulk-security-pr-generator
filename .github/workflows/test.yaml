@@ -38,6 +38,6 @@ jobs:
           git commit -am "A test commit"
           echo "Attempting Push"
           git push origin test-fix
-          hub pull-request --file "$REPO_PATH/PR_MESSAGE.txt"
+          hub pull-request --file "$REPO_PATH/PR_MESSAGE.md"
         env:
           GITHUB_TOKEN: ${{ secrets.ENHANCED_GITHUB_TOKEN }}
