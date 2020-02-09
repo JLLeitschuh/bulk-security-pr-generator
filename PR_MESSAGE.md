@@ -70,3 +70,7 @@ Disallow: *
 ```
 
 This bot will respect the [ROBOTS.txt](https://moz.com/learn/seo/robotstxt) format for future contributions.
+
+Alternatively, if this project is no longer actively maintained, consider 
+[archiving](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-archiving-repositories)
+the repository.
