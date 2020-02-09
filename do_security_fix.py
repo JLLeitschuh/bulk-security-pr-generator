@@ -30,6 +30,12 @@ def subprocess_run(args: List[str], cwd: str):
 
 
 @dataclass
+class VulnerabilityFixReport:
+    files_fixed: int
+    vulnerabilities_fixed: int
+
+
+@dataclass
 class VulnerableProjectFiles:
     project_name: str
     files: Dict[str, int]
@@ -40,15 +46,22 @@ class VulnerableProjectFiles:
     def print(self):
         print(self.project_name)
         for file in self.files:
-            print('\t', '/' + clone_repos_location + file + ': ' + str(self.files[file]))
+            print('\t', '/' + self.project_file_name() + file + ': ' + str(self.files[file]))
 
     def do_clone(self):
-        subprocess_run(['hub', 'clone', self.project_name], cwd=clone_repos_location)
+        subprocess_run(['hub', 'clone', self.project_name, '--depth', '1'], cwd=clone_repos_location)
 
     def do_run_in(self, args: List[str]):
         subprocess_run(args, cwd=self.project_file_name())
 
-    def do_fix_vulnerable_file(self, file: str, expected_fix_count: int):
+    def do_fix_vulnerable_file(self, file: str, expected_fix_count: int) -> int:
+        """
+        Fixes the vulnerabilities in the file passed.
+
+        :param file: The file to fix the vulnerabilities in.
+        :param expected_fix_count: The expected number of vulnerabilities to be fixed.
+        :return: The actual number of vulnerabilities fixed.
+        """
         file_being_fixed: str = self.project_file_name() + file
         with open(file_being_fixed) as vulnerableFile:
             contents: str = vulnerableFile.read()
@@ -59,11 +72,35 @@ class VulnerableProjectFiles:
 
         with open(file_being_fixed, 'w') as vulnerableFile:
             vulnerableFile.write(new_contents)
+        return count
 
-    def do_fix_vulnerability(self):
+    def submodule_files(self) -> List[str]:
+        """
+        List all of the git submodule files in this project.
+
+        We're not going to be fixing pom files in Git submodules so this allows us to filter them out.
+        """
+        files: List[str] = []
+        submodule_file_path: str = self.project_file_name() + '/.gitmodules'
+        if not os.path.isfile(submodule_file_path):
+            return []
+        with open(submodule_file_path) as submodule_file:
+            for line in submodule_file:
+                if 'path' in line:
+                    files.append('/' + line.split('= ')[1][0:-1])
+        return files
+
+    def do_fix_vulnerabilities(self) -> VulnerabilityFixReport:
+
+        project_vulnerabilities_fixed = 0
+        project_files_fixed = 0
+        submodules = self.submodule_files()
         for file in self.files:
-            self.do_fix_vulnerable_file(file, self.files[file])
-        self.do_run_in(['git', 'diff'])
+            skip = next((True for submodule in submodules if file.startswith(submodule)), False)
+            if not skip:
+                project_vulnerabilities_fixed += self.do_fix_vulnerable_file(file, self.files[file])
+                project_files_fixed += 1
+        return VulnerabilityFixReport(project_files_fixed, project_vulnerabilities_fixed)
 
 
 def list_all_json_files() -> Generator[str, None, None]:
@@ -83,11 +120,11 @@ def read_repository_and_file_names(json_file_name: str) -> VulnerableProjectFile
     return VulnerableProjectFiles(project_name, files)
 
 
-def process_vulnerable_project(project: VulnerableProjectFiles):
+def process_vulnerable_project(project: VulnerableProjectFiles) -> VulnerabilityFixReport:
     project.print()
     project.do_clone()
-    project.do_fix_vulnerability()
-    pass
+    project_report: VulnerabilityFixReport = project.do_fix_vulnerabilities()
+    return project_report
 
 
 vulnerable_projects: List[VulnerableProjectFiles] = []
@@ -97,10 +134,20 @@ for json_file in list_all_json_files():
     if 'jlleitschuh' in vulnerable.project_name.lower():
         vulnerable_projects.append(vulnerable)
 
-    if '52north' in vulnerable.project_name.lower():
+    if vulnerable.project_name.startswith('jenkins'):
         vulnerable_projects.append(vulnerable)
 
 print()
 print('Processing Projects:')
+projects_fixed = 0
+files_fixed = 0
+vulnerabilities_fixed = 0
 for vulnerable_project in vulnerable_projects:
-    process_vulnerable_project(vulnerable_project)
+    report = process_vulnerable_project(vulnerable_project)
+    if report.vulnerabilities_fixed > 0:
+        projects_fixed += 1
+        files_fixed += report.files_fixed
+        vulnerabilities_fixed += report.vulnerabilities_fixed
+
+print('Done!')
+print(f'Fixed {vulnerabilities_fixed} vulnerabilities in {files_fixed} files across {projects_fixed} projects!')
