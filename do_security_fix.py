@@ -6,6 +6,7 @@ import re
 import logging
 import shutil
 import subprocess
+import time
 from collections import Counter
 from dataclasses import dataclass
 from typing import Generator, List, Dict
@@ -116,6 +117,7 @@ def read_repository_and_file_names(json_file_name: str) -> VulnerableProjectFile
     with open(json_file_name) as jsonFile:
         data = json.load(jsonFile)
     project_name: str = data['project']['name']
+    # Counter is a Dict[file name, count] representation
     files = Counter([obj[0]['file'] for obj in data['data']])
     return VulnerableProjectFiles(project_name, files)
 
@@ -127,27 +129,35 @@ def process_vulnerable_project(project: VulnerableProjectFiles) -> Vulnerability
     return project_report
 
 
-vulnerable_projects: List[VulnerableProjectFiles] = []
-for json_file in list_all_json_files():
-    vulnerable = read_repository_and_file_names(json_file)
-    vulnerable.print()
-    if 'jlleitschuh' in vulnerable.project_name.lower():
-        vulnerable_projects.append(vulnerable)
+def do_run_everything():
+    vulnerable_projects: List[VulnerableProjectFiles] = []
+    for json_file in list_all_json_files():
+        vulnerable = read_repository_and_file_names(json_file)
+        vulnerable.print()
+        if 'jlleitschuh' in vulnerable.project_name.lower():
+            vulnerable_projects.append(vulnerable)
 
-    if vulnerable.project_name.startswith('jenkins'):
-        vulnerable_projects.append(vulnerable)
+        if vulnerable.project_name.startswith('jenkins'):
+            vulnerable_projects.append(vulnerable)
 
-print()
-print('Processing Projects:')
-projects_fixed = 0
-files_fixed = 0
-vulnerabilities_fixed = 0
-for vulnerable_project in vulnerable_projects:
-    report = process_vulnerable_project(vulnerable_project)
-    if report.vulnerabilities_fixed > 0:
-        projects_fixed += 1
-        files_fixed += report.files_fixed
-        vulnerabilities_fixed += report.vulnerabilities_fixed
+    print()
+    print('Processing Projects:')
+    projects_fixed = 0
+    files_fixed = 0
+    vulnerabilities_fixed = 0
+    for vulnerable_project in vulnerable_projects:
+        report = process_vulnerable_project(vulnerable_project)
+        if report.vulnerabilities_fixed > 0:
+            projects_fixed += 1
+            files_fixed += report.files_fixed
+            vulnerabilities_fixed += report.vulnerabilities_fixed
 
-print('Done!')
-print(f'Fixed {vulnerabilities_fixed} vulnerabilities in {files_fixed} files across {projects_fixed} projects!')
+    print('Done!')
+    print(f'Fixed {vulnerabilities_fixed} vulnerabilities in {files_fixed} files across {projects_fixed} projects!')
+
+
+start = time.monotonic()
+do_run_everything()
+end = time.monotonic()
+duration_seconds = end - start
+print(f'Execution took {duration_seconds} seconds')
