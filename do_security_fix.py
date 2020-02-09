@@ -4,14 +4,19 @@ import os
 import json
 import re
 import logging
+import pathlib
 import shutil
 import subprocess
 import time
+import yaml
 from collections import Counter
 from dataclasses import dataclass
+from github import Github
 from typing import Generator, List, Dict
 
+branch_name = 'fix/JLL/use_https_to_resolve_dependencies'
 clone_repos_location = 'cloned_repos'
+pr_message_file_absolute_path = f'{str(pathlib.Path().absolute())}/PR_MESSAGE.md'
 
 # Cleanup method to get rid of previous files
 if os.path.isdir(clone_repos_location):
@@ -24,6 +29,11 @@ p_fix_regex = \
         re.IGNORECASE + re.MULTILINE + re.DOTALL
     )
 replacement = r'\1\2https://\3\4'
+
+with open(f'{os.path.expanduser("~")}/.config/hub') as hub_file:
+    hub_config = yaml.safe_load(hub_file)
+
+git_hub = Github(login_or_token=hub_config['github.com'][0]['oauth_token'])
 
 
 def subprocess_run(args: List[str], cwd: str):
@@ -103,6 +113,26 @@ class VulnerableProjectFiles:
                 project_files_fixed += 1
         return VulnerabilityFixReport(project_files_fixed, project_vulnerabilities_fixed)
 
+    def do_create_branch(self):
+        self.do_run_in(['git', 'checkout', '-b', branch_name])
+
+    def do_stage_changes(self):
+        self.do_run_in(['git', 'add', '.'])
+
+    def do_commit_changes(self):
+        # TODO: Fix this commit message
+        self.do_run_in(['git', 'commit', '-m', 'TEST MESSAGE'])
+
+    def do_do_fork_repository(self):
+        assert False, 'Don\'t fork yet!'
+        self.do_run_in(['hub', 'fork', '--remote-name', 'origin'])
+
+    def do_push_changes(self):
+        self.do_run_in(['git', 'push', 'origin', branch_name])
+
+    def do_create_pull_request(self):
+        self.do_run_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path])
+
 
 def list_all_json_files() -> Generator[str, None, None]:
     base_dir = 'insecure_pom_data'
@@ -126,7 +156,18 @@ def process_vulnerable_project(project: VulnerableProjectFiles) -> Vulnerability
     project.print()
     project.do_clone()
     project_report: VulnerabilityFixReport = project.do_fix_vulnerabilities()
+    project.do_create_branch()
+    project.do_stage_changes()
+    if project.project_name.lower().startswith('jlleitschuh'):
+        ## TODO: Fix the commit message here!
+        project.do_commit_changes()
+        project.do_push_changes()
+        project.do_create_pull_request()
     return project_report
+
+
+def is_archived_git_hub_repository(project: VulnerableProjectFiles) -> bool:
+    return git_hub.get_repo(project.project_name).archived
 
 
 def do_run_everything():
@@ -137,8 +178,8 @@ def do_run_everything():
         if 'jlleitschuh' in vulnerable.project_name.lower():
             vulnerable_projects.append(vulnerable)
 
-        if vulnerable.project_name.startswith('jenkins'):
-            vulnerable_projects.append(vulnerable)
+        # if vulnerable.project_name.startswith('jenkins'):
+        #     vulnerable_projects.append(vulnerable)
 
     print()
     print('Processing Projects:')
@@ -146,6 +187,11 @@ def do_run_everything():
     files_fixed = 0
     vulnerabilities_fixed = 0
     for vulnerable_project in vulnerable_projects:
+
+        if is_archived_git_hub_repository(vulnerable_project):
+            logging.info(f'Skipping project {vulnerable_project.project_name} since it is archived')
+            continue
+
         report = process_vulnerable_project(vulnerable_project)
         if report.vulnerabilities_fixed > 0:
             projects_fixed += 1
