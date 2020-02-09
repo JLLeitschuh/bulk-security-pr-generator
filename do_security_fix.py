@@ -1,12 +1,13 @@
 #!/usr/bin/python3
 
+import asyncio
+import aiofiles
 import os
 import json
 import re
 import logging
 import pathlib
 import shutil
-import subprocess
 import time
 import yaml
 from collections import Counter
@@ -14,7 +15,7 @@ from dataclasses import dataclass
 from github import Github
 from typing import Generator, List, Dict
 
-branch_name = 'fix/JLL/use_https_to_resolve_dependencies'
+branch_name = 'fix/JLL/use_https_to_resolve_dependencies_2'
 clone_repos_location = 'cloned_repos'
 pr_message_file_absolute_path = f'{str(pathlib.Path().absolute())}/PR_MESSAGE.md'
 
@@ -36,8 +37,29 @@ with open(f'{os.path.expanduser("~")}/.config/hub') as hub_file:
 git_hub = Github(login_or_token=hub_config['github.com'][0]['oauth_token'])
 
 
-def subprocess_run(args: List[str], cwd: str):
-    subprocess.run(args, cwd=cwd, capture_output=True, check=True)
+async def subprocess_run(args: List[str], cwd: str):
+    cmd = ' '.join(args)
+    proc = await asyncio.create_subprocess_shell(
+        cmd,
+        stdout=asyncio.subprocess.PIPE,
+        stderr=asyncio.subprocess.PIPE,
+        cwd=cwd
+    )
+
+    stdout, stderr = await proc.communicate()
+
+    print(f'[{cmd!r} exited with {proc.returncode}]')
+    if stdout:
+        print(f'[stdout]\n{stdout.decode()}')
+
+    if proc.returncode != 0:
+        if stderr:
+            raise RuntimeError(f'[stderr]\n{stderr.decode()}')
+    else:
+        if stderr:
+            print(f'[stderr]\n{stderr.decode()}')
+
+    # subprocess.run(args, cwd=cwd, capture_output=True, check=True)
 
 
 @dataclass
@@ -59,13 +81,13 @@ class VulnerableProjectFiles:
         for file in self.files:
             print('\t', '/' + self.project_file_name() + file + ': ' + str(self.files[file]))
 
-    def do_clone(self):
-        subprocess_run(['hub', 'clone', self.project_name, '--depth', '1'], cwd=clone_repos_location)
+    async def do_clone(self):
+        await subprocess_run(['hub', 'clone', self.project_name, '--depth', '1'], cwd=clone_repos_location)
 
-    def do_run_in(self, args: List[str]):
-        subprocess_run(args, cwd=self.project_file_name())
+    async def do_run_in(self, args: List[str]):
+        await subprocess_run(args, cwd=self.project_file_name())
 
-    def do_fix_vulnerable_file(self, file: str, expected_fix_count: int) -> int:
+    async def do_fix_vulnerable_file(self, file: str, expected_fix_count: int) -> int:
         """
         Fixes the vulnerabilities in the file passed.
 
@@ -74,15 +96,15 @@ class VulnerableProjectFiles:
         :return: The actual number of vulnerabilities fixed.
         """
         file_being_fixed: str = self.project_file_name() + file
-        with open(file_being_fixed) as vulnerableFile:
-            contents: str = vulnerableFile.read()
+        async with aiofiles.open(file_being_fixed) as vulnerableFile:
+            contents: str = await vulnerableFile.read()
 
         new_contents, count = p_fix_regex.subn(replacement, contents)
         if count != expected_fix_count:
             logging.warning('Fix did match expected fix count: (expected: %d, actual: %d)', expected_fix_count, count)
 
-        with open(file_being_fixed, 'w') as vulnerableFile:
-            vulnerableFile.write(new_contents)
+        async with aiofiles.open(file_being_fixed, 'w') as vulnerableFile:
+            await vulnerableFile.write(new_contents)
         return count
 
     def submodule_files(self) -> List[str]:
@@ -101,37 +123,36 @@ class VulnerableProjectFiles:
                     files.append('/' + line.split('= ')[1][0:-1])
         return files
 
-    def do_fix_vulnerabilities(self) -> VulnerabilityFixReport:
-
+    async def do_fix_vulnerabilities(self) -> VulnerabilityFixReport:
         project_vulnerabilities_fixed = 0
         project_files_fixed = 0
         submodules = self.submodule_files()
         for file in self.files:
             skip = next((True for submodule in submodules if file.startswith(submodule)), False)
             if not skip:
-                project_vulnerabilities_fixed += self.do_fix_vulnerable_file(file, self.files[file])
+                project_vulnerabilities_fixed += await self.do_fix_vulnerable_file(file, self.files[file])
                 project_files_fixed += 1
         return VulnerabilityFixReport(project_files_fixed, project_vulnerabilities_fixed)
 
-    def do_create_branch(self):
-        self.do_run_in(['git', 'checkout', '-b', branch_name])
+    async def do_create_branch(self):
+        await self.do_run_in(['git', 'checkout', '-b', branch_name])
 
-    def do_stage_changes(self):
-        self.do_run_in(['git', 'add', '.'])
+    async def do_stage_changes(self):
+        await self.do_run_in(['git', 'add', '.'])
 
-    def do_commit_changes(self):
+    async def do_commit_changes(self):
         # TODO: Fix this commit message
-        self.do_run_in(['git', 'commit', '-m', 'TEST MESSAGE'])
+        await self.do_run_in(['git', 'commit', '-m', 'TEST MESSAGE'])
 
-    def do_do_fork_repository(self):
+    async def do_do_fork_repository(self):
         assert False, 'Don\'t fork yet!'
-        self.do_run_in(['hub', 'fork', '--remote-name', 'origin'])
+        await self.do_run_in(['hub', 'fork', '--remote-name', 'origin'])
 
-    def do_push_changes(self):
-        self.do_run_in(['git', 'push', 'origin', branch_name])
+    async def do_push_changes(self):
+        await self.do_run_in(['git', 'push', 'origin', branch_name])
 
-    def do_create_pull_request(self):
-        self.do_run_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path])
+    async def do_create_pull_request(self):
+        await self.do_run_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path])
 
 
 def list_all_json_files() -> Generator[str, None, None]:
@@ -152,17 +173,17 @@ def read_repository_and_file_names(json_file_name: str) -> VulnerableProjectFile
     return VulnerableProjectFiles(project_name, files)
 
 
-def process_vulnerable_project(project: VulnerableProjectFiles) -> VulnerabilityFixReport:
+async def process_vulnerable_project(project: VulnerableProjectFiles) -> VulnerabilityFixReport:
     project.print()
-    project.do_clone()
-    project_report: VulnerabilityFixReport = project.do_fix_vulnerabilities()
-    project.do_create_branch()
-    project.do_stage_changes()
-    if project.project_name.lower().startswith('jlleitschuh'):
-        ## TODO: Fix the commit message here!
-        project.do_commit_changes()
-        project.do_push_changes()
-        project.do_create_pull_request()
+    await project.do_clone()
+    project_report: VulnerabilityFixReport = await project.do_fix_vulnerabilities()
+    await project.do_create_branch()
+    await project.do_stage_changes()
+    # if project.project_name.lower().startswith('jlleitschuh'):
+    #     ## TODO: Fix the commit message here!
+    #     await project.do_commit_changes()
+    #     await project.do_push_changes()
+    #     await project.do_create_pull_request()
     return project_report
 
 
@@ -170,7 +191,7 @@ def is_archived_git_hub_repository(project: VulnerableProjectFiles) -> bool:
     return git_hub.get_repo(project.project_name).archived
 
 
-def do_run_everything():
+async def do_run_everything():
     vulnerable_projects: List[VulnerableProjectFiles] = []
     for json_file in list_all_json_files():
         vulnerable = read_repository_and_file_names(json_file)
@@ -178,21 +199,23 @@ def do_run_everything():
         if 'jlleitschuh' in vulnerable.project_name.lower():
             vulnerable_projects.append(vulnerable)
 
-        # if vulnerable.project_name.startswith('jenkins'):
-        #     vulnerable_projects.append(vulnerable)
+        if vulnerable.project_name.startswith('jenkinsci'):
+            vulnerable_projects.append(vulnerable)
 
     print()
     print('Processing Projects:')
     projects_fixed = 0
     files_fixed = 0
     vulnerabilities_fixed = 0
+    waiting_reports = []
     for vulnerable_project in vulnerable_projects:
-
         if is_archived_git_hub_repository(vulnerable_project):
             logging.info(f'Skipping project {vulnerable_project.project_name} since it is archived')
             continue
+        waiting_reports.append(process_vulnerable_project(vulnerable_project))
 
-        report = process_vulnerable_project(vulnerable_project)
+    all_reports = await asyncio.gather(*waiting_reports)
+    for report in all_reports:
         if report.vulnerabilities_fixed > 0:
             projects_fixed += 1
             files_fixed += report.files_fixed
@@ -203,7 +226,7 @@ def do_run_everything():
 
 
 start = time.monotonic()
-do_run_everything()
+asyncio.run(do_run_everything())
 end = time.monotonic()
 duration_seconds = end - start
 print(f'Execution took {duration_seconds} seconds')

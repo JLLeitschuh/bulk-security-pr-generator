@@ -10,12 +10,9 @@
 This is a security fix for a  vulnerability in your [Apache Maven](https://maven.apache.org/) `pom.xml` file(s).
 
 The build files indicate that this project is resolving dependencies over HTTP instead of HTTPS.
-This leaves your build vulnerable to allowing a 
-[Man in the Middle](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) (MITM)
-attackers to execute arbitrary code on your or your computer or CI/CD system.
+This leaves your build vulnerable to allowing a [Man in the Middle](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) (MITM) attackers to execute arbitrary code on your or your computer or CI/CD system.
 
-This vulnerability has a CVSS v3.0 Base Score of
-[8.1/10](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).
+This vulnerability has a CVSS v3.0 Base Score of [8.1/10](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).
 
 ## This isn't just theoretical
 
@@ -43,18 +40,17 @@ This contribution is a part of a submission to the [GitHub Security Lab](https:/
 
 ## Detecting this and Future Vulnerabilities
 
-This vulnerability was automatically detected by [LGTM.com](https://lgtm.com) using this
-[CodeQL Query](https://lgtm.com/rules/1511115648721/).
+This vulnerability was automatically detected by [LGTM.com](https://lgtm.com) using this [CodeQL Query](https://lgtm.com/rules/1511115648721/).
 
 As of September 2019 LGTM.com and Semmle are [officially a part of GitHub](https://github.blog/2019-09-18-github-welcomes-semmle/).
 
-You can automatically detect future vulnerabilities like this by enabling the free (for open-source)
-[LGTM App](https://github.com/marketplace/lgtm).
+You can automatically detect future vulnerabilities like this by enabling the free (for open-source) [LGTM App](https://github.com/marketplace/lgtm).
+
+I'm not an employee of GitHub nor of Semmle, I'm simply a user of [LGTM.com](https://lgtm.com) and an open-source security researcher.
 
 ## Source
 
-Yes, this contribution was automatically generated, however, the code to generate this PR
-was lovingly hand crafted to bring this contribution to your repository.
+Yes, this contribution was automatically generated, however, the code to generate this PR was lovingly hand crafted to bring this security fix to your repository.
 
 The source code that generated and submitted this PR can be found here:
 [JLLeitschuh/bulk-security-pr-generator](https://github.com/JLLeitschuh/bulk-security-pr-generator)
@@ -71,6 +67,4 @@ Disallow: *
 
 This bot will respect the [ROBOTS.txt](https://moz.com/learn/seo/robotstxt) format for future contributions.
 
-Alternatively, if this project is no longer actively maintained, consider 
-[archiving](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-archiving-repositories)
-the repository.
+Alternatively, if this project is no longer actively maintained, consider [archiving](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-archiving-repositories) the repository.
