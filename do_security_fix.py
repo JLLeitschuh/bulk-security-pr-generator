@@ -107,10 +107,17 @@ class VulnerableProjectFiles:
         for file in self.files:
             print('\t', '/' + self.project_file_name() + file + ': ' + str(self.files[file]))
 
-    async def do_clone(self):
-        async def do_call(wait_time):
+    @staticmethod
+    async def do_resilient_hub_call(args: List[str], cwd: str) -> Optional[str]:
+        """
+        Make a call to hub that is resilient to timeout exceptions.
+
+        :return: stdout output if successful
+        """
+
+        async def do_call(wait_time) -> Optional[str]:
             try:
-                await subprocess_run(['hub', 'clone', self.project_name, '--depth', '1'], cwd=clone_repos_location)
+                return await subprocess_run(args, cwd=cwd)
             except TimeoutError as e:
                 # This serves a double purpose as informational and also a 'sane'
                 # way to slow down this script reasonably
@@ -118,12 +125,21 @@ class VulnerableProjectFiles:
                 await asyncio.sleep(wait_time)
                 if wait_time > 16:
                     raise e
-                await do_call(wait_time * 2)
+                return await do_call(wait_time * 2)
 
-        await do_call(1)
+        return await do_call(1)
+
+    async def do_clone(self):
+        await self.do_resilient_hub_call(
+            ['hub', 'clone', self.project_name, '--depth', '1'], cwd=clone_repos_location
+        )
 
     async def do_run_in(self, args: List[str]) -> Optional[str]:
+        assert args[0] != 'hub', 'This method is unsuitable for calling `hub`. Use `do_run_hub_in` instead!'
         return await subprocess_run(args, cwd=self.project_file_name())
+
+    async def do_run_hub_in(self, args: List[str]) -> Optional[str]:
+        return await self.do_resilient_hub_call(args=args, cwd=self.project_file_name())
 
     async def do_fix_vulnerable_file(self, file: str, expected_fix_count: int) -> int:
         """
@@ -208,13 +224,13 @@ class VulnerableProjectFiles:
 
     async def do_do_fork_repository(self):
         assert False, 'Don\'t fork yet!'
-        await self.do_run_in(['hub', 'fork', '--remote-name', 'origin'])
+        await self.do_run_hub_in(['hub', 'fork', '--remote-name', 'origin'])
 
     async def do_push_changes(self):
         await self.do_run_in(['git', 'push', 'origin', branch_name])
 
     async def do_create_pull_request(self) -> str:
-        stdout = await self.do_run_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path])
+        stdout = await self.do_run_hub_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path])
         pattern = re.compile(r'(https://.*)')
         match = pattern.search(stdout)
         return match.group(1)
