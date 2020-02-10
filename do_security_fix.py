@@ -40,8 +40,6 @@ p_fix_regex = \
     )
 replacement = r'\1\2https://\3\4'
 
-github_hub_lock = asyncio.Lock()
-
 with open(f'{os.path.expanduser("~")}/.config/hub') as hub_file:
     hub_config = yaml.safe_load(hub_file)
 
@@ -111,7 +109,7 @@ class VulnerableProjectFiles:
             print('\t', '/' + self.project_file_name() + file + ': ' + str(self.files[file]))
 
     @staticmethod
-    async def do_resilient_hub_call(args: List[str], cwd: str) -> Optional[str]:
+    async def do_resilient_hub_call(args: List[str], cwd: str, lock) -> Optional[str]:
         """
         Make a call to hub that is resilient to timeout exceptions.
 
@@ -120,7 +118,7 @@ class VulnerableProjectFiles:
 
         async def do_call(wait_time) -> Optional[str]:
             try:
-                async with github_hub_lock:
+                async with lock:
                     # GitHub documentation says to wait 1 second between writes
                     await asyncio.sleep(1)
                     return await subprocess_run(args, cwd=cwd)
@@ -135,17 +133,19 @@ class VulnerableProjectFiles:
 
         return await do_call(1)
 
-    async def do_clone(self):
+    async def do_clone(self, lock):
         await self.do_resilient_hub_call(
-            ['hub', 'clone', self.project_name, '--depth', '1'], cwd=clone_repos_location
+            ['hub', 'clone', self.project_name, '--depth', '1'],
+            cwd=clone_repos_location,
+            lock=lock
         )
 
     async def do_run_in(self, args: List[str]) -> Optional[str]:
         assert args[0] != 'hub', 'This method is unsuitable for calling `hub`. Use `do_run_hub_in` instead!'
         return await subprocess_run(args, cwd=self.project_file_name())
 
-    async def do_run_hub_in(self, args: List[str]) -> Optional[str]:
-        return await self.do_resilient_hub_call(args=args, cwd=self.project_file_name())
+    async def do_run_hub_in(self, args: List[str], lock) -> Optional[str]:
+        return await self.do_resilient_hub_call(args=args, cwd=self.project_file_name(), lock=lock)
 
     async def do_fix_vulnerable_file(self, file: str, expected_fix_count: int) -> int:
         """
@@ -228,14 +228,14 @@ class VulnerableProjectFiles:
         '''
         await self.do_run_in(['git', 'commit', '-m', textwrap.dedent(msg)])
 
-    async def do_do_fork_repository(self):
-        await self.do_run_hub_in(['hub', 'fork', '--remote-name', 'origin'])
+    async def do_do_fork_repository(self, lock):
+        await self.do_run_hub_in(['hub', 'fork', '--remote-name', 'origin'], lock)
 
     async def do_push_changes(self):
         await self.do_run_in(['git', 'push', 'origin', branch_name, '--force-with-lease'])
 
-    async def do_create_pull_request(self) -> str:
-        stdout = await self.do_run_hub_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path])
+    async def do_create_pull_request(self, lock) -> str:
+        stdout = await self.do_run_hub_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path], lock)
         pattern = re.compile(r'(https://.*)')
         match = pattern.search(stdout)
         return match.group(1)
@@ -269,9 +269,9 @@ def read_repository_and_file_names(json_file_name: str) -> VulnerableProjectFile
     return VulnerableProjectFiles(project_name, files)
 
 
-async def process_vulnerable_project(project: VulnerableProjectFiles) -> VulnerabilityFixReport:
+async def process_vulnerable_project(project: VulnerableProjectFiles, lock) -> VulnerabilityFixReport:
     project.print()
-    await project.do_clone()
+    await project.do_clone(lock)
     project_report: VulnerabilityFixReport = await project.do_fix_vulnerabilities()
     pr_url = ''
     # If the LGTM data is out-of-date, there can be cases where no vulnerabilities are fixed
@@ -281,10 +281,10 @@ async def process_vulnerable_project(project: VulnerableProjectFiles) -> Vulnera
         await project.do_commit_changes()
 
         if not project.project_name.lower().startswith('jlleitschuh'):
-            await project.do_do_fork_repository()
+            await project.do_do_fork_repository(lock)
 
         await project.do_push_changes()
-        pr_url = await project.do_create_pull_request()
+        pr_url = await project.do_create_pull_request(lock)
     await project.do_create_save_point(project_report, pr_url)
     return project_report
 
@@ -294,6 +294,7 @@ def is_archived_git_hub_repository(project: VulnerableProjectFiles) -> bool:
 
 
 async def do_run_everything():
+    github_hub_lock = asyncio.Lock()
     vulnerable_projects: List[VulnerableProjectFiles] = []
     for json_file in list_all_json_files():
         vulnerable = read_repository_and_file_names(json_file)
@@ -315,7 +316,7 @@ async def do_run_everything():
             logging.info(f'Skipping project {vulnerable_project.project_name} since save point file already exists')
             continue
         print(f'Loading Execution for: {vulnerable_project.project_name}')
-        waiting_reports.append(process_vulnerable_project(vulnerable_project))
+        waiting_reports.append(process_vulnerable_project(vulnerable_project, github_hub_lock))
 
     projects_fixed = 0
     files_fixed = 0
