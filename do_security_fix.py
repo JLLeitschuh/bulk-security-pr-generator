@@ -12,12 +12,13 @@ import time
 import textwrap
 import yaml
 from collections import Counter
-from dataclasses import dataclass
+from dataclasses import dataclass, asdict
 from github import Github
 from typing import Generator, List, Dict, Optional
 
 branch_name = 'fix/JLL/use_https_to_resolve_dependencies_2'
 clone_repos_location = 'cloned_repos'
+save_point_location = 'save_points'
 pr_message_file_absolute_path = f'{str(pathlib.Path().absolute())}/PR_MESSAGE.md'
 
 # Cleanup method to get rid of previous files
@@ -77,7 +78,7 @@ async def subprocess_run(args: List[str], cwd: str) -> Optional[str]:
         return None
 
 
-@dataclass
+@dataclass(frozen=True)
 class VulnerabilityFixReport:
     files_fixed: int
     vulnerabilities_fixed: int
@@ -90,6 +91,10 @@ class VulnerableProjectFiles:
 
     def project_file_name(self) -> str:
         return clone_repos_location + '/' + self.project_name.split('/')[1]
+
+    def save_point_file_name(self) -> str:
+        project_as_file_name = self.project_name.replace('/', '__')
+        return f'{save_point_location}/{project_as_file_name}.json'
 
     def print(self):
         print(self.project_name)
@@ -193,6 +198,16 @@ class VulnerableProjectFiles:
     async def do_create_pull_request(self):
         await self.do_run_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path])
 
+    async def do_create_save_point(self, report: VulnerabilityFixReport, pr_url: str):
+        json_body = {
+            'project_name': self.project_name,
+            'files': self.files,
+            'pull_request': pr_url,
+            'report': asdict(report)
+        }
+        async with aiofiles.open(self.save_point_file_name()) as json_file_to_write:
+            await json_file_to_write.write(json.dumps(json_body, indent=4))
+
 
 def list_all_json_files() -> Generator[str, None, None]:
     base_dir = 'insecure_pom_data'
@@ -218,11 +233,12 @@ async def process_vulnerable_project(project: VulnerableProjectFiles) -> Vulnera
     project_report: VulnerabilityFixReport = await project.do_fix_vulnerabilities()
     await project.do_create_branch()
     await project.do_stage_changes()
-    ## TODO: Fix the commit message here!
     await project.do_commit_changes()
     # if project.project_name.lower().startswith('jlleitschuh'):
     #     await project.do_push_changes()
     #     await project.do_create_pull_request()
+    # TODO: Get the PR URL
+    await project.do_create_save_point(project_report, '')
     return project_report
 
 
@@ -250,6 +266,9 @@ async def do_run_everything():
     for vulnerable_project in vulnerable_projects:
         if is_archived_git_hub_repository(vulnerable_project):
             logging.info(f'Skipping project {vulnerable_project.project_name} since it is archived')
+            continue
+        if os.path.exists(vulnerable_project.save_point_file_name()):
+            logging.info(f'Skipping project {vulnerable_project.project_name} since save point file already exists')
             continue
         waiting_reports.append(process_vulnerable_project(vulnerable_project))
 
