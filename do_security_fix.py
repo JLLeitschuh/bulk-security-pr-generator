@@ -40,6 +40,8 @@ p_fix_regex = \
     )
 replacement = r'\1\2https://\3\4'
 
+github_hub_lock = asyncio.Lock()
+
 with open(f'{os.path.expanduser("~")}/.config/hub') as hub_file:
     hub_config = yaml.safe_load(hub_file)
 
@@ -118,7 +120,10 @@ class VulnerableProjectFiles:
 
         async def do_call(wait_time) -> Optional[str]:
             try:
-                return await subprocess_run(args, cwd=cwd)
+                async with github_hub_lock:
+                    # GitHub documentation says to wait 1 second between writes
+                    await asyncio.sleep(1)
+                    return await subprocess_run(args, cwd=cwd)
             except TimeoutError as e:
                 # This serves a double purpose as informational and also a 'sane'
                 # way to slow down this script reasonably
