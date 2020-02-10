@@ -6,6 +6,7 @@ import os
 import json
 import re
 import logging
+import logging.config
 import pathlib
 import shutil
 import time
@@ -16,6 +17,9 @@ from dataclasses import dataclass, asdict
 from github import Github
 from typing import Generator, List, Dict, Optional
 
+logging.basicConfig()
+logging.getLogger().setLevel(logging.INFO)
+
 branch_name = 'fix/JLL/use_https_to_resolve_dependencies_2'
 clone_repos_location = 'cloned_repos'
 save_point_location = 'save_points'
@@ -25,6 +29,8 @@ pr_message_file_absolute_path = f'{str(pathlib.Path().absolute())}/PR_MESSAGE.md
 if os.path.isdir(clone_repos_location):
     shutil.rmtree(clone_repos_location)
 os.mkdir(clone_repos_location)
+if not os.path.isdir(save_point_location):
+    os.mkdir(save_point_location)
 
 p_fix_regex = \
     re.compile(
@@ -41,16 +47,16 @@ git_hub = Github(login_or_token=hub_config['github.com'][0]['oauth_token'])
 
 def print_current_rate_limit():
     rate_limit = git_hub.get_rate_limit().core
-    print(f'Current Rate Limit: {rate_limit}, reset time: {rate_limit.remaining}')
+    print(f'Current Rate Limit: {rate_limit}, reset time: {rate_limit.reset}')
 
 
 print_current_rate_limit()
 
 
 async def subprocess_run(args: List[str], cwd: str) -> Optional[str]:
-    cmd = ' '.join(args)
-    proc = await asyncio.create_subprocess_shell(
-        cmd,
+    proc = await asyncio.create_subprocess_exec(
+        args[0],
+        *args[1:],
         stdout=asyncio.subprocess.PIPE,
         stderr=asyncio.subprocess.PIPE,
         cwd=cwd
@@ -58,7 +64,7 @@ async def subprocess_run(args: List[str], cwd: str) -> Optional[str]:
 
     stdout, stderr = await proc.communicate()
 
-    print(f'[{cmd!r} exited with {proc.returncode}]')
+    print(f'[{args!r} exited with {proc.returncode}]')
     if stdout:
         print(f'[stdout]\n{stdout.decode()}')
 
@@ -94,7 +100,7 @@ class VulnerableProjectFiles:
 
     def save_point_file_name(self) -> str:
         project_as_file_name = self.project_name.replace('/', '__')
-        return f'{save_point_location}/{project_as_file_name}.json'
+        return f'{save_point_location}/g__{project_as_file_name}.json'
 
     def print(self):
         print(self.project_name)
@@ -113,6 +119,7 @@ class VulnerableProjectFiles:
                 if wait_time > 16:
                     raise e
                 await do_call(wait_time * 2)
+
         await do_call(1)
 
     async def do_run_in(self, args: List[str]):
@@ -205,7 +212,7 @@ class VulnerableProjectFiles:
             'pull_request': pr_url,
             'report': asdict(report)
         }
-        async with aiofiles.open(self.save_point_file_name()) as json_file_to_write:
+        async with aiofiles.open(self.save_point_file_name(), 'w') as json_file_to_write:
             await json_file_to_write.write(json.dumps(json_body, indent=4))
 
 
@@ -254,14 +261,11 @@ async def do_run_everything():
         if 'jlleitschuh' in vulnerable.project_name.lower():
             vulnerable_projects.append(vulnerable)
 
-        if vulnerable.project_name.startswith('jenkinsci'):
-            vulnerable_projects.append(vulnerable)
+        # if vulnerable.project_name.startswith('jenkinsci'):
+        #     vulnerable_projects.append(vulnerable)
 
     print()
-    print('Processing Projects:')
-    projects_fixed = 0
-    files_fixed = 0
-    vulnerabilities_fixed = 0
+    print('Loading Async Project Executions:')
     waiting_reports = []
     for vulnerable_project in vulnerable_projects:
         if is_archived_git_hub_repository(vulnerable_project):
@@ -270,8 +274,13 @@ async def do_run_everything():
         if os.path.exists(vulnerable_project.save_point_file_name()):
             logging.info(f'Skipping project {vulnerable_project.project_name} since save point file already exists')
             continue
+        print(f'Loading Execution for: {vulnerable_project.project_name}')
         waiting_reports.append(process_vulnerable_project(vulnerable_project))
 
+    projects_fixed = 0
+    files_fixed = 0
+    vulnerabilities_fixed = 0
+    print('Processing Projects:')
     all_reports = await asyncio.gather(*waiting_reports)
     for report in all_reports:
         if report.vulnerabilities_fixed > 0:
