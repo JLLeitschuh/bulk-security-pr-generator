@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/mina-asyncweb",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/mina-asyncweb/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

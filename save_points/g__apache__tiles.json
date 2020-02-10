@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/tiles",
+    "files": {
+        "/tiles-test-pom/tiles-test/pom.xml": 5
+    },
+    "pull_request": "https://github.com/apache/tiles/pull/21",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

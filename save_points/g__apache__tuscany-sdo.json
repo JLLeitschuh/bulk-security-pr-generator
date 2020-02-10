@@ -1,0 +1,15 @@
+{
+    "project_name": "apache/tuscany-sdo",
+    "files": {
+        "/impl/pom.xml": 1,
+        "/java5tools/pom.xml": 1,
+        "/lib/pom.xml": 1,
+        "/pom.xml": 2,
+        "/sdo-api/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/tuscany-sdo/pull/3",
+    "report": {
+        "files_fixed": 5,
+        "vulnerabilities_fixed": 6
+    }
+}

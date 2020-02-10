@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/dubbo-spring-boot-project",
+    "files": {
+        "/dubbo-spring-boot-parent/pom.xml": 4
+    },
+    "pull_request": "https://github.com/apache/dubbo-spring-boot-project/pull/675",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

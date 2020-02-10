@@ -1,0 +1,13 @@
+{
+    "project_name": "apache/maven-assembly-plugin",
+    "files": {
+        "/pom.xml": 1,
+        "/src/it/projects/dependency-sets/massembly-99/pom.xml": 1,
+        "/src/it/projects/dependency-sets/using-moduleSet-implied-depSet/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/maven-assembly-plugin/pull/17",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 3
+    }
+}

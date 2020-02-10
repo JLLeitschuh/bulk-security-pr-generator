@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/incubator-samoa",
+    "files": {
+        "/samoa-storm/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/incubator-samoa/pull/84",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

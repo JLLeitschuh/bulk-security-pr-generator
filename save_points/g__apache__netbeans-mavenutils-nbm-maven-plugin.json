@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/netbeans-mavenutils-nbm-maven-plugin",
+    "files": {
+        "/src/it/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/netbeans-mavenutils-nbm-maven-plugin/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

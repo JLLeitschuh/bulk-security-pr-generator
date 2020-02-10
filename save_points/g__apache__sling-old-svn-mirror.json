@@ -1,0 +1,14 @@
+{
+    "project_name": "apache/sling-old-svn-mirror",
+    "files": {
+        "/contrib/extensions/cassandra/pom.xml": 2,
+        "/contrib/launchpad/debian/pom.xml": 1,
+        "/parent/pom.xml": 1,
+        "/tooling/ide/pom.xml": 1
+    },
+    "pull_request": "",
+    "report": {
+        "files_fixed": 0,
+        "vulnerabilities_fixed": 0
+    }
+}

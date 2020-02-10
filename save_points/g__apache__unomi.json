@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/unomi",
+    "files": {
+        "/rest/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/unomi/pull/127",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

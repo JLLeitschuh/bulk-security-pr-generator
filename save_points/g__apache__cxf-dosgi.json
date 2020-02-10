@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/cxf-dosgi",
+    "files": {
+        "/parent/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/cxf-dosgi/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

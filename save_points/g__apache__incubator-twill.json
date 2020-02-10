@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/incubator-twill",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/incubator-twill/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

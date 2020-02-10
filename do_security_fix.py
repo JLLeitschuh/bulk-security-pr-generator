@@ -227,7 +227,7 @@ class VulnerableProjectFiles:
         await self.do_run_hub_in(['hub', 'fork', '--remote-name', 'origin'])
 
     async def do_push_changes(self):
-        await self.do_run_in(['git', 'push', 'origin', branch_name])
+        await self.do_run_in(['git', 'push', 'origin', branch_name, '--force-with-lease'])
 
     async def do_create_pull_request(self) -> str:
         stdout = await self.do_run_hub_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path])
@@ -296,7 +296,7 @@ async def do_run_everything():
         # if 'jlleitschuh' in vulnerable.project_name.lower():
         #     vulnerable_projects.append(vulnerable)
 
-        if vulnerable.project_name.startswith('0opslab'):
+        if vulnerable.project_name.startswith('apache/'):
             vulnerable_projects.append(vulnerable)
 
     print()

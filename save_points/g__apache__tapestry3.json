@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/tapestry3",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/apache/tapestry3/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

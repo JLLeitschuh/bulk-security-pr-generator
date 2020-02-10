@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/maven-archetype",
+    "files": {
+        "/maven-archetype-plugin/src/test/projects/simple-inheritence/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/maven-archetype/pull/37",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

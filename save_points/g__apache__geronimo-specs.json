@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/geronimo-specs",
+    "files": {
+        "/geronimo-servlet_3.1_spec/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/geronimo-specs/pull/16",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

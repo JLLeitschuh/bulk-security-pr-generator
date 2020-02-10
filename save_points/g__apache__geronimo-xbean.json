@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/geronimo-xbean",
+    "files": {
+        "/xbean-bundleutils/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/geronimo-xbean/pull/22",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

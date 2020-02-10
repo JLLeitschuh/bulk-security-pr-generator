@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/asterixdb-hyracks",
+    "files": {
+        "/hyracks/pom.xml": 3,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/apache/asterixdb-hyracks/pull/5",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 6
+    }
+}
