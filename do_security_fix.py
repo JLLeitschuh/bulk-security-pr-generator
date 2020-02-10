@@ -15,6 +15,7 @@ import yaml
 from collections import Counter
 from dataclasses import dataclass, asdict
 from github import Github
+from random import random
 from typing import Generator, List, Dict, Optional
 
 logging.basicConfig()
@@ -125,7 +126,7 @@ class VulnerableProjectFiles:
                 await asyncio.sleep(wait_time)
                 if wait_time > 16:
                     raise e
-                return await do_call(wait_time * 2)
+                return await do_call(wait_time * 2 + random())
 
         return await do_call(1)
 
@@ -223,7 +224,6 @@ class VulnerableProjectFiles:
         await self.do_run_in(['git', 'commit', '-m', textwrap.dedent(msg)])
 
     async def do_do_fork_repository(self):
-        assert False, 'Don\'t fork yet!'
         await self.do_run_hub_in(['hub', 'fork', '--remote-name', 'origin'])
 
     async def do_push_changes(self):
@@ -274,10 +274,12 @@ async def process_vulnerable_project(project: VulnerableProjectFiles) -> Vulnera
         await project.do_create_branch()
         await project.do_stage_changes()
         await project.do_commit_changes()
-        # TODO: Add forking logic
-        # if project.project_name.lower().startswith('jlleitschuh'):
-        #     await project.do_push_changes()
-        #     pr_url = await project.do_create_pull_request()
+
+        if not project.project_name.lower().startswith('jlleitschuh'):
+            await project.do_do_fork_repository()
+
+        await project.do_push_changes()
+        pr_url = await project.do_create_pull_request()
     await project.do_create_save_point(project_report, pr_url)
     return project_report
 

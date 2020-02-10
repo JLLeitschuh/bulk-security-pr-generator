@@ -14,27 +14,8 @@ This leaves your build vulnerable to allowing a [Man in the Middle](https://en.w
 
 This vulnerability has a CVSS v3.0 Base Score of [8.1/10](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).
 
-## This isn't just theoretical
-
-POC code has existed since 2014 to maliciously compromise a JAR file in-flight.
-
-See:
-* https://max.computer/blog/how-to-take-over-the-computer-of-any-java-or-clojure-or-scala-developer/
-* https://github.com/mveytsman/dilettante
-
-## MITM Attacks Increasingly Common
-
-See:
-* https://serverfault.com/a/153065
-* https://security.stackexchange.com/a/12050
-* [Comcast continues to inject its own code into websites you visit](https://thenextweb.com/insights/2017/12/11/comcast-continues-to-inject-its-own-code-into-websites-you-visit/#) (over HTTP)
-
-
-## Why are you contributing here?
-
-I'm an open-source security researcher who values the supply chain security for the JVM ecosystem.
-
-I contributed this PR to your project as a way to fix this industry-wide security vulnerability facing our ecosystem.
+[POC code](https://max.computer/blog/how-to-take-over-the-computer-of-any-java-or-clojure-or-scala-developer/) has existed since 2014 to maliciously compromise a JAR file in-flight.
+MITM attacks against HTTP are [increasingly common](https://security.stackexchange.com/a/12050), for example [Comcast is known to have done it to their own users](https://thenextweb.com/insights/2017/12/11/comcast-continues-to-inject-its-own-code-into-websites-you-visit/#).
 
 This contribution is a part of a submission to the [GitHub Security Lab](https://securitylab.github.com/) Bug Bounty program.
 
@@ -73,7 +54,7 @@ Alternatively, if this project is no longer actively maintained, consider [archi
 
 _This section is only relevant if your project requires contributors to sign a Contributor License Agreement (CLA) for external contributions._
 
-Given the number of projects this fix is being automatically be contributed to, unfortunately, I won't be able to sign all the CLAs that may be required to accept these contributions (although there's a chance I already signed your organizations). However, all contributed commits are already automatically signed-off.
+It is unlikely that I'll be able to directly sign CLAs. However, all contributed commits are already automatically signed-off.
 
 > The meaning of a signoff depends on the project, but it typically certifies that committer has the rights to submit this work under the same license and agrees to a Developer Certificate of Origin 
 > (see [https://developercertificate.org/](https://developercertificate.org/) for more information).
@@ -81,3 +62,8 @@ Given the number of projects this fix is being automatically be contributed to, 
 > \- [Git Commit Signoff documentation](https://developercertificate.org/)
 
 If signing your organization's CLA is a strict-requirement for merging this contribution, please feel free to close this PR.
+
+## Tracking
+
+All PR's generated as part of this fix are tracked here: 
+https://github.com/JLLeitschuh/bulk-security-pr-generator/issues/2
