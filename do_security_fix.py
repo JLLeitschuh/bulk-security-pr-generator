@@ -160,7 +160,7 @@ class VulnerableProjectFiles:
             )
             return 0
 
-        async with aiofiles.open(file_being_fixed) as vulnerableFile:
+        async with aiofiles.open(file_being_fixed, newline='') as vulnerableFile:
             contents: str = await vulnerableFile.read()
 
         new_contents, count = p_fix_regex.subn(replacement, contents)
@@ -172,7 +172,7 @@ class VulnerableProjectFiles:
                 count
             )
 
-        async with aiofiles.open(file_being_fixed, 'w') as vulnerableFile:
+        async with aiofiles.open(file_being_fixed, 'w', newline='') as vulnerableFile:
             await vulnerableFile.write(new_contents)
         return count
 
