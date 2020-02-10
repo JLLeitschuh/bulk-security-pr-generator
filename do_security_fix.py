@@ -9,11 +9,12 @@ import logging
 import pathlib
 import shutil
 import time
+import textwrap
 import yaml
 from collections import Counter
 from dataclasses import dataclass
 from github import Github
-from typing import Generator, List, Dict
+from typing import Generator, List, Dict, Optional
 
 branch_name = 'fix/JLL/use_https_to_resolve_dependencies_2'
 clone_repos_location = 'cloned_repos'
@@ -37,7 +38,15 @@ with open(f'{os.path.expanduser("~")}/.config/hub') as hub_file:
 git_hub = Github(login_or_token=hub_config['github.com'][0]['oauth_token'])
 
 
-async def subprocess_run(args: List[str], cwd: str):
+def print_current_rate_limit():
+    rate_limit = git_hub.get_rate_limit().core
+    print(f'Current Rate Limit: {rate_limit}, reset time: {rate_limit.remaining}')
+
+
+print_current_rate_limit()
+
+
+async def subprocess_run(args: List[str], cwd: str) -> Optional[str]:
     cmd = ' '.join(args)
     proc = await asyncio.create_subprocess_shell(
         cmd,
@@ -54,12 +63,18 @@ async def subprocess_run(args: List[str], cwd: str):
 
     if proc.returncode != 0:
         if stderr:
-            raise RuntimeError(f'[stderr]\n{stderr.decode()}')
+            msg = stderr.decode()
+            if 'timeout' in msg:
+                raise TimeoutError(f'[stderr]\n{msg}')
+            raise RuntimeError(f'[stderr]\n{msg}')
     else:
         if stderr:
             print(f'[stderr]\n{stderr.decode()}')
 
-    # subprocess.run(args, cwd=cwd, capture_output=True, check=True)
+    if stdout:
+        return stdout.decode()
+    else:
+        return None
 
 
 @dataclass
@@ -82,7 +97,18 @@ class VulnerableProjectFiles:
             print('\t', '/' + self.project_file_name() + file + ': ' + str(self.files[file]))
 
     async def do_clone(self):
-        await subprocess_run(['hub', 'clone', self.project_name, '--depth', '1'], cwd=clone_repos_location)
+        async def do_call(wait_time):
+            try:
+                await subprocess_run(['hub', 'clone', self.project_name, '--depth', '1'], cwd=clone_repos_location)
+            except TimeoutError as e:
+                # This serves a double purpose as informational and also a 'sane'
+                # way to slow down this script reasonably
+                print_current_rate_limit()
+                await asyncio.sleep(wait_time)
+                if wait_time > 16:
+                    raise e
+                await do_call(wait_time * 2)
+        await do_call(1)
 
     async def do_run_in(self, args: List[str]):
         await subprocess_run(args, cwd=self.project_file_name())
@@ -101,7 +127,12 @@ class VulnerableProjectFiles:
 
         new_contents, count = p_fix_regex.subn(replacement, contents)
         if count != expected_fix_count:
-            logging.warning('Fix did match expected fix count: (expected: %d, actual: %d)', expected_fix_count, count)
+            logging.warning(
+                'Fix for `%s` did match expected fix count: (expected: %d, actual: %d)',
+                self.project_name,
+                expected_fix_count,
+                count
+            )
 
         async with aiofiles.open(file_being_fixed, 'w') as vulnerableFile:
             await vulnerableFile.write(new_contents)
@@ -141,8 +172,16 @@ class VulnerableProjectFiles:
         await self.do_run_in(['git', 'add', '.'])
 
     async def do_commit_changes(self):
-        # TODO: Fix this commit message
-        await self.do_run_in(['git', 'commit', '-m', 'TEST MESSAGE'])
+        msg = '''\
+        Use HTTPS instead of HTTP to resolve dependencies
+        
+        This fixes a security vulnerability in this project where the `pom.xml`
+        files were configuring Maven to resolve dependencies over HTTP instead of
+        HTTPS.
+        
+        Signed-off-by: Jonathan Leitschuh <Jonathan.Leitschuh@gmail.com>
+        '''
+        await self.do_run_in(['git', 'commit', '-m', textwrap.dedent(msg)])
 
     async def do_do_fork_repository(self):
         assert False, 'Don\'t fork yet!'
@@ -179,9 +218,9 @@ async def process_vulnerable_project(project: VulnerableProjectFiles) -> Vulnera
     project_report: VulnerabilityFixReport = await project.do_fix_vulnerabilities()
     await project.do_create_branch()
     await project.do_stage_changes()
+    ## TODO: Fix the commit message here!
+    await project.do_commit_changes()
     # if project.project_name.lower().startswith('jlleitschuh'):
-    #     ## TODO: Fix the commit message here!
-    #     await project.do_commit_changes()
     #     await project.do_push_changes()
     #     await project.do_create_pull_request()
     return project_report
@@ -230,3 +269,4 @@ asyncio.run(do_run_everything())
 end = time.monotonic()
 duration_seconds = end - start
 print(f'Execution took {duration_seconds} seconds')
+print_current_rate_limit()
