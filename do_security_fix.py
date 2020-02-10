@@ -122,8 +122,8 @@ class VulnerableProjectFiles:
 
         await do_call(1)
 
-    async def do_run_in(self, args: List[str]):
-        await subprocess_run(args, cwd=self.project_file_name())
+    async def do_run_in(self, args: List[str]) -> Optional[str]:
+        return await subprocess_run(args, cwd=self.project_file_name())
 
     async def do_fix_vulnerable_file(self, file: str, expected_fix_count: int) -> int:
         """
@@ -202,8 +202,11 @@ class VulnerableProjectFiles:
     async def do_push_changes(self):
         await self.do_run_in(['git', 'push', 'origin', branch_name])
 
-    async def do_create_pull_request(self):
-        await self.do_run_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path])
+    async def do_create_pull_request(self) -> str:
+        stdout = await self.do_run_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path])
+        pattern = re.compile(r'(https://.*)')
+        match = pattern.search(stdout)
+        return match.group(1)
 
     async def do_create_save_point(self, report: VulnerabilityFixReport, pr_url: str):
         json_body = {
@@ -241,11 +244,12 @@ async def process_vulnerable_project(project: VulnerableProjectFiles) -> Vulnera
     await project.do_create_branch()
     await project.do_stage_changes()
     await project.do_commit_changes()
-    # if project.project_name.lower().startswith('jlleitschuh'):
-    #     await project.do_push_changes()
-    #     await project.do_create_pull_request()
-    # TODO: Get the PR URL
-    await project.do_create_save_point(project_report, '')
+    # TODO: Add forking logic
+    pr_url = ''
+    if project.project_name.lower().startswith('jlleitschuh'):
+        await project.do_push_changes()
+        pr_url = await project.do_create_pull_request()
+    await project.do_create_save_point(project_report, pr_url)
     return project_report
 
 
@@ -261,8 +265,8 @@ async def do_run_everything():
         if 'jlleitschuh' in vulnerable.project_name.lower():
             vulnerable_projects.append(vulnerable)
 
-        if vulnerable.project_name.startswith('jenkinsci'):
-            vulnerable_projects.append(vulnerable)
+        # if vulnerable.project_name.startswith('jenkinsci'):
+        #     vulnerable_projects.append(vulnerable)
 
     print()
     print('Loading Async Project Executions:')
