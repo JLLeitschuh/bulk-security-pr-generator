@@ -261,8 +261,8 @@ async def do_run_everything():
         if 'jlleitschuh' in vulnerable.project_name.lower():
             vulnerable_projects.append(vulnerable)
 
-        # if vulnerable.project_name.startswith('jenkinsci'):
-        #     vulnerable_projects.append(vulnerable)
+        if vulnerable.project_name.startswith('jenkinsci'):
+            vulnerable_projects.append(vulnerable)
 
     print()
     print('Loading Async Project Executions:')
