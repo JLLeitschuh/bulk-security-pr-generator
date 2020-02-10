@@ -134,6 +134,15 @@ class VulnerableProjectFiles:
         :return: The actual number of vulnerabilities fixed.
         """
         file_being_fixed: str = self.project_file_name() + file
+        # Sanity check, verify the file still exists, the data may be out of date
+        if not os.path.exists(file_being_fixed):
+            logging.warning(
+                'Fix for `%s` in file `%s` can not be applied as file does not exist!',
+                self.project_name,
+                file
+            )
+            return 0
+
         async with aiofiles.open(file_being_fixed) as vulnerableFile:
             contents: str = await vulnerableFile.read()
 
@@ -173,8 +182,10 @@ class VulnerableProjectFiles:
         for file in self.files:
             skip = next((True for submodule in submodules if file.startswith(submodule)), False)
             if not skip:
-                project_vulnerabilities_fixed += await self.do_fix_vulnerable_file(file, self.files[file])
-                project_files_fixed += 1
+                file_vulnerabilities_fixed = await self.do_fix_vulnerable_file(file, self.files[file])
+                if file_vulnerabilities_fixed > 0:
+                    project_vulnerabilities_fixed += file_vulnerabilities_fixed
+                    project_files_fixed += 1
         return VulnerabilityFixReport(project_files_fixed, project_vulnerabilities_fixed)
 
     async def do_create_branch(self):
@@ -241,14 +252,16 @@ async def process_vulnerable_project(project: VulnerableProjectFiles) -> Vulnera
     project.print()
     await project.do_clone()
     project_report: VulnerabilityFixReport = await project.do_fix_vulnerabilities()
-    await project.do_create_branch()
-    await project.do_stage_changes()
-    await project.do_commit_changes()
-    # TODO: Add forking logic
     pr_url = ''
-    if project.project_name.lower().startswith('jlleitschuh'):
-        await project.do_push_changes()
-        pr_url = await project.do_create_pull_request()
+    # If the LGTM data is out-of-date, there can be cases where no vulnerabilities are fixed
+    if project_report.vulnerabilities_fixed != 0:
+        await project.do_create_branch()
+        await project.do_stage_changes()
+        await project.do_commit_changes()
+        # TODO: Add forking logic
+        # if project.project_name.lower().startswith('jlleitschuh'):
+        #     await project.do_push_changes()
+        #     pr_url = await project.do_create_pull_request()
     await project.do_create_save_point(project_report, pr_url)
     return project_report
 
@@ -265,8 +278,8 @@ async def do_run_everything():
         if 'jlleitschuh' in vulnerable.project_name.lower():
             vulnerable_projects.append(vulnerable)
 
-        # if vulnerable.project_name.startswith('jenkinsci'):
-        #     vulnerable_projects.append(vulnerable)
+        if vulnerable.project_name.startswith('apache'):
+            vulnerable_projects.append(vulnerable)
 
     print()
     print('Loading Async Project Executions:')
