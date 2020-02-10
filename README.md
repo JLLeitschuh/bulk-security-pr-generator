@@ -4,7 +4,14 @@ Used to generate bulk pull requests (PRs) against projects to fix security vulne
 
 These 'bulk fixes' are done as a part of the new [GitHub Security Lab](https://securitylab.github.com/) Bug Bounty Program.
 
-Data is sourced from queries on [lgtm.com](https://lgtm.com) and used to target bulk pull-requests.
+Data is sourced from queries on [lgtm.com](https://lgtm.com) and used to create bulk pull-requests to fix these security
+vulnerabilities.
+
+### Features
+
+ - Built-in crash recovery -- Saves state during execution to allow recovering from a crash
+ - Records metrics -- Files fixed, Number of Fixes, PR URLs
+ - Fast -- Asynchronous IO using python async API
 
 ## Project 1: HTTPS Everywhere to Resolve Dependencies in Maven POM Files Everywhere! 
 
