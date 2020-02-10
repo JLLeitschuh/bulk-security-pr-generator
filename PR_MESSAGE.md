@@ -68,3 +68,16 @@ Disallow: *
 This bot will respect the [ROBOTS.txt](https://moz.com/learn/seo/robotstxt) format for future contributions.
 
 Alternatively, if this project is no longer actively maintained, consider [archiving](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-archiving-repositories) the repository.
+
+## CLA Requirements
+
+_This section is only relevant if your project requires contributors to sign a Contributor License Agreement (CLA) for external contributions._
+
+Given the number of projects this fix is being automatically be contributed to, unfortunately, I won't be able to sign all the CLAs that may be required to accept these contributions (although there's a chance I already signed your organizations). However, all contributed commits are already automatically signed-off.
+
+> The meaning of a signoff depends on the project, but it typically certifies that committer has the rights to submit this work under the same license and agrees to a Developer Certificate of Origin 
+> (see [https://developercertificate.org/](https://developercertificate.org/) for more information).
+>
+> \- [Git Commit Signoff documentation](https://developercertificate.org/)
+
+If signing your organization's CLA is a strict-requirement for merging this contribution, please feel free to close this PR.
