@@ -21,7 +21,7 @@ from typing import Generator, List, Dict, Optional
 logging.basicConfig()
 logging.getLogger().setLevel(logging.INFO)
 
-branch_name = 'fix/JLL/use_https_to_resolve_dependencies_2'
+branch_name = 'fix/JLL/use_https_to_resolve_dependencies'
 clone_repos_location = 'cloned_repos'
 save_point_location = 'save_points'
 pr_message_file_absolute_path = f'{str(pathlib.Path().absolute())}/PR_MESSAGE.md'
@@ -293,10 +293,10 @@ async def do_run_everything():
     for json_file in list_all_json_files():
         vulnerable = read_repository_and_file_names(json_file)
         vulnerable.print()
-        if 'jlleitschuh' in vulnerable.project_name.lower():
-            vulnerable_projects.append(vulnerable)
+        # if 'jlleitschuh' in vulnerable.project_name.lower():
+        #     vulnerable_projects.append(vulnerable)
 
-        if vulnerable.project_name.startswith('apache'):
+        if vulnerable.project_name.startswith('0opslab'):
             vulnerable_projects.append(vulnerable)
 
     print()
