@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/manifoldcf",
+    "files": {
+        "/connectors/mongodb/pom.xml": 1,
+        "/connectors/nuxeo/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/manifoldcf/pull/108",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

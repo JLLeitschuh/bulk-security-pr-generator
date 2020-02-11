@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/isis",
+    "files": {
+        "/core/pom.xml": 2,
+        "/viewers/restfulobjects/applib/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/isis/pull/172",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

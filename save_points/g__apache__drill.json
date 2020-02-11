@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/drill",
+    "files": {
+        "/exec/jdbc-all/pom.xml": 2,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/apache/drill/pull/1976",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 5
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/cloudstack",
+    "files": {
+        "/client/pom.xml": 1,
+        "/plugins/network-elements/juniper-contrail/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/cloudstack/pull/3877",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

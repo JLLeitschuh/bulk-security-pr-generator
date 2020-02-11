@@ -1,0 +1,16 @@
+{
+    "project_name": "apache/incubator-streampipes",
+    "files": {
+        "/archetypes/streampipes-archetype-pe-processors-flink/src/main/resources/archetype-resources/pom.xml": 1,
+        "/archetypes/streampipes-archetype-pe-processors-jvm/src/main/resources/archetype-resources/pom.xml": 1,
+        "/archetypes/streampipes-archetype-pe-sinks-flink/src/main/resources/archetype-resources/pom.xml": 1,
+        "/archetypes/streampipes-archetype-pe-sinks-jvm/src/main/resources/archetype-resources/pom.xml": 1,
+        "/archetypes/streampipes-archetype-pe-sources/src/main/resources/archetype-resources/pom.xml": 1,
+        "/streampipes-wrapper-siddhi/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/incubator-streampipes/pull/11",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 6
+    }
+}

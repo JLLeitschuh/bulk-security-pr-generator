@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/juddi",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/juddi/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}
