@@ -58,6 +58,10 @@ class ShallowUpdateNotAllowedException(Exception):
     pass
 
 
+class CouldNotReadFromRemoteRepositoryException(Exception):
+    pass
+
+
 async def subprocess_run(args: List[str], cwd: str) -> Optional[str]:
     proc = await asyncio.create_subprocess_exec(
         args[0],
@@ -76,11 +80,14 @@ async def subprocess_run(args: List[str], cwd: str) -> Optional[str]:
     if proc.returncode != 0:
         if stderr:
             msg = stderr.decode()
+            error_msg = f'[stderr]\n{msg}'
             if 'timeout' in msg:
-                raise TimeoutError(f'[stderr]\n{msg}')
+                raise TimeoutError(error_msg)
             if 'shallow update not allowed' in msg:
-                raise ShallowUpdateNotAllowedException(f'[stderr]\n{msg}')
-            raise RuntimeError(f'[stderr]\n{msg}')
+                raise ShallowUpdateNotAllowedException(error_msg)
+            if 'Could not read from remote repository' in msg:
+                raise CouldNotReadFromRemoteRepositoryException(error_msg)
+            raise RuntimeError(error_msg)
     else:
         if stderr:
             print(f'[stderr]\n{stderr.decode()}')
@@ -239,7 +246,7 @@ class VulnerableProjectFiles:
     async def do_do_fork_repository(self, lock):
         await self.do_run_hub_in(['hub', 'fork', '--remote-name', 'origin'], lock)
 
-    async def do_push_changes(self):
+    async def do_push_changes(self, retry_count: int = 5):
         try:
             await self.do_run_in(['git', 'push', 'origin', branch_name, '--force'])
         except ShallowUpdateNotAllowedException as e:
@@ -247,6 +254,13 @@ class VulnerableProjectFiles:
             await self.do_run_in(['git', 'fetch', '--unshallow'])
             # Now re-run the push
             await self.do_run_in(['git', 'push', 'origin', branch_name, '--force'])
+        except CouldNotReadFromRemoteRepositoryException as e:
+            if retry_count == 0:
+                raise e
+            else:
+                # Forking is an async operation, so we may need to wait a bit for it
+                await asyncio.sleep((5 - retry_count) * 2 + random())
+                await self.do_push_changes(retry_count - 1)
 
     async def do_create_pull_request(self, lock) -> str:
         stdout = await self.do_run_hub_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path], lock)
@@ -340,6 +354,9 @@ async def do_run_everything():
             vulnerable_projects.append(vulnerable)
 
         if vulnerable.project_name.startswith('jenkinsci/'):
+            vulnerable_projects.append(vulnerable)
+
+        if vulnerable.project_name.startswith('52North/'):
             vulnerable_projects.append(vulnerable)
 
     print()
