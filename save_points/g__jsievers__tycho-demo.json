@@ -1,0 +1,16 @@
+{
+    "project_name": "jsievers/tycho-demo",
+    "files": {
+        "/exercises/Exercise_02_Add_Test_Fragment/tychodemo.parent/pom.xml": 1,
+        "/exercises/Exercise_03_Add_Feature/tychodemo.parent/pom.xml": 1,
+        "/exercises/Exercise_04_Add_P2_Repository/tychodemo.parent/pom.xml": 1,
+        "/exercises/Exercise_05_Add_Product/tychodemo.parent/pom.xml": 1,
+        "/exercises/Exercise_05_Solution/tychodemo.parent/pom.xml": 1,
+        "/tychodemo.parent/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jsievers/tycho-demo/pull/9",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 7
+    }
+}

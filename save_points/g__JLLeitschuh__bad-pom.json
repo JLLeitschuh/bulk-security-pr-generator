@@ -1,0 +1,11 @@
+{
+    "project_name": "JLLeitschuh/bad-pom",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/JLLeitschuh/bad-pom/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

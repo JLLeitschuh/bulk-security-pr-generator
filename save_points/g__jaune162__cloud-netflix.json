@@ -1,0 +1,11 @@
+{
+    "project_name": "jaune162/cloud-netflix",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jaune162/cloud-netflix/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

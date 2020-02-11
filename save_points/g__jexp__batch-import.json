@@ -1,0 +1,11 @@
+{
+    "project_name": "jexp/batch-import",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jexp/batch-import/pull/128",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "jereanon/elasticsearch-omg",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jereanon/elasticsearch-omg/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

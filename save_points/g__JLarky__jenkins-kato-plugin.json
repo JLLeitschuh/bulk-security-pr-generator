@@ -1,0 +1,11 @@
+{
+    "project_name": "JLarky/jenkins-kato-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/JLarky/jenkins-kato-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

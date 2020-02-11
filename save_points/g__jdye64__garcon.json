@@ -1,0 +1,12 @@
+{
+    "project_name": "jdye64/garcon",
+    "files": {
+        "/pom.xml": 1,
+        "/reportingtasks/nifi/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jdye64/garcon/pull/12",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

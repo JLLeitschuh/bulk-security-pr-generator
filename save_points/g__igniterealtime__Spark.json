@@ -1,0 +1,12 @@
+{
+    "project_name": "igniterealtime/Spark",
+    "files": {
+        "/core/pom.xml": 1,
+        "/plugins/systemtray/pom.xml": 1
+    },
+    "pull_request": "https://github.com/igniterealtime/Spark/pull/479",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

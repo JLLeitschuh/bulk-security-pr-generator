@@ -1,0 +1,11 @@
+{
+    "project_name": "JodaOrg/joda-time-hibernate",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/JodaOrg/joda-time-hibernate/pull/13",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

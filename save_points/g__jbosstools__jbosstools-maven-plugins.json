@@ -1,0 +1,11 @@
+{
+    "project_name": "jbosstools/jbosstools-maven-plugins",
+    "files": {
+        "/tycho-plugins/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jbosstools/jbosstools-maven-plugins/pull/76",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

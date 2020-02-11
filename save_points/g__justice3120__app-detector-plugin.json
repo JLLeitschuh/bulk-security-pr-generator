@@ -1,0 +1,11 @@
+{
+    "project_name": "justice3120/app-detector-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/justice3120/app-detector-plugin/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

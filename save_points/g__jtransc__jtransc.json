@@ -1,0 +1,12 @@
+{
+    "project_name": "jtransc/jtransc",
+    "files": {
+        "/jtransc-maven-plugin/example/pom.xml": 1,
+        "/jtransc-maven-plugin/resources/META-INF/maven/com.jtransc/jtransc-maven-plugin/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jtransc/jtransc/pull/301",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "JoelJ/ez-templates",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/JoelJ/ez-templates/pull/62",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

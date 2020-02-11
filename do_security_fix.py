@@ -389,8 +389,10 @@ async def do_run_everything():
         # if vulnerable.project_name.startswith('eclipse/'):
         #     vulnerable_projects.append(vulnerable)
         #     continue
-
-        if vulnerable.project_name.lower().startswith('h'):
+        lower_name = vulnerable.project_name.lower()
+        if lower_name.startswith('h') or \
+                lower_name.startswith('i') or \
+                lower_name.startswith('j'):
             vulnerable_projects.append(vulnerable)
             continue
 

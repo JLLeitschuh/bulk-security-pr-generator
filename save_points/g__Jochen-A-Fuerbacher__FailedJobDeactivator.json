@@ -1,0 +1,11 @@
+{
+    "project_name": "Jochen-A-Fuerbacher/FailedJobDeactivator",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Jochen-A-Fuerbacher/FailedJobDeactivator/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

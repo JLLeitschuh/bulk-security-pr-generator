@@ -1,0 +1,13 @@
+{
+    "project_name": "jnidzwetzki/bboxdb",
+    "files": {
+        "/bboxdb-experiments/pom.xml": 1,
+        "/bboxdb-network-proxy/pom.xml": 1,
+        "/bboxdb-tools/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jnidzwetzki/bboxdb/pull/204",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 3
+    }
+}

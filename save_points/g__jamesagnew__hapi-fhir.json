@@ -1,0 +1,11 @@
+{
+    "project_name": "jamesagnew/hapi-fhir",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jamesagnew/hapi-fhir/pull/1708",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

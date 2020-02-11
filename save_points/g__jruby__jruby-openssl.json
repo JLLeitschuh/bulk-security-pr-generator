@@ -1,0 +1,11 @@
+{
+    "project_name": "jruby/jruby-openssl",
+    "files": {
+        "/integration/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jruby/jruby-openssl/pull/192",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

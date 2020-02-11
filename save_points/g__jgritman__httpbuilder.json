@@ -1,0 +1,11 @@
+{
+    "project_name": "jgritman/httpbuilder",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jgritman/httpbuilder/pull/88",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

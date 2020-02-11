@@ -1,0 +1,11 @@
+{
+    "project_name": "itow0001/cron-shelve",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/itow0001/cron-shelve/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

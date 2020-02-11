@@ -1,0 +1,11 @@
+{
+    "project_name": "Intel-bigdata/HiBench",
+    "files": {
+        "/gearpumpbench/streaming/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Intel-bigdata/HiBench/pull/602",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

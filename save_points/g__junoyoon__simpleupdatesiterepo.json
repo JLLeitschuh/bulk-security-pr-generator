@@ -1,0 +1,11 @@
+{
+    "project_name": "junoyoon/simpleupdatesiterepo",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/junoyoon/simpleupdatesiterepo/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

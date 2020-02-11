@@ -1,0 +1,11 @@
+{
+    "project_name": "jghoman/haivvreo",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/jghoman/haivvreo/pull/33",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

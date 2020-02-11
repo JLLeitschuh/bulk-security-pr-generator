@@ -1,0 +1,14 @@
+{
+    "project_name": "Impetus/Kundera",
+    "files": {
+        "/examples/container/jboss/data-keeper/pom.xml": 1,
+        "/examples/container/pom.xml": 3,
+        "/examples/polyglot/kvapps/pom.xml": 1,
+        "/examples/pom.xml": 3
+    },
+    "pull_request": "https://github.com/Impetus/Kundera/pull/1041",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 8
+    }
+}

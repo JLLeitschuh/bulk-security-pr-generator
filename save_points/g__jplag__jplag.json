@@ -1,0 +1,28 @@
+{
+    "project_name": "jplag/jplag",
+    "files": {
+        "/jplag/pom.xml": 1,
+        "/jplag.adminTool/pom.xml": 1,
+        "/jplag.atujplag/pom.xml": 1,
+        "/jplag.frontend-utils/pom.xml": 1,
+        "/jplag.frontend.chars/pom.xml": 1,
+        "/jplag.frontend.cpp/pom.xml": 1,
+        "/jplag.frontend.csharp-1.2/pom.xml": 1,
+        "/jplag.frontend.java-1.1exp/pom.xml": 1,
+        "/jplag.frontend.java-1.2/pom.xml": 1,
+        "/jplag.frontend.java-1.5/pom.xml": 1,
+        "/jplag.frontend.java-1.7/pom.xml": 1,
+        "/jplag.frontend.python-3/pom.xml": 1,
+        "/jplag.frontend.text/pom.xml": 1,
+        "/jplag.homepage/pom.xml": 1,
+        "/jplag.parent/pom.xml": 3,
+        "/jplag.utils/pom.xml": 1,
+        "/jplag.webService/pom.xml": 1,
+        "/jplag.wsClient/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jplag/jplag/pull/78",
+    "report": {
+        "files_fixed": 18,
+        "vulnerabilities_fixed": 20
+    }
+}

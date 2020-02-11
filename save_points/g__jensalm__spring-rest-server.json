@@ -1,0 +1,11 @@
+{
+    "project_name": "jensalm/spring-rest-server",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/jensalm/spring-rest-server/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

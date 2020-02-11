@@ -1,0 +1,11 @@
+{
+    "project_name": "johnewart/gearman-java",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/johnewart/gearman-java/pull/18",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

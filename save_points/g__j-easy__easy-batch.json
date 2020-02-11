@@ -1,0 +1,12 @@
+{
+    "project_name": "j-easy/easy-batch",
+    "files": {
+        "/easy-batch-extensions/easy-batch-integration/pom.xml": 1,
+        "/easy-batch-jms/pom.xml": 1
+    },
+    "pull_request": "https://github.com/j-easy/easy-batch/pull/367",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

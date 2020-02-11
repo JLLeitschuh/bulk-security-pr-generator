@@ -1,0 +1,11 @@
+{
+    "project_name": "inception-project/inception",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/inception-project/inception/pull/1617",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

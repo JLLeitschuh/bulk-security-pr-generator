@@ -1,0 +1,11 @@
+{
+    "project_name": "IncPlusPlus/betterstat-server",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/IncPlusPlus/betterstat-server/pull/117",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

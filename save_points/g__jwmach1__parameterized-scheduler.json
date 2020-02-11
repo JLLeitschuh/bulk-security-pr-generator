@@ -1,0 +1,11 @@
+{
+    "project_name": "jwmach1/parameterized-scheduler",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jwmach1/parameterized-scheduler/pull/12",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

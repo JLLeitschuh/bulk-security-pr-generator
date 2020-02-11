@@ -1,0 +1,11 @@
+{
+    "project_name": "iipc/openwayback",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/iipc/openwayback/pull/423",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

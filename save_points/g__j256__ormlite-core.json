@@ -1,0 +1,11 @@
+{
+    "project_name": "j256/ormlite-core",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/j256/ormlite-core/pull/171",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "ikedam/authorize-project",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/ikedam/authorize-project/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "jcodec/jcodec",
+    "files": {
+        "/jplayer/pom.xml": 1,
+        "/samples/pom.xml": 1,
+        "/streaming/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jcodec/jcodec/pull/401",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 3
+    }
+}

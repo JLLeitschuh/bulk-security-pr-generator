@@ -1,0 +1,12 @@
+{
+    "project_name": "jzy3d/jzy3d-api",
+    "files": {
+        "/jzy3d-api/pom.xml": 2,
+        "/jzy3d-swt/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jzy3d/jzy3d-api/pull/117",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

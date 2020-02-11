@@ -1,0 +1,11 @@
+{
+    "project_name": "I-TECH/openmrs-module-kenyaemr",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/I-TECH/openmrs-module-kenyaemr/pull/181",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

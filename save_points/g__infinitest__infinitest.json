@@ -1,0 +1,12 @@
+{
+    "project_name": "infinitest/infinitest",
+    "files": {
+        "/infinitest-intellij/pom.xml": 1,
+        "/testWorkspace/scala-project/pom.xml": 2
+    },
+    "pull_request": "https://github.com/infinitest/infinitest/pull/278",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

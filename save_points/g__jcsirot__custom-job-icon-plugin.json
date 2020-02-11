@@ -1,0 +1,11 @@
+{
+    "project_name": "jcsirot/custom-job-icon-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jcsirot/custom-job-icon-plugin/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

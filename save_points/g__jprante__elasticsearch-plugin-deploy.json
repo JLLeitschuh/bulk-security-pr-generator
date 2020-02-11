@@ -1,0 +1,11 @@
+{
+    "project_name": "jprante/elasticsearch-plugin-deploy",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jprante/elasticsearch-plugin-deploy/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "janinko/ghprb",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/janinko/ghprb/pull/494",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "jrialland/parserjunior",
+    "files": {
+        "/old/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jrialland/parserjunior/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

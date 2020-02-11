@@ -1,0 +1,11 @@
+{
+    "project_name": "joerghoh/cq5-healthcheck",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/joerghoh/cq5-healthcheck/pull/46",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

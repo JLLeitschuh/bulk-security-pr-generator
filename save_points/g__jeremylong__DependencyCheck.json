@@ -1,0 +1,11 @@
+{
+    "project_name": "jeremylong/DependencyCheck",
+    "files": {
+        "/maven/src/it/1751-use-child-repositories/1751-child-one/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jeremylong/DependencyCheck/pull/2471",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

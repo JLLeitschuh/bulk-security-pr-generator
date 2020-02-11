@@ -1,0 +1,11 @@
+{
+    "project_name": "jruby/jruby-parser",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jruby/jruby-parser/pull/51",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

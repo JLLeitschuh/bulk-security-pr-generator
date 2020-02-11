@@ -1,0 +1,11 @@
+{
+    "project_name": "jberkel/pay-me",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jberkel/pay-me/pull/18",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

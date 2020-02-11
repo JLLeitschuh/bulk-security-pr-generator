@@ -1,0 +1,22 @@
+{
+    "project_name": "jsflive/jsf22-examples",
+    "files": {
+        "/jsf22-ajaxdelay/pom.xml": 1,
+        "/jsf22-cc-empty-attribute/pom.xml": 1,
+        "/jsf22-cdi-view-scope/pom.xml": 1,
+        "/jsf22-collection-data-model/pom.xml": 1,
+        "/jsf22-composite-component-tags/pom.xml": 1,
+        "/jsf22-contracts/webapp/pom.xml": 1,
+        "/jsf22-flows/pom.xml": 1,
+        "/jsf22-html5/pom.xml": 1,
+        "/jsf22-input-file/pom.xml": 1,
+        "/jsf22-reset-values/pom.xml": 1,
+        "/jsf22-resource-dir/pom.xml": 1,
+        "/jsf22-view-action/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jsflive/jsf22-examples/pull/5",
+    "report": {
+        "files_fixed": 12,
+        "vulnerabilities_fixed": 12
+    }
+}

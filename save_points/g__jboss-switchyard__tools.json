@@ -1,0 +1,12 @@
+{
+    "project_name": "jboss-switchyard/tools",
+    "files": {
+        "/eclipse/pom.xml": 2,
+        "/eclipse/tests/org.switchyard.tools.ui.tests/test-data/validator-tests/wiring-validation-tests/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jboss-switchyard/tools/pull/686",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

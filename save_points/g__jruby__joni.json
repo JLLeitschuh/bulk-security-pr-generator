@@ -1,0 +1,11 @@
+{
+    "project_name": "jruby/joni",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jruby/joni/pull/47",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

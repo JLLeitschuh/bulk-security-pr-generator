@@ -1,0 +1,11 @@
+{
+    "project_name": "johncarl81/parceler",
+    "files": {
+        "/examples/gradle/pom.xml": 1
+    },
+    "pull_request": "https://github.com/johncarl81/parceler/pull/379",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

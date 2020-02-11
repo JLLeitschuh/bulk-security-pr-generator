@@ -1,0 +1,11 @@
+{
+    "project_name": "jbarrus/jenkins-badge-setter",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jbarrus/jenkins-badge-setter/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

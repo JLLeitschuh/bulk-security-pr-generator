@@ -1,0 +1,13 @@
+{
+    "project_name": "jschuhmacher/acceleo",
+    "files": {
+        "/maven/acceleo.eclipse.archetype/src/main/resources/archetype-resources/pom.xml": 3,
+        "/tests/org.eclipse.acceleo.maven.plugin.tests/pom.xml": 1,
+        "/unit/releng/org.eclipse.acceleo.unit.parent/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jschuhmacher/acceleo/pull/1",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

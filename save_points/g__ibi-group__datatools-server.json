@@ -1,0 +1,11 @@
+{
+    "project_name": "ibi-group/datatools-server",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ibi-group/datatools-server/pull/279",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

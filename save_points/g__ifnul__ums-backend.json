@@ -1,0 +1,11 @@
+{
+    "project_name": "ifnul/ums-backend",
+    "files": {
+        "/is-lnu-rest-api/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ifnul/ums-backend/pull/21",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

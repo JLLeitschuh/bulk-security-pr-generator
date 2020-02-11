@@ -1,0 +1,12 @@
+{
+    "project_name": "intuit/Tank",
+    "files": {
+        "/pom.xml": 9,
+        "/tools/jenkins_plugin/pom.xml": 2
+    },
+    "pull_request": "https://github.com/intuit/Tank/pull/100",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 11
+    }
+}

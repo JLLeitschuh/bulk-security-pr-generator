@@ -1,0 +1,11 @@
+{
+    "project_name": "jbosstools/jbosstools-freemarker",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jbosstools/jbosstools-freemarker/pull/85",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

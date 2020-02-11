@@ -1,0 +1,11 @@
+{
+    "project_name": "IHTSDO/snomed-template-service",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/IHTSDO/snomed-template-service/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

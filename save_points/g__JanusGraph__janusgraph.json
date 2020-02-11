@@ -1,0 +1,12 @@
+{
+    "project_name": "JanusGraph/janusgraph",
+    "files": {
+        "/janusgraph-berkeleyje/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/JanusGraph/janusgraph/pull/1956",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

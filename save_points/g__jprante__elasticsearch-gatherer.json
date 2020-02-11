@@ -1,0 +1,11 @@
+{
+    "project_name": "jprante/elasticsearch-gatherer",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jprante/elasticsearch-gatherer/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

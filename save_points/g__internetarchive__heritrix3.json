@@ -1,0 +1,13 @@
+{
+    "project_name": "internetarchive/heritrix3",
+    "files": {
+        "/commons/pom.xml": 1,
+        "/engine/pom.xml": 1,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/internetarchive/heritrix3/pull/310",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 4
+    }
+}

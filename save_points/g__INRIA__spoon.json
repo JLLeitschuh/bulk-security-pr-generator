@@ -1,0 +1,12 @@
+{
+    "project_name": "INRIA/spoon",
+    "files": {
+        "/spoon-pom/pom.xml": 2,
+        "/spoon-visualisation/pom.xml": 2
+    },
+    "pull_request": "https://github.com/INRIA/spoon/pull/3243",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

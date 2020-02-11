@@ -1,0 +1,11 @@
+{
+    "project_name": "jsubercaze/simhashdb",
+    "files": {
+        "/simhash-knn/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jsubercaze/simhashdb/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

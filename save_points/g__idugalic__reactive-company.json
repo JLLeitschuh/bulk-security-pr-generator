@@ -1,0 +1,11 @@
+{
+    "project_name": "idugalic/reactive-company",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/idugalic/reactive-company/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

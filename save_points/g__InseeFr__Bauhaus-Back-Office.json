@@ -1,0 +1,11 @@
+{
+    "project_name": "InseeFr/Bauhaus-Back-Office",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/InseeFr/Bauhaus-Back-Office/pull/35",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

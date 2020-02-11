@@ -1,0 +1,11 @@
+{
+    "project_name": "ikedam/groovy-label-assignment",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/ikedam/groovy-label-assignment/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

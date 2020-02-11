@@ -1,0 +1,13 @@
+{
+    "project_name": "JavaMoney/jsr354-ri",
+    "files": {
+        "/moneta/pom.xml": 2,
+        "/moneta-core/pom.xml": 2,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/JavaMoney/jsr354-ri/pull/327",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "jesusaurus/jenkins-logstash-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jesusaurus/jenkins-logstash-plugin/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

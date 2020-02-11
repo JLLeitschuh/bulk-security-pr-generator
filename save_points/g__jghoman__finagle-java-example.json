@@ -1,0 +1,11 @@
+{
+    "project_name": "jghoman/finagle-java-example",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jghoman/finagle-java-example/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

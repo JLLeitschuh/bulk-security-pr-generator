@@ -1,0 +1,11 @@
+{
+    "project_name": "infinispan-demos/infinispan-wf-swarm-example",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/infinispan-demos/infinispan-wf-swarm-example/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}
