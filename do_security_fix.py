@@ -54,6 +54,10 @@ def print_current_rate_limit():
 print_current_rate_limit()
 
 
+class ShallowUpdateNotAllowedException(Exception):
+    pass
+
+
 async def subprocess_run(args: List[str], cwd: str) -> Optional[str]:
     proc = await asyncio.create_subprocess_exec(
         args[0],
@@ -74,6 +78,8 @@ async def subprocess_run(args: List[str], cwd: str) -> Optional[str]:
             msg = stderr.decode()
             if 'timeout' in msg:
                 raise TimeoutError(f'[stderr]\n{msg}')
+            if 'shallow update not allowed' in msg:
+                raise ShallowUpdateNotAllowedException(f'[stderr]\n{msg}')
             raise RuntimeError(f'[stderr]\n{msg}')
     else:
         if stderr:
@@ -138,7 +144,7 @@ class VulnerableProjectFiles:
 
     async def do_clone(self):
         await self.do_resilient_hub_call(
-            ['hub', 'clone', self.project_name, '--depth', '1'],
+            ['hub', 'clone', self.project_name],
             cwd=clone_repos_location
         )
 
@@ -234,7 +240,13 @@ class VulnerableProjectFiles:
         await self.do_run_hub_in(['hub', 'fork', '--remote-name', 'origin'], lock)
 
     async def do_push_changes(self):
-        await self.do_run_in(['git', 'push', 'origin', branch_name, '--force'])
+        try:
+            await self.do_run_in(['git', 'push', 'origin', branch_name, '--force'])
+        except ShallowUpdateNotAllowedException as e:
+            # A shallow update isn't allowed against this repo (I must have forked it before)
+            await self.do_run_in(['git', 'fetch', '--unshallow'])
+            # Now re-run the push
+            await self.do_run_in(['git', 'push', 'origin', branch_name, '--force'])
 
     async def do_create_pull_request(self, lock) -> str:
         stdout = await self.do_run_hub_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path], lock)
