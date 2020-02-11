@@ -109,7 +109,7 @@ class VulnerableProjectFiles:
             print('\t', '/' + self.project_file_name() + file + ': ' + str(self.files[file]))
 
     @staticmethod
-    async def do_resilient_hub_call(args: List[str], cwd: str, lock) -> Optional[str]:
+    async def do_resilient_hub_call(args: List[str], cwd: str, lock=None) -> Optional[str]:
         """
         Make a call to hub that is resilient to timeout exceptions.
 
@@ -118,9 +118,12 @@ class VulnerableProjectFiles:
 
         async def do_call(wait_time) -> Optional[str]:
             try:
-                async with lock:
-                    # GitHub documentation says to wait 1 second between writes
-                    await asyncio.sleep(1)
+                if lock is None:
+                    async with lock:
+                        # GitHub documentation says to wait 1 second between writes
+                        await asyncio.sleep(1)
+                        return await subprocess_run(args, cwd=cwd)
+                else:
                     return await subprocess_run(args, cwd=cwd)
             except TimeoutError as e:
                 # This serves a double purpose as informational and also a 'sane'
@@ -133,11 +136,10 @@ class VulnerableProjectFiles:
 
         return await do_call(1)
 
-    async def do_clone(self, lock):
+    async def do_clone(self):
         await self.do_resilient_hub_call(
             ['hub', 'clone', self.project_name, '--depth', '1'],
-            cwd=clone_repos_location,
-            lock=lock
+            cwd=clone_repos_location
         )
 
     async def do_run_in(self, args: List[str]) -> Optional[str]:
@@ -232,7 +234,7 @@ class VulnerableProjectFiles:
         await self.do_run_hub_in(['hub', 'fork', '--remote-name', 'origin'], lock)
 
     async def do_push_changes(self):
-        await self.do_run_in(['git', 'push', 'origin', branch_name, '--force-with-lease'])
+        await self.do_run_in(['git', 'push', 'origin', branch_name, '--force'])
 
     async def do_create_pull_request(self, lock) -> str:
         stdout = await self.do_run_hub_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path], lock)
@@ -271,7 +273,7 @@ def read_repository_and_file_names(json_file_name: str) -> VulnerableProjectFile
 
 async def process_vulnerable_project(project: VulnerableProjectFiles, lock) -> VulnerabilityFixReport:
     project.print()
-    await project.do_clone(lock)
+    await project.do_clone()
     project_report: VulnerabilityFixReport = await project.do_fix_vulnerabilities()
     pr_url = ''
     # If the LGTM data is out-of-date, there can be cases where no vulnerabilities are fixed
