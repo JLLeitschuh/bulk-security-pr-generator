@@ -1,0 +1,11 @@
+{
+    "project_name": "Cognifide/Slice",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Cognifide/Slice/pull/122",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

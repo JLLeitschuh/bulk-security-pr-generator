@@ -1,0 +1,11 @@
+{
+    "project_name": "criccomini/ezdb",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/criccomini/ezdb/pull/13",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

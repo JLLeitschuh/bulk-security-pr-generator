@@ -1,0 +1,12 @@
+{
+    "project_name": "ColeJackes/QuizbowlMachineLearning",
+    "files": {
+        "/pom.xml": 2,
+        "/tika-1.13/tika-server/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ColeJackes/QuizbowlMachineLearning/pull/1",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

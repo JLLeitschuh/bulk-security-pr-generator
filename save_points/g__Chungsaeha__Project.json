@@ -1,0 +1,12 @@
+{
+    "project_name": "Chungsaeha/Project",
+    "files": {
+        "/MyCaffe_Admin-HttpServer-master/pom.xml": 3,
+        "/MyCaffe_Admin-HttpServer-master/target/m2e-wtp/web-resources/META-INF/maven/com.company/mycaffe/pom.xml": 3
+    },
+    "pull_request": "https://github.com/Chungsaeha/Project/pull/4",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 6
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "Codearte/catch-exception",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Codearte/catch-exception/pull/56",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

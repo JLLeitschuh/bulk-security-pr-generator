@@ -1,0 +1,11 @@
+{
+    "project_name": "CreditMutuelArkea/Openstack-Jenkins-HeatPlugin-closed-see-readme-",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/CreditMutuelArkea/Openstack-Jenkins-HeatPlugin-closed-see-readme-/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

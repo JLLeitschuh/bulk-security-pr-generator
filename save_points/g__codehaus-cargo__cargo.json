@@ -1,0 +1,11 @@
+{
+    "project_name": "codehaus-cargo/cargo",
+    "files": {
+        "/extensions/maven2/archetypes/remote-deployment/src/main/resources/archetype-resources/pom.xml": 2
+    },
+    "pull_request": "https://github.com/codehaus-cargo/cargo/pull/129",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

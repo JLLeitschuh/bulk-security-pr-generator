@@ -1,0 +1,17 @@
+{
+    "project_name": "CogComp/cogcomp-nlp",
+    "files": {
+        "/big-data-utils/pom.xml": 1,
+        "/commasrl/pom.xml": 1,
+        "/ner/pom.xml": 1,
+        "/pom.xml": 1,
+        "/quantifier/pom.xml": 1,
+        "/question-type/pom.xml": 1,
+        "/relation-extraction/pom.xml": 1
+    },
+    "pull_request": "https://github.com/CogComp/cogcomp-nlp/pull/727",
+    "report": {
+        "files_fixed": 7,
+        "vulnerabilities_fixed": 7
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "project_name": "caelum/caelum-stella",
+    "files": {
+        "/examples/faces-example-2x/pom.xml": 1,
+        "/examples/hibernate-persistence-example/pom.xml": 1,
+        "/examples/hibernate-seam-example/pom.xml": 1,
+        "/examples/vraptor-validator-example/pom.xml": 1,
+        "/stella-faces/pom.xml": 1,
+        "/stella-gateway-formas-pagamento/pom.xml": 2
+    },
+    "pull_request": "https://github.com/caelum/caelum-stella/pull/259",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 8
+    }
+}

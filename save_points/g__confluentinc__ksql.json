@@ -1,0 +1,11 @@
+{
+    "project_name": "confluentinc/ksql",
+    "files": {
+        "/ksql-udf-quickstart/src/main/resources/archetype-resources/pom.xml": 1
+    },
+    "pull_request": "https://github.com/confluentinc/ksql/pull/4511",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

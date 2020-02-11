@@ -1,0 +1,12 @@
+{
+    "project_name": "ctpconsulting/query",
+    "files": {
+        "/docs/pom.xml": 1,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/ctpconsulting/query/pull/67",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

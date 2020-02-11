@@ -1,0 +1,12 @@
+{
+    "project_name": "CoreMedia/jangaroo-tools",
+    "files": {
+        "/jangaroo-parent/pom.xml": 2,
+        "/joodoc/pom.xml": 1
+    },
+    "pull_request": "https://github.com/CoreMedia/jangaroo-tools/pull/66",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "camunda/camunda-bpm-platform",
+    "files": {
+        "/parent/pom.xml": 1
+    },
+    "pull_request": "https://github.com/camunda/camunda-bpm-platform/pull/647",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

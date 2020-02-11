@@ -1,0 +1,11 @@
+{
+    "project_name": "cantaloupe-project/cantaloupe",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/cantaloupe-project/cantaloupe/pull/348",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

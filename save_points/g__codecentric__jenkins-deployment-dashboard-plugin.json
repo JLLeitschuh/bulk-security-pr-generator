@@ -1,0 +1,11 @@
+{
+    "project_name": "codecentric/jenkins-deployment-dashboard-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/codecentric/jenkins-deployment-dashboard-plugin/pull/25",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

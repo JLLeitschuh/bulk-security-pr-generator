@@ -1,0 +1,12 @@
+{
+    "project_name": "cloudera/cm_ext",
+    "files": {
+        "/cm-schema/pom.xml": 2,
+        "/validator/pom.xml": 2
+    },
+    "pull_request": "https://github.com/cloudera/cm_ext/pull/32",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

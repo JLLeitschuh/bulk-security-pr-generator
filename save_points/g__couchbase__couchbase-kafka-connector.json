@@ -1,0 +1,11 @@
+{
+    "project_name": "couchbase/couchbase-kafka-connector",
+    "files": {
+        "/samples/producer/pom.xml": 1
+    },
+    "pull_request": "https://github.com/couchbase/couchbase-kafka-connector/pull/27",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

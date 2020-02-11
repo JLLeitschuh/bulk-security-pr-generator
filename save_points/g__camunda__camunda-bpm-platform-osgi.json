@@ -1,0 +1,12 @@
+{
+    "project_name": "camunda/camunda-bpm-platform-osgi",
+    "files": {
+        "/camunda-bpm-karaf-feature/pom.xml": 2,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/camunda/camunda-bpm-platform-osgi/pull/58",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

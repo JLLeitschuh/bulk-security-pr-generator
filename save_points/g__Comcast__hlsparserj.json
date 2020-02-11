@@ -1,0 +1,11 @@
+{
+    "project_name": "Comcast/hlsparserj",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Comcast/hlsparserj/pull/11",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "cschneider/Karaf-Tutorial",
+    "files": {
+        "/camel/jms2rest/pom.xml": 1,
+        "/vaadin/tasklist-ui-vaadin/pom.xml": 1,
+        "/vaadin/vaadinbridge/pom.xml": 1
+    },
+    "pull_request": "https://github.com/cschneider/Karaf-Tutorial/pull/62",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 3
+    }
+}

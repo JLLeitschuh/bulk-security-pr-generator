@@ -1,0 +1,11 @@
+{
+    "project_name": "cloudera/livy",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/cloudera/livy/pull/349",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

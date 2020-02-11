@@ -1,0 +1,11 @@
+{
+    "project_name": "cerner/beadledom",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/cerner/beadledom/pull/171",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

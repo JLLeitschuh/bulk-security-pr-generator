@@ -1,0 +1,11 @@
+{
+    "project_name": "chostrander/Odds-N-Ends",
+    "files": {
+        "/JSF2Demo/pom.xml": 1
+    },
+    "pull_request": "https://github.com/chostrander/Odds-N-Ends/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

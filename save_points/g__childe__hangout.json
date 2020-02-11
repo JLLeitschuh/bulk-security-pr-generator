@@ -1,0 +1,11 @@
+{
+    "project_name": "childe/hangout",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/childe/hangout/pull/151",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

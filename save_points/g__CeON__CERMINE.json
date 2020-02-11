@@ -1,0 +1,12 @@
+{
+    "project_name": "CeON/CERMINE",
+    "files": {
+        "/cermine-tools/pom.xml": 1,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/CeON/CERMINE/pull/91",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

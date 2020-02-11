@@ -1,0 +1,13 @@
+{
+    "project_name": "cfeclipse/cfeclipse",
+    "files": {
+        "/org.cfeclipse.cfml.update/pom.xml": 7,
+        "/org.cfeclipse.cfml.update-dev/pom.xml": 7,
+        "/pom.xml": 7
+    },
+    "pull_request": "https://github.com/cfeclipse/cfeclipse/pull/130",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "project_name": "camsys/onebusaway-nyc",
+    "files": {
+        "/jgoogleanalyticstracker/pom.xml": 2,
+        "/onebusaway-nyc-acta-webapp/pom.xml": 1,
+        "/onebusaway-nyc-admin-webapp/pom.xml": 1,
+        "/onebusaway-nyc-gtfsrt/pom.xml": 1,
+        "/onebusaway-nyc-gtfsrt-webapp/pom.xml": 1,
+        "/onebusaway-nyc-sms-webapp/pom.xml": 1,
+        "/onebusaway-nyc-tdm-util/modules/maven-head/resources/play-parent/pom.xml": 1,
+        "/onebusaway-nyc-tdm-util/pom.xml": 3,
+        "/onebusaway-nyc-webapp/pom.xml": 1,
+        "/pom.xml": 9
+    },
+    "pull_request": "https://github.com/camsys/onebusaway-nyc/pull/40",
+    "report": {
+        "files_fixed": 10,
+        "vulnerabilities_fixed": 24
+    }
+}

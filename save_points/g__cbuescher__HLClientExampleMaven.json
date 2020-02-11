@@ -1,0 +1,11 @@
+{
+    "project_name": "cbuescher/HLClientExampleMaven",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/cbuescher/HLClientExampleMaven/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

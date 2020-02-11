@@ -1,0 +1,11 @@
+{
+    "project_name": "code4craft/jsoup-learning",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/code4craft/jsoup-learning/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

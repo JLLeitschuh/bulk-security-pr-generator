@@ -1,0 +1,11 @@
+{
+    "project_name": "CamelCookbook/camel-cookbook-examples",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/CamelCookbook/camel-cookbook-examples/pull/96",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

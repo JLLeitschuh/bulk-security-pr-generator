@@ -1,0 +1,11 @@
+{
+    "project_name": "cdapio/cdap",
+    "files": {
+        "/cdap-app-templates/cdap-program-report/pom.xml": 1
+    },
+    "pull_request": "https://github.com/cdapio/cdap/pull/11860",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

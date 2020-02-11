@@ -1,0 +1,11 @@
+{
+    "project_name": "cafarm/transit-api-webapp",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/cafarm/transit-api-webapp/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

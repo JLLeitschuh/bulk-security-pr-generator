@@ -1,0 +1,11 @@
+{
+    "project_name": "castor-data-binding/castor",
+    "files": {
+        "/doc/pom.xml": 1
+    },
+    "pull_request": "https://github.com/castor-data-binding/castor/pull/81",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}
