@@ -1,0 +1,11 @@
+{
+    "project_name": "hyperhq/hyper-slaves-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/hyperhq/hyper-slaves-plugin/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

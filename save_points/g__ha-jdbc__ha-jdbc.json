@@ -1,0 +1,12 @@
+{
+    "project_name": "ha-jdbc/ha-jdbc",
+    "files": {
+        "/pom.xml": 3,
+        "/state/bdb/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ha-jdbc/ha-jdbc/pull/119",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

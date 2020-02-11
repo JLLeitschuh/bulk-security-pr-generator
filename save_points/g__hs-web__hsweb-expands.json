@@ -1,0 +1,11 @@
+{
+    "project_name": "hs-web/hsweb-expands",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/hs-web/hsweb-expands/pull/10",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

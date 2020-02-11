@@ -1,0 +1,11 @@
+{
+    "project_name": "hazelcast/hazelcast-simulator",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/hazelcast/hazelcast-simulator/pull/1815",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

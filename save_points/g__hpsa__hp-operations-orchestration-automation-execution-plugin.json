@@ -1,0 +1,11 @@
+{
+    "project_name": "hpsa/hp-operations-orchestration-automation-execution-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/hpsa/hp-operations-orchestration-automation-execution-plugin/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

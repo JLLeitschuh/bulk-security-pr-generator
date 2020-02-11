@@ -1,0 +1,11 @@
+{
+    "project_name": "hs-web/hsweb-printer",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/hs-web/hsweb-printer/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

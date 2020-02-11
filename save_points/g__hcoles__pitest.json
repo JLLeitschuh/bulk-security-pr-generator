@@ -1,0 +1,11 @@
+{
+    "project_name": "hcoles/pitest",
+    "files": {
+        "/pitest-maven-verification/src/test/resources/pit-263-yatspec/pom.xml": 1
+    },
+    "pull_request": "https://github.com/hcoles/pitest/pull/732",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

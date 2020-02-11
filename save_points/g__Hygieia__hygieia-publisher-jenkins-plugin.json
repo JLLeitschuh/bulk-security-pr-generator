@@ -1,0 +1,11 @@
+{
+    "project_name": "Hygieia/hygieia-publisher-jenkins-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Hygieia/hygieia-publisher-jenkins-plugin/pull/23",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

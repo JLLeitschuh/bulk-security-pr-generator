@@ -1,0 +1,11 @@
+{
+    "project_name": "hmsonline/storm-cassandra-cql",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/hmsonline/storm-cassandra-cql/pull/68",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

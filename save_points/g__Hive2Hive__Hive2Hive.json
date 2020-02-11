@@ -1,0 +1,12 @@
+{
+    "project_name": "Hive2Hive/Hive2Hive",
+    "files": {
+        "/org.hive2hive.client/pom.xml": 1,
+        "/org.hive2hive.core/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Hive2Hive/Hive2Hive/pull/159",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "hobbit-project/DataStorageBenchmark",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/hobbit-project/DataStorageBenchmark/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

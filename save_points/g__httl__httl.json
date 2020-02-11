@@ -1,0 +1,19 @@
+{
+    "project_name": "httl/httl",
+    "files": {
+        "/httl/pom.xml": 1,
+        "/httl-jfinal/pom.xml": 1,
+        "/httl-nutz/pom.xml": 1,
+        "/httl-script/pom.xml": 1,
+        "/httl-servlet/pom.xml": 1,
+        "/httl-springmvc/pom.xml": 1,
+        "/httl-struts/pom.xml": 1,
+        "/httl-webx/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/httl/httl/pull/236",
+    "report": {
+        "files_fixed": 9,
+        "vulnerabilities_fixed": 9
+    }
+}

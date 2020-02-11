@@ -1,0 +1,11 @@
+{
+    "project_name": "hantsy/angularjs-springmvc-sample",
+    "files": {
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/hantsy/angularjs-springmvc-sample/pull/19",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 6
+    }
+}

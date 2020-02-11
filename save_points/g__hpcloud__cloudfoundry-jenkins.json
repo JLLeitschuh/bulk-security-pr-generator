@@ -1,0 +1,11 @@
+{
+    "project_name": "hpcloud/cloudfoundry-jenkins",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/hpcloud/cloudfoundry-jenkins/pull/18",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

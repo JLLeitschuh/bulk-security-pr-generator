@@ -1,0 +1,12 @@
+{
+    "project_name": "heremaps/oss-review-toolkit",
+    "files": {
+        "/analyzer/src/funTest/assets/projects/external/jgnash/pom.xml": 4,
+        "/analyzer/src/funTest/assets/projects/synthetic/maven/lib/pom.xml": 1
+    },
+    "pull_request": "",
+    "report": {
+        "files_fixed": 0,
+        "vulnerabilities_fixed": 0
+    }
+}

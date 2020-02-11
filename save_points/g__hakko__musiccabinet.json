@@ -1,0 +1,11 @@
+{
+    "project_name": "hakko/musiccabinet",
+    "files": {
+        "/musiccabinet-server/pom.xml": 3
+    },
+    "pull_request": "https://github.com/hakko/musiccabinet/pull/35",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}
