@@ -1,0 +1,22 @@
+{
+    "project_name": "Blazebit/blaze-persistence",
+    "files": {
+        "/core/testsuite/pom.xml": 5,
+        "/entity-view/testsuite/pom.xml": 5,
+        "/integration/datanucleus/pom.xml": 1,
+        "/integration/datanucleus-5.1/pom.xml": 1,
+        "/integration/deltaspike-data/testsuite/pom.xml": 5,
+        "/integration/hibernate-6.0/pom.xml": 1,
+        "/integration/spring-data/2.0/pom.xml": 2,
+        "/integration/spring-data/2.1/pom.xml": 2,
+        "/integration/spring-data/2.2/pom.xml": 2,
+        "/integration/spring-data/testsuite/pom.xml": 5,
+        "/jpa-criteria/testsuite/pom.xml": 5,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Blazebit/blaze-persistence/pull/1003",
+    "report": {
+        "files_fixed": 12,
+        "vulnerabilities_fixed": 35
+    }
+}

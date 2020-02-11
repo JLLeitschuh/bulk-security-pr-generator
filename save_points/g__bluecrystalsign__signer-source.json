@@ -1,0 +1,11 @@
+{
+    "project_name": "bluecrystalsign/signer-source",
+    "files": {
+        "/bluecrystal.server.rest.jboss63/pom.xml": 4
+    },
+    "pull_request": "https://github.com/bluecrystalsign/signer-source/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

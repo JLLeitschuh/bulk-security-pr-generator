@@ -1,0 +1,11 @@
+{
+    "project_name": "Bil372Project/372_071_Edulity",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Bil372Project/372_071_Edulity/pull/20",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

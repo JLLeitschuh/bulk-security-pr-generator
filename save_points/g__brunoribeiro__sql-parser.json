@@ -1,0 +1,11 @@
+{
+    "project_name": "brunoribeiro/sql-parser",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/brunoribeiro/sql-parser/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

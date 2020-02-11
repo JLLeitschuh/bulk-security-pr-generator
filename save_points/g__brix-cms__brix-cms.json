@@ -1,0 +1,12 @@
+{
+    "project_name": "brix-cms/brix-cms",
+    "files": {
+        "/brix-modeshape/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/brix-cms/brix-cms/pull/231",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

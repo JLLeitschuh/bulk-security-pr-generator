@@ -1,0 +1,11 @@
+{
+    "project_name": "brendano/ark-tweet-nlp",
+    "files": {
+        "/ark-tweet-nlp/pom.xml": 1
+    },
+    "pull_request": "https://github.com/brendano/ark-tweet-nlp/pull/50",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

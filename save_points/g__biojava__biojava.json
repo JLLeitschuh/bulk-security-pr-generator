@@ -1,0 +1,11 @@
+{
+    "project_name": "biojava/biojava",
+    "files": {
+        "/biojava-genome/pom.xml": 1
+    },
+    "pull_request": "https://github.com/biojava/biojava/pull/861",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

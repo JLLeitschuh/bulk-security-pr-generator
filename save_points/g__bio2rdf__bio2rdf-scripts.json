@@ -1,0 +1,11 @@
+{
+    "project_name": "bio2rdf/bio2rdf-scripts",
+    "files": {
+        "/pdb/pom.xml": 1
+    },
+    "pull_request": "https://github.com/bio2rdf/bio2rdf-scripts/pull/459",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

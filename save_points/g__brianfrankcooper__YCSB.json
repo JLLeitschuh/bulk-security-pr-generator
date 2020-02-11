@@ -1,0 +1,15 @@
+{
+    "project_name": "brianfrankcooper/YCSB",
+    "files": {
+        "/cassandra/pom.xml": 1,
+        "/hypertable/pom.xml": 1,
+        "/maprdb/pom.xml": 1,
+        "/maprjsondb/pom.xml": 1,
+        "/mongodb/pom.xml": 1
+    },
+    "pull_request": "https://github.com/brianfrankcooper/YCSB/pull/1406",
+    "report": {
+        "files_fixed": 5,
+        "vulnerabilities_fixed": 5
+    }
+}

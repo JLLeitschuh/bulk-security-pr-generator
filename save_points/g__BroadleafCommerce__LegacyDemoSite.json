@@ -1,0 +1,11 @@
+{
+    "project_name": "BroadleafCommerce/LegacyDemoSite",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/BroadleafCommerce/LegacyDemoSite/pull/217",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

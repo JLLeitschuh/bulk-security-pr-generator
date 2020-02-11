@@ -1,0 +1,11 @@
+{
+    "project_name": "biblelamp/JavaExercises",
+    "files": {
+        "/TestTasks/itv.ru/kirill-salyamov-spring-boot-jsf/pom.xml": 1
+    },
+    "pull_request": "https://github.com/biblelamp/JavaExercises/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "BlackLabs/play-morphia",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/BlackLabs/play-morphia/pull/133",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

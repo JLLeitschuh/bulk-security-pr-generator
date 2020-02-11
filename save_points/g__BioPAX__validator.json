@@ -1,0 +1,12 @@
+{
+    "project_name": "BioPAX/validator",
+    "files": {
+        "/obo-fetcher/pom.xml": 1,
+        "/validator-core/pom.xml": 1
+    },
+    "pull_request": "https://github.com/BioPAX/validator/pull/15",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

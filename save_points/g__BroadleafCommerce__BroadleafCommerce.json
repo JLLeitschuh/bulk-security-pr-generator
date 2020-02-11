@@ -1,0 +1,11 @@
+{
+    "project_name": "BroadleafCommerce/BroadleafCommerce",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/BroadleafCommerce/BroadleafCommerce/pull/2243",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}
