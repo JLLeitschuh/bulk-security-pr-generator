@@ -1,0 +1,13 @@
+{
+    "project_name": "eclipse/deeplearning4j-examples",
+    "files": {
+        "/dl4j-cuda-specific-examples/pom.xml": 1,
+        "/dl4j-examples/pom.xml": 1,
+        "/rl4j-examples/pom.xml": 1
+    },
+    "pull_request": "https://github.com/eclipse/deeplearning4j-examples/pull/941",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 3
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "eclipse/linuxtools",
+    "files": {
+        "/pom.xml": 1,
+        "/releng/apitools/pom.xml": 1
+    },
+    "pull_request": "https://github.com/eclipse/linuxtools/pull/22",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

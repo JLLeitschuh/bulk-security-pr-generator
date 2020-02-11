@@ -1,0 +1,13 @@
+{
+    "project_name": "eclipse/mylyn.docs",
+    "files": {
+        "/docs/pom.xml": 1,
+        "/epub/core/repository/pom.xml": 1,
+        "/wikitext/core/repository/pom.xml": 1
+    },
+    "pull_request": "https://github.com/eclipse/mylyn.docs/pull/13",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

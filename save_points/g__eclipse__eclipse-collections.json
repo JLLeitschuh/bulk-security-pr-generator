@@ -1,0 +1,11 @@
+{
+    "project_name": "eclipse/eclipse-collections",
+    "files": {
+        "/p2-feature/pom.xml": 1
+    },
+    "pull_request": "https://github.com/eclipse/eclipse-collections/pull/796",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

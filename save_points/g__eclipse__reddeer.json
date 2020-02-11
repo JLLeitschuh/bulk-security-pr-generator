@@ -1,0 +1,14 @@
+{
+    "project_name": "eclipse/reddeer",
+    "files": {
+        "/archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/pom.xml": 2,
+        "/tests/org.eclipse.reddeer.eclipse.test/pom.xml": 2,
+        "/tests/org.eclipse.reddeer.gef.test/pom.xml": 1
+    },
+    "pull_request": "https://github.com/eclipse/reddeer/pull/2061",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 5
+    }
+}
