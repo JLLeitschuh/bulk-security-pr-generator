@@ -1,0 +1,17 @@
+{
+    "project_name": "wso2/product-iots",
+    "files": {
+        "/modules/distribution/src/analytics/samples/connected-cup/pom.xml": 6,
+        "/modules/distribution/src/analytics/samples/device-plugins/pom.xml": 6,
+        "/modules/distribution/src/core/samples/connectedcup/component/agent/pom.xml": 6,
+        "/modules/distribution/src/core/samples/connectedcup/pom.xml": 5,
+        "/modules/distribution/src/core/samples/sampledevice/pom.xml": 5,
+        "/modules/tools/cdmf-devicetype-archetype/src/main/resources/archetype-resources/pom.xml": 5,
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/wso2/product-iots/pull/1940",
+    "report": {
+        "files_fixed": 7,
+        "vulnerabilities_fixed": 39
+    }
+}

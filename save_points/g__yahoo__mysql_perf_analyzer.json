@@ -1,0 +1,12 @@
+{
+    "project_name": "yahoo/mysql_perf_analyzer",
+    "files": {
+        "/myperf/pom.xml": 2,
+        "/perfJettyServer/pom.xml": 3
+    },
+    "pull_request": "https://github.com/yahoo/mysql_perf_analyzer/pull/26",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 5
+    }
+}

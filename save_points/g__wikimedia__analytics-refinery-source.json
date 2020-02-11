@@ -1,0 +1,11 @@
+{
+    "project_name": "wikimedia/analytics-refinery-source",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/wikimedia/analytics-refinery-source/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

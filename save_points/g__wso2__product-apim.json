@@ -1,0 +1,17 @@
+{
+    "project_name": "wso2/product-apim",
+    "files": {
+        "/modules/distribution/resources/migration/wso2-api-migration-client/pom.xml": 3,
+        "/modules/integration/tests-common/backend-service/monitor-app/pom.xml": 1,
+        "/modules/is-km/pom.xml": 3,
+        "/modules/samples/PizzaShack/pizza-shack-web/pom.xml": 1,
+        "/modules/samples/PizzaShack/pre-processor/pom.xml": 1,
+        "/pom.xml": 1,
+        "/sample-scenarios/pom.xml": 1
+    },
+    "pull_request": "https://github.com/wso2/product-apim/pull/7440",
+    "report": {
+        "files_fixed": 7,
+        "vulnerabilities_fixed": 11
+    }
+}

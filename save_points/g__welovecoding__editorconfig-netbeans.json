@@ -1,0 +1,11 @@
+{
+    "project_name": "welovecoding/editorconfig-netbeans",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/welovecoding/editorconfig-netbeans/pull/123",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

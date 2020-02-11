@@ -1,0 +1,11 @@
+{
+    "project_name": "yekaterinasavelyeva/lighthouse",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/yekaterinasavelyeva/lighthouse/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

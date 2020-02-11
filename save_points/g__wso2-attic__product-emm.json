@@ -1,0 +1,12 @@
+{
+    "project_name": "wso2-attic/product-emm",
+    "files": {
+        "/modules/tools/mdm-android-agent-archetype/src/main/resources/archetype-resources/pom.xml": 6,
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/wso2-attic/product-emm/pull/390",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 12
+    }
+}

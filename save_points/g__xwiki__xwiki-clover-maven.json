@@ -1,0 +1,11 @@
+{
+    "project_name": "xwiki/xwiki-clover-maven",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/xwiki/xwiki-clover-maven/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

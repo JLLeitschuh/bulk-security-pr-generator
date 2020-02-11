@@ -1,0 +1,11 @@
+{
+    "project_name": "yasu-s/fxcop-runner-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/yasu-s/fxcop-runner-plugin/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

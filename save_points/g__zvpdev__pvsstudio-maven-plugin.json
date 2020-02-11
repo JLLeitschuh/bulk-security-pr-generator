@@ -1,0 +1,11 @@
+{
+    "project_name": "zvpdev/pvsstudio-maven-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/zvpdev/pvsstudio-maven-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

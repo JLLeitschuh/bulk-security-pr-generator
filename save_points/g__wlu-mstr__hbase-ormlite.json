@@ -1,0 +1,11 @@
+{
+    "project_name": "wlu-mstr/hbase-ormlite",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/wlu-mstr/hbase-ormlite/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

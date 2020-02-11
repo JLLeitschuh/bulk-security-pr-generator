@@ -1,0 +1,16 @@
+{
+    "project_name": "zhaoshuxue/springBoot",
+    "files": {
+        "/example/spring-boot-starter-sqlite-demo/pom.xml": 2,
+        "/spring-boot-hibernate/pom.xml": 1,
+        "/spring-boot-hibernate-v2/pom.xml": 1,
+        "/spring-boot-mybatis/pom.xml": 1,
+        "/springboot2.0/springboot-es/pom.xml": 1,
+        "/springboot2.0/springboot-ueditor/pom.xml": 1
+    },
+    "pull_request": "https://github.com/zhaoshuxue/springBoot/pull/2",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 7
+    }
+}

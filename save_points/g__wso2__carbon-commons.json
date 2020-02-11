@@ -1,0 +1,12 @@
+{
+    "project_name": "wso2/carbon-commons",
+    "files": {
+        "/components/caching-invalidator/org.wso2.carbon.caching.invalidator/pom.xml": 1,
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/wso2/carbon-commons/pull/406",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 7
+    }
+}

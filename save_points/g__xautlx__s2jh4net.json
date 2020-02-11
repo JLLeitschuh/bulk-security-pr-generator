@@ -1,0 +1,11 @@
+{
+    "project_name": "xautlx/s2jh4net",
+    "files": {
+        "/pom.xml": 7
+    },
+    "pull_request": "https://github.com/xautlx/s2jh4net/pull/30",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 7
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "XavientInformationSystems/Data-Ingestion-Platform",
+    "files": {
+        "/dataingest-samza/pom.xml": 2,
+        "/dataingest-storm/pom.xml": 2,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/XavientInformationSystems/Data-Ingestion-Platform/pull/32",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 6
+    }
+}

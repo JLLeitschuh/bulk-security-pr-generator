@@ -1,0 +1,12 @@
+{
+    "project_name": "wso2/jaggery",
+    "files": {
+        "/components/app-listeners/org.jaggeryjs.jaggery.tomcat.listener/pom.xml": 1,
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/wso2/jaggery/pull/211",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 7
+    }
+}

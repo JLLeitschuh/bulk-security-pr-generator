@@ -1,0 +1,11 @@
+{
+    "project_name": "zhangdaiscott/jeecg",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/zhangdaiscott/jeecg/pull/53",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

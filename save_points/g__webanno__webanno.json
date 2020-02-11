@@ -1,0 +1,11 @@
+{
+    "project_name": "webanno/webanno",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/webanno/webanno/pull/1601",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

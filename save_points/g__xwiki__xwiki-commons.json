@@ -1,0 +1,11 @@
+{
+    "project_name": "xwiki/xwiki-commons",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/xwiki/xwiki-commons/pull/86",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

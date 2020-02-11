@@ -1,0 +1,16 @@
+{
+    "project_name": "wso2/developer-studio",
+    "files": {
+        "/features/pom.xml": 3,
+        "/plugins/org.wso2.developerstudio.eclipse.kernel.libraries/pom.xml": 2,
+        "/plugins/org.wso2.developerstudio.eclipse.platform.core/pom.xml": 2,
+        "/plugins/org.wso2.developerstudio.eclipse.platform.ui/pom.xml": 2,
+        "/plugins/org.wso2.developerstudio.eclipse.wso2plugin.template.manager/pom.xml": 2,
+        "/pom.xml": 7
+    },
+    "pull_request": "https://github.com/wso2/developer-studio/pull/203",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 18
+    }
+}

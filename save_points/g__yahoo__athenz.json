@@ -1,0 +1,20 @@
+{
+    "project_name": "yahoo/athenz",
+    "files": {
+        "/clients/java/zms/examples/tls-support/pom.xml": 1,
+        "/clients/java/zts/core/examples/tls-support/pom.xml": 1,
+        "/examples/java/centralized-use-case/client/pom.xml": 1,
+        "/examples/java/centralized-use-case/servlet/pom.xml": 1,
+        "/examples/java/decentralized-use-case/client/pom.xml": 1,
+        "/examples/java/decentralized-use-case/servlet/pom.xml": 1,
+        "/examples/java/instance-provider/client/pom.xml": 1,
+        "/examples/java/instance-provider/provider/pom.xml": 1,
+        "/libs/java/cert_refresher/examples/tls-support/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "",
+    "report": {
+        "files_fixed": 0,
+        "vulnerabilities_fixed": 0
+    }
+}

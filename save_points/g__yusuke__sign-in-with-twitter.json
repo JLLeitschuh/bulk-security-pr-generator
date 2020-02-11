@@ -1,0 +1,11 @@
+{
+    "project_name": "yusuke/sign-in-with-twitter",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/yusuke/sign-in-with-twitter/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

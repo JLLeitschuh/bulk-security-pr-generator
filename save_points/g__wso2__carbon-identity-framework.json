@@ -1,0 +1,12 @@
+{
+    "project_name": "wso2/carbon-identity-framework",
+    "files": {
+        "/components/provisioning/org.wso2.carbon.identity.provisioning/pom.xml": 1,
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/wso2/carbon-identity-framework/pull/2739",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 7
+    }
+}

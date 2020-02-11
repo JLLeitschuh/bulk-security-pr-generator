@@ -1,0 +1,14 @@
+{
+    "project_name": "wso2-attic/product-esb",
+    "files": {
+        "/modules/integration/service-samples/pom.xml": 4,
+        "/modules/samples/integration-scenarios/starbucks_sample/StarbucksServicePlatform/artifacts/pom.xml": 2,
+        "/modules/samples/integration-scenarios/starbucks_sample/StarbucksServicePlatform/builder/pom.xml": 2,
+        "/pom.xml": 8
+    },
+    "pull_request": "https://github.com/wso2-attic/product-esb/pull/666",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 16
+    }
+}

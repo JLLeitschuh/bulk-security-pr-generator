@@ -1,0 +1,15 @@
+{
+    "project_name": "wso2/carbon-device-mgt-plugins",
+    "files": {
+        "/components/device-types/androidsense-plugin/org.wso2.carbon.device.mgt.iot.androidsense.agent/pom.xml": 2,
+        "/components/device-types/virtual-fire-alarm-plugin/org.wso2.carbon.device.mgt.iot.virtualfirealarm.agent.impl/pom.xml": 2,
+        "/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/org.wso2.orbit.org.geotools.gt-geojson/pom.xml": 2,
+        "/components/extensions/siddhi-extensions/org.wso2.gpl.siddhi.extension.geo.script/src/main/resources/scripts/gpl-siddhi-geo-extention/pom.xml": 6,
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/wso2/carbon-device-mgt-plugins/pull/927",
+    "report": {
+        "files_fixed": 5,
+        "vulnerabilities_fixed": 18
+    }
+}

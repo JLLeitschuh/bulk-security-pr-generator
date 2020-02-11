@@ -1,0 +1,11 @@
+{
+    "project_name": "yahoo/sherlock",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/yahoo/sherlock/pull/28",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

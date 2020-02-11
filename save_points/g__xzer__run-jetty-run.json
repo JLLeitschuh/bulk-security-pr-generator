@@ -1,0 +1,12 @@
+{
+    "project_name": "xzer/run-jetty-run",
+    "files": {
+        "/Runjettyrun/test/runtime-EclipseApplication/myzkcomp/pom.xml": 6,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/xzer/run-jetty-run/pull/214",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 6
+    }
+}

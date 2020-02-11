@@ -1,0 +1,12 @@
+{
+    "project_name": "yash50/testlgtm",
+    "files": {
+        "/plugins/pom.xml": 3,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/yash50/testlgtm/pull/4",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 7
+    }
+}

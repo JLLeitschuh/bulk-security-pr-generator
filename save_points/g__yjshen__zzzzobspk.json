@@ -1,0 +1,13 @@
+{
+    "project_name": "yjshen/zzzzobspk",
+    "files": {
+        "/dev/audit-release/blank_maven_build/pom.xml": 1,
+        "/dev/audit-release/maven_app_core/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/yjshen/zzzzobspk/pull/1",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 3
+    }
+}

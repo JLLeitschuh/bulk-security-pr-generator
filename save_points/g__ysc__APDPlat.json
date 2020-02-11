@@ -1,0 +1,13 @@
+{
+    "project_name": "ysc/APDPlat",
+    "files": {
+        "/APDPlat_Core/pom.xml": 10,
+        "/APDPlat_Module/pom.xml": 10,
+        "/APDPlat_Web/pom.xml": 10
+    },
+    "pull_request": "https://github.com/ysc/APDPlat/pull/77",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 30
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "xyzrlee/api",
+    "files": {
+        "/api/pom.xml": 1
+    },
+    "pull_request": "https://github.com/xyzrlee/api/pull/13",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

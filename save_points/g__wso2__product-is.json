@@ -1,0 +1,21 @@
+{
+    "project_name": "wso2/product-is",
+    "files": {
+        "/modules/samples/identity-mgt/info-recovery-sample/pom.xml": 2,
+        "/modules/samples/oauth/oauth10a-resource-owner-equivalent/pom.xml": 1,
+        "/modules/samples/oauth2/custom-grant/pom.xml": 1,
+        "/modules/samples/oauth2/playground2/pom.xml": 1,
+        "/modules/samples/passive-sts/passive-sts-client/PassiveSTSFilter/pom.xml": 1,
+        "/modules/samples/passive-sts/passive-sts-client/PassiveSTSSampleApp/pom.xml": 1,
+        "/modules/samples/sso/sso-agent-sample/pom.xml": 1,
+        "/modules/samples/sts/sts-client/pom.xml": 1,
+        "/modules/samples/xacml/kmarket-trading-sample/pom.xml": 2,
+        "/pom.xml": 7,
+        "/product-scenarios/4-single-sign-on/pom.xml": 4
+    },
+    "pull_request": "https://github.com/wso2/product-is/pull/7530",
+    "report": {
+        "files_fixed": 11,
+        "vulnerabilities_fixed": 29
+    }
+}

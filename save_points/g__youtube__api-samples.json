@@ -1,0 +1,11 @@
+{
+    "project_name": "youtube/api-samples",
+    "files": {
+        "/java/pom.xml": 1
+    },
+    "pull_request": "https://github.com/youtube/api-samples/pull/273",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

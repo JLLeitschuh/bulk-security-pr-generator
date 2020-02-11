@@ -1,0 +1,11 @@
+{
+    "project_name": "xebia-france-training/xebia-petclinic",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/xebia-france-training/xebia-petclinic/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

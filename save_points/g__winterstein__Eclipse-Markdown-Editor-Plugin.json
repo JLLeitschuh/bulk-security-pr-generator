@@ -1,0 +1,11 @@
+{
+    "project_name": "winterstein/Eclipse-Markdown-Editor-Plugin",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin/pull/84",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

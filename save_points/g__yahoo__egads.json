@@ -1,0 +1,11 @@
+{
+    "project_name": "yahoo/egads",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/yahoo/egads/pull/69",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

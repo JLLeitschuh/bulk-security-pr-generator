@@ -1,0 +1,12 @@
+{
+    "project_name": "yahoo/yql-plus",
+    "files": {
+        "/examples/weather-service/pom.xml": 1,
+        "/yqlplus_engine/pom.xml": 1
+    },
+    "pull_request": "https://github.com/yahoo/yql-plus/pull/99",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "wildfly/wildfly-core",
+    "files": {
+        "/component-matrix/pom.xml": 2,
+        "/pom.xml": 2
+    },
+    "pull_request": "",
+    "report": {
+        "files_fixed": 0,
+        "vulnerabilities_fixed": 0
+    }
+}

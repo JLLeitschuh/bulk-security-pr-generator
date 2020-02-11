@@ -1,0 +1,13 @@
+{
+    "project_name": "wso2/wso2-synapse",
+    "files": {
+        "/modules/distribution/pom.xml": 1,
+        "/modules/securevault/pom.xml": 1,
+        "/pom.xml": 11
+    },
+    "pull_request": "https://github.com/wso2/wso2-synapse/pull/1485",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 13
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "wangweiomg/credit-center",
+    "files": {
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/wangweiomg/credit-center/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 9
+    }
+}
