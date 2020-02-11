@@ -358,6 +358,7 @@ async def do_run_everything():
         vulnerable.print()
         if vulnerable.project_name == 'apache/servicemix4-bundles' or \
                 vulnerable.project_name == 'marcust/struts1' or \
+                vulnerable.project_name == 'meertensinstituut/mtas' or \
                 '/maven' in vulnerable.project_name:
             # TODO: Come back to this black listed project later
             # black listed project

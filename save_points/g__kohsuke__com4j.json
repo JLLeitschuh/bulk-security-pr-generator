@@ -1,0 +1,12 @@
+{
+    "project_name": "kohsuke/com4j",
+    "files": {
+        "/pom.xml": 2,
+        "/typelibs/pom.xml": 2
+    },
+    "pull_request": "https://github.com/kohsuke/com4j/pull/83",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

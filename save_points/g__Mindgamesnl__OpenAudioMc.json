@@ -1,0 +1,11 @@
+{
+    "project_name": "Mindgamesnl/OpenAudioMc",
+    "files": {
+        "/plugin/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Mindgamesnl/OpenAudioMc/pull/121",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}
