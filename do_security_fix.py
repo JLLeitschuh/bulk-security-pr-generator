@@ -318,6 +318,9 @@ async def do_run_everything():
                 continue
             vulnerable_projects.append(vulnerable)
 
+        if vulnerable.project_name.startswith('google/'):
+            vulnerable_projects.append(vulnerable)
+
     print()
     print('Loading Async Project Executions:')
     waiting_reports = []
