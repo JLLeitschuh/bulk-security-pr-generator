@@ -1,0 +1,12 @@
+{
+    "project_name": "eclipse/pdt",
+    "files": {
+        "/incubation/builtin-php/pom.xml": 2,
+        "/plugins/org.eclipse.php.help/pom.xml": 1
+    },
+    "pull_request": "https://github.com/eclipse/pdt/pull/43",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}
