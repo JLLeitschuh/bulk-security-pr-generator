@@ -1,0 +1,12 @@
+{
+    "project_name": "elasticinbox/elasticinbox",
+    "files": {
+        "/itests/pom.xml": 1,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/elasticinbox/elasticinbox/pull/58",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

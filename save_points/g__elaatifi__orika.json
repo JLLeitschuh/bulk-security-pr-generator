@@ -1,0 +1,11 @@
+{
+    "project_name": "elaatifi/orika",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/elaatifi/orika/pull/12",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

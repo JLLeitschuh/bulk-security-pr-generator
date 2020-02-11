@@ -1,0 +1,11 @@
+{
+    "project_name": "elasticjob/elastic-job-lite",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/elasticjob/elastic-job-lite/pull/719",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

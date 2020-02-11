@@ -1,0 +1,12 @@
+{
+    "project_name": "elastest/elastest-toolbox",
+    "files": {
+        "/eim/e2e-test/pom.xml": 1,
+        "/etm/e2e-test/pom.xml": 1
+    },
+    "pull_request": "",
+    "report": {
+        "files_fixed": 0,
+        "vulnerabilities_fixed": 0
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "esales/menudinamico2",
+    "files": {
+        "/pom.xml": 1,
+        "/target/m2e-wtp/web-resources/META-INF/maven/com.mycompany/menudinamico2/pom.xml": 1
+    },
+    "pull_request": "https://github.com/esales/menudinamico2/pull/1",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "enil/gitlab-api-plugin",
+    "files": {
+        "/gitlab-api-plugin/pom.xml": 3,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/enil/gitlab-api-plugin/pull/1",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

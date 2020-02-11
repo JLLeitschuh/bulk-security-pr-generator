@@ -1,0 +1,11 @@
+{
+    "project_name": "EastWoodYang/gradle-repo-jenkins-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/EastWoodYang/gradle-repo-jenkins-plugin/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "EngineHub/CommandHelper",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/EngineHub/CommandHelper/pull/552",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "eclipse-cdt/cdt",
+    "files": {
+        "/pom.xml": 9,
+        "/terminal/features/pom.xml": 1,
+        "/terminal/plugins/pom.xml": 1
+    },
+    "pull_request": "",
+    "report": {
+        "files_fixed": 0,
+        "vulnerabilities_fixed": 0
+    }
+}

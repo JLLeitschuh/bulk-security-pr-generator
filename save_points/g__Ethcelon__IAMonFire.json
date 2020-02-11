@@ -1,0 +1,11 @@
+{
+    "project_name": "Ethcelon/IAMonFire",
+    "files": {
+        "/B/pom.xml": 4
+    },
+    "pull_request": "https://github.com/Ethcelon/IAMonFire/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

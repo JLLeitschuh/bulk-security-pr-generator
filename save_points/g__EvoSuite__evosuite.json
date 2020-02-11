@@ -1,0 +1,12 @@
+{
+    "project_name": "EvoSuite/evosuite",
+    "files": {
+        "/plugins/eclipse/pom.xml": 1,
+        "/plugins/jenkins/pom.xml": 4
+    },
+    "pull_request": "https://github.com/EvoSuite/evosuite/pull/280",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

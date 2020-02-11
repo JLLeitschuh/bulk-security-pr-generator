@@ -1,0 +1,11 @@
+{
+    "project_name": "enviroCar/enviroCar-server",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/enviroCar/enviroCar-server/pull/355",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

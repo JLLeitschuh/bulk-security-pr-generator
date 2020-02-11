@@ -1,0 +1,11 @@
+{
+    "project_name": "eclipse-ee4j/security-examples",
+    "files": {
+        "/roles-allowed-and-runas/pom.xml": 1
+    },
+    "pull_request": "https://github.com/eclipse-ee4j/security-examples/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

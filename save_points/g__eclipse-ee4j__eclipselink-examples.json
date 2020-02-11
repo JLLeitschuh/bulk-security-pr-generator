@@ -1,0 +1,16 @@
+{
+    "project_name": "eclipse-ee4j/eclipselink-examples",
+    "files": {
+        "/dbws/dbws.maven/pom.xml": 1,
+        "/dbws/dbws.simple/run.builder/pom.xml": 2,
+        "/dbws/dbws.simple/service.test/pom.xml": 2,
+        "/dbws/pom.xml": 1,
+        "/mysports/pom.xml": 2,
+        "/nosql/mongo/pom.xml": 1
+    },
+    "pull_request": "https://github.com/eclipse-ee4j/eclipselink-examples/pull/1",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 9
+    }
+}

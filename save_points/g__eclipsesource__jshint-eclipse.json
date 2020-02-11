@@ -1,0 +1,11 @@
+{
+    "project_name": "eclipsesource/jshint-eclipse",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/eclipsesource/jshint-eclipse/pull/125",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

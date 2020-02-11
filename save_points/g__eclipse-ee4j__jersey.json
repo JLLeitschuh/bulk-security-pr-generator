@@ -1,0 +1,12 @@
+{
+    "project_name": "eclipse-ee4j/jersey",
+    "files": {
+        "/media/moxy/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/eclipse-ee4j/jersey/pull/4391",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

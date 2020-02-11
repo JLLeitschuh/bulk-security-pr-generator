@@ -1,0 +1,32 @@
+{
+    "project_name": "eugenp/tutorials",
+    "files": {
+        "/apache-spark/pom.xml": 1,
+        "/apache-tapestry/pom.xml": 1,
+        "/core-groovy/pom.xml": 1,
+        "/core-groovy-2/pom.xml": 1,
+        "/core-groovy-collections/pom.xml": 1,
+        "/core-java-modules/core-java-9/pom.xml": 1,
+        "/core-java-modules/core-java-9-improvements/pom.xml": 1,
+        "/core-java-modules/core-java-9-new-features/pom.xml": 1,
+        "/geotools/pom.xml": 1,
+        "/guest/core-kotlin/pom.xml": 1,
+        "/jee-7/pom.xml": 1,
+        "/jws/pom.xml": 1,
+        "/libraries/pom.xml": 2,
+        "/libraries-2/pom.xml": 1,
+        "/libraries-data-2/pom.xml": 1,
+        "/muleesb/pom.xml": 3,
+        "/parent-kotlin/pom.xml": 3,
+        "/persistence-modules/hibernate5/pom.xml": 1,
+        "/persistence-modules/spring-data-gemfire/pom.xml": 1,
+        "/spring-boot-modules/spring-boot-mvc/pom.xml": 1,
+        "/spring-ejb/pom.xml": 1,
+        "/vaadin/pom.xml": 3
+    },
+    "pull_request": "https://github.com/eugenp/tutorials/pull/8704",
+    "report": {
+        "files_fixed": 22,
+        "vulnerabilities_fixed": 29
+    }
+}

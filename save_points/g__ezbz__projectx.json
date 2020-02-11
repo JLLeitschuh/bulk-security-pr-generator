@@ -1,0 +1,11 @@
+{
+    "project_name": "ezbz/projectx",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ezbz/projectx/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

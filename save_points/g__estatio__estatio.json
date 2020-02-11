@@ -1,0 +1,11 @@
+{
+    "project_name": "estatio/estatio",
+    "files": {
+        "/mothballed/migration-integtests/pom.xml": 1
+    },
+    "pull_request": "https://github.com/estatio/estatio/pull/98",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

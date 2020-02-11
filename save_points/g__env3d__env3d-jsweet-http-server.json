@@ -1,0 +1,11 @@
+{
+    "project_name": "env3d/env3d-jsweet-http-server",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/env3d/env3d-jsweet-http-server/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

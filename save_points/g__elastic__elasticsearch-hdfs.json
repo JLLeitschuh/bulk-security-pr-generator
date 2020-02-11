@@ -1,0 +1,11 @@
+{
+    "project_name": "elastic/elasticsearch-hdfs",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/elastic/elasticsearch-hdfs/pull/10",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

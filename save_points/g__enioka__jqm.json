@@ -1,0 +1,12 @@
+{
+    "project_name": "enioka/jqm",
+    "files": {
+        "/jqm-all/jqm-jsfsample/pom.xml": 1,
+        "/jqm-all/jqm-wstst/pom.xml": 1
+    },
+    "pull_request": "https://github.com/enioka/jqm/pull/385",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

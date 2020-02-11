@@ -1,0 +1,11 @@
+{
+    "project_name": "e-biz/androidkickstartr",
+    "files": {
+        "/androidkickstartr-ws/pom.xml": 1
+    },
+    "pull_request": "https://github.com/e-biz/androidkickstartr/pull/118",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

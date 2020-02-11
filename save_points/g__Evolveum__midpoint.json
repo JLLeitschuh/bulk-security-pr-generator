@@ -1,0 +1,12 @@
+{
+    "project_name": "Evolveum/midpoint",
+    "files": {
+        "/build-tools/pom.xml": 2,
+        "/infra/test-util/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Evolveum/midpoint/pull/107",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

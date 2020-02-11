@@ -1,0 +1,11 @@
+{
+    "project_name": "echurchill/CityWorld",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/echurchill/CityWorld/pull/45",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

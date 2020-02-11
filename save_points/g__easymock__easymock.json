@@ -1,0 +1,11 @@
+{
+    "project_name": "easymock/easymock",
+    "files": {
+        "/test-deploy/pom.xml": 1
+    },
+    "pull_request": "https://github.com/easymock/easymock/pull/253",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

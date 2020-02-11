@@ -1,0 +1,11 @@
+{
+    "project_name": "espertechinc/esper",
+    "files": {
+        "/examples/terminalsvc/terminalsvc-common/pom.xml": 1
+    },
+    "pull_request": "https://github.com/espertechinc/esper/pull/182",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}
