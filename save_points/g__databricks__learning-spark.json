@@ -1,0 +1,11 @@
+{
+    "project_name": "databricks/learning-spark",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/databricks/learning-spark/pull/42",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

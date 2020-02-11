@@ -1,0 +1,14 @@
+{
+    "project_name": "debrief/debrief",
+    "files": {
+        "/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.aspectj.e38x_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.aspectj.e38x/pom.xml": 1,
+        "/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.aspectj.e3x_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.aspectj.e3x/pom.xml": 1,
+        "/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.aspectj.e44x_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.aspectj.e44x/pom.xml": 1,
+        "/org.mwc.debrief.ui_test/rcptt-runner/plugins/org.eclipse.rcptt.updates.extra_2.5.0.201906100848/META-INF/maven/org.eclipse.rcptt.external.dependencies/org.eclipse.rcptt.updates.extra/pom.xml": 1
+    },
+    "pull_request": "https://github.com/debrief/debrief/pull/4781",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 4
+    }
+}

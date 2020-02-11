@@ -1,0 +1,11 @@
+{
+    "project_name": "DreamExposure/DisCal-Discord-Bot",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/DreamExposure/DisCal-Discord-Bot/pull/29",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

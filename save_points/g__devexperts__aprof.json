@@ -1,0 +1,11 @@
+{
+    "project_name": "devexperts/aprof",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/devexperts/aprof/pull/16",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "dockstore/dockstore",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dockstore/dockstore/pull/3224",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

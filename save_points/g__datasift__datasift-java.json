@@ -1,0 +1,11 @@
+{
+    "project_name": "datasift/datasift-java",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/datasift/datasift-java/pull/125",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

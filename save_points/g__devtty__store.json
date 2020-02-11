@@ -1,0 +1,11 @@
+{
+    "project_name": "devtty/store",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/devtty/store/pull/55",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

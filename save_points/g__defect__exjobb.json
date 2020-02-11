@@ -1,0 +1,11 @@
+{
+    "project_name": "defect/exjobb",
+    "files": {
+        "/hadoop-jobs/pom.xml": 1
+    },
+    "pull_request": "https://github.com/defect/exjobb/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

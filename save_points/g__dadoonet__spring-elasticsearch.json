@@ -1,0 +1,11 @@
+{
+    "project_name": "dadoonet/spring-elasticsearch",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dadoonet/spring-elasticsearch/pull/230",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "dbpedia/extraction-framework",
+    "files": {
+        "/core/pom.xml": 1,
+        "/live/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dbpedia/extraction-framework/pull/604",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "dCache/oncrpc4j",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/dCache/oncrpc4j/pull/89",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

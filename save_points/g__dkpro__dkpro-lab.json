@@ -1,0 +1,11 @@
+{
+    "project_name": "dkpro/dkpro-lab",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dkpro/dkpro-lab/pull/109",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

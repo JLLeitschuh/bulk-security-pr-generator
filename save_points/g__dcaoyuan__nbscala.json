@@ -1,0 +1,11 @@
+{
+    "project_name": "dcaoyuan/nbscala",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/dcaoyuan/nbscala/pull/185",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

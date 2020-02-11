@@ -1,0 +1,11 @@
+{
+    "project_name": "dbeaver/dbeaver",
+    "files": {
+        "/plugins/org.jkiss.dbeaver.ext.ui.colortheme/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dbeaver/dbeaver/pull/7884",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

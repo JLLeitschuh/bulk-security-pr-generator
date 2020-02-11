@@ -1,0 +1,16 @@
+{
+    "project_name": "dschanoeh/Kayak",
+    "files": {
+        "/Kayak-core/pom.xml": 1,
+        "/Kayak-kcd/pom.xml": 1,
+        "/Kayak-logging/pom.xml": 1,
+        "/Kayak-mapview/pom.xml": 1,
+        "/application/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dschanoeh/Kayak/pull/36",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 6
+    }
+}

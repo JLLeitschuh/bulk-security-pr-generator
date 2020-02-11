@@ -1,0 +1,11 @@
+{
+    "project_name": "dlsc-software-consulting-gmbh/WorkbenchFX",
+    "files": {
+        "/workbenchfx-demo/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX/pull/193",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

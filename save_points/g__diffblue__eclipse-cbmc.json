@@ -1,0 +1,11 @@
+{
+    "project_name": "diffblue/eclipse-cbmc",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/diffblue/eclipse-cbmc/pull/63",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

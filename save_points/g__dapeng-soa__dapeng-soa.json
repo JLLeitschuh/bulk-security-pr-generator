@@ -1,0 +1,11 @@
+{
+    "project_name": "dapeng-soa/dapeng-soa",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dapeng-soa/dapeng-soa/pull/12",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "dcm4che/dcm4che",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/dcm4che/dcm4che/pull/671",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

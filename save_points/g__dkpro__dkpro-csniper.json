@@ -1,0 +1,11 @@
+{
+    "project_name": "dkpro/dkpro-csniper",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dkpro/dkpro-csniper/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "project_name": "ddf-project/DDF",
+    "files": {
+        "/core/pom.xml": 1,
+        "/examples/pom.xml": 1,
+        "/pom.xml": 1,
+        "/spark/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ddf-project/DDF/pull/370",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 4
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "david4096/notdockstore",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/david4096/notdockstore/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

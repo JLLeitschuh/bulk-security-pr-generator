@@ -1,0 +1,11 @@
+{
+    "project_name": "dgarijo/Widoco",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dgarijo/Widoco/pull/374",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

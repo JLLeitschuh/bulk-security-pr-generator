@@ -1,0 +1,11 @@
+{
+    "project_name": "datablend/fluxgraph",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/datablend/fluxgraph/pull/8",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

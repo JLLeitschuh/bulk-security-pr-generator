@@ -1,0 +1,11 @@
+{
+    "project_name": "department-of-veterans-affairs/vitals",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/department-of-veterans-affairs/vitals/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

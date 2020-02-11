@@ -1,0 +1,11 @@
+{
+    "project_name": "deepspark/deepspark",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/deepspark/deepspark/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

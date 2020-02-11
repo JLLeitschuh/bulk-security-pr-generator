@@ -1,0 +1,11 @@
+{
+    "project_name": "davemckain/qtiworks",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/davemckain/qtiworks/pull/76",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

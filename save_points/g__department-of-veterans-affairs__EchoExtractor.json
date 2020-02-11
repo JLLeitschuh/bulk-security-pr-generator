@@ -1,0 +1,11 @@
+{
+    "project_name": "department-of-veterans-affairs/EchoExtractor",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/department-of-veterans-affairs/EchoExtractor/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

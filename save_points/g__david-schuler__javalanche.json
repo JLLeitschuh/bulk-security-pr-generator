@@ -1,0 +1,11 @@
+{
+    "project_name": "david-schuler/javalanche",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/david-schuler/javalanche/pull/16",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

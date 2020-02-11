@@ -1,0 +1,11 @@
+{
+    "project_name": "dooApp/FXForm2",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dooApp/FXForm2/pull/184",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

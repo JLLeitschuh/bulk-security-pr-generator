@@ -1,0 +1,11 @@
+{
+    "project_name": "daniel-beck/jenkins-keep-slave-disconnected-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/daniel-beck/jenkins-keep-slave-disconnected-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

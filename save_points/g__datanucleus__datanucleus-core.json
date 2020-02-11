@@ -1,0 +1,11 @@
+{
+    "project_name": "datanucleus/datanucleus-core",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/datanucleus/datanucleus-core/pull/324",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

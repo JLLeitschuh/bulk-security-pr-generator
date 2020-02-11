@@ -1,0 +1,11 @@
+{
+    "project_name": "devlauer/jenkins-keycloak-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/devlauer/jenkins-keycloak-plugin/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

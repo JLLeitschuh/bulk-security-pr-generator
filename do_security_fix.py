@@ -398,7 +398,11 @@ async def do_run_everything():
         #     vulnerable_projects.append(vulnerable)
         #     continue
 
-        if vulnerable.project_name.lower().startswith('c'):
+        # if vulnerable.project_name.lower().startswith('c'):
+        #     vulnerable_projects.append(vulnerable)
+        #     continue
+
+        if vulnerable.project_name.lower().startswith('d'):
             vulnerable_projects.append(vulnerable)
             continue
 

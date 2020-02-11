@@ -1,0 +1,11 @@
+{
+    "project_name": "datanucleus/datanucleus-rdbms",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/datanucleus/datanucleus-rdbms/pull/332",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

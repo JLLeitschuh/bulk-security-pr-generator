@@ -1,0 +1,11 @@
+{
+    "project_name": "danko-david/javaexperience-saac",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/danko-david/javaexperience-saac/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

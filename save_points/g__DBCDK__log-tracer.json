@@ -1,0 +1,11 @@
+{
+    "project_name": "DBCDK/log-tracer",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/DBCDK/log-tracer/pull/41",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

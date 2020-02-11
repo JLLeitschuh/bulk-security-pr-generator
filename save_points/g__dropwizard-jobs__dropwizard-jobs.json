@@ -1,0 +1,11 @@
+{
+    "project_name": "dropwizard-jobs/dropwizard-jobs",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/dropwizard-jobs/dropwizard-jobs/pull/125",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

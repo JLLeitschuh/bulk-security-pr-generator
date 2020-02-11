@@ -1,0 +1,11 @@
+{
+    "project_name": "dockstore/dockstore-cli",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/dockstore/dockstore-cli/pull/16",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

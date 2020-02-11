@@ -1,0 +1,11 @@
+{
+    "project_name": "devnull-tools/build-notifications-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/devnull-tools/build-notifications-plugin/pull/22",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

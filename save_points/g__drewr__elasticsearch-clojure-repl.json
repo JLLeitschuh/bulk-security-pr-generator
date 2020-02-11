@@ -1,0 +1,11 @@
+{
+    "project_name": "drewr/elasticsearch-clojure-repl",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/drewr/elasticsearch-clojure-repl/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

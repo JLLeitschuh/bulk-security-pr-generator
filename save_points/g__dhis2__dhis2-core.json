@@ -1,0 +1,11 @@
+{
+    "project_name": "dhis2/dhis2-core",
+    "files": {
+        "/dhis-2/pom.xml": 2
+    },
+    "pull_request": "https://github.com/dhis2/dhis2-core/pull/4853",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "project_name": "datasalt/splout-db",
+    "files": {
+        "/splout-commons/pom.xml": 1,
+        "/splout-hadoop/pom.xml": 1,
+        "/splout-redis/pom.xml": 1,
+        "/splout-server/pom.xml": 1
+    },
+    "pull_request": "https://github.com/datasalt/splout-db/pull/48",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 4
+    }
+}

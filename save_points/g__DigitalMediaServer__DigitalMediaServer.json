@@ -1,0 +1,11 @@
+{
+    "project_name": "DigitalMediaServer/DigitalMediaServer",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/DigitalMediaServer/DigitalMediaServer/pull/126",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

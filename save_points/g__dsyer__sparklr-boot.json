@@ -1,0 +1,11 @@
+{
+    "project_name": "dsyer/sparklr-boot",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/dsyer/sparklr-boot/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

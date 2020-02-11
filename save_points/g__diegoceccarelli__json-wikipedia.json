@@ -1,0 +1,11 @@
+{
+    "project_name": "diegoceccarelli/json-wikipedia",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/diegoceccarelli/json-wikipedia/pull/40",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

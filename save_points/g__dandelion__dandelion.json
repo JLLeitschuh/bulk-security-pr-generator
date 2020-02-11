@@ -1,0 +1,11 @@
+{
+    "project_name": "dandelion/dandelion",
+    "files": {
+        "/dandelion-docs/pom.xml": 1
+    },
+    "pull_request": "https://github.com/dandelion/dandelion/pull/134",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}
