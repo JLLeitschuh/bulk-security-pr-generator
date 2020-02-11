@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/maven-2",
+    "files": {
+        "/maven-core-it-runner/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/maven-2/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

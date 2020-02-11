@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/helix",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/helix/pull/742",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

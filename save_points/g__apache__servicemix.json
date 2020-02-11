@@ -1,0 +1,13 @@
+{
+    "project_name": "apache/servicemix",
+    "files": {
+        "/assemblies/apache-servicemix/pom.xml": 1,
+        "/assemblies/apache-servicemix-examples/src/main/filtered-resources/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/servicemix/pull/54",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 3
+    }
+}

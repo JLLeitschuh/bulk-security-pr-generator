@@ -1,0 +1,23 @@
+{
+    "project_name": "apache/maven",
+    "files": {
+        "/apache-maven/pom.xml": 1,
+        "/maven-core/src/test/resources-project-builder/complete-model/w-parent/sub/pom.xml": 3,
+        "/maven-core/src/test/resources-project-builder/complete-model/wo-parent/pom.xml": 3,
+        "/maven-core/src/test/resources-project-builder/id-container-joining-with-empty-elements/pom.xml": 1,
+        "/maven-core/src/test/resources-project-builder/multiple-repos/pom.xml": 1,
+        "/maven-core/src/test/resources-project-builder/multiple-repos/sub/pom.xml": 1,
+        "/maven-core/src/test/resources-project-builder/pom-inheritance/pom.xml": 3,
+        "/maven-core/src/test/resources-project-builder/unique-repo-id/artifact-repo/pom.xml": 2,
+        "/maven-core/src/test/resources-project-builder/unique-repo-id/artifact-repo-in-profile/pom.xml": 2,
+        "/maven-core/src/test/resources-project-builder/unique-repo-id/plugin-repo/pom.xml": 2,
+        "/maven-core/src/test/resources-project-builder/unique-repo-id/plugin-repo-in-profile/pom.xml": 2,
+        "/maven-core/src/test/resources-project-builder/unprefixed-expression-interpolation/child/pom.xml": 1,
+        "/maven-core/src/test/resources-project-builder/url-inheritance/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/maven/pull/323",
+    "report": {
+        "files_fixed": 13,
+        "vulnerabilities_fixed": 24
+    }
+}

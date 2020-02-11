@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/wicket",
+    "files": {
+        "/testing/wicket-arquillian/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/wicket/pull/405",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

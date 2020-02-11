@@ -1,0 +1,25 @@
+{
+    "project_name": "apache/servicemix-bundles",
+    "files": {
+        "/casbah-3.1.1/pom.xml": 1,
+        "/gentlyweb-utils-1.5/pom.xml": 1,
+        "/hapi-0.5.1/pom.xml": 1,
+        "/hsqldb-1.8.0.10/pom.xml": 1,
+        "/jain-sip-ri-1.2.169/pom.xml": 1,
+        "/javassist-3.12.1.GA/pom.xml": 1,
+        "/jsmpp-2.1.0/pom.xml": 1,
+        "/neo4j-3.5.12/pom.xml": 1,
+        "/netty-3.2.10.Final/pom.xml": 1,
+        "/orbitz-consul-client-1.3.3/pom.xml": 1,
+        "/restlet-1.1.10/pom.xml": 1,
+        "/rome-1.0/pom.xml": 1,
+        "/scalaj-collection-1.0/pom.xml": 1,
+        "/smack-3.2.1/pom.xml": 1,
+        "/splunk-1.6.5.0/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/servicemix-bundles/pull/141",
+    "report": {
+        "files_fixed": 15,
+        "vulnerabilities_fixed": 15
+    }
+}

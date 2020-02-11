@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/oodt",
+    "files": {
+        "/mvn/archetypes/radix/src/main/resources/archetype-resources/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/oodt/pull/117",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

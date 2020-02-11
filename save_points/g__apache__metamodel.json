@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/metamodel",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/metamodel/pull/238",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}
