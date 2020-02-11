@@ -255,7 +255,8 @@ class VulnerableProjectFiles:
             # Now re-run the push
             await self.do_run_in(['git', 'push', 'origin', branch_name, '--force'])
         except CouldNotReadFromRemoteRepositoryException as e:
-            if retry_count == 0:
+            logging.warning(f'Could not read from remote repository {5 - retry_count}/5')
+            if retry_count <= 0:
                 raise e
             else:
                 # Forking is an async operation, so we may need to wait a bit for it
@@ -335,13 +336,13 @@ async def do_run_everything():
     for json_file in list_all_json_files():
         vulnerable = read_repository_and_file_names(json_file)
         vulnerable.print()
+        if vulnerable.project_name == 'apache/servicemix4-bundles':
+            # black listed project
+            continue
         # if 'jlleitschuh' in vulnerable.project_name.lower():
         #     vulnerable_projects.append(vulnerable)
 
         if vulnerable.project_name.startswith('apache/'):
-            if vulnerable.project_name.endswith('servicemix4-bundles'):
-                # black listed project
-                continue
             vulnerable_projects.append(vulnerable)
 
         if vulnerable.project_name.startswith('google/'):
@@ -357,6 +358,9 @@ async def do_run_everything():
             vulnerable_projects.append(vulnerable)
 
         if vulnerable.project_name.startswith('52North/'):
+            vulnerable_projects.append(vulnerable)
+
+        if vulnerable.project_name.startswith('eclipse/'):
             vulnerable_projects.append(vulnerable)
 
     print()
