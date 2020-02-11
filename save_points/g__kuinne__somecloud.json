@@ -1,0 +1,11 @@
+{
+    "project_name": "kuinne/somecloud",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/kuinne/somecloud/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "lincolnthree/errai-ui-demo",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/lincolnthree/errai-ui-demo/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

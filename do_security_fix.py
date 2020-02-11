@@ -393,20 +393,7 @@ async def do_run_everything():
         if lower_name.startswith('k') or \
                 lower_name.startswith('l') or \
                 lower_name.startswith('m') or \
-                lower_name.startswith('n') or \
-                lower_name.startswith('o') or \
-                lower_name.startswith('p') or \
-                lower_name.startswith('q') or \
-                lower_name.startswith('r') or \
-                lower_name.startswith('s') or \
-                lower_name.startswith('t') or \
-                lower_name.startswith('u') or \
-                lower_name.startswith('v') or \
-                lower_name.startswith('v') or \
-                lower_name.startswith('w') or \
-                lower_name.startswith('x') or \
-                lower_name.startswith('y') or \
-                lower_name.startswith('z'):
+                lower_name.startswith('n'):
             vulnerable_projects.append(vulnerable)
             continue
 

@@ -1,0 +1,11 @@
+{
+    "project_name": "NightWhistler/HtmlSpanner",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/NightWhistler/HtmlSpanner/pull/68",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

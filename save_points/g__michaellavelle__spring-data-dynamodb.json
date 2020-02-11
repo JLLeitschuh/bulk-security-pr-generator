@@ -1,0 +1,11 @@
+{
+    "project_name": "michaellavelle/spring-data-dynamodb",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/michaellavelle/spring-data-dynamodb/pull/99",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

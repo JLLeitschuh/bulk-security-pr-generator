@@ -1,0 +1,11 @@
+{
+    "project_name": "LilyPad/Bukkit-Connect",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/LilyPad/Bukkit-Connect/pull/54",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

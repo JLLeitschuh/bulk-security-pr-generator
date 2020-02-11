@@ -1,0 +1,11 @@
+{
+    "project_name": "LightGuard/arquillian-openwebbeans-war-support",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/LightGuard/arquillian-openwebbeans-war-support/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

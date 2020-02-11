@@ -1,0 +1,11 @@
+{
+    "project_name": "mesos/hadoop",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/mesos/hadoop/pull/74",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

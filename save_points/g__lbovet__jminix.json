@@ -1,0 +1,11 @@
+{
+    "project_name": "lbovet/jminix",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/lbovet/jminix/pull/17",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "mabodx/hw1-bom121",
+    "files": {
+        "/hw1-bom/pom.xml": 3
+    },
+    "pull_request": "https://github.com/mabodx/hw1-bom121/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

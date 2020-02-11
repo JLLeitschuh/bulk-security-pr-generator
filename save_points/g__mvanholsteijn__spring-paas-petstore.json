@@ -1,0 +1,11 @@
+{
+    "project_name": "mvanholsteijn/spring-paas-petstore",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/mvanholsteijn/spring-paas-petstore/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

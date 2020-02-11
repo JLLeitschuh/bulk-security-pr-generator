@@ -1,0 +1,11 @@
+{
+    "project_name": "loadimpact/loadimpact-jenkins-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/loadimpact/loadimpact-jenkins-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

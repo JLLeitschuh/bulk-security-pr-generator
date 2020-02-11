@@ -1,0 +1,11 @@
+{
+    "project_name": "knowm/Yank",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/knowm/Yank/pull/63",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

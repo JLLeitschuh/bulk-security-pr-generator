@@ -1,0 +1,11 @@
+{
+    "project_name": "mkremins/fanciful",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/mkremins/fanciful/pull/84",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "lucidworks/storm-solr",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/lucidworks/storm-solr/pull/8",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

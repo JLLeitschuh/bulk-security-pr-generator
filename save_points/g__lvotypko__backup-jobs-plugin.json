@@ -1,0 +1,11 @@
+{
+    "project_name": "lvotypko/backup-jobs-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/lvotypko/backup-jobs-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "kayahr/pherialize",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/kayahr/pherialize/pull/18",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

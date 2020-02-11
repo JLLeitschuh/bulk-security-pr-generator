@@ -1,0 +1,21 @@
+{
+    "project_name": "liferay/liferay-maven-support",
+    "files": {
+        "/archetypes/liferay-portlet-icefaces-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/archetypes/liferay-portlet-icefaces-archetype/src/test/resources/projects/default/reference/pom.xml": 2,
+        "/archetypes/liferay-portlet-jsf-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/archetypes/liferay-portlet-jsf-archetype/src/test/resources/projects/default/reference/pom.xml": 2,
+        "/archetypes/liferay-portlet-liferay-faces-alloy-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/archetypes/liferay-portlet-liferay-faces-alloy-archetype/src/test/resources/projects/default/reference/pom.xml": 2,
+        "/archetypes/liferay-portlet-primefaces-archetype/src/main/resources/archetype-resources/pom.xml": 3,
+        "/archetypes/liferay-portlet-primefaces-archetype/src/test/resources/projects/default/reference/pom.xml": 3,
+        "/archetypes/liferay-portlet-richfaces-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/archetypes/liferay-portlet-richfaces-archetype/src/test/resources/projects/default/reference/pom.xml": 2,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/liferay/liferay-maven-support/pull/20",
+    "report": {
+        "files_fixed": 11,
+        "vulnerabilities_fixed": 25
+    }
+}

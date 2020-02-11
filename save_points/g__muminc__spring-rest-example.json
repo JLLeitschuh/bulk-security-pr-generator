@@ -1,0 +1,11 @@
+{
+    "project_name": "muminc/spring-rest-example",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/muminc/spring-rest-example/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

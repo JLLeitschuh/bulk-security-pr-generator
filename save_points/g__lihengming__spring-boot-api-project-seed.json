@@ -1,0 +1,11 @@
+{
+    "project_name": "lihengming/spring-boot-api-project-seed",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/lihengming/spring-boot-api-project-seed/pull/209",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

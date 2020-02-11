@@ -1,0 +1,12 @@
+{
+    "project_name": "mojohaus/tidy-maven-plugin",
+    "files": {
+        "/src/it/pom/pom.xml": 4,
+        "/src/test/resources/org/codehaus/mojo/tidy/task/complete-pom/pom.xml": 4
+    },
+    "pull_request": "https://github.com/mojohaus/tidy-maven-plugin/pull/33",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 8
+    }
+}

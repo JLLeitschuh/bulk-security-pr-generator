@@ -1,0 +1,11 @@
+{
+    "project_name": "larusba/neo4j-jdbc",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/larusba/neo4j-jdbc/pull/17",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

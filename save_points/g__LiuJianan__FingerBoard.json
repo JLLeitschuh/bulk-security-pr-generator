@@ -1,0 +1,11 @@
+{
+    "project_name": "LiuJianan/FingerBoard",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/LiuJianan/FingerBoard/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

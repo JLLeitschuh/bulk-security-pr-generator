@@ -1,0 +1,11 @@
+{
+    "project_name": "kamatama41/jenkins-deadmanssnitch-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/kamatama41/jenkins-deadmanssnitch-plugin/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

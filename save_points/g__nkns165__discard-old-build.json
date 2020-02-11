@@ -1,0 +1,11 @@
+{
+    "project_name": "nkns165/discard-old-build",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/nkns165/discard-old-build/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

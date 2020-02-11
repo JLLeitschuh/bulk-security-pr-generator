@@ -1,0 +1,11 @@
+{
+    "project_name": "kato-im/jenkins-lechat-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/kato-im/jenkins-lechat-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

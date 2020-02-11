@@ -1,0 +1,11 @@
+{
+    "project_name": "myungchoi/GT-FHIR2",
+    "files": {
+        "/omoponfhir-omopv5-sqlrender/pom.xml": 2
+    },
+    "pull_request": "https://github.com/myungchoi/GT-FHIR2/pull/48",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

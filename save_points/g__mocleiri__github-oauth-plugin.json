@@ -1,0 +1,11 @@
+{
+    "project_name": "mocleiri/github-oauth-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/mocleiri/github-oauth-plugin/pull/47",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "leonardxfce/9024-XP",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/leonardxfce/9024-XP/pull/95",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

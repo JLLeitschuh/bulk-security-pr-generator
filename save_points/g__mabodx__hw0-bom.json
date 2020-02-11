@@ -1,0 +1,11 @@
+{
+    "project_name": "mabodx/hw0-bom",
+    "files": {
+        "/hw0-bom/pom.xml": 3
+    },
+    "pull_request": "https://github.com/mabodx/hw0-bom/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

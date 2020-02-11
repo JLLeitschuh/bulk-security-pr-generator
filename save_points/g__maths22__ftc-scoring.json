@@ -1,0 +1,11 @@
+{
+    "project_name": "maths22/ftc-scoring",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/maths22/ftc-scoring/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

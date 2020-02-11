@@ -1,0 +1,11 @@
+{
+    "project_name": "light/JOps",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/light/JOps/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

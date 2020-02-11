@@ -1,0 +1,11 @@
+{
+    "project_name": "Kixeye/chassis",
+    "files": {
+        "/chassis-transport/chassis-scala-transport-core/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Kixeye/chassis/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

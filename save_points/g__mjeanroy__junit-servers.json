@@ -1,0 +1,11 @@
+{
+    "project_name": "mjeanroy/junit-servers",
+    "files": {
+        "/samples/pom.xml": 1
+    },
+    "pull_request": "https://github.com/mjeanroy/junit-servers/pull/138",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "melistik/vaadin-grid-util",
+    "files": {
+        "/pom.xml": 3,
+        "/vaadin-grid-util-demo/pom.xml": 1
+    },
+    "pull_request": "https://github.com/melistik/vaadin-grid-util/pull/61",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

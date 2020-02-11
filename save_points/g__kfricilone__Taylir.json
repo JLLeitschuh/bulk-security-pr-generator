@@ -1,0 +1,11 @@
+{
+    "project_name": "kfricilone/Taylir",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/kfricilone/Taylir/pull/46",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "michaelliao/jsonstream",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/michaelliao/jsonstream/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

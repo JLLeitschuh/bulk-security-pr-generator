@@ -1,0 +1,11 @@
+{
+    "project_name": "Norconex/collector-filesystem",
+    "files": {
+        "/norconex-collector-filesystem/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Norconex/collector-filesystem/pull/51",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

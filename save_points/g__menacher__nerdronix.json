@@ -1,0 +1,11 @@
+{
+    "project_name": "menacher/nerdronix",
+    "files": {
+        "/storm-chronicle/pom.xml": 1
+    },
+    "pull_request": "https://github.com/menacher/nerdronix/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

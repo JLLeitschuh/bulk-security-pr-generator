@@ -1,0 +1,11 @@
+{
+    "project_name": "mohanv/jenkins-artifact-parameter-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/mohanv/jenkins-artifact-parameter-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

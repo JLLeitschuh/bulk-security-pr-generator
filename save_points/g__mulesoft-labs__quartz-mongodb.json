@@ -1,0 +1,11 @@
+{
+    "project_name": "mulesoft-labs/quartz-mongodb",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/mulesoft-labs/quartz-mongodb/pull/17",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

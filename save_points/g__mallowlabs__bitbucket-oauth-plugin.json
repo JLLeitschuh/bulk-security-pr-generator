@@ -1,0 +1,11 @@
+{
+    "project_name": "mallowlabs/bitbucket-oauth-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "",
+    "report": {
+        "files_fixed": 0,
+        "vulnerabilities_fixed": 0
+    }
+}

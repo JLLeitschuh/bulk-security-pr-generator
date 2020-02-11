@@ -1,0 +1,11 @@
+{
+    "project_name": "KostyaSha/block-queued-job-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/KostyaSha/block-queued-job-plugin/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}
