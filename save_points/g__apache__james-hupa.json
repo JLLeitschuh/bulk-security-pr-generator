@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/james-hupa",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/apache/james-hupa/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

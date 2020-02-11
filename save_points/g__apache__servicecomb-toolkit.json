@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/servicecomb-toolkit",
+    "files": {
+        "/docgen/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/servicecomb-toolkit/pull/77",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

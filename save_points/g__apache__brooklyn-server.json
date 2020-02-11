@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/brooklyn-server",
+    "files": {
+        "/karaf/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/brooklyn-server/pull/1086",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

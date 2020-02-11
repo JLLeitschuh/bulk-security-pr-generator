@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/myfaces-tobago",
+    "files": {
+        "/tobago-example/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/myfaces-tobago/pull/26",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "project_name": "apache/maven-integration-testing",
+    "files": {
+        "/core-it-suite/src/test/resources/it0139/child/pom.xml": 1,
+        "/core-it-suite/src/test/resources/it0140/child/pom.xml": 1,
+        "/core-it-suite/src/test/resources/mng-0624/dependencyManagement/pom.xml": 1,
+        "/core-it-suite/src/test/resources/mng-2739/repo-id/pom.xml": 1,
+        "/core-it-suite/src/test/resources/mng-3831/child/pom.xml": 1,
+        "/core-it-suite/src/test/resources/mng-3843/test-2/child-2/pom.xml": 3,
+        "/core-it-suite/src/test/resources/mng-3843/test-2/pom.xml": 3,
+        "/core-it-suite/src/test/resources/mng-3846/pom.xml": 2,
+        "/core-it-suite/src/test/resources/mng-3979/pom.xml": 1,
+        "/core-it-suite/src/test/resources/mng-4254/pom.xml": 1,
+        "/core-it-suite/src/test/resources/mng-4470/release/pom.xml": 1,
+        "/core-it-suite/src/test/resources/mng-4470/snapshot/pom.xml": 1,
+        "/core-it-support/maven-it-sample-archetype/src/main/resources/archetype-resources/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/maven-integration-testing/pull/55",
+    "report": {
+        "files_fixed": 13,
+        "vulnerabilities_fixed": 18
+    }
+}

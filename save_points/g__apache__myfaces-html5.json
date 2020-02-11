@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/myfaces-html5",
+    "files": {
+        "/myfaces-html5-demo/pom.xml": 6
+    },
+    "pull_request": "https://github.com/apache/myfaces-html5/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 6
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/brooklyn-library",
+    "files": {
+        "/pom.xml": 1,
+        "/software/messaging/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/brooklyn-library/pull/179",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

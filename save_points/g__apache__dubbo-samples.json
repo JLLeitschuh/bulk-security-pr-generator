@@ -1,0 +1,15 @@
+{
+    "project_name": "apache/dubbo-samples",
+    "files": {
+        "/golang/general/dubbo/java-server/pom.xml": 2,
+        "/golang/general/jsonrpc/java-server/pom.xml": 2,
+        "/golang/generic/java-server/pom.xml": 2,
+        "/golang/helloworld/dubbo/java-server/pom.xml": 2,
+        "/golang/multi_registry/dubbo/java-server/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/dubbo-samples/pull/147",
+    "report": {
+        "files_fixed": 5,
+        "vulnerabilities_fixed": 10
+    }
+}

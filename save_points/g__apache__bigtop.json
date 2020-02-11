@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/bigtop",
+    "files": {
+        "/bigtop-tests/test-artifacts/spark/pom.xml": 1,
+        "/bigtop-tests/test-execution/smokes/spark/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/bigtop/pull/595",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

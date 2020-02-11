@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/empire-db",
+    "files": {
+        "/empire-db-eclipse-codegen/pom.xml": 1,
+        "/empire-db-examples/empire-db-example-spring/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/empire-db/pull/10",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

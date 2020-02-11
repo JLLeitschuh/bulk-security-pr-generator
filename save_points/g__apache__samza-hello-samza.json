@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/samza-hello-samza",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/samza-hello-samza/pull/73",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

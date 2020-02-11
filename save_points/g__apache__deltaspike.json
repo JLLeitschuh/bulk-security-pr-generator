@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/deltaspike",
+    "files": {
+        "/deltaspike/cdictrl/impl-owb/pom.xml": 1,
+        "/deltaspike/parent/code/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/deltaspike/pull/103",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

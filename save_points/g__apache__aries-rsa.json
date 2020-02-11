@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/aries-rsa",
+    "files": {
+        "/parent/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/aries-rsa/pull/41",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

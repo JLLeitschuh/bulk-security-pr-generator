@@ -1,0 +1,16 @@
+{
+    "project_name": "apache/maven-enforcer",
+    "files": {
+        "/maven-enforcer-plugin/src/it/projects/require-no-repositories-allow-plugin-repo/pom.xml": 2,
+        "/maven-enforcer-plugin/src/it/projects/require-no-repositories-allow-repo/pom.xml": 2,
+        "/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure/pom.xml": 1,
+        "/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_allowed-plugin-repo/pom.xml": 2,
+        "/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_plugin-repositories/pom.xml": 1,
+        "/maven-enforcer-plugin/src/it/projects/require-no-repositories_failure_repositories/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/maven-enforcer/pull/62",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 10
+    }
+}

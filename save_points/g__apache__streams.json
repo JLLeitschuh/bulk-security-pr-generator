@@ -1,0 +1,13 @@
+{
+    "project_name": "apache/streams",
+    "files": {
+        "/pom.xml": 2,
+        "/streams-contrib/streams-provider-google/google-gplus/pom.xml": 1,
+        "/streams-contrib/streams-provider-youtube/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/streams/pull/494",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 4
+    }
+}

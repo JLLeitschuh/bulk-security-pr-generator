@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/openwebbeans-meecrowave-examples",
+    "files": {
+        "/servlet-vaadin-v10/pom.xml": 2,
+        "/servlet-vaadin-vxx/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/openwebbeans-meecrowave-examples/pull/8",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

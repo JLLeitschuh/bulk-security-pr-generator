@@ -326,7 +326,7 @@ async def do_run_everything():
             logging.info(f'Skipping project {vulnerable_project.project_name} since save point file already exists')
             continue
         print(f'Loading Execution for: {vulnerable_project.project_name}')
-        waiting_reports.append(process_vulnerable_project(vulnerable_project, github_hub_lock))
+        waiting_reports.append(process_vulnerable_project_checked(vulnerable_project, github_hub_lock))
 
     projects_fixed = 0
     files_fixed = 0

@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/incubator-optiq-csv",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/apache/incubator-optiq-csv/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

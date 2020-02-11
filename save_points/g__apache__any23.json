@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/any23",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/any23/pull/155",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

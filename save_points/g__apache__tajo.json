@@ -1,0 +1,14 @@
+{
+    "project_name": "apache/tajo",
+    "files": {
+        "/pom.xml": 1,
+        "/tajo-common/pom.xml": 1,
+        "/tajo-project/pom.xml": 1,
+        "/tajo-thirdparty/asm/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/tajo/pull/1067",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 4
+    }
+}

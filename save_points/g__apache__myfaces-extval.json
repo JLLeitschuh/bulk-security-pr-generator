@@ -1,0 +1,14 @@
+{
+    "project_name": "apache/myfaces-extval",
+    "files": {
+        "/examples/pom.xml": 1,
+        "/pom.xml": 1,
+        "/test-modules/bean-validation-tests/pom.xml": 2,
+        "/validation-modules/bean-validation/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/myfaces-extval/pull/17",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 6
+    }
+}

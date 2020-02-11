@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/logging-log4j-audit",
+    "files": {
+        "/log4j-catalog/log4j-catalog-jpa/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/logging-log4j-audit/pull/23",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

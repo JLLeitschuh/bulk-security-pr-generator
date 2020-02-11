@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/struts1",
+    "files": {
+        "/integration/tg4w/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/struts1/pull/8",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "project_name": "apache/myfaces-extcdi",
+    "files": {
+        "/core/pom.xml": 1,
+        "/examples/jsf-examples/hello_myfaces-codi_jsf20/pom.xml": 2,
+        "/examples/jsf-playground/clientside_windowhandler_jsf20/pom.xml": 1,
+        "/examples/jsf-playground/hello_myfaces-codi_jsf20/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/myfaces-extcdi/pull/4",
+    "report": {
+        "files_fixed": 5,
+        "vulnerabilities_fixed": 6
+    }
+}

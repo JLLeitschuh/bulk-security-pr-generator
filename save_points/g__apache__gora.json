@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/gora",
+    "files": {
+        "/gora-couchdb/pom.xml": 1,
+        "/gora-solr/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/gora/pull/199",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}
