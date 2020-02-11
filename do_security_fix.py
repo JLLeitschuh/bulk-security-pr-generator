@@ -333,6 +333,12 @@ async def do_run_everything():
         if vulnerable.project_name.startswith('google/'):
             vulnerable_projects.append(vulnerable)
 
+        if vulnerable.project_name.startswith('GoogleCloudPlatform/'):
+            vulnerable_projects.append(vulnerable)
+
+        if vulnerable.project_name.startswith('microsoft/'):
+            vulnerable_projects.append(vulnerable)
+
     print()
     print('Loading Async Project Executions:')
     waiting_reports = []
