@@ -1,0 +1,11 @@
+{
+    "project_name": "vaadin/flow-and-components-documentation",
+    "files": {
+        "/tutorial-servlet-spring-boot/pom.xml": 1
+    },
+    "pull_request": "",
+    "report": {
+        "files_fixed": 0,
+        "vulnerabilities_fixed": 0
+    }
+}

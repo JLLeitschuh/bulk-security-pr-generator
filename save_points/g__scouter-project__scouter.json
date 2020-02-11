@@ -1,0 +1,11 @@
+{
+    "project_name": "scouter-project/scouter",
+    "files": {
+        "/scouter.client.build/pom.xml": 1
+    },
+    "pull_request": "https://github.com/scouter-project/scouter/pull/675",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

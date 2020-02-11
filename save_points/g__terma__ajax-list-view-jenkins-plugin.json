@@ -1,0 +1,11 @@
+{
+    "project_name": "terma/ajax-list-view-jenkins-plugin",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/terma/ajax-list-view-jenkins-plugin/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

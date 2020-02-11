@@ -1,0 +1,14 @@
+{
+    "project_name": "sakaiproject/sakai",
+    "files": {
+        "/feedback/pom.xml": 1,
+        "/kernel/kernel-tim/pom.xml": 2,
+        "/master/pom.xml": 2,
+        "/pack/pom.xml": 3
+    },
+    "pull_request": "https://github.com/sakaiproject/sakai/pull/7876",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 8
+    }
+}

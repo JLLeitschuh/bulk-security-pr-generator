@@ -1,0 +1,11 @@
+{
+    "project_name": "theborakompanioni/thymeleaf-extras-shiro",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/theborakompanioni/thymeleaf-extras-shiro/pull/24",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

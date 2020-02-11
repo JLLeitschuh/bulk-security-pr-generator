@@ -1,0 +1,11 @@
+{
+    "project_name": "siddhi-io/siddhi",
+    "files": {
+        "/pom.xml": 8
+    },
+    "pull_request": "https://github.com/siddhi-io/siddhi/pull/1621",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 8
+    }
+}

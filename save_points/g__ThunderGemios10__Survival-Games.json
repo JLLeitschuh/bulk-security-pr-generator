@@ -1,0 +1,11 @@
+{
+    "project_name": "ThunderGemios10/Survival-Games",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/ThunderGemios10/Survival-Games/pull/85",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

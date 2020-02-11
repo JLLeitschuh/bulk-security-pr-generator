@@ -1,0 +1,11 @@
+{
+    "project_name": "snicoll/spring-boot-daemon",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/snicoll/spring-boot-daemon/pull/23",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

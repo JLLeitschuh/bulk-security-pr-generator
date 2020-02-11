@@ -1,0 +1,11 @@
+{
+    "project_name": "talios/coffee-maven-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/talios/coffee-maven-plugin/pull/36",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

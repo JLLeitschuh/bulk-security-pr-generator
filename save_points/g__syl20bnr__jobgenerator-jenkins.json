@@ -1,0 +1,11 @@
+{
+    "project_name": "syl20bnr/jobgenerator-jenkins",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/syl20bnr/jobgenerator-jenkins/pull/20",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

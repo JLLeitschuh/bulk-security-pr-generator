@@ -1,0 +1,11 @@
+{
+    "project_name": "vert-x3/vertx-examples",
+    "files": {
+        "/jca-examples/pom.xml": 1
+    },
+    "pull_request": "https://github.com/vert-x3/vertx-examples/pull/375",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "treygrainger/solr-in-action",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/treygrainger/solr-in-action/pull/8",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

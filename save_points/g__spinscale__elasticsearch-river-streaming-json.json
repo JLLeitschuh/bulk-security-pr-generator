@@ -1,0 +1,11 @@
+{
+    "project_name": "spinscale/elasticsearch-river-streaming-json",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/spinscale/elasticsearch-river-streaming-json/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

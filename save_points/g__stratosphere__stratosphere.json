@@ -1,0 +1,11 @@
+{
+    "project_name": "stratosphere/stratosphere",
+    "files": {
+        "/stratosphere-quickstart/pom.xml": 2
+    },
+    "pull_request": "https://github.com/stratosphere/stratosphere/pull/923",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

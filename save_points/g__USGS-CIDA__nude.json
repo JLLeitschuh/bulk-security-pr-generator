@@ -1,0 +1,11 @@
+{
+    "project_name": "USGS-CIDA/nude",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/USGS-CIDA/nude/pull/11",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

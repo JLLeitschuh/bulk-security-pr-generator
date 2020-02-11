@@ -1,0 +1,11 @@
+{
+    "project_name": "timols/jenkins-gitlab-merge-request-builder-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/timols/jenkins-gitlab-merge-request-builder-plugin/pull/228",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

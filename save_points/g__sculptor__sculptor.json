@@ -1,0 +1,11 @@
+{
+    "project_name": "sculptor/sculptor",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/sculptor/sculptor/pull/219",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

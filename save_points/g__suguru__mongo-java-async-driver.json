@@ -1,0 +1,11 @@
+{
+    "project_name": "suguru/mongo-java-async-driver",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/suguru/mongo-java-async-driver/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

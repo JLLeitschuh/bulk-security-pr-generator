@@ -1,0 +1,11 @@
+{
+    "project_name": "Stratio/Decision",
+    "files": {
+        "/siddhi/pom.xml": 4
+    },
+    "pull_request": "https://github.com/Stratio/Decision/pull/193",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

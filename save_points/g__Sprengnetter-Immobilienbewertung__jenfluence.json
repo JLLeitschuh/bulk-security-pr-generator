@@ -1,0 +1,11 @@
+{
+    "project_name": "Sprengnetter-Immobilienbewertung/jenfluence",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Sprengnetter-Immobilienbewertung/jenfluence/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

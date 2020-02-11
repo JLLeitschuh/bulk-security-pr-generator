@@ -1,0 +1,11 @@
+{
+    "project_name": "VanRoy/spring-cloud-dashboard",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/VanRoy/spring-cloud-dashboard/pull/26",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

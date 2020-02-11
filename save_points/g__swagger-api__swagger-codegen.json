@@ -1,0 +1,12 @@
+{
+    "project_name": "swagger-api/swagger-codegen",
+    "files": {
+        "/samples/client/petstore/scala/pom.xml": 1,
+        "/samples/client/petstore-security-test/scala/pom.xml": 1
+    },
+    "pull_request": "https://github.com/swagger-api/swagger-codegen/pull/10036",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

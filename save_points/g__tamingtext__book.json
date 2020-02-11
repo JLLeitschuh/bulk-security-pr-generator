@@ -1,0 +1,11 @@
+{
+    "project_name": "tamingtext/book",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/tamingtext/book/pull/34",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

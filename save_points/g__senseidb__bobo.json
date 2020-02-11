@@ -1,0 +1,11 @@
+{
+    "project_name": "senseidb/bobo",
+    "files": {
+        "/bobo-parent/pom.xml": 1
+    },
+    "pull_request": "https://github.com/senseidb/bobo/pull/23",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

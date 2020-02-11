@@ -1,0 +1,11 @@
+{
+    "project_name": "SonarSource/sonar-xml",
+    "files": {
+        "/its/sources/projects/sonar-java/its/plugin/projects/struts-1.3.9-lite/pom.xml": 1
+    },
+    "pull_request": "https://github.com/SonarSource/sonar-xml/pull/134",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

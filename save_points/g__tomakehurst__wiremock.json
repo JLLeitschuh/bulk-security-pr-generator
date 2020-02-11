@@ -1,0 +1,11 @@
+{
+    "project_name": "tomakehurst/wiremock",
+    "files": {
+        "/testlogging/pom.xml": 1
+    },
+    "pull_request": "https://github.com/tomakehurst/wiremock/pull/1266",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

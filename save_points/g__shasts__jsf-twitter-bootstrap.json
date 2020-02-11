@@ -1,0 +1,11 @@
+{
+    "project_name": "shasts/jsf-twitter-bootstrap",
+    "files": {
+        "/jsf-bootstrap/pom.xml": 1
+    },
+    "pull_request": "https://github.com/shasts/jsf-twitter-bootstrap/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

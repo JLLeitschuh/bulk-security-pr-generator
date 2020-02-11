@@ -1,0 +1,11 @@
+{
+    "project_name": "toto1310/fscrawler_dev3",
+    "files": {
+        "/elasticsearch-client/elasticsearch-client-v7/pom.xml": 1
+    },
+    "pull_request": "https://github.com/toto1310/fscrawler_dev3/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

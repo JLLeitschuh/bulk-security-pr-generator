@@ -1,0 +1,11 @@
+{
+    "project_name": "thinkgem/jeesite",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/thinkgem/jeesite/pull/498",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

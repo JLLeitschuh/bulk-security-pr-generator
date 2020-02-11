@@ -1,0 +1,11 @@
+{
+    "project_name": "sk89q/WarmRoast",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/sk89q/WarmRoast/pull/18",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

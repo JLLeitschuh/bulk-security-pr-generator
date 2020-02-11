@@ -1,0 +1,11 @@
+{
+    "project_name": "SmartDeveloperHub/sdh-scm-harvester",
+    "files": {
+        "/container/src/main/resources/pom.xml": 1
+    },
+    "pull_request": "https://github.com/SmartDeveloperHub/sdh-scm-harvester/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

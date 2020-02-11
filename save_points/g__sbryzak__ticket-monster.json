@@ -1,0 +1,11 @@
+{
+    "project_name": "sbryzak/ticket-monster",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/sbryzak/ticket-monster/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

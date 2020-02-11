@@ -1,0 +1,13 @@
+{
+    "project_name": "Terracotta-OSS/terracotta-core",
+    "files": {
+        "/build-parent/pom.xml": 4,
+        "/connection-impl/pom.xml": 2,
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/Terracotta-OSS/terracotta-core/pull/1107",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 12
+    }
+}

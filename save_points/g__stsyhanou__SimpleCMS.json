@@ -1,0 +1,11 @@
+{
+    "project_name": "stsyhanou/SimpleCMS",
+    "files": {
+        "/SimpleCMS/pom.xml": 3
+    },
+    "pull_request": "https://github.com/stsyhanou/SimpleCMS/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "viritin/viritin",
+    "files": {
+        "/viritin/pom.xml": 1,
+        "/viritin-compatibility/pom.xml": 1
+    },
+    "pull_request": "https://github.com/viritin/viritin/pull/365",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

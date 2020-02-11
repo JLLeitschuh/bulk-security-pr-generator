@@ -1,0 +1,11 @@
+{
+    "project_name": "SonarQubeCommunity/sonar-scm-stats",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/SonarQubeCommunity/sonar-scm-stats/pull/13",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

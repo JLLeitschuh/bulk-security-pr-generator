@@ -1,0 +1,12 @@
+{
+    "project_name": "structr/structr",
+    "files": {
+        "/structr-modules/structr-geo-transformations-module/pom.xml": 1,
+        "/structr-neo4j-bolt-driver/pom.xml": 2
+    },
+    "pull_request": "https://github.com/structr/structr/pull/537",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

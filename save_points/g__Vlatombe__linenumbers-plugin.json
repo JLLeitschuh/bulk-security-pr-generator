@@ -1,0 +1,11 @@
+{
+    "project_name": "Vlatombe/linenumbers-plugin",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/Vlatombe/linenumbers-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

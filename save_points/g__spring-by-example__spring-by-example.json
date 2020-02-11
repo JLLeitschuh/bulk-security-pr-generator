@@ -1,0 +1,11 @@
+{
+    "project_name": "spring-by-example/spring-by-example",
+    "files": {
+        "/proto-pom/pom.xml": 3
+    },
+    "pull_request": "https://github.com/spring-by-example/spring-by-example/pull/13",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

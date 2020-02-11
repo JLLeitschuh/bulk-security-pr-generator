@@ -1,0 +1,11 @@
+{
+    "project_name": "uberVU/elasticsearch-river-github",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/uberVU/elasticsearch-river-github/pull/20",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

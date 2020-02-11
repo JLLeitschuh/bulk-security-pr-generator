@@ -1,0 +1,11 @@
+{
+    "project_name": "UrbanCode/terraform",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/UrbanCode/terraform/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

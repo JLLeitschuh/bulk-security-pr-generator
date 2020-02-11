@@ -1,0 +1,11 @@
+{
+    "project_name": "square/cascading2-protobufs",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/square/cascading2-protobufs/pull/28",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "project_name": "skyscreamer/yoga",
+    "files": {
+        "/yoga-demos/yoga-demo-jaxrs-shared/pom.xml": 1,
+        "/yoga-demos/yoga-demo-jersey-standalone/pom.xml": 1,
+        "/yoga-demos/yoga-demo-resteasy/pom.xml": 2,
+        "/yoga-demos/yoga-demo-shared/pom.xml": 3,
+        "/yoga-demos/yoga-demo-springmvc/pom.xml": 3,
+        "/yoga-integration/yoga-jaxrs/pom.xml": 2,
+        "/yoga-integration/yoga-jersey/pom.xml": 2
+    },
+    "pull_request": "https://github.com/skyscreamer/yoga/pull/249",
+    "report": {
+        "files_fixed": 7,
+        "vulnerabilities_fixed": 14
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "voodoodyne/subethasmtp",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/voodoodyne/subethasmtp/pull/96",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

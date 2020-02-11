@@ -1,0 +1,11 @@
+{
+    "project_name": "terma/github-pr-coverage-status",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/terma/github-pr-coverage-status/pull/29",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

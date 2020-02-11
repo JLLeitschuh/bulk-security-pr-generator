@@ -1,0 +1,11 @@
+{
+    "project_name": "UISpec4J/UISpec4J",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/UISpec4J/UISpec4J/pull/36",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "project_name": "sarxos/webcam-capture",
+    "files": {
+        "/webcam-capture-addons/webcam-capture-addon-swt/pom.xml": 1,
+        "/webcam-capture-examples/webcam-capture-live-streaming/pom.xml": 1,
+        "/webcam-capture-examples/webcam-capture-swt-awt/pom.xml": 1,
+        "/webcam-capture-examples/webcam-capture-video-recording/pom.xml": 1
+    },
+    "pull_request": "https://github.com/sarxos/webcam-capture/pull/758",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 4
+    }
+}

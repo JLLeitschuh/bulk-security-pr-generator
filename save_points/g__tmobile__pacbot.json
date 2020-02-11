@@ -1,0 +1,11 @@
+{
+    "project_name": "tmobile/pacbot",
+    "files": {
+        "/api/pacman-api-asset/pom.xml": 1
+    },
+    "pull_request": "https://github.com/tmobile/pacbot/pull/419",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

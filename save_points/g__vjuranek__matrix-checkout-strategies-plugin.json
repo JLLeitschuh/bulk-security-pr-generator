@@ -1,0 +1,11 @@
+{
+    "project_name": "vjuranek/matrix-checkout-strategies-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/vjuranek/matrix-checkout-strategies-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

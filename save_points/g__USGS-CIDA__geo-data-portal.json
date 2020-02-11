@@ -1,0 +1,11 @@
+{
+    "project_name": "USGS-CIDA/geo-data-portal",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/USGS-CIDA/geo-data-portal/pull/284",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

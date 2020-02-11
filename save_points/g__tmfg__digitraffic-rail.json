@@ -1,0 +1,11 @@
+{
+    "project_name": "tmfg/digitraffic-rail",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/tmfg/digitraffic-rail/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

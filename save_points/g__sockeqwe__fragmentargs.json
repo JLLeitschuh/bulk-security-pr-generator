@@ -1,0 +1,11 @@
+{
+    "project_name": "sockeqwe/fragmentargs",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/sockeqwe/fragmentargs/pull/112",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

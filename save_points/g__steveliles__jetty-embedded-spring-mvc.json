@@ -1,0 +1,11 @@
+{
+    "project_name": "steveliles/jetty-embedded-spring-mvc",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/steveliles/jetty-embedded-spring-mvc/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

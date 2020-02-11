@@ -1,0 +1,11 @@
+{
+    "project_name": "TechnionYP5777/Info-Evaluation",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/TechnionYP5777/Info-Evaluation/pull/329",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

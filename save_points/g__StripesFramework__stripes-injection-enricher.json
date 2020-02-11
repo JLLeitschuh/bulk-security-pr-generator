@@ -1,0 +1,11 @@
+{
+    "project_name": "StripesFramework/stripes-injection-enricher",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/StripesFramework/stripes-injection-enricher/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

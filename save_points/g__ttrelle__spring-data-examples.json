@@ -1,0 +1,11 @@
+{
+    "project_name": "ttrelle/spring-data-examples",
+    "files": {
+        "/springdata-mongodb/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ttrelle/spring-data-examples/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "ViaVersion/ViaVersion",
+    "files": {
+        "/sponge/pom.xml": 1,
+        "/sponge-legacy/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ViaVersion/ViaVersion/pull/1656",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

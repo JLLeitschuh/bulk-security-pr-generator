@@ -1,0 +1,11 @@
+{
+    "project_name": "synopsys-arc-oss/dynamic-search-view-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/synopsys-arc-oss/dynamic-search-view-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

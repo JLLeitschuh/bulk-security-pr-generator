@@ -1,0 +1,11 @@
+{
+    "project_name": "Transkribus/TranskribusSwtGui",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/Transkribus/TranskribusSwtGui/pull/295",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

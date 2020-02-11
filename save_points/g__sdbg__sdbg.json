@@ -1,0 +1,11 @@
+{
+    "project_name": "sdbg/sdbg",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/sdbg/sdbg/pull/163",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

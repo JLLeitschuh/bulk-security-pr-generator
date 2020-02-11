@@ -1,0 +1,11 @@
+{
+    "project_name": "stvnfx/qodedev-talk-nifi-demo",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/stvnfx/qodedev-talk-nifi-demo/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

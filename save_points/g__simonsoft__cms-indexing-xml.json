@@ -1,0 +1,11 @@
+{
+    "project_name": "simonsoft/cms-indexing-xml",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/simonsoft/cms-indexing-xml/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

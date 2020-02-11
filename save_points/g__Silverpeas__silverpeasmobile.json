@@ -1,0 +1,11 @@
+{
+    "project_name": "Silverpeas/silverpeasmobile",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Silverpeas/silverpeasmobile/pull/19",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

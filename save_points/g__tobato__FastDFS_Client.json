@@ -1,0 +1,11 @@
+{
+    "project_name": "tobato/FastDFS_Client",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/tobato/FastDFS_Client/pull/194",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

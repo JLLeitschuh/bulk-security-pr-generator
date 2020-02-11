@@ -1,0 +1,11 @@
+{
+    "project_name": "SeleniumHQ/fluent-selenium",
+    "files": {
+        "/java/pom.xml": 1
+    },
+    "pull_request": "https://github.com/SeleniumHQ/fluent-selenium/pull/28",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

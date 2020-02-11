@@ -1,0 +1,11 @@
+{
+    "project_name": "tackley/guardian-configuration",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/tackley/guardian-configuration/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

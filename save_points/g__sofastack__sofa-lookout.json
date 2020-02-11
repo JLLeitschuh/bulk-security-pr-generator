@@ -1,0 +1,11 @@
+{
+    "project_name": "sofastack/sofa-lookout",
+    "files": {
+        "/server/metrics/starter/pom.xml": 2
+    },
+    "pull_request": "https://github.com/sofastack/sofa-lookout/pull/78",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

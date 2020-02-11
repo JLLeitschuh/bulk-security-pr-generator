@@ -1,0 +1,11 @@
+{
+    "project_name": "vogellacompany/saneclipse",
+    "files": {
+        "/com.vogella.saneclipse.parent/pom.xml": 1
+    },
+    "pull_request": "https://github.com/vogellacompany/saneclipse/pull/47",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

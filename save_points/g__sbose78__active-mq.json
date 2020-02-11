@@ -1,0 +1,11 @@
+{
+    "project_name": "sbose78/active-mq",
+    "files": {
+        "/activemq-mqtt/pom.xml": 1
+    },
+    "pull_request": "https://github.com/sbose78/active-mq/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

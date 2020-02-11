@@ -1,0 +1,13 @@
+{
+    "project_name": "SmartDataAnalytics/Sparqlify",
+    "files": {
+        "/pom.xml": 4,
+        "/sparqlify-platform/pubby/pom.xml": 2,
+        "/sparqlify-platform/snorql/pom.xml": 2
+    },
+    "pull_request": "https://github.com/SmartDataAnalytics/Sparqlify/pull/77",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 9
+    }
+}

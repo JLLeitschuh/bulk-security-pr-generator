@@ -1,0 +1,11 @@
+{
+    "project_name": "tomtom-international/openlr",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/tomtom-international/openlr/pull/42",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

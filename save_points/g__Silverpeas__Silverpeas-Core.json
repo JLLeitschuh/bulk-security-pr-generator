@@ -1,0 +1,11 @@
+{
+    "project_name": "Silverpeas/Silverpeas-Core",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Silverpeas/Silverpeas-Core/pull/1054",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "TechnionYP5777/UpAndGo",
+    "files": {
+        "/pom.xml": 1,
+        "/src/main/webapp-deploy/META-INF/maven/UpAndGo/UpAndGo/pom.xml": 1
+    },
+    "pull_request": "https://github.com/TechnionYP5777/UpAndGo/pull/361",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "vngx/vngx-jsch",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/vngx/vngx-jsch/pull/19",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

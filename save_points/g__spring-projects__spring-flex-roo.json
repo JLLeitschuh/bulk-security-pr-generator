@@ -1,0 +1,11 @@
+{
+    "project_name": "spring-projects/spring-flex-roo",
+    "files": {
+        "/org.springframework.flex.roo.addon/pom.xml": 7
+    },
+    "pull_request": "https://github.com/spring-projects/spring-flex-roo/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 8
+    }
+}

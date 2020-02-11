@@ -1,0 +1,11 @@
+{
+    "project_name": "sanity/quickml",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/sanity/quickml/pull/157",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "smartrics/RestFixture",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/smartrics/RestFixture/pull/257",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

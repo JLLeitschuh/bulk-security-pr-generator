@@ -1,0 +1,11 @@
+{
+    "project_name": "v1v/jenkinslint-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/v1v/jenkinslint-plugin/pull/20",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

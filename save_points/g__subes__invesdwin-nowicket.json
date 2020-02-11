@@ -1,0 +1,18 @@
+{
+    "project_name": "subes/invesdwin-nowicket",
+    "files": {
+        "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/granatasoft-remotelist-parent/pom.xml": 4,
+        "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-guide/pom.xml": 4,
+        "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-isis/pom.xml": 4,
+        "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-bsgcoach/pom.xml": 4,
+        "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-mvp-eva/pom.xml": 4,
+        "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/invesdwin-nowicket-examples-war/pom.xml": 4,
+        "/invesdwin-nowicket-parent/invesdwin-nowicket-examples/pom.xml": 4,
+        "/invesdwin-nowicket-parent/pom.xml": 4
+    },
+    "pull_request": "https://github.com/subes/invesdwin-nowicket/pull/8",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

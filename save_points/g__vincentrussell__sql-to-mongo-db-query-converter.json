@@ -1,0 +1,11 @@
+{
+    "project_name": "vincentrussell/sql-to-mongo-db-query-converter",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/vincentrussell/sql-to-mongo-db-query-converter/pull/26",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

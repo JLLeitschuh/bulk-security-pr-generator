@@ -1,0 +1,14 @@
+{
+    "project_name": "tinkerpop/rexster",
+    "files": {
+        "/rexster-kibbles/batch-kibble/pom.xml": 1,
+        "/rexster-kibbles/frames-kibble/pom.xml": 1,
+        "/rexster-kibbles/sample-kibbles/pom.xml": 1,
+        "/rexster-kibbles/sparql-kibble/pom.xml": 1
+    },
+    "pull_request": "https://github.com/tinkerpop/rexster/pull/394",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 4
+    }
+}

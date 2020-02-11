@@ -1,0 +1,11 @@
+{
+    "project_name": "Sargemck/JDK_Parameter_Choice",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Sargemck/JDK_Parameter_Choice/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

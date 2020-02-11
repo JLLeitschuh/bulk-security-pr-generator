@@ -1,0 +1,11 @@
+{
+    "project_name": "scalecube/scalecube-services",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/scalecube/scalecube-services/pull/705",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

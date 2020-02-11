@@ -1,0 +1,11 @@
+{
+    "project_name": "upgundecha/ifttt-build-notifier",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/upgundecha/ifttt-build-notifier/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

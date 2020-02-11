@@ -1,0 +1,11 @@
+{
+    "project_name": "unitsofmeasurement/uom-se",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/unitsofmeasurement/uom-se/pull/207",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "splicemachine/spliceengine",
+    "files": {
+        "/pom.xml": 12
+    },
+    "pull_request": "https://github.com/splicemachine/spliceengine/pull/3218",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 12
+    }
+}

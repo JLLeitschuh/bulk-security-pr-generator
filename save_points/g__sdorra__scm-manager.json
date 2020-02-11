@@ -1,0 +1,16 @@
+{
+    "project_name": "sdorra/scm-manager",
+    "files": {
+        "/pom.xml": 4,
+        "/scm-clients/scm-client-impl/pom.xml": 2,
+        "/scm-dao-orientdb/pom.xml": 1,
+        "/scm-plugins/scm-git-plugin/pom.xml": 1,
+        "/scm-plugins/scm-hg-plugin/pom.xml": 1,
+        "/scm-plugins/scm-svn-plugin/pom.xml": 1
+    },
+    "pull_request": "https://github.com/sdorra/scm-manager/pull/2",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 10
+    }
+}

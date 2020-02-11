@@ -1,0 +1,13 @@
+{
+    "project_name": "vvakame/JsonPullParser",
+    "files": {
+        "/jsonpullparser-benchmark/pom.xml": 2,
+        "/jsonpullparser-parent/pom.xml": 1,
+        "/jsonpullparser-usage/pom.xml": 2
+    },
+    "pull_request": "https://github.com/vvakame/JsonPullParser/pull/44",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 5
+    }
+}

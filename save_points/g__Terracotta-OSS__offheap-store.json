@@ -1,0 +1,11 @@
+{
+    "project_name": "Terracotta-OSS/offheap-store",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/Terracotta-OSS/offheap-store/pull/69",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

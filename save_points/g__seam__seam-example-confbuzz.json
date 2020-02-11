@@ -1,0 +1,11 @@
+{
+    "project_name": "seam/seam-example-confbuzz",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/seam/seam-example-confbuzz/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

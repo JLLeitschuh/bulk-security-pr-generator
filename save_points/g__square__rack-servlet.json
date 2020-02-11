@@ -1,0 +1,12 @@
+{
+    "project_name": "square/rack-servlet",
+    "files": {
+        "/examples/dropwizard/pom.xml": 1,
+        "/integration/pom.xml": 1
+    },
+    "pull_request": "https://github.com/square/rack-servlet/pull/18",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

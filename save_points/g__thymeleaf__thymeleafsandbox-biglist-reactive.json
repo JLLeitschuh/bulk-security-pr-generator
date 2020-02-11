@@ -1,0 +1,11 @@
+{
+    "project_name": "thymeleaf/thymeleafsandbox-biglist-reactive",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/thymeleaf/thymeleafsandbox-biglist-reactive/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

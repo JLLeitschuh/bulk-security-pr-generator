@@ -1,0 +1,17 @@
+{
+    "project_name": "virtix/webdriver",
+    "files": {
+        "/common/pom.xml": 2,
+        "/firefox/pom.xml": 2,
+        "/htmlunit/pom.xml": 2,
+        "/jobbie/pom.xml": 2,
+        "/pom.xml": 2,
+        "/safari/pom.xml": 2,
+        "/support/pom.xml": 2
+    },
+    "pull_request": "https://github.com/virtix/webdriver/pull/1",
+    "report": {
+        "files_fixed": 7,
+        "vulnerabilities_fixed": 14
+    }
+}

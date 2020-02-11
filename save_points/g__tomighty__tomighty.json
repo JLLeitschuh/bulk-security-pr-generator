@@ -1,0 +1,11 @@
+{
+    "project_name": "tomighty/tomighty",
+    "files": {
+        "/tomighty-swing/pom.xml": 2
+    },
+    "pull_request": "https://github.com/tomighty/tomighty/pull/130",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

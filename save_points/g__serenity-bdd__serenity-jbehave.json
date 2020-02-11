@@ -1,0 +1,11 @@
+{
+    "project_name": "serenity-bdd/serenity-jbehave",
+    "files": {
+        "/src/smoketests/pom.xml": 2
+    },
+    "pull_request": "https://github.com/serenity-bdd/serenity-jbehave/pull/239",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

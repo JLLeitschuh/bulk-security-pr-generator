@@ -1,0 +1,11 @@
+{
+    "project_name": "smallnest/Jax-RS-Performance-Comparison",
+    "files": {
+        "/armeria/pom.xml": 1
+    },
+    "pull_request": "https://github.com/smallnest/Jax-RS-Performance-Comparison/pull/8",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

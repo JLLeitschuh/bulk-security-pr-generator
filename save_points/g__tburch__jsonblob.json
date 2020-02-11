@@ -1,0 +1,11 @@
+{
+    "project_name": "tburch/jsonblob",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/tburch/jsonblob/pull/47",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

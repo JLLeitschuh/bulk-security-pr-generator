@@ -1,0 +1,11 @@
+{
+    "project_name": "scoophealth/oscar",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/scoophealth/oscar/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

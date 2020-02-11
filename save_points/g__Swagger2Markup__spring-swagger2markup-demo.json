@@ -1,0 +1,11 @@
+{
+    "project_name": "Swagger2Markup/spring-swagger2markup-demo",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/Swagger2Markup/spring-swagger2markup-demo/pull/27",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

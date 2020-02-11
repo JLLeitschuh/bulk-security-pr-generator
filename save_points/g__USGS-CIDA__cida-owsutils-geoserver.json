@@ -1,0 +1,11 @@
+{
+    "project_name": "USGS-CIDA/cida-owsutils-geoserver",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/USGS-CIDA/cida-owsutils-geoserver/pull/26",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

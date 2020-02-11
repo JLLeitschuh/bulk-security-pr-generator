@@ -1,0 +1,11 @@
+{
+    "project_name": "TridentSDK/TridentSDK",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/TridentSDK/TridentSDK/pull/83",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

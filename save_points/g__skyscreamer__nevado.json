@@ -1,0 +1,11 @@
+{
+    "project_name": "skyscreamer/nevado",
+    "files": {
+        "/nevado-jms/pom.xml": 1
+    },
+    "pull_request": "https://github.com/skyscreamer/nevado/pull/114",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

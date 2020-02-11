@@ -1,0 +1,11 @@
+{
+    "project_name": "sakserv/hadoop-mini-clusters",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/sakserv/hadoop-mini-clusters/pull/71",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "sryza/simplesparkapp",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/sryza/simplesparkapp/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

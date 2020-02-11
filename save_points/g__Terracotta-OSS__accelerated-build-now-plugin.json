@@ -1,0 +1,11 @@
+{
+    "project_name": "Terracotta-OSS/accelerated-build-now-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Terracotta-OSS/accelerated-build-now-plugin/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "SAP-samples/cloud-sfsf-benefits-ext",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/SAP-samples/cloud-sfsf-benefits-ext/pull/14",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

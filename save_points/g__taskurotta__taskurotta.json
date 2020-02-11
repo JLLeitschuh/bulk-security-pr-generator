@@ -1,0 +1,11 @@
+{
+    "project_name": "taskurotta/taskurotta",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/taskurotta/taskurotta/pull/139",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

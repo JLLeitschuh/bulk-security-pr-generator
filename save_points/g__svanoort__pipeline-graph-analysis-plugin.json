@@ -1,0 +1,11 @@
+{
+    "project_name": "svanoort/pipeline-graph-analysis-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/svanoort/pipeline-graph-analysis-plugin/pull/10",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

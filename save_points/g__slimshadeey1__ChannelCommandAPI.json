@@ -1,0 +1,11 @@
+{
+    "project_name": "slimshadeey1/ChannelCommandAPI",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/slimshadeey1/ChannelCommandAPI/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

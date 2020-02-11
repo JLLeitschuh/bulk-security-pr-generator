@@ -1,0 +1,11 @@
+{
+    "project_name": "ShifuML/guagua",
+    "files": {
+        "/guagua-mapreduce/pom.xml": 2
+    },
+    "pull_request": "https://github.com/ShifuML/guagua/pull/104",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

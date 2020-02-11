@@ -1,0 +1,11 @@
+{
+    "project_name": "skadistats/clarity-examples",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/skadistats/clarity-examples/pull/42",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

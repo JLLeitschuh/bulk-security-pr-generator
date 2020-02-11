@@ -1,0 +1,11 @@
+{
+    "project_name": "uber-common/jvm-profiler",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/uber-common/jvm-profiler/pull/65",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

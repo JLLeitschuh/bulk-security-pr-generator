@@ -1,0 +1,11 @@
+{
+    "project_name": "slimshadeey1/Bungee-Arena",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/slimshadeey1/Bungee-Arena/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

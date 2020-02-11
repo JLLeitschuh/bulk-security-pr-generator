@@ -1,0 +1,11 @@
+{
+    "project_name": "TheHortonMachine/hortonmachine",
+    "files": {
+        "/pom.xml": 7
+    },
+    "pull_request": "https://github.com/TheHortonMachine/hortonmachine/pull/56",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 7
+    }
+}

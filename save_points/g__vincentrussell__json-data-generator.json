@@ -1,0 +1,11 @@
+{
+    "project_name": "vincentrussell/json-data-generator",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/vincentrussell/json-data-generator/pull/21",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

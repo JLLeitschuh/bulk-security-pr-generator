@@ -1,0 +1,11 @@
+{
+    "project_name": "sismics/reader",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/sismics/reader/pull/172",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

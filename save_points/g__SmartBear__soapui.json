@@ -1,0 +1,11 @@
+{
+    "project_name": "SmartBear/soapui",
+    "files": {
+        "/soapui-maven-plugin-tester/pom.xml": 1
+    },
+    "pull_request": "https://github.com/SmartBear/soapui/pull/497",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "USGS-CIDA/MyPubs",
+    "files": {
+        "/pw-mypubs-ui/pom.xml": 1
+    },
+    "pull_request": "https://github.com/USGS-CIDA/MyPubs/pull/121",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

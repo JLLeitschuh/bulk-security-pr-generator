@@ -1,0 +1,11 @@
+{
+    "project_name": "SAP/cloud-roo-addon",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/SAP/cloud-roo-addon/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "USGS-CIDA/coastal-hazards",
+    "files": {
+        "/coastal-hazards-liquibase/pom.xml": 1,
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/USGS-CIDA/coastal-hazards/pull/1693",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 7
+    }
+}

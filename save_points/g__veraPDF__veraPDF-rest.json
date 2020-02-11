@@ -1,0 +1,11 @@
+{
+    "project_name": "veraPDF/veraPDF-rest",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/veraPDF/veraPDF-rest/pull/51",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

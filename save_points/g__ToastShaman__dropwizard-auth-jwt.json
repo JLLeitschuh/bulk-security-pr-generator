@@ -1,0 +1,11 @@
+{
+    "project_name": "ToastShaman/dropwizard-auth-jwt",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ToastShaman/dropwizard-auth-jwt/pull/43",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

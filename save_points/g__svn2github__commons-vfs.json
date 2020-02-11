@@ -1,0 +1,19 @@
+{
+    "project_name": "svn2github/commons-vfs",
+    "files": {
+        "/branches/POMRELEASE/pom.xml": 1,
+        "/branches/VFS-2.0/pom.xml": 2,
+        "/branches/VFS281/pom.xml": 2,
+        "/branches/vfs-1-trunk/pom.xml": 2,
+        "/tags/commons-vfs2-project-2.0/pom.xml": 1,
+        "/tags/preVFS2package/pom.xml": 2,
+        "/tags/vfs-1.0/pom.xml": 2,
+        "/tags/vfs-1.0-RC/pom.xml": 2,
+        "/tags/vfs-1.0-RC8/pom.xml": 2
+    },
+    "pull_request": "https://github.com/svn2github/commons-vfs/pull/3",
+    "report": {
+        "files_fixed": 9,
+        "vulnerabilities_fixed": 16
+    }
+}

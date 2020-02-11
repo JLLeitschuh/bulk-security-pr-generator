@@ -1,0 +1,12 @@
+{
+    "project_name": "tltv/gantt",
+    "files": {
+        "/gantt-addon/pom.xml": 3,
+        "/gantt-demo/pom.xml": 3
+    },
+    "pull_request": "https://github.com/tltv/gantt/pull/89",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 6
+    }
+}

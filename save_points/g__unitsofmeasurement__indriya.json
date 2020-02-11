@@ -1,0 +1,11 @@
+{
+    "project_name": "unitsofmeasurement/indriya",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/unitsofmeasurement/indriya/pull/272",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "spotify/helios",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/spotify/helios/pull/1287",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

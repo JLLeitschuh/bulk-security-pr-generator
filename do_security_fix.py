@@ -360,6 +360,7 @@ async def do_run_everything():
                 vulnerable.project_name == 'marcust/struts1' or \
                 vulnerable.project_name == 'qoomon/aws-sqs' or \
                 vulnerable.project_name == 'pocariP/project' or \
+                vulnerable.project_name == 'TeamStriebigSebastian/Tika' or \
                 vulnerable.project_name == 'meertensinstituut/mtas' or \
                 '/maven' in vulnerable.project_name:
             # TODO: Come back to this black listed project later
@@ -396,10 +397,10 @@ async def do_run_everything():
         #     vulnerable_projects.append(vulnerable)
         #     continue
         lower_name = vulnerable.project_name.lower()
-        if lower_name.startswith('o') or \
-                lower_name.startswith('p') or \
-                lower_name.startswith('q') or \
-                lower_name.startswith('r'):
+        if lower_name.startswith('s') or \
+                lower_name.startswith('t') or \
+                lower_name.startswith('u') or \
+                lower_name.startswith('v'):
             vulnerable_projects.append(vulnerable)
             continue
 

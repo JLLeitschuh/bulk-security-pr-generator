@@ -1,0 +1,11 @@
+{
+    "project_name": "Swagger2Markup/swagger2markup-maven-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Swagger2Markup/swagger2markup-maven-plugin/pull/56",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

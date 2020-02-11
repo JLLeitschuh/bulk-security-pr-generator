@@ -1,0 +1,11 @@
+{
+    "project_name": "sithu/cmpe273-assignment1",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/sithu/cmpe273-assignment1/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

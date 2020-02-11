@@ -1,0 +1,13 @@
+{
+    "project_name": "spullara/mustache.java",
+    "files": {
+        "/scala-extensions/scala-extensions-2.10/pom.xml": 1,
+        "/scala-extensions/scala-extensions-2.11/pom.xml": 1,
+        "/scala-extensions/scala-extensions-2.12/pom.xml": 1
+    },
+    "pull_request": "https://github.com/spullara/mustache.java/pull/245",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 3
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "SICSoftwareGmbH/kpp-management-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/SICSoftwareGmbH/kpp-management-plugin/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

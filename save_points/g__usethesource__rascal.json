@@ -1,0 +1,11 @@
+{
+    "project_name": "usethesource/rascal",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/usethesource/rascal/pull/1332",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

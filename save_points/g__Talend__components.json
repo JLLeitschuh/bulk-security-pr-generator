@@ -1,0 +1,12 @@
+{
+    "project_name": "Talend/components",
+    "files": {
+        "/components/components-marklogic/components-marklogic-runtime/pom.xml": 2,
+        "/services/components-maven-repo/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Talend/components/pull/1596",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}
