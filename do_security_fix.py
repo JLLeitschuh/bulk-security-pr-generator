@@ -375,7 +375,7 @@ async def do_run_everything():
             continue
 
     print()
-    print(f'Loading Async Project Executions for {len(vulnerable)} Projects:')
+    print(f'Loading Async Project Executions for {len(vulnerable_projects)} Projects:')
     waiting_reports = []
     for vulnerable_project in vulnerable_projects:
         if is_archived_git_hub_repository(vulnerable_project):
