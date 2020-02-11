@@ -1,0 +1,11 @@
+{
+    "project_name": "2xel/spring-bootstrap-tiles",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/2xel/spring-bootstrap-tiles/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

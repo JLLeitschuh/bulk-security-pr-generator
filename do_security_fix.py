@@ -397,13 +397,7 @@ async def do_run_everything():
         # if vulnerable.project_name.startswith('eclipse/'):
         #     vulnerable_projects.append(vulnerable)
         #     continue
-        lower_name = vulnerable.project_name.lower()
-        if lower_name.startswith('w') or \
-                lower_name.startswith('x') or \
-                lower_name.startswith('y') or \
-                lower_name.startswith('z'):
-            vulnerable_projects.append(vulnerable)
-            continue
+        vulnerable_projects.append(vulnerable)
 
     print()
     print(f'Loading Async Project Executions for {len(vulnerable_projects)} Projects:')

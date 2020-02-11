@@ -1,0 +1,12 @@
+{
+    "project_name": "18838928050/ssmtest",
+    "files": {
+        "/pom.xml": 2,
+        "/target/m2e-wtp/web-resources/META-INF/maven/com.dossp/ssmtest/pom.xml": 2
+    },
+    "pull_request": "https://github.com/18838928050/ssmtest/pull/1",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "1000Memories/photon-core",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/1000Memories/photon-core/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}
