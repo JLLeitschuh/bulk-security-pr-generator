@@ -1,0 +1,11 @@
+{
+    "project_name": "opensourceBIM/BIMserver",
+    "files": {
+        "/Bdb/pom.xml": 1
+    },
+    "pull_request": "https://github.com/opensourceBIM/BIMserver/pull/1107",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

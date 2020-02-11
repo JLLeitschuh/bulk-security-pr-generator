@@ -1,0 +1,11 @@
+{
+    "project_name": "rikturnbull/aws-parameter-store-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/rikturnbull/aws-parameter-store-plugin/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

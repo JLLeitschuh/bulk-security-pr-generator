@@ -1,0 +1,11 @@
+{
+    "project_name": "rstoyanchev/spring-mvc-31-demo",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/rstoyanchev/spring-mvc-31-demo/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "rasto/lcmc",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/rasto/lcmc/pull/67",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

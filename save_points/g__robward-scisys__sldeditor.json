@@ -1,0 +1,13 @@
+{
+    "project_name": "robward-scisys/sldeditor",
+    "files": {
+        "/modules/import/export-sld/pom.xml": 2,
+        "/modules/import/pom.xml": 2,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/robward-scisys/sldeditor/pull/449",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 7
+    }
+}

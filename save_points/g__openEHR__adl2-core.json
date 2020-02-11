@@ -1,0 +1,11 @@
+{
+    "project_name": "openEHR/adl2-core",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/openEHR/adl2-core/pull/12",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

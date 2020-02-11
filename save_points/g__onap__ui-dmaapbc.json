@@ -1,0 +1,11 @@
+{
+    "project_name": "onap/ui-dmaapbc",
+    "files": {
+        "/dcae_dmaapbc_webapp/dbca-os/pom.xml": 2
+    },
+    "pull_request": "https://github.com/onap/ui-dmaapbc/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

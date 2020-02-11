@@ -1,0 +1,11 @@
+{
+    "project_name": "PolskiStevek/ZenGuard",
+    "files": {
+        "/ZenGuard-v1/pom.xml": 1
+    },
+    "pull_request": "https://github.com/PolskiStevek/ZenGuard/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "restfb/restfb",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/restfb/restfb/pull/1058",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

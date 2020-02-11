@@ -1,0 +1,11 @@
+{
+    "project_name": "resty-gwt/resty-gwt",
+    "files": {
+        "/restygwt-examples/restygwt-rails-example/pom.xml": 1
+    },
+    "pull_request": "https://github.com/resty-gwt/resty-gwt/pull/400",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "RichardWarburton/lambda-behave",
+    "files": {
+        "/lambda-behave-scalatest/pom.xml": 1
+    },
+    "pull_request": "https://github.com/RichardWarburton/lambda-behave/pull/99",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

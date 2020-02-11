@@ -1,0 +1,11 @@
+{
+    "project_name": "perf4j/perf4j",
+    "files": {
+        "/pom.xml": 10
+    },
+    "pull_request": "https://github.com/perf4j/perf4j/pull/23",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 10
+    }
+}

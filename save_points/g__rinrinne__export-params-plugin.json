@@ -1,0 +1,11 @@
+{
+    "project_name": "rinrinne/export-params-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/rinrinne/export-params-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

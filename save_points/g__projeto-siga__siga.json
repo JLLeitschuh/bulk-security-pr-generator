@@ -1,0 +1,11 @@
+{
+    "project_name": "projeto-siga/siga",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/projeto-siga/siga/pull/1283",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

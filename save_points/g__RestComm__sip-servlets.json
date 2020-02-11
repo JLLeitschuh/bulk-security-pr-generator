@@ -1,0 +1,43 @@
+{
+    "project_name": "RestComm/sip-servlets",
+    "files": {
+        "/docs/pom.xml": 2,
+        "/pom.xml": 2,
+        "/sip-servlets-arquillian-testsuite/ProxyTest/pom.xml": 2,
+        "/sip-servlets-examples/TeleMedicinePh1/pom.xml": 1,
+        "/sip-servlets-examples/alerting-app/pom.xml": 1,
+        "/sip-servlets-examples/call-blocking/pom.xml": 1,
+        "/sip-servlets-examples/call-forwarding/pom.xml": 1,
+        "/sip-servlets-examples/call-forwarding-distributable/pom.xml": 1,
+        "/sip-servlets-examples/chatserver/pom.xml": 1,
+        "/sip-servlets-examples/click-to-call/pom.xml": 1,
+        "/sip-servlets-examples/click-to-call-servlet3/pom.xml": 1,
+        "/sip-servlets-examples/click2call-distributable/pom.xml": 1,
+        "/sip-servlets-examples/custom-call-forwarding-distributable/pom.xml": 1,
+        "/sip-servlets-examples/diameter-openims/pom.xml": 1,
+        "/sip-servlets-examples/facebook-c2c/pom.xml": 1,
+        "/sip-servlets-examples/jruby-sips-demo/pom.xml": 1,
+        "/sip-servlets-examples/jslee-sips-interop/pom.xml": 1,
+        "/sip-servlets-examples/location-service/pom.xml": 1,
+        "/sip-servlets-examples/location-service-distributable/pom.xml": 1,
+        "/sip-servlets-examples/media-jsr309-servlet/pom.xml": 1,
+        "/sip-servlets-examples/messaging-perf-test/pom.xml": 1,
+        "/sip-servlets-examples/pom.xml": 1,
+        "/sip-servlets-examples/presence-client-example/pom.xml": 1,
+        "/sip-servlets-examples/pure-jruby-telco/pom.xml": 1,
+        "/sip-servlets-examples/shootist-sip-servlet/pom.xml": 1,
+        "/sip-servlets-examples/shootist-sip-servlet-distributable/pom.xml": 1,
+        "/sip-servlets-examples/shopping-demo-jsr309/pom.xml": 1,
+        "/sip-servlets-examples/simple-sip-servlet/pom.xml": 1,
+        "/sip-servlets-examples/sip-rtsp-gateway/pom.xml": 1,
+        "/sip-servlets-examples/speed-dial/pom.xml": 1,
+        "/sip-servlets-examples/uac-register/pom.xml": 1,
+        "/sip-servlets-examples/websocket-b2bua/pom.xml": 1,
+        "/sip-servlets-test-suite/testsuite/pom.xml": 1
+    },
+    "pull_request": "https://github.com/RestComm/sip-servlets/pull/376",
+    "report": {
+        "files_fixed": 33,
+        "vulnerabilities_fixed": 36
+    }
+}

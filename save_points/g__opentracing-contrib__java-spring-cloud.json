@@ -1,0 +1,11 @@
+{
+    "project_name": "opentracing-contrib/java-spring-cloud",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/opentracing-contrib/java-spring-cloud/pull/274",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

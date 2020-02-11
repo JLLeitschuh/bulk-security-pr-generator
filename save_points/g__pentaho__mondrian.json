@@ -1,0 +1,11 @@
+{
+    "project_name": "pentaho/mondrian",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/pentaho/mondrian/pull/1190",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

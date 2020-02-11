@@ -1,0 +1,11 @@
+{
+    "project_name": "quintona/storm-pattern",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/quintona/storm-pattern/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

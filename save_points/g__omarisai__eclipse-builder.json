@@ -1,0 +1,11 @@
+{
+    "project_name": "omarisai/eclipse-builder",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/omarisai/eclipse-builder/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

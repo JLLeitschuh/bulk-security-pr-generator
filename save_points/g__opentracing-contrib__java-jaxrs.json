@@ -1,0 +1,11 @@
+{
+    "project_name": "opentracing-contrib/java-jaxrs",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/opentracing-contrib/java-jaxrs/pull/137",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

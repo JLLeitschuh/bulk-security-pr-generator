@@ -1,0 +1,11 @@
+{
+    "project_name": "pwntester/SpringBreaker",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/pwntester/SpringBreaker/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

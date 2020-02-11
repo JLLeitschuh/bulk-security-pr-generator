@@ -1,0 +1,12 @@
+{
+    "project_name": "release-engineering/pom-manipulation-ext",
+    "files": {
+        "/integration-test/src/it/project-inheritance/pom.xml": 3,
+        "/integration-test/src/it/repo-removal-withlocal/pom.xml": 2
+    },
+    "pull_request": "https://github.com/release-engineering/pom-manipulation-ext/pull/738",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 7
+    }
+}

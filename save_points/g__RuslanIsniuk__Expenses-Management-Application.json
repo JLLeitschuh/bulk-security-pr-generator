@@ -1,0 +1,11 @@
+{
+    "project_name": "RuslanIsniuk/Expenses-Management-Application",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/RuslanIsniuk/Expenses-Management-Application/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

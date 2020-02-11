@@ -1,0 +1,11 @@
+{
+    "project_name": "patrickfav/density-converter",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/patrickfav/density-converter/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

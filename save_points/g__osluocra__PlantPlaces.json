@@ -1,0 +1,11 @@
+{
+    "project_name": "osluocra/PlantPlaces",
+    "files": {
+        "/PlantPlaces/pom.xml": 1
+    },
+    "pull_request": "https://github.com/osluocra/PlantPlaces/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "opentracing/opentracing-java",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/opentracing/opentracing-java/pull/371",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

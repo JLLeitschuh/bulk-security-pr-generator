@@ -1,0 +1,11 @@
+{
+    "project_name": "orientechnologies/orientdb",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/orientechnologies/orientdb/pull/9136",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "q13117/test-repo",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/q13117/test-repo/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

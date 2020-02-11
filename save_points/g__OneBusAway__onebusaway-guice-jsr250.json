@@ -1,0 +1,11 @@
+{
+    "project_name": "OneBusAway/onebusaway-guice-jsr250",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/OneBusAway/onebusaway-guice-jsr250/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

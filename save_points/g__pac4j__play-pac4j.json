@@ -1,0 +1,11 @@
+{
+    "project_name": "pac4j/play-pac4j",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/pac4j/play-pac4j/pull/295",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

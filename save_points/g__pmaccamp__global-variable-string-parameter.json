@@ -1,0 +1,11 @@
+{
+    "project_name": "pmaccamp/global-variable-string-parameter",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/pmaccamp/global-variable-string-parameter/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

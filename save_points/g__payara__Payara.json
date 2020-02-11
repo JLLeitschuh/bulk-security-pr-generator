@@ -1,0 +1,14 @@
+{
+    "project_name": "payara/Payara",
+    "files": {
+        "/appserver/persistence/cmp/ejb-mapping/pom.xml": 1,
+        "/appserver/persistence/cmp/enhancer/pom.xml": 1,
+        "/appserver/persistence/cmp/generator-database/pom.xml": 1,
+        "/appserver/persistence/cmp/support-ejb/pom.xml": 1
+    },
+    "pull_request": "https://github.com/payara/Payara/pull/4484",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 4
+    }
+}

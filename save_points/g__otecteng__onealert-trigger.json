@@ -1,0 +1,11 @@
+{
+    "project_name": "otecteng/onealert-trigger",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/otecteng/onealert-trigger/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

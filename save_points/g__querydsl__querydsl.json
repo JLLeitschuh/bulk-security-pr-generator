@@ -1,0 +1,13 @@
+{
+    "project_name": "querydsl/querydsl",
+    "files": {
+        "/pom.xml": 3,
+        "/querydsl-apt/pom.xml": 1,
+        "/querydsl-jdo/pom.xml": 2
+    },
+    "pull_request": "https://github.com/querydsl/querydsl/pull/2527",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 6
+    }
+}

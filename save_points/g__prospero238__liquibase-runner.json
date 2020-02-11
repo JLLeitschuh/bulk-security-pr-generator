@@ -1,0 +1,11 @@
+{
+    "project_name": "prospero238/liquibase-runner",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/prospero238/liquibase-runner/pull/11",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

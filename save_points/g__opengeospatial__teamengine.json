@@ -1,0 +1,11 @@
+{
+    "project_name": "opengeospatial/teamengine",
+    "files": {
+        "/teamengine-tests/pom.xml": 1
+    },
+    "pull_request": "https://github.com/opengeospatial/teamengine/pull/422",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

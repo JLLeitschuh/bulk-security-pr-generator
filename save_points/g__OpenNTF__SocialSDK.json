@@ -1,0 +1,12 @@
+{
+    "project_name": "OpenNTF/SocialSDK",
+    "files": {
+        "/osgi/pom.xml": 1,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/OpenNTF/SocialSDK/pull/1780",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

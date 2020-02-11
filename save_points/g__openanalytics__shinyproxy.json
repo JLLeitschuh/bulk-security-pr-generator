@@ -1,0 +1,11 @@
+{
+    "project_name": "openanalytics/shinyproxy",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/openanalytics/shinyproxy/pull/189",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

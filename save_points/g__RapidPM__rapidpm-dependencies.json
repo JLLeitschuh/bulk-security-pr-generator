@@ -1,0 +1,11 @@
+{
+    "project_name": "RapidPM/rapidpm-dependencies",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/RapidPM/rapidpm-dependencies/pull/30",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

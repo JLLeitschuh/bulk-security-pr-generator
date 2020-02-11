@@ -1,0 +1,11 @@
+{
+    "project_name": "osintegrators/JavaSpringGranny",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/osintegrators/JavaSpringGranny/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

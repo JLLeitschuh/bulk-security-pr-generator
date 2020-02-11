@@ -1,0 +1,11 @@
+{
+    "project_name": "oriolbcn/c4s-cloudfoundry-adapter",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/oriolbcn/c4s-cloudfoundry-adapter/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

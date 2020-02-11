@@ -1,0 +1,11 @@
+{
+    "project_name": "palantir/eclipse-tslint",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/palantir/eclipse-tslint/pull/30",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

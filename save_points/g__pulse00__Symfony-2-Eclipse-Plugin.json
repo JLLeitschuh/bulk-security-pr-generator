@@ -1,0 +1,11 @@
+{
+    "project_name": "pulse00/Symfony-2-Eclipse-Plugin",
+    "files": {
+        "/pom.xml": 11
+    },
+    "pull_request": "https://github.com/pulse00/Symfony-2-Eclipse-Plugin/pull/264",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 6
+    }
+}

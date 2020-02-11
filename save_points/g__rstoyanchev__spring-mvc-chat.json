@@ -1,0 +1,11 @@
+{
+    "project_name": "rstoyanchev/spring-mvc-chat",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/rstoyanchev/spring-mvc-chat/pull/15",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

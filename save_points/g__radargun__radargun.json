@@ -1,0 +1,11 @@
+{
+    "project_name": "radargun/radargun",
+    "files": {
+        "/parent/pom.xml": 4
+    },
+    "pull_request": "https://github.com/radargun/radargun/pull/637",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

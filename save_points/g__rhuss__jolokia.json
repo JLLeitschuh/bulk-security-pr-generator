@@ -1,0 +1,15 @@
+{
+    "project_name": "rhuss/jolokia",
+    "files": {
+        "/agent/osgi/pom.xml": 1,
+        "/agent/osgi-bundle/pom.xml": 1,
+        "/client/javascript/pom.xml": 1,
+        "/client/javascript/test-app/pom.xml": 1,
+        "/tools/roo-addon/pom.xml": 2
+    },
+    "pull_request": "https://github.com/rhuss/jolokia/pull/430",
+    "report": {
+        "files_fixed": 5,
+        "vulnerabilities_fixed": 6
+    }
+}

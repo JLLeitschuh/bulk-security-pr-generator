@@ -1,0 +1,11 @@
+{
+    "project_name": "octanner/kafka-logs-jenkins",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/octanner/kafka-logs-jenkins/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

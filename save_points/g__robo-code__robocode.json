@@ -1,0 +1,11 @@
+{
+    "project_name": "robo-code/robocode",
+    "files": {
+        "/plugins/dotnet/pom.xml": 2
+    },
+    "pull_request": "https://github.com/robo-code/robocode/pull/26",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

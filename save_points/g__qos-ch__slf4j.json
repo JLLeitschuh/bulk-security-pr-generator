@@ -1,0 +1,11 @@
+{
+    "project_name": "qos-ch/slf4j",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/qos-ch/slf4j/pull/231",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "opentripplanner/OpenTripPlanner",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/opentripplanner/OpenTripPlanner/pull/2973",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

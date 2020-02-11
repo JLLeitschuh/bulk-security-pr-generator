@@ -1,0 +1,11 @@
+{
+    "project_name": "OneBusAway/onebusaway-gtfs-realtime-from-siri-cli",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

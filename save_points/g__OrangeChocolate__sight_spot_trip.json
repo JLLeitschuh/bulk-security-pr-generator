@@ -1,0 +1,11 @@
+{
+    "project_name": "OrangeChocolate/sight_spot_trip",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/OrangeChocolate/sight_spot_trip/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

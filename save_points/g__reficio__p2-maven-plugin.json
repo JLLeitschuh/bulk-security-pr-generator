@@ -1,0 +1,24 @@
+{
+    "project_name": "reficio/p2-maven-plugin",
+    "files": {
+        "/examples/excludes/pom.xml": 1,
+        "/examples/override/pom.xml": 1,
+        "/examples/p2/pom.xml": 2,
+        "/examples/phase/pom.xml": 1,
+        "/examples/quickstart/pom.xml": 1,
+        "/examples/source/pom.xml": 1,
+        "/examples/transitive/pom.xml": 1,
+        "/pom.xml": 1,
+        "/src/test/integration/bug-17-it/pom.xml": 1,
+        "/src/test/integration/bug-18-it/pom.xml": 1,
+        "/src/test/integration/bug-19-it/pom.xml": 1,
+        "/src/test/integration/bug-28-tests-classifier-it/pom.xml": 1,
+        "/src/test/integration/bug-39-parse-error-it/pom.xml": 1,
+        "/src/test/integration/feature-14-it/pom.xml": 3
+    },
+    "pull_request": "https://github.com/reficio/p2-maven-plugin/pull/153",
+    "report": {
+        "files_fixed": 14,
+        "vulnerabilities_fixed": 17
+    }
+}

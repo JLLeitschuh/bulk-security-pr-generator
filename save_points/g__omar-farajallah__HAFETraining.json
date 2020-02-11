@@ -1,0 +1,11 @@
+{
+    "project_name": "omar-farajallah/HAFETraining",
+    "files": {
+        "/cms/pom.xml": 2
+    },
+    "pull_request": "https://github.com/omar-farajallah/HAFETraining/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

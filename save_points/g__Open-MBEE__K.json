@@ -1,0 +1,11 @@
+{
+    "project_name": "Open-MBEE/K",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/Open-MBEE/K/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

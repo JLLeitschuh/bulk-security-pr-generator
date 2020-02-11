@@ -1,0 +1,11 @@
+{
+    "project_name": "pagseguro/pagseguro-java-sdk",
+    "files": {
+        "/integration_test/pom.xml": 1
+    },
+    "pull_request": "https://github.com/pagseguro/pagseguro-java-sdk/pull/63",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

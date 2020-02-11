@@ -1,0 +1,11 @@
+{
+    "project_name": "pentaho/pentaho-mongodb-plugin",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/pentaho/pentaho-mongodb-plugin/pull/195",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

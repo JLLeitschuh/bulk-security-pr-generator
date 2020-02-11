@@ -1,0 +1,11 @@
+{
+    "project_name": "osiam/addon-self-administration",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/osiam/addon-self-administration/pull/203",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

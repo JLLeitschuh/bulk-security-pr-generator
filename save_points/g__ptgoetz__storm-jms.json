@@ -1,0 +1,11 @@
+{
+    "project_name": "ptgoetz/storm-jms",
+    "files": {
+        "/examples/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ptgoetz/storm-jms/pull/37",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

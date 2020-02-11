@@ -1,0 +1,11 @@
+{
+    "project_name": "rapportive-oss/storm-json",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/rapportive-oss/storm-json/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

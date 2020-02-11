@@ -1,0 +1,11 @@
+{
+    "project_name": "Open-MBEE/mms",
+    "files": {
+        "/mms-ent/repo-amp/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Open-MBEE/mms/pull/338",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

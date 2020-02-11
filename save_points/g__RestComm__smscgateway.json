@@ -1,0 +1,11 @@
+{
+    "project_name": "RestComm/smscgateway",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/RestComm/smscgateway/pull/301",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

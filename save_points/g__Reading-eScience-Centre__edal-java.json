@@ -1,0 +1,11 @@
+{
+    "project_name": "Reading-eScience-Centre/edal-java",
+    "files": {
+        "/common/pom.xml": 4
+    },
+    "pull_request": "https://github.com/Reading-eScience-Centre/edal-java/pull/124",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

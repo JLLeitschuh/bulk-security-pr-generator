@@ -1,0 +1,11 @@
+{
+    "project_name": "paulkrause88/subversion4cloudforge",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/paulkrause88/subversion4cloudforge/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

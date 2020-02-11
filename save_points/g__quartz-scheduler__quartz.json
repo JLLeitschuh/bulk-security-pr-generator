@@ -1,0 +1,15 @@
+{
+    "project_name": "quartz-scheduler/quartz",
+    "files": {
+        "/checkstyle/pom.xml": 3,
+        "/distribution/pom.xml": 5,
+        "/pom.xml": 9,
+        "/quartz/pom.xml": 4,
+        "/system-tests/pom.xml": 4
+    },
+    "pull_request": "https://github.com/quartz-scheduler/quartz/pull/557",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 19
+    }
+}

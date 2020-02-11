@@ -1,0 +1,17 @@
+{
+    "project_name": "ops4j/org.ops4j.pax.web",
+    "files": {
+        "/pax-web-itest/pax-web-itest-container/pax-web-itest-container-jetty/pom.xml": 1,
+        "/pax-web-itest/pax-web-itest-container/pax-web-itest-container-tomcat/pom.xml": 1,
+        "/pax-web-itest/pax-web-itest-container/pax-web-itest-container-undertow/pom.xml": 1,
+        "/pax-web-itest/pom.xml": 2,
+        "/pom.xml": 2,
+        "/samples/war-jsf/pom.xml": 1,
+        "/samples/war-jsf-primefaces/pom.xml": 2
+    },
+    "pull_request": "https://github.com/ops4j/org.ops4j.pax.web/pull/280",
+    "report": {
+        "files_fixed": 7,
+        "vulnerabilities_fixed": 10
+    }
+}

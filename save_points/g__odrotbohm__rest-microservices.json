@@ -1,0 +1,11 @@
+{
+    "project_name": "odrotbohm/rest-microservices",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/odrotbohm/rest-microservices/pull/16",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

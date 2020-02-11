@@ -1,0 +1,11 @@
+{
+    "project_name": "openmrs/openmrs-module-reporting",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/openmrs/openmrs-module-reporting/pull/194",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

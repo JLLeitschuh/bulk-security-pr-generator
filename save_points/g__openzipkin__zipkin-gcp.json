@@ -1,0 +1,11 @@
+{
+    "project_name": "openzipkin/zipkin-gcp",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/openzipkin/zipkin-gcp/pull/168",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

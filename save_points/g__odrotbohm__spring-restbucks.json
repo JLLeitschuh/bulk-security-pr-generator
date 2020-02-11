@@ -1,0 +1,11 @@
+{
+    "project_name": "odrotbohm/spring-restbucks",
+    "files": {
+        "/server/pom.xml": 2
+    },
+    "pull_request": "https://github.com/odrotbohm/spring-restbucks/pull/95",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

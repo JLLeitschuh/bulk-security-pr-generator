@@ -1,0 +1,11 @@
+{
+    "project_name": "RIPE-NCC/whois",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/RIPE-NCC/whois/pull/604",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

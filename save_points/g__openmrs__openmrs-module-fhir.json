@@ -1,0 +1,11 @@
+{
+    "project_name": "openmrs/openmrs-module-fhir",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/openmrs/openmrs-module-fhir/pull/227",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

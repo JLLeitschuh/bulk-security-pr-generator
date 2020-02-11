@@ -1,0 +1,11 @@
+{
+    "project_name": "OneBusAway/onebusaway-gtfs-realtime-visualizer",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer/pull/14",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

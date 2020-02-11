@@ -1,0 +1,12 @@
+{
+    "project_name": "rexlin600/springboot-sutra-pavilion",
+    "files": {
+        "/spring-boot-admin/spring-boot-admin-server/pom.xml": 2,
+        "/spring-boot-admin-discovery/spring-boot-admin-server-discovery/pom.xml": 2
+    },
+    "pull_request": "https://github.com/rexlin600/springboot-sutra-pavilion/pull/1",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "playn/playn",
+    "files": {
+        "/java-swt/pom.xml": 1
+    },
+    "pull_request": "https://github.com/playn/playn/pull/84",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

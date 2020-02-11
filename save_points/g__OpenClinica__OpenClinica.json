@@ -1,0 +1,11 @@
+{
+    "project_name": "OpenClinica/OpenClinica",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/OpenClinica/OpenClinica/pull/2703",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

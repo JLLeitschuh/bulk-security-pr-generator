@@ -1,0 +1,12 @@
+{
+    "project_name": "opoo/opoopress",
+    "files": {
+        "/maven-archetypes/site/src/main/resources/archetype-resources/pom.xml": 2,
+        "/maven-archetypes/site-blank/src/main/resources/archetype-resources/pom.xml": 2
+    },
+    "pull_request": "https://github.com/opoo/opoopress/pull/18",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 8
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "PyvesB/AdvancedAchievements",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/PyvesB/AdvancedAchievements/pull/656",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

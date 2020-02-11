@@ -1,0 +1,11 @@
+{
+    "project_name": "OHDSI/SqlRender",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/OHDSI/SqlRender/pull/209",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

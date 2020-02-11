@@ -1,0 +1,11 @@
+{
+    "project_name": "phreakadelle/ant-in-workspace-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/phreakadelle/ant-in-workspace-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

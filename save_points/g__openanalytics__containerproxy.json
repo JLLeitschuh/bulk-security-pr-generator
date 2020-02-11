@@ -1,0 +1,11 @@
+{
+    "project_name": "openanalytics/containerproxy",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/openanalytics/containerproxy/pull/31",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "palantir/eclipse-less",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/palantir/eclipse-less/pull/10",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

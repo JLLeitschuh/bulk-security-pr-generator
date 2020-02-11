@@ -1,0 +1,11 @@
+{
+    "project_name": "osiam/addon-administration",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/osiam/addon-administration/pull/154",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

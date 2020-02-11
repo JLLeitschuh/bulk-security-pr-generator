@@ -1,0 +1,11 @@
+{
+    "project_name": "praveenkumar5766/Sonarqube-java",
+    "files": {
+        "/its/plugin/projects/struts-1.3.9-lite/pom.xml": 1
+    },
+    "pull_request": "https://github.com/praveenkumar5766/Sonarqube-java/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

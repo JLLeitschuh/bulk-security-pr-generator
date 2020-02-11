@@ -1,0 +1,11 @@
+{
+    "project_name": "opentraffic/traffic-engine",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/opentraffic/traffic-engine/pull/12",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

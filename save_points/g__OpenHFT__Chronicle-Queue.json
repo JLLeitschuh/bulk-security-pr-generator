@@ -1,0 +1,11 @@
+{
+    "project_name": "OpenHFT/Chronicle-Queue",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/OpenHFT/Chronicle-Queue/pull/640",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

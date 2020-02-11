@@ -1,0 +1,11 @@
+{
+    "project_name": "pearson-enabling-technologies/elasticsearch-approx-plugin",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/pearson-enabling-technologies/elasticsearch-approx-plugin/pull/48",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

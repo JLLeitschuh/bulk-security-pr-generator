@@ -1,0 +1,16 @@
+{
+    "project_name": "openimaj/openimaj",
+    "files": {
+        "/archetypes/openimaj-quickstart-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/documentation/tutorial/pom.xml": 1,
+        "/knowledge/core-rdf/src/main/resources/pom.xml": 2,
+        "/knowledge/ontologies/sioc/pom.xml": 2,
+        "/pom.xml": 5,
+        "/tools/ReferencesTool/src/test/TestJarProject/pom.xml": 2
+    },
+    "pull_request": "https://github.com/openimaj/openimaj/pull/187",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 14
+    }
+}

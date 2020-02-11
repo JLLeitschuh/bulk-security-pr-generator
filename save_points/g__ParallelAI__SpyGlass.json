@@ -1,0 +1,12 @@
+{
+    "project_name": "ParallelAI/SpyGlass",
+    "files": {
+        "/pom.xml": 2,
+        "/src/main/resources/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ParallelAI/SpyGlass/pull/31",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "orbisgis/h2gis",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/orbisgis/h2gis/pull/1031",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

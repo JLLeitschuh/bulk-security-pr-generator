@@ -1,0 +1,11 @@
+{
+    "project_name": "rstoyanchev/spring-sockjs-protocol-webapp",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/rstoyanchev/spring-sockjs-protocol-webapp/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "OneBusAway/onebusaway-everylastlogin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/OneBusAway/onebusaway-everylastlogin/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "openkm/document-management-system",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/openkm/document-management-system/pull/218",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

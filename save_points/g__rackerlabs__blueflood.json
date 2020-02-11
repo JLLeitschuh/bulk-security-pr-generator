@@ -1,0 +1,11 @@
+{
+    "project_name": "rackerlabs/blueflood",
+    "files": {
+        "/blueflood-core/pom.xml": 1
+    },
+    "pull_request": "https://github.com/rackerlabs/blueflood/pull/835",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "OpenSLX/eaas-server",
+    "files": {
+        "/src/metadata-oaipmh/eaas-xoai/pom.xml": 1,
+        "/src/pom.xml": 1
+    },
+    "pull_request": "https://github.com/OpenSLX/eaas-server/pull/4",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

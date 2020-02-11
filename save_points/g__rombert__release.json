@@ -1,0 +1,12 @@
+{
+    "project_name": "rombert/release",
+    "files": {
+        "/maven-release-manager/src/test/resources/projects/rewrite-for-branch/basic-pom-namespace/pom.xml": 1,
+        "/maven-release-manager/src/test/resources/projects/rewrite-for-release/basic-pom-namespace/pom.xml": 1
+    },
+    "pull_request": "https://github.com/rombert/release/pull/1",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

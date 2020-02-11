@@ -1,0 +1,11 @@
+{
+    "project_name": "OneBusAway/onebusaway-cloud-services",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/OneBusAway/onebusaway-cloud-services/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

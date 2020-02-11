@@ -1,0 +1,11 @@
+{
+    "project_name": "PramodhKumarM/DevOpsClassCodes-Copy",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/PramodhKumarM/DevOpsClassCodes-Copy/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

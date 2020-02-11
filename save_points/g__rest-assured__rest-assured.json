@@ -1,0 +1,11 @@
+{
+    "project_name": "rest-assured/rest-assured",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/rest-assured/rest-assured/pull/1271",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

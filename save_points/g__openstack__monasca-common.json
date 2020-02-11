@@ -1,0 +1,12 @@
+{
+    "project_name": "openstack/monasca-common",
+    "files": {
+        "/java/monasca-common-middleware/pom.xml": 1,
+        "/java/monasca-common-streaming/pom.xml": 1
+    },
+    "pull_request": "https://github.com/openstack/monasca-common/pull/5",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

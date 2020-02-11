@@ -1,0 +1,11 @@
+{
+    "project_name": "openmrs/openmrs-module-radiology",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/openmrs/openmrs-module-radiology/pull/515",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

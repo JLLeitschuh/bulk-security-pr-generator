@@ -1,0 +1,11 @@
+{
+    "project_name": "ORCID/ORCID-Source",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/ORCID/ORCID-Source/pull/5775",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

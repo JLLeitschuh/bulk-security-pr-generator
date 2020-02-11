@@ -1,0 +1,11 @@
+{
+    "project_name": "rpetti/display-upstream-changes-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/rpetti/display-upstream-changes-plugin/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "project_name": "RestComm/media-core",
+    "files": {
+        "/client/jsr-309/driver/pom.xml": 3,
+        "/client/mgcp/driver/pom.xml": 3,
+        "/client/mgcp/tck/pom.xml": 2,
+        "/pcap/pom.xml": 1,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/RestComm/media-core/pull/862",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 9
+    }
+}

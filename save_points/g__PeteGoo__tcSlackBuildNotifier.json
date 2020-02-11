@@ -1,0 +1,12 @@
+{
+    "project_name": "PeteGoo/tcSlackBuildNotifier",
+    "files": {
+        "/pom.xml": 2,
+        "/tcslackbuildnotifier-core/pom.xml": 1
+    },
+    "pull_request": "https://github.com/PeteGoo/tcSlackBuildNotifier/pull/178",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

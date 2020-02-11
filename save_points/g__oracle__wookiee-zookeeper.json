@@ -1,0 +1,11 @@
+{
+    "project_name": "oracle/wookiee-zookeeper",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/oracle/wookiee-zookeeper/pull/49",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

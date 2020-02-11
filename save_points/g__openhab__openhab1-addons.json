@@ -1,0 +1,11 @@
+{
+    "project_name": "openhab/openhab1-addons",
+    "files": {
+        "/features/pom.xml": 1
+    },
+    "pull_request": "https://github.com/openhab/openhab1-addons/pull/5938",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

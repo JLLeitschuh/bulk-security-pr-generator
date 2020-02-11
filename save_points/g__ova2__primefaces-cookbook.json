@@ -1,0 +1,11 @@
+{
+    "project_name": "ova2/primefaces-cookbook",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ova2/primefaces-cookbook/pull/8",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "Open-MBEE/mpspi",
+    "files": {
+        "/org.openmbee.mpspi.p2/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Open-MBEE/mpspi/pull/3",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

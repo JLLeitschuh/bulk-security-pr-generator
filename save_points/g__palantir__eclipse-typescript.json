@@ -1,0 +1,11 @@
+{
+    "project_name": "palantir/eclipse-typescript",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/palantir/eclipse-typescript/pull/360",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

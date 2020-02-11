@@ -1,0 +1,11 @@
+{
+    "project_name": "pentaho/modeler",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/pentaho/modeler/pull/362",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

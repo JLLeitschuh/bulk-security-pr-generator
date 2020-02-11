@@ -1,0 +1,11 @@
+{
+    "project_name": "p4paul/p4-jenkins",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/p4paul/p4-jenkins/pull/48",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

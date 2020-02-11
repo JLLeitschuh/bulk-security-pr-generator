@@ -1,0 +1,13 @@
+{
+    "project_name": "raphaeljolivet/java2typescript",
+    "files": {
+        "/sample-web-app/pom.xml": 1,
+        "/sample-web-app-client/pom.xml": 1,
+        "/sample-web-app-server/pom.xml": 1
+    },
+    "pull_request": "https://github.com/raphaeljolivet/java2typescript/pull/84",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 3
+    }
+}

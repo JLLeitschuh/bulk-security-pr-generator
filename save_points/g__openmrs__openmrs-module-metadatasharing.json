@@ -1,0 +1,11 @@
+{
+    "project_name": "openmrs/openmrs-module-metadatasharing",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/openmrs/openmrs-module-metadatasharing/pull/51",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

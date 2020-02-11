@@ -1,0 +1,11 @@
+{
+    "project_name": "raydac/netbeans-mmd-plugin",
+    "files": {
+        "/mind-map/nb-mind-map/pom.xml": 1
+    },
+    "pull_request": "https://github.com/raydac/netbeans-mmd-plugin/pull/62",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

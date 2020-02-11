@@ -1,0 +1,11 @@
+{
+    "project_name": "ocpsoft/rewrite",
+    "files": {
+        "/showcase/rest-ws/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ocpsoft/rewrite/pull/290",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

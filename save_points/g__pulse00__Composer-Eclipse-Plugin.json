@@ -1,0 +1,11 @@
+{
+    "project_name": "pulse00/Composer-Eclipse-Plugin",
+    "files": {
+        "/pom.xml": 7
+    },
+    "pull_request": "https://github.com/pulse00/Composer-Eclipse-Plugin/pull/143",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}
