@@ -344,27 +344,38 @@ async def do_run_everything():
 
         if vulnerable.project_name.startswith('apache/'):
             vulnerable_projects.append(vulnerable)
+            continue
 
         if vulnerable.project_name.startswith('google/'):
             vulnerable_projects.append(vulnerable)
+            continue
 
         if vulnerable.project_name.startswith('GoogleCloudPlatform/'):
             vulnerable_projects.append(vulnerable)
+            continue
 
         if vulnerable.project_name.startswith('microsoft/'):
             vulnerable_projects.append(vulnerable)
+            continue
 
         if vulnerable.project_name.startswith('jenkinsci/'):
             vulnerable_projects.append(vulnerable)
+            continue
 
         if vulnerable.project_name.startswith('52North/'):
             vulnerable_projects.append(vulnerable)
+            continue
 
         if vulnerable.project_name.startswith('eclipse/'):
             vulnerable_projects.append(vulnerable)
+            continue
+
+        if vulnerable.project_name.lower().startswith('a'):
+            vulnerable_projects.append(vulnerable)
+            continue
 
     print()
-    print('Loading Async Project Executions:')
+    print(f'Loading Async Project Executions for {len(vulnerable)} Projects:')
     waiting_reports = []
     for vulnerable_project in vulnerable_projects:
         if is_archived_git_hub_repository(vulnerable_project):
