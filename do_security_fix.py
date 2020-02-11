@@ -343,35 +343,39 @@ async def do_run_everything():
         # if 'jlleitschuh' in vulnerable.project_name.lower():
         #     vulnerable_projects.append(vulnerable)
 
-        if vulnerable.project_name.startswith('apache/'):
-            vulnerable_projects.append(vulnerable)
-            continue
+        # if vulnerable.project_name.startswith('apache/'):
+        #     vulnerable_projects.append(vulnerable)
+        #     continue
+        #
+        # if vulnerable.project_name.startswith('google/'):
+        #     vulnerable_projects.append(vulnerable)
+        #     continue
+        #
+        # if vulnerable.project_name.startswith('GoogleCloudPlatform/'):
+        #     vulnerable_projects.append(vulnerable)
+        #     continue
+        #
+        # if vulnerable.project_name.startswith('microsoft/'):
+        #     vulnerable_projects.append(vulnerable)
+        #     continue
+        #
+        # if vulnerable.project_name.startswith('jenkinsci/'):
+        #     vulnerable_projects.append(vulnerable)
+        #     continue
+        #
+        # if vulnerable.project_name.startswith('52North/'):
+        #     vulnerable_projects.append(vulnerable)
+        #     continue
+        #
+        # if vulnerable.project_name.startswith('eclipse/'):
+        #     vulnerable_projects.append(vulnerable)
+        #     continue
+        #
+        # if vulnerable.project_name.lower().startswith('a'):
+        #     vulnerable_projects.append(vulnerable)
+        #     continue
 
-        if vulnerable.project_name.startswith('google/'):
-            vulnerable_projects.append(vulnerable)
-            continue
-
-        if vulnerable.project_name.startswith('GoogleCloudPlatform/'):
-            vulnerable_projects.append(vulnerable)
-            continue
-
-        if vulnerable.project_name.startswith('microsoft/'):
-            vulnerable_projects.append(vulnerable)
-            continue
-
-        if vulnerable.project_name.startswith('jenkinsci/'):
-            vulnerable_projects.append(vulnerable)
-            continue
-
-        if vulnerable.project_name.startswith('52North/'):
-            vulnerable_projects.append(vulnerable)
-            continue
-
-        if vulnerable.project_name.startswith('eclipse/'):
-            vulnerable_projects.append(vulnerable)
-            continue
-
-        if vulnerable.project_name.lower().startswith('a'):
+        if vulnerable.project_name.lower().startswith('b'):
             vulnerable_projects.append(vulnerable)
             continue
 
