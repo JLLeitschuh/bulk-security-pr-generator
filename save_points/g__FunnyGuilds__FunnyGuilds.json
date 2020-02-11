@@ -1,0 +1,11 @@
+{
+    "project_name": "FunnyGuilds/FunnyGuilds",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/FunnyGuilds/FunnyGuilds/pull/1200",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

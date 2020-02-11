@@ -1,0 +1,13 @@
+{
+    "project_name": "flowable/flowable-engine",
+    "files": {
+        "/docs/public-api/tools/flowable-rest-asciidoc/pom.xml": 2,
+        "/modules/flowable-mule/pom.xml": 1,
+        "/qa/dbclean/pom.xml": 1
+    },
+    "pull_request": "https://github.com/flowable/flowable-engine/pull/2170",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 4
+    }
+}

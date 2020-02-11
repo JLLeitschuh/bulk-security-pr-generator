@@ -1,0 +1,11 @@
+{
+    "project_name": "fernandogodoy/projeto-java",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/fernandogodoy/projeto-java/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

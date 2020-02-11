@@ -1,0 +1,11 @@
+{
+    "project_name": "fluorumlabs/url-parameter-mapping",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/fluorumlabs/url-parameter-mapping/pull/11",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

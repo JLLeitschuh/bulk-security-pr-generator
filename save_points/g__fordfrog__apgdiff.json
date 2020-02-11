@@ -1,0 +1,11 @@
+{
+    "project_name": "fordfrog/apgdiff",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/fordfrog/apgdiff/pull/267",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

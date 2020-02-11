@@ -1,0 +1,11 @@
+{
+    "project_name": "fluorumlabs/scroll-target-for-flow",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/fluorumlabs/scroll-target-for-flow/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "flowdock/jenkins-flowdock-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/flowdock/jenkins-flowdock-plugin/pull/19",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

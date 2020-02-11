@@ -1,0 +1,11 @@
+{
+    "project_name": "frohoff/ysoserial",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/frohoff/ysoserial/pull/139",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

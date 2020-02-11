@@ -1,0 +1,11 @@
+{
+    "project_name": "findbugsproject/findbugs",
+    "files": {
+        "/eclipsePlugin/pom.xml": 1
+    },
+    "pull_request": "https://github.com/findbugsproject/findbugs/pull/182",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "fcrepo4/fcrepo4",
+    "files": {
+        "/fcrepo-auth-webac/pom.xml": 1
+    },
+    "pull_request": "https://github.com/fcrepo4/fcrepo4/pull/1628",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

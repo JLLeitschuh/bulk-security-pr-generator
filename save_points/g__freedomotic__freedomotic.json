@@ -1,0 +1,21 @@
+{
+    "project_name": "freedomotic/freedomotic",
+    "files": {
+        "/plugins/devices/chat/pom.xml": 1,
+        "/plugins/devices/freetts/pom.xml": 1,
+        "/plugins/devices/google-speech/pom.xml": 1,
+        "/plugins/devices/ipcamera-motion/pom.xml": 1,
+        "/plugins/devices/marytts/pom.xml": 2,
+        "/plugins/devices/mqtt-broker/pom.xml": 1,
+        "/plugins/devices/webserver/pom.xml": 1,
+        "/plugins/legacy/restapi/pom.xml": 1,
+        "/tools/freedomotic-drupal-marketplace/pom.xml": 1,
+        "/tools/freedomotic-restapi-interfaces/pom.xml": 1,
+        "/tools/freedomotic-restapi-test/pom.xml": 1
+    },
+    "pull_request": "https://github.com/freedomotic/freedomotic/pull/481",
+    "report": {
+        "files_fixed": 11,
+        "vulnerabilities_fixed": 12
+    }
+}

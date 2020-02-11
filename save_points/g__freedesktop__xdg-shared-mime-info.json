@@ -1,0 +1,11 @@
+{
+    "project_name": "freedesktop/xdg-shared-mime-info",
+    "files": {
+        "/tests/pom.xml": 2
+    },
+    "pull_request": "https://github.com/freedesktop/xdg-shared-mime-info/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

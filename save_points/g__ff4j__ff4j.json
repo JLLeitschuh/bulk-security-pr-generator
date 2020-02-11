@@ -1,0 +1,13 @@
+{
+    "project_name": "ff4j/ff4j",
+    "files": {
+        "/ff4j-store-ehcache/pom.xml": 4,
+        "/ff4j-store-neo4j/pom.xml": 2,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ff4j/ff4j/pull/401",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 7
+    }
+}
