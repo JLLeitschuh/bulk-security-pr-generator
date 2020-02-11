@@ -118,7 +118,7 @@ class VulnerableProjectFiles:
 
         async def do_call(wait_time) -> Optional[str]:
             try:
-                if lock is None:
+                if lock is not None:
                     async with lock:
                         # GitHub documentation says to wait 1 second between writes
                         await asyncio.sleep(1)
