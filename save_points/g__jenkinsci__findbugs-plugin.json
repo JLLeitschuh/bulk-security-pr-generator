@@ -1,0 +1,13 @@
+{
+    "project_name": "jenkinsci/findbugs-plugin",
+    "files": {
+        "/library/pom.xml": 2,
+        "/plugin/pom.xml": 2,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jenkinsci/findbugs-plugin/pull/18",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 5
+    }
+}

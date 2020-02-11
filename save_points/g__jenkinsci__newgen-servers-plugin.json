@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/newgen-servers-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jenkinsci/newgen-servers-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

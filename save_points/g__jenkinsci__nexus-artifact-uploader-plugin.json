@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/nexus-artifact-uploader-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/nexus-artifact-uploader-plugin/pull/17",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/parallel-test-executor-plugin",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jenkinsci/parallel-test-executor-plugin/pull/100",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

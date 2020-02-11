@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/scm-sync-configuration-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/scm-sync-configuration-plugin/pull/71",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

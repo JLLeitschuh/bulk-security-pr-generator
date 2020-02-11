@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/environment-script-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jenkinsci/environment-script-plugin/pull/16",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

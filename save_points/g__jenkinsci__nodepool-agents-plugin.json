@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/nodepool-agents-plugin",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jenkinsci/nodepool-agents-plugin/pull/41",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

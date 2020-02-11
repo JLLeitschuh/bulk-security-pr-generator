@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/maven-deployment-linker-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/maven-deployment-linker-plugin/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/parasoft-findings-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/parasoft-findings-plugin/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

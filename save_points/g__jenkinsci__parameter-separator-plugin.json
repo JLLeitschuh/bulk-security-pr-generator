@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/parameter-separator-plugin",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jenkinsci/parameter-separator-plugin/pull/10",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

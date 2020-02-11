@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/node-iterator-api-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/node-iterator-api-plugin/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

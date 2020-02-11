@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/compact-columns-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/compact-columns-plugin/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

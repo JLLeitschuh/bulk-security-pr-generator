@@ -1,0 +1,13 @@
+{
+    "project_name": "jenkinsci/docker-traceability-plugin",
+    "files": {
+        "/docker-java-shaded/pom.xml": 3,
+        "/docker-traceability-api/pom.xml": 3,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jenkinsci/docker-traceability-plugin/pull/31",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 9
+    }
+}

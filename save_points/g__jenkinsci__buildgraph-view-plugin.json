@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/buildgraph-view-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/buildgraph-view-plugin/pull/38",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

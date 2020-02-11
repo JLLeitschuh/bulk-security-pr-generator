@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/external-resource-dispatcher-plugin",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/jenkinsci/external-resource-dispatcher-plugin/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

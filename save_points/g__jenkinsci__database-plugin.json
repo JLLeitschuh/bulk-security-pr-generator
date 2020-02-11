@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/database-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/database-plugin/pull/8",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

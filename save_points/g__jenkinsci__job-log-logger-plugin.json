@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/job-log-logger-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jenkinsci/job-log-logger-plugin/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

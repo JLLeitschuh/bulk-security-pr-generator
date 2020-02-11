@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/clif-performance-testing-plugin",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/jenkinsci/clif-performance-testing-plugin/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

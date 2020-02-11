@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/jx-pipelines-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/jx-pipelines-plugin/pull/16",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

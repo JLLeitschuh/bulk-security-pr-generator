@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/jenkins.rb",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jenkinsci/jenkins.rb/pull/128",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

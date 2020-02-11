@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/perfpublisher-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/perfpublisher-plugin/pull/21",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

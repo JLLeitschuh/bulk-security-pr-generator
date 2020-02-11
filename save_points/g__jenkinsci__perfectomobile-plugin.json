@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/perfectomobile-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jenkinsci/perfectomobile-plugin/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

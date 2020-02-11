@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/cvs-mail-address-resolver-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/cvs-mail-address-resolver-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

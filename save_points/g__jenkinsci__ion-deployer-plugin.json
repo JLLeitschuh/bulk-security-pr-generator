@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/ion-deployer-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/ion-deployer-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

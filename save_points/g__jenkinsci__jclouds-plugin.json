@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/jclouds-plugin",
+    "files": {
+        "/jclouds-plugin/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/jclouds-plugin/pull/136",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}
