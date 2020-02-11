@@ -295,7 +295,7 @@ async def process_vulnerable_project_checked(project: VulnerableProjectFiles, lo
     try:
         return await process_vulnerable_project(project, lock)
     except BaseException as e:
-        logging.error(f'Failed while processing project `{project.project_name}`')
+        logging.error(f'Failed while processing project `{project.project_name}`. Exception type: {type(e)}.\n{e!s}')
         raise e
 
 
