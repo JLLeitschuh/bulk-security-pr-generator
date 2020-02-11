@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/downstream-buildview-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/downstream-buildview-plugin/pull/11",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

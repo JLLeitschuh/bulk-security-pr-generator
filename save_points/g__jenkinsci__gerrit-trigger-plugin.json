@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/gerrit-trigger-plugin",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jenkinsci/gerrit-trigger-plugin/pull/411",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

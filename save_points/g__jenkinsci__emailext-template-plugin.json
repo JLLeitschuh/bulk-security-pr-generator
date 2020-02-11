@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/emailext-template-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/emailext-template-plugin/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

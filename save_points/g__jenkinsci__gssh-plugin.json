@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/gssh-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jenkinsci/gssh-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

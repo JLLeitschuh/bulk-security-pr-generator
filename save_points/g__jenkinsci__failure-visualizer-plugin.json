@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/failure-visualizer-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/failure-visualizer-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

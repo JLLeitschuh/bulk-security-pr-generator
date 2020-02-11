@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/ec2-cloud-axis-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/ec2-cloud-axis-plugin/pull/10",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

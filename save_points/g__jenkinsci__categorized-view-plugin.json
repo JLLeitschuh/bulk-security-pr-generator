@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/categorized-view-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/categorized-view-plugin/pull/20",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

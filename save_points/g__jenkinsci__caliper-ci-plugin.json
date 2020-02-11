@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/caliper-ci-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/caliper-ci-plugin/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

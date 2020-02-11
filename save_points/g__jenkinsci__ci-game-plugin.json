@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/ci-game-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/ci-game-plugin/pull/23",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

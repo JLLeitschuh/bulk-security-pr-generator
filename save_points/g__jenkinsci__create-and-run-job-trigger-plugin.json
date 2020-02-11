@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/create-and-run-job-trigger-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/create-and-run-job-trigger-plugin/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

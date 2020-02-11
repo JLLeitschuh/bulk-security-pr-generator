@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/marathon-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/marathon-plugin/pull/59",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

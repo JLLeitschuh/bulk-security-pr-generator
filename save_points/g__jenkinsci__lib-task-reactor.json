@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/lib-task-reactor",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jenkinsci/lib-task-reactor/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

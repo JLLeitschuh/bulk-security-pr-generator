@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/persistent-parameter-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jenkinsci/persistent-parameter-plugin/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

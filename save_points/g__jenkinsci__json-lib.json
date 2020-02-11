@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/json-lib",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/json-lib/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

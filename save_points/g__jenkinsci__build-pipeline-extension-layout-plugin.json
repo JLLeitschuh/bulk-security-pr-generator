@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/build-pipeline-extension-layout-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/build-pipeline-extension-layout-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

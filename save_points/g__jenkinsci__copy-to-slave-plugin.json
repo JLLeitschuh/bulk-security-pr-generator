@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/copy-to-slave-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/copy-to-slave-plugin/pull/12",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

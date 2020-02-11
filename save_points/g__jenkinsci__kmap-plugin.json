@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/kmap-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jenkinsci/kmap-plugin/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "project_name": "jenkinsci/analysis-suite-plugin",
+    "files": {
+        "/analysis-collector/pom.xml": 2,
+        "/analysis-config/pom.xml": 2,
+        "/analysis-core/pom.xml": 2,
+        "/analysis-pom/pom.xml": 2,
+        "/analysis-test/pom.xml": 2,
+        "/checkstyle/pom.xml": 2,
+        "/dry/pom.xml": 2,
+        "/findbugs/library/pom.xml": 2,
+        "/findbugs/plugin/pom.xml": 2,
+        "/findbugs/pom.xml": 3,
+        "/pmd/pom.xml": 2,
+        "/pom.xml": 2,
+        "/tasks/pom.xml": 2,
+        "/warnings/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/analysis-suite-plugin/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/cppcheck-plugin",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jenkinsci/cppcheck-plugin/pull/53",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

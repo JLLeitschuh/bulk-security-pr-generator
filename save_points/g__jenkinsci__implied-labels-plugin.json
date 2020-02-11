@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/implied-labels-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/implied-labels-plugin/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

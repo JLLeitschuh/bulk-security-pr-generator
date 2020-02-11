@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/hsts-filter-plugin",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jenkinsci/hsts-filter-plugin/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

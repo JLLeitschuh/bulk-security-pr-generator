@@ -1,0 +1,12 @@
+{
+    "project_name": "jenkinsci/pipeline-maven-plugin",
+    "files": {
+        "/jenkins-plugin/src/test/resources/org/jenkinsci/plugins/pipeline/maven/test/test_maven_projects/maven_nbm_base_project/pom.xml": 1,
+        "/jenkins-plugin/src/test/resources/org/jenkinsci/plugins/pipeline/maven/test/test_maven_projects/maven_nbm_dependency_project/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jenkinsci/pipeline-maven-plugin/pull/229",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

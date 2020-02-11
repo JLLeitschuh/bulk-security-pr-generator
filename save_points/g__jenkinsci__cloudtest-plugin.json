@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/cloudtest-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/cloudtest-plugin/pull/35",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/multi-module-tests-publisher-plugin",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/jenkinsci/multi-module-tests-publisher-plugin/pull/14",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

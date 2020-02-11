@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/heavy-job-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/heavy-job-plugin/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

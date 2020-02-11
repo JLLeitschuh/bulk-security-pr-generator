@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/htmlresource-plugin",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/jenkinsci/htmlresource-plugin/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

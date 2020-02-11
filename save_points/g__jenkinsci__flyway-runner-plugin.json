@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/flyway-runner-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/jenkinsci/flyway-runner-plugin/pull/13",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/dom4j",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/jenkinsci/dom4j/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/jswidgets-plugin",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/jenkinsci/jswidgets-plugin/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

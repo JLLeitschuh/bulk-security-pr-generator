@@ -1,0 +1,11 @@
+{
+    "project_name": "jenkinsci/gitlab-plugin",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/jenkinsci/gitlab-plugin/pull/1026",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}
