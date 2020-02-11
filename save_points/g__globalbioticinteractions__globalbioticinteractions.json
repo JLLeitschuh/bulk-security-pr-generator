@@ -1,0 +1,12 @@
+{
+    "project_name": "globalbioticinteractions/globalbioticinteractions",
+    "files": {
+        "/eol-globi-data-sources/pom.xml": 1,
+        "/eol-globi-geo/pom.xml": 1
+    },
+    "pull_request": "https://github.com/globalbioticinteractions/globalbioticinteractions/pull/459",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

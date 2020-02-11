@@ -1,0 +1,11 @@
+{
+    "project_name": "gorkem/j2v8forjsdt",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/gorkem/j2v8forjsdt/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

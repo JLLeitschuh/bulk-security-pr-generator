@@ -1,0 +1,11 @@
+{
+    "project_name": "gabrieldinu/Andrei_Cracana_BidStore",
+    "files": {
+        "/BidStore/BidStore-web/pom.xml": 1
+    },
+    "pull_request": "https://github.com/gabrieldinu/Andrei_Cracana_BidStore/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

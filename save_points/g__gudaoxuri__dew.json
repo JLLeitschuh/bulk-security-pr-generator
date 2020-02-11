@@ -1,0 +1,12 @@
+{
+    "project_name": "gudaoxuri/dew",
+    "files": {
+        "/devops/it/src/it/helloworld-library/pom.xml": 2,
+        "/devops/it/src/it/todo/pom.xml": 3
+    },
+    "pull_request": "",
+    "report": {
+        "files_fixed": 0,
+        "vulnerabilities_fixed": 0
+    }
+}

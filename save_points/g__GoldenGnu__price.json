@@ -1,0 +1,11 @@
+{
+    "project_name": "GoldenGnu/price",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "",
+    "report": {
+        "files_fixed": 0,
+        "vulnerabilities_fixed": 0
+    }
+}

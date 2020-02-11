@@ -1,0 +1,11 @@
+{
+    "project_name": "garethjevans/couchdb-statistics-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/garethjevans/couchdb-statistics-plugin/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

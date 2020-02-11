@@ -1,0 +1,12 @@
+{
+    "project_name": "gcauchis/chat",
+    "files": {
+        "/pom.xml": 5,
+        "/server/server-service/server-service-impl-neo4j/pom.xml": 1
+    },
+    "pull_request": "https://github.com/gcauchis/chat/pull/2",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 6
+    }
+}

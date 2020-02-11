@@ -1,0 +1,11 @@
+{
+    "project_name": "GeoLatte/geolatte-geom",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/GeoLatte/geolatte-geom/pull/91",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

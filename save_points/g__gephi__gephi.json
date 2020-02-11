@@ -1,0 +1,12 @@
+{
+    "project_name": "gephi/gephi",
+    "files": {
+        "/modules/VisualizationImpl/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/gephi/gephi/pull/2171",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

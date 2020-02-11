@@ -1,0 +1,11 @@
+{
+    "project_name": "graphaware/neo4j-framework",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/graphaware/neo4j-framework/pull/106",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

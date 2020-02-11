@@ -1,0 +1,11 @@
+{
+    "project_name": "gdubya/mqtt-notification-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/gdubya/mqtt-notification-plugin/pull/10",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

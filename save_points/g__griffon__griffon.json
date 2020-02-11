@@ -1,0 +1,26 @@
+{
+    "project_name": "griffon/griffon",
+    "files": {
+        "/archetypes/griffon-javafx-groovy-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/archetypes/griffon-javafx-java-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/archetypes/griffon-lanterna-groovy-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/archetypes/griffon-lanterna-java-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/archetypes/griffon-pivot-groovy-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/archetypes/griffon-pivot-java-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/archetypes/griffon-swing-groovy-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/archetypes/griffon-swing-java-archetype/src/main/resources/archetype-resources/pom.xml": 2,
+        "/templates/griffon-javafx-groovy-templates/templates/griffon-javafx-groovy/pom.xml": 2,
+        "/templates/griffon-javafx-java-templates/templates/griffon-javafx-java/pom.xml": 2,
+        "/templates/griffon-lanterna-groovy-templates/templates/griffon-lanterna-groovy/pom.xml": 2,
+        "/templates/griffon-lanterna-java-templates/templates/griffon-lanterna-java/pom.xml": 2,
+        "/templates/griffon-pivot-groovy-templates/templates/griffon-pivot-groovy/pom.xml": 2,
+        "/templates/griffon-pivot-java-templates/templates/griffon-pivot-java/pom.xml": 2,
+        "/templates/griffon-swing-groovy-templates/templates/griffon-swing-groovy/pom.xml": 2,
+        "/templates/griffon-swing-java-templates/templates/griffon-swing-java/pom.xml": 2
+    },
+    "pull_request": "https://github.com/griffon/griffon/pull/307",
+    "report": {
+        "files_fixed": 16,
+        "vulnerabilities_fixed": 32
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "GluuFederation/oxTrust",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/GluuFederation/oxTrust/pull/1913",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

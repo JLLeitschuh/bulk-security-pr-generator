@@ -1,0 +1,11 @@
+{
+    "project_name": "GeoKnow/LinkedGeoData",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/GeoKnow/LinkedGeoData/pull/33",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

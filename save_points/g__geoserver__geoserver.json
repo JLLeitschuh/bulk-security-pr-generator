@@ -1,0 +1,16 @@
+{
+    "project_name": "geoserver/geoserver",
+    "files": {
+        "/src/community/geogig/pom.xml": 1,
+        "/src/community/geomesa/pom.xml": 1,
+        "/src/community/taskmanager/core/bin/pom.xml": 1,
+        "/src/community/wps-sextante/pom.xml": 1,
+        "/src/maven/pom.xml": 1,
+        "/src/pom.xml": 2
+    },
+    "pull_request": "https://github.com/geoserver/geoserver/pull/4043",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 7
+    }
+}

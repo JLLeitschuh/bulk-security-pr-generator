@@ -1,0 +1,11 @@
+{
+    "project_name": "games647/FastLogin",
+    "files": {
+        "/bukkit/pom.xml": 2
+    },
+    "pull_request": "https://github.com/games647/FastLogin/pull/295",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

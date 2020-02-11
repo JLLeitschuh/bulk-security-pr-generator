@@ -1,0 +1,11 @@
+{
+    "project_name": "geosolutions-it/geoserver-manager",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/geosolutions-it/geoserver-manager/pull/230",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

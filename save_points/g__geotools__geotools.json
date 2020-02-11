@@ -1,0 +1,21 @@
+{
+    "project_name": "geotools/geotools",
+    "files": {
+        "/docs/user/tutorial/coverage/artifacts/pom.xml": 3,
+        "/docs/user/tutorial/datastore/artifacts/pom.xml": 3,
+        "/docs/user/tutorial/feature/artifacts/pom.xml": 3,
+        "/docs/user/tutorial/filter/artifacts/pom.xml": 3,
+        "/docs/user/tutorial/geometry/artifacts/pom.xml": 3,
+        "/docs/user/tutorial/map/artifacts/pom.xml": 3,
+        "/docs/user/tutorial/quickstart/artifacts/pom.xml": 3,
+        "/docs/user/tutorial/raster/artifacts/pom.xml": 3,
+        "/modules/unsupported/arcgis-rest/pom.xml": 1,
+        "/modules/unsupported/ogr/ogr-bridj/pom.xml": 1,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/geotools/geotools/pull/2806",
+    "report": {
+        "files_fixed": 11,
+        "vulnerabilities_fixed": 29
+    }
+}

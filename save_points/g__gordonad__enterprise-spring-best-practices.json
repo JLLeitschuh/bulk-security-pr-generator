@@ -1,0 +1,11 @@
+{
+    "project_name": "gordonad/enterprise-spring-best-practices",
+    "files": {
+        "/pom.xml": 7
+    },
+    "pull_request": "https://github.com/gordonad/enterprise-spring-best-practices/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 7
+    }
+}

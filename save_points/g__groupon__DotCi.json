@@ -1,0 +1,11 @@
+{
+    "project_name": "groupon/DotCi",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/groupon/DotCi/pull/265",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

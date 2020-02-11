@@ -1,0 +1,11 @@
+{
+    "project_name": "GeoWebCache/geowebcache",
+    "files": {
+        "/geowebcache/pom.xml": 1
+    },
+    "pull_request": "https://github.com/GeoWebCache/geowebcache/pull/822",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}
