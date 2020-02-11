@@ -1,0 +1,11 @@
+{
+    "project_name": "KDE/wikitolearn-course-midtier",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/KDE/wikitolearn-course-midtier/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

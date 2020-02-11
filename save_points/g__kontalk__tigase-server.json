@@ -1,0 +1,11 @@
+{
+    "project_name": "kontalk/tigase-server",
+    "files": {
+        "/modules/master/pom.xml": 4
+    },
+    "pull_request": "https://github.com/kontalk/tigase-server/pull/8",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

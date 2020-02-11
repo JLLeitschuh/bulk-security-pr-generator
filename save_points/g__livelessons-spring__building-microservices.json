@@ -1,0 +1,11 @@
+{
+    "project_name": "livelessons-spring/building-microservices",
+    "files": {
+        "/livelessons-parent/pom.xml": 3
+    },
+    "pull_request": "https://github.com/livelessons-spring/building-microservices/pull/19",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

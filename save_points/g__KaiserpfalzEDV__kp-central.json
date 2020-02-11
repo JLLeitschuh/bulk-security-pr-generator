@@ -1,0 +1,12 @@
+{
+    "project_name": "KaiserpfalzEDV/kp-central",
+    "files": {
+        "/kp-commons/pom.xml": 2,
+        "/kp-parent-pom/pom.xml": 2
+    },
+    "pull_request": "https://github.com/KaiserpfalzEDV/kp-central/pull/1",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

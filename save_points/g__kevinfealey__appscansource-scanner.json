@@ -1,0 +1,11 @@
+{
+    "project_name": "kevinfealey/appscansource-scanner",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/kevinfealey/appscansource-scanner/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

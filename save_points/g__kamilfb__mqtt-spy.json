@@ -1,0 +1,12 @@
+{
+    "project_name": "kamilfb/mqtt-spy",
+    "files": {
+        "/mqtt-spy-common/pom.xml": 1,
+        "/spy-common-ui/pom.xml": 1
+    },
+    "pull_request": "https://github.com/kamilfb/mqtt-spy/pull/132",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

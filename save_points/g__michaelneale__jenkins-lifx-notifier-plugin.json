@@ -1,0 +1,11 @@
+{
+    "project_name": "michaelneale/jenkins-lifx-notifier-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/michaelneale/jenkins-lifx-notifier-plugin/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

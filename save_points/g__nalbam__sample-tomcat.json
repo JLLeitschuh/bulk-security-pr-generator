@@ -1,0 +1,11 @@
+{
+    "project_name": "nalbam/sample-tomcat",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/nalbam/sample-tomcat/pull/28",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

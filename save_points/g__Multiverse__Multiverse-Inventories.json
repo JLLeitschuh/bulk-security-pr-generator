@@ -1,0 +1,11 @@
+{
+    "project_name": "Multiverse/Multiverse-Inventories",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/Multiverse/Multiverse-Inventories/pull/346",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

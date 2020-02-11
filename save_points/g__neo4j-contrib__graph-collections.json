@@ -1,0 +1,11 @@
+{
+    "project_name": "neo4j-contrib/graph-collections",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/neo4j-contrib/graph-collections/pull/26",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

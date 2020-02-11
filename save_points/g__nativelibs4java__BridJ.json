@@ -1,0 +1,12 @@
+{
+    "project_name": "nativelibs4java/BridJ",
+    "files": {
+        "/Examples/BasicExample/pom.xml": 2,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/nativelibs4java/BridJ/pull/108",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

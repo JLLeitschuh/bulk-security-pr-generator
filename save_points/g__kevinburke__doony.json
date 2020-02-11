@@ -1,0 +1,11 @@
+{
+    "project_name": "kevinburke/doony",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/kevinburke/doony/pull/99",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

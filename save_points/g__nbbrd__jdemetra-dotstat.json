@@ -1,0 +1,12 @@
+{
+    "project_name": "nbbrd/jdemetra-dotstat",
+    "files": {
+        "/demetra-dotstat-core/pom.xml": 1,
+        "/demetra-dotstat-desktop/pom.xml": 1
+    },
+    "pull_request": "https://github.com/nbbrd/jdemetra-dotstat/pull/96",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

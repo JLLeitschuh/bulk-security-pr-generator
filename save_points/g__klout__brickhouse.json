@@ -1,0 +1,11 @@
+{
+    "project_name": "klout/brickhouse",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/klout/brickhouse/pull/170",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

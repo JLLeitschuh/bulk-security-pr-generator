@@ -1,0 +1,11 @@
+{
+    "project_name": "nroduit/Weasis",
+    "files": {
+        "/weasis-dicom/weasis-dicom-codec/pom.xml": 1
+    },
+    "pull_request": "https://github.com/nroduit/Weasis/pull/114",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

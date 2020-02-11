@@ -1,0 +1,11 @@
+{
+    "project_name": "knowm/Sundial",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/knowm/Sundial/pull/67",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "project_name": "mojavelinux/seam-forge",
+    "files": {
+        "/project-model/src/test/resources/test-pom/pom.xml": 3,
+        "/project-model-tests/src/test/resources/test-pom/pom.xml": 3,
+        "/scaffold-plugin/pom.xml": 1,
+        "/shell/pom.xml": 1
+    },
+    "pull_request": "https://github.com/mojavelinux/seam-forge/pull/1",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 8
+    }
+}

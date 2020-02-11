@@ -1,0 +1,11 @@
+{
+    "project_name": "mojavelinux/forge-plugin-arquillian-extensions",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/mojavelinux/forge-plugin-arquillian-extensions/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

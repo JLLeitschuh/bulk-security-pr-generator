@@ -1,0 +1,12 @@
+{
+    "project_name": "mikaelgrev/miglayout",
+    "files": {
+        "/nbm/pom.xml": 1,
+        "/swt/pom.xml": 1
+    },
+    "pull_request": "https://github.com/mikaelgrev/miglayout/pull/73",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

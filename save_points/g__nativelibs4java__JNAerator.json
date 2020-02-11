@@ -1,0 +1,11 @@
+{
+    "project_name": "nativelibs4java/JNAerator",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/nativelibs4java/JNAerator/pull/121",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

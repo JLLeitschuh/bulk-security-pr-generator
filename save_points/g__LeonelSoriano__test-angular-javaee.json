@@ -1,0 +1,11 @@
+{
+    "project_name": "LeonelSoriano/test-angular-javaee",
+    "files": {
+        "/TestJersey2/pom.xml": 1
+    },
+    "pull_request": "https://github.com/LeonelSoriano/test-angular-javaee/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

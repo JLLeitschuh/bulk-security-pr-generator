@@ -1,0 +1,11 @@
+{
+    "project_name": "knowm/XChange",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/knowm/XChange/pull/3397",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

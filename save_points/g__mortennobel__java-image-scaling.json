@@ -1,0 +1,11 @@
+{
+    "project_name": "mortennobel/java-image-scaling",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/mortennobel/java-image-scaling/pull/44",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

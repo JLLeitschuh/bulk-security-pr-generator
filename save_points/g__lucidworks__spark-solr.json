@@ -1,0 +1,11 @@
+{
+    "project_name": "lucidworks/spark-solr",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/lucidworks/spark-solr/pull/286",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

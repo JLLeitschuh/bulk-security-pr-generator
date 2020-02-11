@@ -1,0 +1,11 @@
+{
+    "project_name": "medcl/elasticsearch-analysis-ik",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/medcl/elasticsearch-analysis-ik/pull/756",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

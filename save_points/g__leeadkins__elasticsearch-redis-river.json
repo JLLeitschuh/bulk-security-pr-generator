@@ -1,0 +1,11 @@
+{
+    "project_name": "leeadkins/elasticsearch-redis-river",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/leeadkins/elasticsearch-redis-river/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

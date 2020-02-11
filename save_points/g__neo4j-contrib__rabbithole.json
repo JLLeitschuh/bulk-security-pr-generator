@@ -1,0 +1,11 @@
+{
+    "project_name": "neo4j-contrib/rabbithole",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/neo4j-contrib/rabbithole/pull/89",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

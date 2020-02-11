@@ -1,0 +1,11 @@
+{
+    "project_name": "NLPchina/elasticsearch-analysis-ansj",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/NLPchina/elasticsearch-analysis-ansj/pull/180",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

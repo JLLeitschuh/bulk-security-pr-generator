@@ -1,0 +1,11 @@
+{
+    "project_name": "mttkay/signpost",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/mttkay/signpost/pull/25",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

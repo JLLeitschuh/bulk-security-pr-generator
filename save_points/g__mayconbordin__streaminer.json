@@ -1,0 +1,11 @@
+{
+    "project_name": "mayconbordin/streaminer",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/mayconbordin/streaminer/pull/8",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

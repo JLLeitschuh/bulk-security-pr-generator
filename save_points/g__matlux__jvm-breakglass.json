@@ -1,0 +1,15 @@
+{
+    "project_name": "matlux/jvm-breakglass",
+    "files": {
+        "/bootloader/pom.xml": 1,
+        "/examples/SpringMVC/pom.xml": 1,
+        "/examples/SpringMVCrest/pom.xml": 1,
+        "/examples/server/pom.xml": 1,
+        "/examples/server-no-spring/pom.xml": 1
+    },
+    "pull_request": "https://github.com/matlux/jvm-breakglass/pull/23",
+    "report": {
+        "files_fixed": 5,
+        "vulnerabilities_fixed": 5
+    }
+}

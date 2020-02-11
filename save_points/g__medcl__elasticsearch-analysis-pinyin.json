@@ -1,0 +1,11 @@
+{
+    "project_name": "medcl/elasticsearch-analysis-pinyin",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/medcl/elasticsearch-analysis-pinyin/pull/224",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

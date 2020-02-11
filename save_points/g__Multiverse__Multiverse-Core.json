@@ -1,0 +1,11 @@
+{
+    "project_name": "Multiverse/Multiverse-Core",
+    "files": {
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/Multiverse/Multiverse-Core/pull/2175",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 6
+    }
+}

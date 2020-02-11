@@ -1,0 +1,12 @@
+{
+    "project_name": "linkedpipes/etl",
+    "files": {
+        "/plugin-libraries/geotools/pom.xml": 2,
+        "/plugins/t-geoTools/pom.xml": 2
+    },
+    "pull_request": "https://github.com/linkedpipes/etl/pull/798",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

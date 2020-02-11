@@ -1,0 +1,11 @@
+{
+    "project_name": "MyCoRe-Org/mir",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/MyCoRe-Org/mir/pull/438",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

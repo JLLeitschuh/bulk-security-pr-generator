@@ -1,0 +1,11 @@
+{
+    "project_name": "kmader/spark-scifio",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/kmader/spark-scifio/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

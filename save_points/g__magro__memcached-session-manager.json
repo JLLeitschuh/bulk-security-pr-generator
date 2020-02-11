@@ -1,0 +1,13 @@
+{
+    "project_name": "magro/memcached-session-manager",
+    "files": {
+        "/javolution-serializer/pom.xml": 1,
+        "/kryo-serializer/pom.xml": 1,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/magro/memcached-session-manager/pull/416",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 5
+    }
+}

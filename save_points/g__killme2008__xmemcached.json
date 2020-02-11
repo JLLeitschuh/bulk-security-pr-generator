@@ -1,0 +1,11 @@
+{
+    "project_name": "killme2008/xmemcached",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/killme2008/xmemcached/pull/108",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

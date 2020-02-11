@@ -1,0 +1,11 @@
+{
+    "project_name": "neo4j-contrib/spatial",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/neo4j-contrib/spatial/pull/366",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

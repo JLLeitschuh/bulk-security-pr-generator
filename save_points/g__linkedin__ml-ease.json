@@ -1,0 +1,11 @@
+{
+    "project_name": "linkedin/ml-ease",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/linkedin/ml-ease/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

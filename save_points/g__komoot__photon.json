@@ -1,0 +1,11 @@
+{
+    "project_name": "komoot/photon",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/komoot/photon/pull/449",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

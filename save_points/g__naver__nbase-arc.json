@@ -1,0 +1,11 @@
+{
+    "project_name": "naver/nbase-arc",
+    "files": {
+        "/confmaster/pom.xml": 1
+    },
+    "pull_request": "https://github.com/naver/nbase-arc/pull/186",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

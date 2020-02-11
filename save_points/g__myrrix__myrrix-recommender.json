@@ -1,0 +1,11 @@
+{
+    "project_name": "myrrix/myrrix-recommender",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/myrrix/myrrix-recommender/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "Moocar/logback-gelf",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Moocar/logback-gelf/pull/71",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

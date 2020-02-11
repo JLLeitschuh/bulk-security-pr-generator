@@ -1,0 +1,11 @@
+{
+    "project_name": "mstr-dfeng/mail-reminder-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/mstr-dfeng/mail-reminder-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

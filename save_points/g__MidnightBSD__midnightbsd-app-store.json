@@ -1,0 +1,11 @@
+{
+    "project_name": "MidnightBSD/midnightbsd-app-store",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/MidnightBSD/midnightbsd-app-store/pull/7",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

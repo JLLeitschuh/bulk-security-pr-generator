@@ -1,0 +1,11 @@
+{
+    "project_name": "locationtech/jts",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/locationtech/jts/pull/516",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

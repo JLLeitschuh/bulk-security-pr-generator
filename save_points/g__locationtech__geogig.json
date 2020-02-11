@@ -1,0 +1,11 @@
+{
+    "project_name": "locationtech/geogig",
+    "files": {
+        "/src/pom.xml": 1
+    },
+    "pull_request": "https://github.com/locationtech/geogig/pull/491",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

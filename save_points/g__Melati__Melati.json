@@ -1,0 +1,16 @@
+{
+    "project_name": "Melati/Melati",
+    "files": {
+        "/courteouspoem/pom.xml": 2,
+        "/courteouspoem/src/main/webapp/META-INF/maven/org.melati/melati/pom.xml": 1,
+        "/melati/pom.xml": 1,
+        "/melati-archetype/src/main/resources/archetype-resources/pom.xml": 3,
+        "/poem/pom.xml": 1,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/Melati/Melati/pull/26",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 11
+    }
+}

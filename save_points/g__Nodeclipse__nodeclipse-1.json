@@ -1,0 +1,13 @@
+{
+    "project_name": "Nodeclipse/nodeclipse-1",
+    "files": {
+        "/org.nodeclipse.site/pom.xml": 25,
+        "/org.nodeclipse.site.test/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Nodeclipse/nodeclipse-1/pull/233",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 37
+    }
+}

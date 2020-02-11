@@ -1,0 +1,11 @@
+{
+    "project_name": "micromata/javaapiforkml",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/micromata/javaapiforkml/pull/24",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}
