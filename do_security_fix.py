@@ -336,8 +336,10 @@ async def do_run_everything():
     for json_file in list_all_json_files():
         vulnerable = read_repository_and_file_names(json_file)
         vulnerable.print()
-        if vulnerable.project_name == 'apache/servicemix4-bundles' or 'atmosphere' in vulnerable.project_name:
-            # TODO: Come back to 'atmosphere' later
+        if vulnerable.project_name == 'apache/servicemix4-bundles' or \
+                'atmosphere' in vulnerable.project_name or \
+                'Bukkit' in vulnerable.project_name:
+            # TODO: Come back to 'atmosphere' & 'Bukkit' later
             # black listed project
             continue
         # if 'jlleitschuh' in vulnerable.project_name.lower():
