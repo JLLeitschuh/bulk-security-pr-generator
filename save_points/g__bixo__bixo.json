@@ -1,0 +1,14 @@
+{
+    "project_name": "bixo/bixo",
+    "files": {
+        "/contrib/helpful/pom.xml": 1,
+        "/examples/pom.xml": 1,
+        "/pom.xml": 2,
+        "/tools/pom.xml": 1
+    },
+    "pull_request": "https://github.com/bixo/bixo/pull/70",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 5
+    }
+}

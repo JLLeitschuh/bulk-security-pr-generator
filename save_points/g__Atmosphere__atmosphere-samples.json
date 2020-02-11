@@ -1,0 +1,11 @@
+{
+    "project_name": "Atmosphere/atmosphere-samples",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Atmosphere/atmosphere-samples/pull/90",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

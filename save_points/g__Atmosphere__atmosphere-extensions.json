@@ -1,0 +1,11 @@
+{
+    "project_name": "Atmosphere/atmosphere-extensions",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/Atmosphere/atmosphere-extensions/pull/246",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

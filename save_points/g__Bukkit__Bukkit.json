@@ -1,0 +1,11 @@
+{
+    "project_name": "Bukkit/Bukkit",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/Bukkit/Bukkit/pull/1122",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

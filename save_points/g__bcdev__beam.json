@@ -1,0 +1,11 @@
+{
+    "project_name": "bcdev/beam",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/bcdev/beam/pull/40",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}
