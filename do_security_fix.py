@@ -291,6 +291,14 @@ async def process_vulnerable_project(project: VulnerableProjectFiles, lock) -> V
     return project_report
 
 
+async def process_vulnerable_project_checked(project: VulnerableProjectFiles, lock) -> VulnerabilityFixReport:
+    try:
+        return await process_vulnerable_project(project, lock)
+    except BaseException as e:
+        logging.error(f'Failed while processing project `{project.project_name}`')
+        raise e
+
+
 def is_archived_git_hub_repository(project: VulnerableProjectFiles) -> bool:
     return git_hub.get_repo(project.project_name).archived
 
@@ -333,7 +341,6 @@ async def do_run_everything():
 
     print('Done!')
     print(f'Fixed {vulnerabilities_fixed} vulnerabilities in {files_fixed} files across {projects_fixed} projects!')
-
 
 start = time.monotonic()
 asyncio.run(do_run_everything())
