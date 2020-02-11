@@ -313,6 +313,9 @@ async def do_run_everything():
         #     vulnerable_projects.append(vulnerable)
 
         if vulnerable.project_name.startswith('apache/'):
+            if vulnerable.project_name.endswith('servicemix4-bundles'):
+                # black listed project
+                continue
             vulnerable_projects.append(vulnerable)
 
     print()
