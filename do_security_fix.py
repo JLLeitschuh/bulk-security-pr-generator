@@ -62,6 +62,10 @@ class CouldNotReadFromRemoteRepositoryException(Exception):
     pass
 
 
+class PullRequestAlreadyExists(Exception):
+    pass
+
+
 async def subprocess_run(args: List[str], cwd: str) -> Optional[str]:
     proc = await asyncio.create_subprocess_exec(
         args[0],
@@ -87,6 +91,8 @@ async def subprocess_run(args: List[str], cwd: str) -> Optional[str]:
                 raise ShallowUpdateNotAllowedException(error_msg)
             if 'Could not read from remote repository' in msg:
                 raise CouldNotReadFromRemoteRepositoryException(error_msg)
+            if 'A pull request already exists' in msg:
+                raise PullRequestAlreadyExists(error_msg)
             raise RuntimeError(error_msg)
     else:
         if stderr:
@@ -150,8 +156,19 @@ class VulnerableProjectFiles:
         return await do_call(1)
 
     async def do_clone(self):
+        # Deal with fskobjects https://stackoverflow.com/a/41029655/3708426
         await self.do_resilient_hub_call(
-            ['hub', 'clone', self.project_name],
+            [
+                'hub',
+                'clone',
+                self.project_name,
+                '--config',
+                'transfer.fsckobjects=false',
+                '--config',
+                'receive.fsckobjects=false',
+                '--config',
+                'fetch.fsckobjects=false'
+            ],
             cwd=clone_repos_location
         )
 
@@ -264,10 +281,13 @@ class VulnerableProjectFiles:
                 await self.do_push_changes(retry_count - 1)
 
     async def do_create_pull_request(self, lock) -> str:
-        stdout = await self.do_run_hub_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path], lock)
-        pattern = re.compile(r'(https://.*)')
-        match = pattern.search(stdout)
-        return match.group(1)
+        try:
+            stdout = await self.do_run_hub_in(['hub', 'pull-request', '-p', '--file', pr_message_file_absolute_path], lock)
+            pattern = re.compile(r'(https://.*)')
+            match = pattern.search(stdout)
+            return match.group(1)
+        except PullRequestAlreadyExists as e:
+            return 'ALREADY_EXISTS'
 
     async def do_create_save_point(self, report: VulnerabilityFixReport, pr_url: str):
         json_body = {
@@ -338,8 +358,10 @@ async def do_run_everything():
         vulnerable.print()
         if vulnerable.project_name == 'apache/servicemix4-bundles' or \
                 'atmosphere' in vulnerable.project_name or \
+                'bixo' in vulnerable.project_name or \
+                'beam' in vulnerable.project_name or \
                 'Bukkit' in vulnerable.project_name:
-            # TODO: Come back to 'atmosphere' & 'Bukkit' later
+            # TODO: Come back to these later
             # black listed project
             continue
         # if 'jlleitschuh' in vulnerable.project_name.lower():
