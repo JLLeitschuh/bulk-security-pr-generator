@@ -1,0 +1,11 @@
+{
+    "project_name": "att/XACML",
+    "files": {
+        "/XACML-PAP-ADMIN/pom.xml": 2
+    },
+    "pull_request": "https://github.com/att/XACML/pull/59",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

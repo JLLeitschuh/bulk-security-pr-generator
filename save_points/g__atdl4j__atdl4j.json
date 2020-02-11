@@ -1,0 +1,11 @@
+{
+    "project_name": "atdl4j/atdl4j",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/atdl4j/atdl4j/pull/33",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

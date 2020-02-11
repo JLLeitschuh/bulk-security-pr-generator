@@ -1,0 +1,11 @@
+{
+    "project_name": "angelozerr/angularjs-eclipse",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/angelozerr/angularjs-eclipse/pull/232",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

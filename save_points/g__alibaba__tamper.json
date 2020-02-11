@@ -1,0 +1,11 @@
+{
+    "project_name": "alibaba/tamper",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/alibaba/tamper/pull/13",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

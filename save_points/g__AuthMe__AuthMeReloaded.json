@@ -1,0 +1,11 @@
+{
+    "project_name": "AuthMe/AuthMeReloaded",
+    "files": {
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/AuthMe/AuthMeReloaded/pull/2014",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 6
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "aadnk/ProtocolLib",
+    "files": {
+        "/modules/TinyProtocol/pom.xml": 1,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/aadnk/ProtocolLib/pull/170",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

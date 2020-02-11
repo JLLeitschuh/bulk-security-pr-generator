@@ -1,0 +1,11 @@
+{
+    "project_name": "airsonic/airsonic",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/airsonic/airsonic/pull/1502",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "acogoluegnes/Spring-Batch-in-Action",
+    "files": {
+        "/sbia/pom.xml": 3
+    },
+    "pull_request": "https://github.com/acogoluegnes/Spring-Batch-in-Action/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

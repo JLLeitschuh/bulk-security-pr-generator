@@ -1,0 +1,11 @@
+{
+    "project_name": "angelozerr/tern.java",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/angelozerr/tern.java/pull/473",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

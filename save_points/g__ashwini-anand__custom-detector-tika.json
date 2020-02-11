@@ -1,0 +1,11 @@
+{
+    "project_name": "ashwini-anand/custom-detector-tika",
+    "files": {
+        "/tika-1.14/tika-server/pom.xml": 1
+    },
+    "pull_request": "https://github.com/ashwini-anand/custom-detector-tika/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

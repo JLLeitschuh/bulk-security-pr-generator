@@ -1,0 +1,17 @@
+{
+    "project_name": "akquinet/vaadinator",
+    "files": {
+        "/VaadinatorArchetypes/vaadinator-desktop-jboss-archetype/src/main/resources/archetype-resources/pom.xml": 1,
+        "/VaadinatorArchetypes/vaadinator-desktop-tomcat-archetype/src/main/resources/archetype-resources/pom.xml": 1,
+        "/VaadinatorArchetypes/vaadinator-touchkit-jboss-archetype/src/main/resources/archetype-resources/pom.xml": 1,
+        "/VaadinatorArchetypes/vaadinator-touchkit-tomcat-archetype/src/main/resources/archetype-resources/pom.xml": 1,
+        "/VaadinatorExample/WebDriverExample/pom.xml": 1,
+        "/VaadinatorExample/WebDriverExampleTouchkit/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/akquinet/vaadinator/pull/48",
+    "report": {
+        "files_fixed": 7,
+        "vulnerabilities_fixed": 7
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "amitmohleji/xebialabs-code-snippets",
+    "files": {
+        "/priceline/dar/pom.xml": 1,
+        "/priceline/pom.xml": 6
+    },
+    "pull_request": "https://github.com/amitmohleji/xebialabs-code-snippets/pull/1",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 9
+    }
+}

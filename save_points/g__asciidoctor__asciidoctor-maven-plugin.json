@@ -1,0 +1,11 @@
+{
+    "project_name": "asciidoctor/asciidoctor-maven-plugin",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/asciidoctor/asciidoctor-maven-plugin/pull/421",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

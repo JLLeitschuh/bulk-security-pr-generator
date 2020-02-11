@@ -1,0 +1,11 @@
+{
+    "project_name": "alibaba/LuaViewSDK",
+    "files": {
+        "/Android/LuaViewSDK/pom.xml": 2
+    },
+    "pull_request": "https://github.com/alibaba/LuaViewSDK/pull/93",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

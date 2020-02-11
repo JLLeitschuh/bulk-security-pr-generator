@@ -1,0 +1,11 @@
+{
+    "project_name": "akraxx/gitlab-jira-integration",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/akraxx/gitlab-jira-integration/pull/34",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

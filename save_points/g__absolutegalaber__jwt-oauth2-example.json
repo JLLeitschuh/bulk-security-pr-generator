@@ -1,0 +1,11 @@
+{
+    "project_name": "absolutegalaber/jwt-oauth2-example",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/absolutegalaber/jwt-oauth2-example/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

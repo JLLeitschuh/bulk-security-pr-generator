@@ -1,0 +1,11 @@
+{
+    "project_name": "abel533/Mybatis-Spring",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/abel533/Mybatis-Spring/pull/44",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

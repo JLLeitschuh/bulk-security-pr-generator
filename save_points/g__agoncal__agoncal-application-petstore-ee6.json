@@ -1,0 +1,11 @@
+{
+    "project_name": "agoncal/agoncal-application-petstore-ee6",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/agoncal/agoncal-application-petstore-ee6/pull/42",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

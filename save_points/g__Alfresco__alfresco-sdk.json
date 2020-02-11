@@ -1,0 +1,11 @@
+{
+    "project_name": "Alfresco/alfresco-sdk",
+    "files": {
+        "/plugins/alfresco-maven-plugin/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Alfresco/alfresco-sdk/pull/593",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

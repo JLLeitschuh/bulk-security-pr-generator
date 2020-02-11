@@ -1,0 +1,11 @@
+{
+    "project_name": "Azure/azure-event-hubs-java",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Azure/azure-event-hubs-java/pull/464",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

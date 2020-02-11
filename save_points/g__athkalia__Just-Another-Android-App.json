@@ -1,0 +1,11 @@
+{
+    "project_name": "athkalia/Just-Another-Android-App",
+    "files": {
+        "/.teamcity/pom.xml": 3
+    },
+    "pull_request": "https://github.com/athkalia/Just-Another-Android-App/pull/101",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

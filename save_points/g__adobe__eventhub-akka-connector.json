@@ -1,0 +1,11 @@
+{
+    "project_name": "adobe/eventhub-akka-connector",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/adobe/eventhub-akka-connector/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

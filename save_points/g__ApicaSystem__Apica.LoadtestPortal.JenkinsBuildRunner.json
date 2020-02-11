@@ -1,0 +1,11 @@
+{
+    "project_name": "ApicaSystem/Apica.LoadtestPortal.JenkinsBuildRunner",
+    "files": {
+        "/ApicaLoadtest/pom.xml": 2
+    },
+    "pull_request": "https://github.com/ApicaSystem/Apica.LoadtestPortal.JenkinsBuildRunner/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

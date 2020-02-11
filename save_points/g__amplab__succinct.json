@@ -1,0 +1,11 @@
+{
+    "project_name": "amplab/succinct",
+    "files": {
+        "/spark/pom.xml": 2
+    },
+    "pull_request": "https://github.com/amplab/succinct/pull/44",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

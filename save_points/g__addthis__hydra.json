@@ -1,0 +1,11 @@
+{
+    "project_name": "addthis/hydra",
+    "files": {
+        "/hydra-avro/pom.xml": 1
+    },
+    "pull_request": "https://github.com/addthis/hydra/pull/300",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

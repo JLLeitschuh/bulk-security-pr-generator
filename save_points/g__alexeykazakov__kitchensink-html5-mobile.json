@@ -1,0 +1,11 @@
+{
+    "project_name": "alexeykazakov/kitchensink-html5-mobile",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/alexeykazakov/kitchensink-html5-mobile/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

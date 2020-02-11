@@ -1,0 +1,11 @@
+{
+    "project_name": "alexo/wro4j",
+    "files": {
+        "/wro4j-examples/wro4j-demo/pom.xml": 7
+    },
+    "pull_request": "",
+    "report": {
+        "files_fixed": 0,
+        "vulnerabilities_fixed": 0
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "Alfresco/gytheio",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Alfresco/gytheio/pull/148",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

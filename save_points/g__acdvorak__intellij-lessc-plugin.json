@@ -1,0 +1,11 @@
+{
+    "project_name": "acdvorak/intellij-lessc-plugin",
+    "files": {
+        "/asual-lesscss-engine/pom.xml": 2
+    },
+    "pull_request": "https://github.com/acdvorak/intellij-lessc-plugin/pull/105",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

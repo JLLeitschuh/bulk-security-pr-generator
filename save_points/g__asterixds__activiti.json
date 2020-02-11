@@ -1,0 +1,15 @@
+{
+    "project_name": "asterixds/activiti",
+    "files": {
+        "/modules/activiti-common-rest/pom.xml": 1,
+        "/modules/activiti-explorer/pom.xml": 1,
+        "/modules/activiti-modeler/pom.xml": 1,
+        "/modules/activiti-spring-boot/pom.xml": 4,
+        "/modules/activiti-webapp-explorer2/pom.xml": 1
+    },
+    "pull_request": "https://github.com/asterixds/activiti/pull/1",
+    "report": {
+        "files_fixed": 5,
+        "vulnerabilities_fixed": 8
+    }
+}

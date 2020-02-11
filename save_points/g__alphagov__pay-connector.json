@@ -1,0 +1,11 @@
+{
+    "project_name": "alphagov/pay-connector",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/alphagov/pay-connector/pull/2097",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "akaigoro/df4j",
+    "files": {
+        "/df4j-core/pom.xml": 2,
+        "/df4j-nio2/pom.xml": 2,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/akaigoro/df4j/pull/6",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 6
+    }
+}

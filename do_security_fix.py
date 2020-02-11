@@ -336,7 +336,8 @@ async def do_run_everything():
     for json_file in list_all_json_files():
         vulnerable = read_repository_and_file_names(json_file)
         vulnerable.print()
-        if vulnerable.project_name == 'apache/servicemix4-bundles':
+        if vulnerable.project_name == 'apache/servicemix4-bundles' or 'atmosphere' in vulnerable.project_name:
+            # TODO: Come back to 'atmosphere' later
             # black listed project
             continue
         # if 'jlleitschuh' in vulnerable.project_name.lower():
@@ -390,7 +391,7 @@ async def do_run_everything():
     projects_fixed = 0
     files_fixed = 0
     vulnerabilities_fixed = 0
-    print('Processing Projects:')
+    print(f'Processing {len(waiting_reports)} Projects:')
     all_reports = await asyncio.gather(*waiting_reports)
     for report in all_reports:
         if report.vulnerabilities_fixed > 0:

@@ -1,0 +1,11 @@
+{
+    "project_name": "agorava/agorava-core",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/agorava/agorava-core/pull/12",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

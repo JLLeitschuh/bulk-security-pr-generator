@@ -1,0 +1,16 @@
+{
+    "project_name": "attdevsupport/ARO",
+    "files": {
+        "/5.0.0/ARO.Console/pom.xml": 1,
+        "/5.0.0/ARO.Core/pom.xml": 2,
+        "/5.0.0/ARO.UI/pom.xml": 1,
+        "/5.0.0/DataCollectors/ARO.IOSCollector/pom.xml": 4,
+        "/5.0.0/DataCollectors/ARO.NorootAndroidCollector/pom.xml": 2,
+        "/5.0.0/DataCollectors/ARO.RootedAndroidCollector/pom.xml": 2
+    },
+    "pull_request": "https://github.com/attdevsupport/ARO/pull/21",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 12
+    }
+}

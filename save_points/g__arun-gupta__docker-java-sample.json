@@ -1,0 +1,11 @@
+{
+    "project_name": "arun-gupta/docker-java-sample",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/arun-gupta/docker-java-sample/pull/22",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

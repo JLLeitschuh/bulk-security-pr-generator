@@ -1,0 +1,11 @@
+{
+    "project_name": "adityasharad/lgtm-workshop",
+    "files": {
+        "/src/activemq/activemq-mqtt/pom.xml": 1
+    },
+    "pull_request": "https://github.com/adityasharad/lgtm-workshop/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

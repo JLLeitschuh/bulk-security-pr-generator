@@ -1,0 +1,11 @@
+{
+    "project_name": "abel533/Mapper",
+    "files": {
+        "/spring-boot-starter/pom.xml": 4
+    },
+    "pull_request": "https://github.com/abel533/Mapper/pull/725",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

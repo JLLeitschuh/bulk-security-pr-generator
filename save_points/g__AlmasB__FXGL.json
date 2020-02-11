@@ -1,0 +1,12 @@
+{
+    "project_name": "AlmasB/FXGL",
+    "files": {
+        "/fxgl-nativesamples/pom.xml": 1,
+        "/fxgl-tools/pom.xml": 1
+    },
+    "pull_request": "https://github.com/AlmasB/FXGL/pull/748",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

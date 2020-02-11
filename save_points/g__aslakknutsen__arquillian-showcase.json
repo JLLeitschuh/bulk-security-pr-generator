@@ -1,0 +1,15 @@
+{
+    "project_name": "aslakknutsen/arquillian-showcase",
+    "files": {
+        "/container-boms/resin-embedded-4/pom.xml": 2,
+        "/extensions/weld-servlet/pom.xml": 1,
+        "/jpa-lite/pom.xml": 1,
+        "/parent/pom.xml": 2,
+        "/spring/pom.xml": 2
+    },
+    "pull_request": "https://github.com/aslakknutsen/arquillian-showcase/pull/1",
+    "report": {
+        "files_fixed": 5,
+        "vulnerabilities_fixed": 8
+    }
+}

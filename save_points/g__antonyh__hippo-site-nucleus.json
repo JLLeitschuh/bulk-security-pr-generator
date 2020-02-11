@@ -1,0 +1,11 @@
+{
+    "project_name": "antonyh/hippo-site-nucleus",
+    "files": {
+        "/ht/pom.xml": 1
+    },
+    "pull_request": "https://github.com/antonyh/hippo-site-nucleus/pull/13",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

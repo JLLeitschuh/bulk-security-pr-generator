@@ -1,0 +1,11 @@
+{
+    "project_name": "adhulipa/tika-pooled-time-series",
+    "files": {
+        "/tika-server/pom.xml": 1
+    },
+    "pull_request": "https://github.com/adhulipa/tika-pooled-time-series/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

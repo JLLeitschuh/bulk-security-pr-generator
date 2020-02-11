@@ -1,0 +1,11 @@
+{
+    "project_name": "AnujaK/restfiddle",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/AnujaK/restfiddle/pull/448",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

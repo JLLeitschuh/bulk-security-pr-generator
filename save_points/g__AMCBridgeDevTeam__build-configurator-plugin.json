@@ -1,0 +1,11 @@
+{
+    "project_name": "AMCBridgeDevTeam/build-configurator-plugin",
+    "files": {
+        "/configurator/pom.xml": 2
+    },
+    "pull_request": "https://github.com/AMCBridgeDevTeam/build-configurator-plugin/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

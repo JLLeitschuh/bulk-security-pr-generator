@@ -1,0 +1,11 @@
+{
+    "project_name": "aerospike/aerospike-client-java",
+    "files": {
+        "/benchmarks/pom.xml": 1
+    },
+    "pull_request": "https://github.com/aerospike/aerospike-client-java/pull/157",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

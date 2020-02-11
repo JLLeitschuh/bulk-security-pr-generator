@@ -1,0 +1,11 @@
+{
+    "project_name": "Alluxio/alluxio",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/Alluxio/alluxio/pull/10882",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

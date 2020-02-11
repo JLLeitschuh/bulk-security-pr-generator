@@ -1,0 +1,11 @@
+{
+    "project_name": "alibaba/p3c",
+    "files": {
+        "/eclipse-plugin/pom.xml": 2
+    },
+    "pull_request": "https://github.com/alibaba/p3c/pull/644",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

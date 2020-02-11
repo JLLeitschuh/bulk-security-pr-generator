@@ -1,0 +1,12 @@
+{
+    "project_name": "arago/rike",
+    "files": {
+        "/arago-base-theme/pom.xml": 1,
+        "/arago-rike-rest-api/pom.xml": 1
+    },
+    "pull_request": "https://github.com/arago/rike/pull/81",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

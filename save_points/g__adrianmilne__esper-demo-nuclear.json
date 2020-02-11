@@ -1,0 +1,11 @@
+{
+    "project_name": "adrianmilne/esper-demo-nuclear",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/adrianmilne/esper-demo-nuclear/pull/2",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

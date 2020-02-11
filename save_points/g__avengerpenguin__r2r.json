@@ -1,0 +1,11 @@
+{
+    "project_name": "avengerpenguin/r2r",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/avengerpenguin/r2r/pull/3",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

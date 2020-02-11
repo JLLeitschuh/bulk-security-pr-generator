@@ -1,0 +1,12 @@
+{
+    "project_name": "ArcBees/gwtquery",
+    "files": {
+        "/archetype/src/main/resources/archetype-resources/pom.xml": 4,
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/ArcBees/gwtquery/pull/386",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 9
+    }
+}

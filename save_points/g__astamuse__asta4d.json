@@ -1,0 +1,12 @@
+{
+    "project_name": "astamuse/asta4d",
+    "files": {
+        "/asta4d-doc/pom.xml": 1,
+        "/asta4d-spring/pom.xml": 1
+    },
+    "pull_request": "https://github.com/astamuse/asta4d/pull/30",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}
