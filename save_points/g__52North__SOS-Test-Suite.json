@@ -1,0 +1,11 @@
+{
+    "project_name": "52North/SOS-Test-Suite",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/52North/SOS-Test-Suite/pull/15",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

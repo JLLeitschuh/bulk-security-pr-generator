@@ -1,0 +1,11 @@
+{
+    "project_name": "52North/wps-client-lib",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/52North/wps-client-lib/pull/17",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

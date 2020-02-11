@@ -1,0 +1,11 @@
+{
+    "project_name": "52North/helgoland-server",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/52North/helgoland-server/pull/25",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

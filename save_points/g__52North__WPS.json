@@ -1,0 +1,16 @@
+{
+    "project_name": "52North/WPS",
+    "files": {
+        "/52n-wps-ags/52n-wps-ags-workspace/pom.xml": 1,
+        "/52n-wps-grass/pom.xml": 1,
+        "/52n-wps-io/pom.xml": 1,
+        "/52n-wps-io-geotools/pom.xml": 1,
+        "/52n-wps-io-impl/pom.xml": 1,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/52North/WPS/pull/287",
+    "report": {
+        "files_fixed": 6,
+        "vulnerabilities_fixed": 8
+    }
+}

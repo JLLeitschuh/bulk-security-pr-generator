@@ -1,0 +1,13 @@
+{
+    "project_name": "52North/SOS",
+    "files": {
+        "/misc/wsdl/pom.xml": 6,
+        "/operations/core-v20/pom.xml": 3,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/52North/SOS/pull/747",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 11
+    }
+}

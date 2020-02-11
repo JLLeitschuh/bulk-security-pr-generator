@@ -1,0 +1,11 @@
+{
+    "project_name": "52North/eventing-rest-api",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/52North/eventing-rest-api/pull/6",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

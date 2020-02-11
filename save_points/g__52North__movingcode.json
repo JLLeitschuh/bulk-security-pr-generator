@@ -1,0 +1,13 @@
+{
+    "project_name": "52North/movingcode",
+    "files": {
+        "/mc-runtime/pom.xml": 1,
+        "/mc-schema/pom.xml": 1,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/52North/movingcode/pull/9",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 4
+    }
+}

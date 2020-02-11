@@ -1,0 +1,11 @@
+{
+    "project_name": "52North/series-rest-api",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/52North/series-rest-api/pull/490",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "52North/OpenSensorSearch",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/52North/OpenSensorSearch/pull/58",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "project_name": "52North/dao-series-api",
+    "files": {
+        "/pom.xml": 2,
+        "/webapp/pom.xml": 1
+    },
+    "pull_request": "https://github.com/52North/dao-series-api/pull/194",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

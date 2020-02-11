@@ -1,0 +1,11 @@
+{
+    "project_name": "52North/fotoquest-series-api",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/52North/fotoquest-series-api/pull/10",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}
