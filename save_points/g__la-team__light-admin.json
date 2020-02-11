@@ -1,0 +1,12 @@
+{
+    "project_name": "la-team/light-admin",
+    "files": {
+        "/lightadmin-core/pom.xml": 2,
+        "/lightadmin-sandbox/pom.xml": 2
+    },
+    "pull_request": "https://github.com/la-team/light-admin/pull/276",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

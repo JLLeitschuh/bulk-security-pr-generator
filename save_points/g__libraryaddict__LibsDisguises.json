@@ -1,0 +1,11 @@
+{
+    "project_name": "libraryaddict/LibsDisguises",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/libraryaddict/LibsDisguises/pull/428",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

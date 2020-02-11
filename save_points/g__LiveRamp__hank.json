@@ -1,0 +1,11 @@
+{
+    "project_name": "LiveRamp/hank",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/LiveRamp/hank/pull/345",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

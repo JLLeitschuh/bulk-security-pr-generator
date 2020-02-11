@@ -1,0 +1,11 @@
+{
+    "project_name": "nysenate/OpenLegislation",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/nysenate/OpenLegislation/pull/42",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

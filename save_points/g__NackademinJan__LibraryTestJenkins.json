@@ -1,0 +1,12 @@
+{
+    "project_name": "NackademinJan/LibraryTestJenkins",
+    "files": {
+        "/librarytest/librarytest-gui/pom.xml": 3,
+        "/librarytest/librarytest-rest/pom.xml": 1
+    },
+    "pull_request": "https://github.com/NackademinJan/LibraryTestJenkins/pull/1",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 4
+    }
+}

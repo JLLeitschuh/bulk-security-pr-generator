@@ -1,0 +1,11 @@
+{
+    "project_name": "MilkBowl/Vault",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/MilkBowl/Vault/pull/793",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

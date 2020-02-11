@@ -1,0 +1,14 @@
+{
+    "project_name": "kmader/TIPL",
+    "files": {
+        "/pom.xml": 5,
+        "/spark-ij/pom.xml": 3,
+        "/spark-imageio/pom.xml": 5,
+        "/spark-scifio/pom.xml": 2
+    },
+    "pull_request": "https://github.com/kmader/TIPL/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

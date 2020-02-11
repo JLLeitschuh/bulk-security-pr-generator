@@ -1,0 +1,15 @@
+{
+    "project_name": "matsim-org/matsim",
+    "files": {
+        "/benchmark/pom.xml": 1,
+        "/contribs/osm/pom.xml": 2,
+        "/contribs/pom.xml": 4,
+        "/examples/pom.xml": 1,
+        "/matsim/pom.xml": 4
+    },
+    "pull_request": "https://github.com/matsim-org/matsim/pull/818",
+    "report": {
+        "files_fixed": 5,
+        "vulnerabilities_fixed": 12
+    }
+}

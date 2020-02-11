@@ -1,0 +1,11 @@
+{
+    "project_name": "mysql-time-machine/replicator",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/mysql-time-machine/replicator/pull/57",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

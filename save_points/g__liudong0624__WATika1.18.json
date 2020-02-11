@@ -1,0 +1,11 @@
+{
+    "project_name": "liudong0624/WATika1.18",
+    "files": {
+        "/tika-server/pom.xml": 1
+    },
+    "pull_request": "https://github.com/liudong0624/WATika1.18/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

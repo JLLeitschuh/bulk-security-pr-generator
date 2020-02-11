@@ -1,0 +1,11 @@
+{
+    "project_name": "laffer1/justjournal",
+    "files": {
+        "/pom.xml": 5
+    },
+    "pull_request": "https://github.com/laffer1/justjournal/pull/34",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 5
+    }
+}

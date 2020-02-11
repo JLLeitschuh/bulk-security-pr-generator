@@ -1,0 +1,12 @@
+{
+    "project_name": "m-y-mo/myfaces-trinidad_20165019",
+    "files": {
+        "/pom.xml": 2,
+        "/trinidad-examples/pom.xml": 1
+    },
+    "pull_request": "https://github.com/m-y-mo/myfaces-trinidad_20165019/pull/1",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

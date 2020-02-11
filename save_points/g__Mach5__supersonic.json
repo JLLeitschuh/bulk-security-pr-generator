@@ -1,0 +1,11 @@
+{
+    "project_name": "Mach5/supersonic",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/Mach5/supersonic/pull/96",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

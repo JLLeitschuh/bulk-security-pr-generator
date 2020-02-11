@@ -1,0 +1,11 @@
+{
+    "project_name": "kohsuke/jenkins",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/kohsuke/jenkins/pull/39",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "m2e-code-quality/m2e-code-quality",
+    "files": {
+        "/pom.xml": 6
+    },
+    "pull_request": "https://github.com/m2e-code-quality/m2e-code-quality/pull/231",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

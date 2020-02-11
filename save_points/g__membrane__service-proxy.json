@@ -1,0 +1,12 @@
+{
+    "project_name": "membrane/service-proxy",
+    "files": {
+        "/distribution/examples/embedding-java/pom.xml": 1,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/membrane/service-proxy/pull/349",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 3
+    }
+}

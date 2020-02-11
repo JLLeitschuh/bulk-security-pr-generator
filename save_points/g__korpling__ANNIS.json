@@ -1,0 +1,12 @@
+{
+    "project_name": "korpling/ANNIS",
+    "files": {
+        "/annis-widgets/pom.xml": 4,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/korpling/ANNIS/pull/652",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 5
+    }
+}

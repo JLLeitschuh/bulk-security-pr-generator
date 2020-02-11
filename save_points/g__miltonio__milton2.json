@@ -1,0 +1,20 @@
+{
+    "project_name": "miltonio/milton2",
+    "files": {
+        "/apps/milton-mini-server/pom.xml": 2,
+        "/examples/eclipse-tut-1/pom.xml": 1,
+        "/examples/milton-anno-bandstand/pom.xml": 3,
+        "/examples/milton-ref/pom.xml": 2,
+        "/examples/tuts-anno1/pom.xml": 2,
+        "/external/alertify.js/pom.xml": 2,
+        "/external/bootstrap/pom.xml": 2,
+        "/external/cardme/pom.xml": 1,
+        "/milton-server-ce/pom.xml": 1,
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/miltonio/milton2/pull/128",
+    "report": {
+        "files_fixed": 10,
+        "vulnerabilities_fixed": 20
+    }
+}

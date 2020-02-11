@@ -1,0 +1,13 @@
+{
+    "project_name": "kite-sdk/kite",
+    "files": {
+        "/kite-app-parent/cdh4/pom.xml": 1,
+        "/kite-app-parent/cdh5/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/kite-sdk/kite/pull/500",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 3
+    }
+}

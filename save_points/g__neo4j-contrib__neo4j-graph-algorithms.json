@@ -1,0 +1,11 @@
+{
+    "project_name": "neo4j-contrib/neo4j-graph-algorithms",
+    "files": {
+        "/benchmark/pom.xml": 1
+    },
+    "pull_request": "https://github.com/neo4j-contrib/neo4j-graph-algorithms/pull/929",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}
