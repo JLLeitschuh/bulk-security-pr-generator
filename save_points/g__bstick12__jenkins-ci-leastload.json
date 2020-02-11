@@ -1,0 +1,11 @@
+{
+    "project_name": "bstick12/jenkins-ci-leastload",
+    "files": {
+        "/pom.xml": 3
+    },
+    "pull_request": "https://github.com/bstick12/jenkins-ci-leastload/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 3
+    }
+}

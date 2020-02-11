@@ -1,0 +1,11 @@
+{
+    "project_name": "bcvsolutions/forest-index",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/bcvsolutions/forest-index/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

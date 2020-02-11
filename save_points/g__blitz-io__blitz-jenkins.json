@@ -1,0 +1,11 @@
+{
+    "project_name": "blitz-io/blitz-jenkins",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/blitz-io/blitz-jenkins/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

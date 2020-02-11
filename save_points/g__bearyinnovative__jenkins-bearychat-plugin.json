@@ -1,0 +1,11 @@
+{
+    "project_name": "bearyinnovative/jenkins-bearychat-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/bearyinnovative/jenkins-bearychat-plugin/pull/25",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

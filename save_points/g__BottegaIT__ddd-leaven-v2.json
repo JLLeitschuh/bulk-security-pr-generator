@@ -1,0 +1,11 @@
+{
+    "project_name": "BottegaIT/ddd-leaven-v2",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/BottegaIT/ddd-leaven-v2/pull/5",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

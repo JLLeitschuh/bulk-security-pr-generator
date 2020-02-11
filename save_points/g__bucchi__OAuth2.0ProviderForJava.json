@@ -1,0 +1,11 @@
+{
+  "project_name": "bucchi/OAuth2.0ProviderForJava",
+  "files": {
+    "/test/pom.xml": 3
+  },
+  "pull_request": "https://github.com/bucchi/OAuth2.0ProviderForJava/pull/2",
+  "report": {
+    "files_fixed": 1,
+    "vulnerabilities_fixed": 1
+  }
+}

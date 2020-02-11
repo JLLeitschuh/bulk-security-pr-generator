@@ -1,0 +1,11 @@
+{
+    "project_name": "Blazemeter/blazemeter-jenkins-plugin",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/Blazemeter/blazemeter-jenkins-plugin/pull/84",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}

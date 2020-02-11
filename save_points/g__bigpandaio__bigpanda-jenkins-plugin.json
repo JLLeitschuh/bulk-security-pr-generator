@@ -1,0 +1,11 @@
+{
+    "project_name": "bigpandaio/bigpanda-jenkins-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/bigpandaio/bigpanda-jenkins-plugin/pull/9",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

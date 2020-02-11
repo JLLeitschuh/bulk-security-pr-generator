@@ -1,0 +1,11 @@
+{
+    "project_name": "bijukunjummen/spring-cloud-ping-pong-sample",
+    "files": {
+        "/pom.xml": 4
+    },
+    "pull_request": "https://github.com/bijukunjummen/spring-cloud-ping-pong-sample/pull/4",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 4
+    }
+}
