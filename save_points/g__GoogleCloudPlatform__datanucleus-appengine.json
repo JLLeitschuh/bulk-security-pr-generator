@@ -1,0 +1,13 @@
+{
+    "project_name": "GoogleCloudPlatform/datanucleus-appengine",
+    "files": {
+        "/maven-appengine-artifacts/datanucleus-appengine-jdo/pom.xml": 1,
+        "/maven-appengine-artifacts/datanucleus-appengine-jpa/pom.xml": 1,
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/GoogleCloudPlatform/datanucleus-appengine/pull/2",
+    "report": {
+        "files_fixed": 3,
+        "vulnerabilities_fixed": 4
+    }
+}

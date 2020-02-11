@@ -1,0 +1,11 @@
+{
+    "project_name": "microsoft/azure-tools-for-java",
+    "files": {
+        "/PluginsAndFeatures/azure-toolkit-for-eclipse/pom.xml": 1
+    },
+    "pull_request": "https://github.com/microsoft/azure-tools-for-java/pull/3976",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

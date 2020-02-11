@@ -1,0 +1,11 @@
+{
+    "project_name": "microsoft/spring-data-cosmosdb",
+    "files": {
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/microsoft/spring-data-cosmosdb/pull/487",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

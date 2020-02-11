@@ -1,0 +1,11 @@
+{
+    "project_name": "GoogleCloudPlatform/google-cloud-datastore",
+    "files": {
+        "/java/pom.xml": 1
+    },
+    "pull_request": "https://github.com/GoogleCloudPlatform/google-cloud-datastore/pull/247",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

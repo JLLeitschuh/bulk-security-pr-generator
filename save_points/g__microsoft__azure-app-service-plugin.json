@@ -1,0 +1,11 @@
+{
+    "project_name": "microsoft/azure-app-service-plugin",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/microsoft/azure-app-service-plugin/pull/27",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}

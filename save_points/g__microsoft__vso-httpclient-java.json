@@ -1,0 +1,11 @@
+{
+    "project_name": "microsoft/vso-httpclient-java",
+    "files": {
+        "/pom.xml": 2
+    },
+    "pull_request": "https://github.com/microsoft/vso-httpclient-java/pull/32",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}
