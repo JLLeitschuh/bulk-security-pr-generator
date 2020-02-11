@@ -1,0 +1,14 @@
+{
+    "project_name": "apache/servicemix-specs",
+    "files": {
+        "/jain-sip-api-1.2/pom.xml": 1,
+        "/jain-sip-api-1.2.1/pom.xml": 1,
+        "/jsr311-api-1.1/pom.xml": 1,
+        "/jsr311-api-1.1.1/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/servicemix-specs/pull/15",
+    "report": {
+        "files_fixed": 4,
+        "vulnerabilities_fixed": 4
+    }
+}

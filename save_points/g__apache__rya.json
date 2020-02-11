@@ -1,0 +1,12 @@
+{
+    "project_name": "apache/rya",
+    "files": {
+        "/osgi/rdf4j-runtime-osgi/pom.xml": 1,
+        "/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/rya/pull/312",
+    "report": {
+        "files_fixed": 2,
+        "vulnerabilities_fixed": 2
+    }
+}

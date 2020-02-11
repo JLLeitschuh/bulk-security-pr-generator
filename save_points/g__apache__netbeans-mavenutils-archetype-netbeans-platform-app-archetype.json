@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/netbeans-mavenutils-archetype-netbeans-platform-app-archetype",
+    "files": {
+        "/src/main/resources/archetype-resources/pom.xml": 1
+    },
+    "pull_request": "https://github.com/apache/netbeans-mavenutils-archetype-netbeans-platform-app-archetype/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "project_name": "apache/npanday-its",
+    "files": {
+        "/src/test/resources/NPANDAY_140_ConflictingExtensionsTest/pom.xml": 2
+    },
+    "pull_request": "https://github.com/apache/npanday-its/pull/1",
+    "report": {
+        "files_fixed": 1,
+        "vulnerabilities_fixed": 2
+    }
+}
