@@ -9,11 +9,11 @@ import aiofiles
 from vulnerability_fix_engine import VulnerabilityFixModule
 
 
-@dataclass
+@dataclass()
 class PomVulnerabilityFixModule(VulnerabilityFixModule):
     branch_name: str = 'fix/JLL/use_https_to_resolve_dependencies'
     clone_repos_location: str = 'cloned_repos'
-    data_base_dir = 'insecure_pom_data'
+    data_base_dir: str = 'insecure_pom_data'
     save_point_location: str = 'save_points'
     pr_message_file_absolute_path: str = f'{str(pathlib.Path().absolute())}/PR_MESSAGE.md'
     commit_message: str = textwrap.dedent('''\
