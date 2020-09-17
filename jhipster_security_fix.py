@@ -3,7 +3,7 @@ import textwrap
 from dataclasses import dataclass
 
 import aiofiles
-from requests_threads import AsyncSession
+import httpx
 
 from vulnerability_fix_engine import VulnerabilityFixModule
 
@@ -26,16 +26,25 @@ class JHipsterVulnerabilityFixModule(VulnerabilityFixModule):
         Signed-off-by: Jonathan Leitschuh <Jonathan.Leitschuh@gmail.com>
         ''')
     post_url = 'https://us-central1-glassy-archway-286320.cloudfunctions.net/cwe338'
-    session = AsyncSession(n=100)
+
+    async def do_fix_file_contents(self, file_contents: str, retry_count: int = 0) -> str:
+        async with httpx.AsyncClient() as client:
+            response = await client.post(
+                url=self.post_url,
+                data=file_contents
+            )
+        if response.status_code is 200:
+            return response.text
+        elif retry_count > 5:
+            raise Exception(f'Failed to fix file contents after {retry_count} tries')
+        else:
+            return await self.do_fix_file_contents(file_contents, retry_count + 1)
 
     async def do_fix_vulnerable_file(self, project_name: str, file: str, expected_fix_count: int) -> int:
         async with aiofiles.open(file, newline='') as vulnerableFile:
             contents: str = await vulnerableFile.read()
-        # noinspection PyUnresolvedReferences
-        new_contents = await self.session.post(
-            self.post_url,
-            contents
-        )
+
+        new_contents = await self.do_fix_file_contents(contents)
         if new_contents == contents:
             return 0
 
