@@ -26,12 +26,14 @@ class JHipsterVulnerabilityFixModule(VulnerabilityFixModule):
         Signed-off-by: Jonathan Leitschuh <Jonathan.Leitschuh@gmail.com>
         ''')
     post_url = 'https://us-central1-glassy-archway-286320.cloudfunctions.net/cwe338'
+    timeout = httpx.Timeout(60.0, connect=60.0)
 
     async def do_fix_file_contents(self, file_contents: str, retry_count: int = 0) -> str:
         async with httpx.AsyncClient() as client:
             response = await client.post(
                 url=self.post_url,
-                data=file_contents
+                data=file_contents,
+                timeout=self.timeout
             )
         if response.status_code is 200:
             return response.text
