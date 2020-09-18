@@ -27,20 +27,35 @@ class JHipsterVulnerabilityFixModule(VulnerabilityFixModule):
         ''')
     post_url = 'https://us-central1-glassy-archway-286320.cloudfunctions.net/cwe338'
     timeout = httpx.Timeout(60.0, connect=60.0)
+    ignored_project_names = [
+        'jhipsterSampleApplication',
+        'jhipster-sample-application',
+        'jhipster',
+        'jhipsterSampleApplication2',
+        'jhipster-demo',
+        'jhipster-sample'
+    ]
 
     async def do_fix_file_contents(self, file_contents: str, retry_count: int = 0) -> str:
-        async with httpx.AsyncClient() as client:
-            response = await client.post(
-                url=self.post_url,
-                data=file_contents,
-                timeout=self.timeout
-            )
-        if response.status_code is 200:
-            return response.text
-        elif retry_count > 5:
-            raise Exception(f'Failed to fix file contents after {retry_count} tries')
-        else:
-            return await self.do_fix_file_contents(file_contents, retry_count + 1)
+        retry_max: int = 5
+        try:
+            async with httpx.AsyncClient() as client:
+                response = await client.post(
+                    url=self.post_url,
+                    data=file_contents,
+                    timeout=self.timeout
+                )
+            if response.status_code is 200:
+                return response.text
+            elif retry_count > retry_max:
+                raise Exception(f'Failed to fix file contents after {retry_count} tries')
+            else:
+                return await self.do_fix_file_contents(file_contents, retry_count + 1)
+        except httpx.NetworkError as e:
+            if retry_count > retry_max:
+                raise Exception(f'Failed to fix file contents after {retry_count} tries') from e
+            else:
+                return await self.do_fix_file_contents(file_contents, retry_count + 1)
 
     async def do_fix_vulnerable_file(self, project_name: str, file: str, expected_fix_count: int) -> int:
         async with aiofiles.open(file, newline='') as vulnerableFile:
@@ -54,3 +69,9 @@ class JHipsterVulnerabilityFixModule(VulnerabilityFixModule):
             await vulnerableFile.write(new_contents)
 
         return expected_fix_count
+
+    def should_accept_project(self, project_name: str) -> bool:
+        for ignored_name in self.ignored_project_names:
+            if ignored_name in project_name:
+                return False
+        return True
