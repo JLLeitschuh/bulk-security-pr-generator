@@ -1,6 +1,7 @@
 import pathlib
 import textwrap
 from dataclasses import dataclass
+from typing import Optional
 
 import aiofiles
 import httpx
@@ -38,6 +39,17 @@ class JHipsterVulnerabilityFixModule(VulnerabilityFixModule):
 
     async def do_fix_file_contents(self, file_contents: str, retry_count: int = 0) -> str:
         retry_max: int = 5
+
+        async def do_retry(exception: Optional[Exception]) -> str:
+            if retry_count > retry_max:
+                exception_msg = f'Failed to fix file contents after {retry_count} tries'
+                if exception:
+                    raise Exception(exception_msg) from exception
+                else:
+                    raise Exception(exception_msg)
+            else:
+                return await self.do_fix_file_contents(file_contents, retry_count + 1)
+
         try:
             async with httpx.AsyncClient() as client:
                 response = await client.post(
@@ -47,15 +59,12 @@ class JHipsterVulnerabilityFixModule(VulnerabilityFixModule):
                 )
             if response.status_code is 200:
                 return response.text
-            elif retry_count > retry_max:
-                raise Exception(f'Failed to fix file contents after {retry_count} tries')
             else:
-                return await self.do_fix_file_contents(file_contents, retry_count + 1)
+                return await do_retry(None)
+        except httpx.TimeoutException as e:
+            return await do_retry(e)
         except httpx.NetworkError as e:
-            if retry_count > retry_max:
-                raise Exception(f'Failed to fix file contents after {retry_count} tries') from e
-            else:
-                return await self.do_fix_file_contents(file_contents, retry_count + 1)
+            return await do_retry(e)
 
     async def do_fix_vulnerable_file(self, project_name: str, file: str, expected_fix_count: int) -> int:
         async with aiofiles.open(file, newline='') as vulnerableFile:
