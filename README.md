@@ -24,6 +24,17 @@ are using HTTP instead of HTTPS to resolve dependencies.
 
 **Pull Requests Generated: 1,596**
 
+
+## Project 1.5: Prevent `rhostname` array overflow
+
+GitHub Security Lab's [pwntester](https://github.com/pwntester) leveraged this project to generate pull requests to fix an array overflow. This is a variant of [CVE-2020-8597](https://nvd.nist.gov/vuln/detail/CVE-2020-8597).
+
+You can read in more detail about this vulnerability in [CERT Advisory VU#782301](https://kb.cert.org/vuls/id/782301/).
+
+The vulnerability occurs because, given that `vallen` was checked to be less than len, it can never be the case that `vallen >= len + sizeof(rhostname)`. Therefore, `rhostname` never gets trimmed and the `rhostname` array may overflow.
+
+**Pull Requests Generated: [1,885](https://github.com/search?o=desc&q=author%3Aghsecuritylab+&s=comments&type=Issues)**
+
 ## Project 2: CVE-2019-16303 - JHipster Vulnerability Fix - Use CSPRNG in RandomUtil
 
 In 2019, I discovered a vulnerability in the [JHipster](https://www.jhipster.tech/) code generator where it was
