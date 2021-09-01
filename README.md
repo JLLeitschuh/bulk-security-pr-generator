@@ -13,6 +13,10 @@ vulnerabilities.
  - Records metrics -- Files fixed, Number of Fixes, PR URLs
  - Fast -- Asynchronous IO using python async API
 
+### To Implement
+
+ - Commit messages follow the [SECOM](https://tqrg.github.io/sec-commits/) standard.
+
 ## Project 1: HTTPS Everywhere to Resolve Dependencies in Maven POM Files Everywhere! 
 
 [![mitm_build](https://user-images.githubusercontent.com/1323708/59226671-90645200-8ba1-11e9-8ab3-39292bef99e9.jpeg)](https://medium.com/@jonathan.leitschuh/want-to-take-over-the-java-ecosystem-all-you-need-is-a-mitm-1fc329d898fb?source=friends_link&sk=3c99970c55a899ad9ef41f126efcde0e)
