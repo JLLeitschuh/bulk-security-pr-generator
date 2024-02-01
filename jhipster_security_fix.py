@@ -57,7 +57,7 @@ class JHipsterVulnerabilityFixModule(VulnerabilityFixModule):
                     data=file_contents,
                     timeout=self.timeout
                 )
-            if response.status_code is 200:
+            if response.status_code == 200:
                 return response.text
             else:
                 return await do_retry(None)
