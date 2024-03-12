@@ -38,8 +38,7 @@ for file in list_all_json_files():
     data = read_results_data(file)
     project_name: str = data['project_name']
     print(f'loading project: {project_name}')
-    pull_url = data['pull_request']
-    if pull_url == '':
+    if (pull_url := data['pull_request']) == '':
         continue
 
 

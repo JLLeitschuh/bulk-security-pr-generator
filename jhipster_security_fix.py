@@ -70,8 +70,7 @@ class JHipsterVulnerabilityFixModule(VulnerabilityFixModule):
         async with aiofiles.open(file, newline='') as vulnerableFile:
             contents: str = await vulnerableFile.read()
 
-        new_contents = await self.do_fix_file_contents(contents)
-        if new_contents == contents:
+        if (new_contents := await self.do_fix_file_contents(contents)) == contents:
             return 0
 
         async with aiofiles.open(file, 'w', newline='') as vulnerableFile:
