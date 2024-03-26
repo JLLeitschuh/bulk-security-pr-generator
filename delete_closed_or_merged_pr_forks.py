@@ -73,7 +73,7 @@ for file in list_all_json_files():
         open_prs += 1
         # Don't add a removal entry, in this state, the fork should not be deleted
 
-print(f'Stats:')
+print('Stats:')
 print(f'\tRepo (Removed {repo_removed}, Archived {repo_archived})')
 print(f'\tPR (Open {open_prs}, Not Found {not_found}, Merged {merged_prs}, Closed {closed_prs})')
 
